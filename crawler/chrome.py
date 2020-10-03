@@ -14,7 +14,7 @@ from urllib.request import urlopen
 from selenium import webdriver
 from urllib.request import urlopen
 from dataclasses import dataclass ,asdict ,field
-    
+from collections import defaultdict    
 @dataclass
 class ChromeDriver:
     # spyder :object = webdriver.Chrome('C:/chromedriver/chromedriver.exe')
@@ -27,13 +27,14 @@ class ChromeDriver:
     url :str ="http://m.hackers.co.kr/?c=s_toeic/toeic_board/B_TOEIC_data&p=3&uid=771347"
     context: str ="crawler/data/"
     context2: str = "crawler/data2/"
-    context3: str = "E:/data/"
+    context3: str = "E:/data2/"
     root_url: str ='http://m.hackers.co.kr'
     mydict : object =None
     new_folder_name : str = 'data3'
     count :int =902
     countPdf: int =0
     countZip: int = 0
+    
 class ChromeListener:
     def __init__(self):
         self.driver = ChromeDriver()
@@ -82,11 +83,11 @@ class ChromeListener:
         # print(type(tags))
         urls = []
         
-        driver.mydict ={'pdf':{},'zip':{}}
-        mydict = driver.mydict
+        # driver.mydict = defaultdict()
+        # mydict = driver.mydict
         for tag in tags:
             try:
-                if tag.a == None:
+                if not tag.a:
                     continue
                 if tag.a.attrs['href'] =="https://www.hackers.co.kr/?c=s_toeic/toeic_board/B_TOEIC_QA":
                     continue
@@ -103,32 +104,41 @@ class ChromeListener:
                     # print("+"*50,tag.name)
                 
                     full_url=driver.root_url + sub_url
-                    urls.append((text,full_url))
+                    # urls.append((text,full_url))
+                    
                     
                     if text.find('.zip') != -1:
-                        title =text.rstrip(".zip")
-                        mydict['zip'][title]=full_url
-                        mytype ='zip'
-                        Bs4Sel.saveFile(driver,full_url,mytype,title)
+                        
                         driver.countZip += 1
-                        print(f"zip파일이 {driver.countZip}개 생겼습니다")
+                        print(f"zip파일이 {driver.countZip}개 생략")
+                        continue
                     if text.find('.pdf') != -1: 
-                        title =text.rstrip(".pdf")
-                        mydict['pdf'][title]=full_url
-                        mytype= 'pdf'
-                        Bs4Sel.saveFile(driver,full_url,mytype,title)
                         driver.countPdf += 1
-                        print(f"pdf파일이 {driver.countPdf}개 생겼습니다")
-                    # print(full_url)
+                        print(f"pdf파일이 {driver.countPdf}개 생략")
+                        continue
+                    obj = re.compile(r'\.[a-z]{3,5}$')
+                    # print(obj.search(text))
+                    match =obj.search(text)
+                    mytype=match.group()
+                    mytype = mytype.lstrip('.')
+                    # print(match.group())
+                    driver.new_folder_name = mytype 
+                    title =text.rstrip(match.group())
+                    Bs4Sel.create_folder(driver)
+                    # mydict[mytype]={}
+                    # mydict[mytype][title]=full_url
+                    Bs4Sel.saveFile(driver,full_url,mytype,title)
             except Exception as err:
-                print(err)
+                print(err)        
+                    # print(full_url)
+        
             
  
                 
         filename = driver.filename + str(driver.count).zfill(2)
         driver.count += 1
         context=driver.context2
-        Bs4Sel.savePickle(mydict,context, filename)
+        # Bs4Sel.savePickle(mydict,context, filename)
         
     def loopfun(self):
         driver = self.driver
@@ -251,31 +261,23 @@ class Bs4Sel:
             print(f'{filename} 저장완료!!!!!!!!!!!!')
 
            
-    # @staticmethod
-    # def create_folder_from_dict(driver)->object:
-    #     # shutil : shell utility : 고수준 파일 연산. 표준 라이브러리
-    #     dict = driver.dict
-    #     folderName= driver.new_folder_name
-    #     folder = './'+folderName +'/' # 유닉스 기반은 '/'이 구분자
-    #     try:
-    #         if not os.path.exists(folder):
-    #             os.mkdir(folder)
+    @staticmethod
+    def create_folder(driver)->object:
+        # shutil : shell utility : 고수준 파일 연산. 표준 라이브러리
+        folderName= driver.new_folder_name
+        context = driver.context3
+        folder = context+folderName +'/' # 유닉스 기반은 '/'이 구분자
+        try:
+            if not os.path.exists(folder):
+                os.mkdir(folder)
 
-    #         for dir in dict.values():
-    #             path = folder + dir
-
-    #             if os.path.exists(path):
-    #                 # rmtree : remove tree
-    #                 shutil.rmtree(path)
-
-    #             os.mkdir(path)
-
-    #     except FileExistsError as err:
-    #         print(err)
-    #     return folder
+        except FileExistsError as err:
+            print(err)
+        return folder
     
 if __name__ == "__main__":
     api = ChromeListener()
     # api.searching_data()
+    # api.loopfun()
     api.loopfun2()
 
