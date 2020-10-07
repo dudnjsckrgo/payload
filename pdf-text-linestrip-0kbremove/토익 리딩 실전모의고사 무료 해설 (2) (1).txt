@@ -1,0 +1,4512 @@
+저작권자 ⓒ 2020, David Cho  이 책 및 음성파일의 모든 내용, 이미지, 디자인, 편집 형태에 대한 저작권은 저자에게 있습니다.
+서면에 의한 저자와 출판사의 허락 없이 내용의 일부 혹은 전부를 인용, 발췌하거나 복제, 배포할 수 없습니다.
+14년 연속 1위 ThankYou Edition
+2 |  무료 실전 문제 해설강의 · 무료 단어암기 MP3  HackersIngang.com
+Part 5 p.510
+101  (B)    102  (B)    103  (D)    104  (B)    105  (C)   
+106  (A)    107  (A)    108  (D)    109  (C)    110  (D)   
+111  (B)    112  (C)    113  (C)    114  (C)    115  (C)   
+116  (A)    117  (C)    118  (A)    119  (D)    120  (B)   
+121  (B)    122  (C)    123  (A)    124  (B)    125  (C)   
+126  (C)    127  (A)    128  (C)    129  (B)    130  (D)
+Part 6 p.513
+131  (C)    132  (A)    133  (B)    134  (D)    135  (A)   
+136  (A)    137  (D)    138  (C)    139  (C)    140  (B)   
+141  (B)    142  (C)    143  (D)    144  (C)    145  (B)   
+146  (D)
+Part 7 p.517
+147  (C)    148  (A)    149  (D)    150  (B)    151  (C)   
+152  (B)    153  (B)    154  (C)    155  (D)    156  (D)   
+157  (C)    158  (C)    159  (B)    160  (C)    161  (C)   
+162  (A)    163  (C)    164  (B)    165  (C)    166  (A)   
+167  (B)    168  (C)    169  (C)    170  (C)    171  (A)   
+172  (B)    173  (B)    174  (B)    175  (A)    176  (C)   
+177  (C)    178  (C)    179  (D)    180  (C)    181  (D)   
+182  (C)    183  (D)    184  (C)    185  (B)    186  (B)   
+187  (D)    188  (C)    189  (A)    190  (C)    191  (A)   
+192  (A)    193  (C)    194  (B)    195  (B)    196  (A)   
+197  (C)    198  (A)    199  (C)    200  (B)
+101	 동명사와	명사	구별하여	채우기
+해설  타동사(prepared)의 목적어 자리에는 명사 (B) 또는 동명사 (C)가 올 수 있
+다. 목적어 자리 앞에 부정관사(a)가 와 있으므로 단수 명사 (B) proposal이 
+정답이다. 동명사 (C)는 부정관사와 함께 쓰일 수 없다. 동사 (A), 동사 또는 
+과거분사 (D)는 명사 자리에 올 수 없다.
+해석	 	개발팀은	프로젝트	견적가와	마감	기한을	포함한	30페이지의	제안서를	준비
+했다.
+어휘  estimated  adj.	견적의,	추측의		 deadline  n.	마감	기한			 
+proposal  n.	제안서,	제안
+102	 부사	자리	채우기
+해설  동사(discuss)를 꾸미기 위해서는 부사가 와야 하므로 부사 (B) openly(솔
+직하게, 터놓고)가 정답이다. 형용사 또는 동사 (A), 동사 또는 과거분사 (C), 
+동명사 또는 명사 (D)는 동사를 꾸밀 수 없다.
+해석	 	새로운	부장인	Mr.	Schipp은	어떠한	문제라도	직원들이	그와	솔직하게	논의
+하기를	원한다는	것을	강조했다.
+어휘  emphasize  v.	강조하다		 openly  adv.	솔직하게,	터놓고
+103	 명사	어휘	고르기
+해설  ‘100주년을 기념하여 몇 번의 축하 행사를 개최할 것이다’라는 문맥이므로 
+명사 (D) celebrations(축하 행사)가 정답이다. (A)의 lecture는 ‘강의, 강
+연’, (B)의 discussion은 ‘논의, 상의’, (C)의 convention은 ‘회의, 학회’라는 
+의미이다.
+해석	 	Lamar사는	100주년을	기념하여	몇	번의	축하	행사를	개최할	것이며,	이는	직
+원	파티와	특별	저녁	식사를	포함한다.
+어휘  several  adj.	몇	번의,	몇몇		 in honor of 	~을	기념하여			
+104	 올바른	시제의	동사	채우기
+해설  과거 시간 표현(last week)이 있으므로 과거 동사 (B) walked가 정답이다.
+해석	 	Mr.	Riebman은	정상에	있는	식당에서	점심을	먹기	위해	지난주	Gilmore산
+에	있는	긴	산책로를	걸어	올라갔다.
+어휘  trail  n.	산책로,	오솔길,	자취		 top  n.	정상,	꼭대기
+105	 격에	맞는	인칭대명사	채우기
+해설  타동사(forgot)의 목적어 자리에 올 수 있는 것은 소유대명사 (C) 또는 재귀
+대명사 (D)이다. ‘그들의 것(공책과 펜)을 잊고 안 가져왔다’라는 의미이므로 
+재귀대명사 (D) themselves(그들 자신)가 아닌 소유대명사 (C) theirs가 정
+답이다.
+해석	 	모든	사람들이	회의에	공책과	펜을	가져오기로	되어	있었지만,	몇몇	사람들은	
+그들의	것을	잊고	안	가져왔고	필기도구를	빌려야만	했다.
+어휘  writing material 필기도구
+106	 동사	어휘	고르기
+해설  ‘공연 동안 관중을 통제하다’라는 문맥이므로 동사 (A) control(통제하다)이 
+정답이다. (B) examine은 ‘검토하다, 조사하다’, (C) visualize는 ‘눈에 보이
+게 하다, 시각화 하다’, (D) determine은 ‘결정하다’라는 의미이다.
+해석	 	콘서트	주최자들은	Take	Time	공연	동안	관중을	통제하기	위해서	추가	안전	
+직원들을	고용하기로	결정했다.
+어휘  organizer  n.	주최자		 hire  v.	고용하다
+107	 전치사	채우기
+해설  ‘대강당에서 열리다’라는 의미가 되어야 하므로 장소(the main hall) 앞에는 
+전치사 in(~에서)을 사용하므로 전치사 (A) in이 정답이다. 
+해석	 	다음	회의	발표는	대강당에서	열릴	것인데,	그곳은	무려	500명이나	되는	사람
+들을	앉힐	수	있다.
+어휘  as many as 무려	~나	되는		 seat  v.	앉히다,	착석시키다
+108	 문맥에	어울리는	형용사	채우기
+해설  명사(reviews)를 꾸미기 위해서는 형용사 (B)와 (D)가 올 수 있다. ‘호의적인 
+후기’라는 의미가 되어야 하므로 (D) favorable(호의적인, 좋은)이 정답이다. 
+형용사 (B) favoring을 쓰면 ‘순조로운 후기’라는 어색한 의미가 되므로 답이 
+될 수 없다.
+해석	 	Mikaela	식당은	항상	그	식당에	대해	호의적인	후기를	쓰는	손님들에게	감사
+를	나타내는	메시지를	반드시	보낸다.
+어휘  make sure 반드시	~하다		 thank-you  adj.	감사를	나타내는			 
+favor  v.	호의를	보이다; n.	호의		 favoring  adj.	순조로운,	유리한			
+109	 사람명사	추상명사	구별하여	채우기
+해설  타동사(receive)의 목적어 자리에 올 수 있는 것은 명사이므로 명사 (B)와 
+(C)가 정답의 후보이다. ‘보조원들은 교육을 받을 수 있다’라는 의미가 되어
+야 하므로 (C) instructions(교육들)가 정답이다. 사람명사 (B) instructors 
+(강사들)를 쓰면 ‘보조원들은 강사들을 받을 수 있다’라는 어색한 의미가 된다. 
+형용사 (A)와 (D)는 타동사의 목적어 자리에 올 수 없다.
+해석	 	새로운	스캐너를	어떻게	작동시키는지	잘	모르는	보조원들은	사무장으로부터	
+기계에	대한	교육들을	받을	수	있다.
+어휘  unfamiliar  adj.	잘	모르는,	낯선		 instructive  adj.	유익한			 
+instructor  n.	강사		 instruction  n.	교육,	설명			 
+instructional  adj.	교육용의
+실전모의고사	1
+실전모의고사 1 |  3
+H
+a
+ck
+e
+rs T
+O
+E
+IC
+R
+e
+a
+d
+in
+g
+실
+전
+모
+의
+고
+사
+1
+110	 전치사	채우기
+해설  ‘몇몇의 선택된 직원들을 제외하고’라는 의미가 되어야 하므로 (D) Aside 
+from(~을 제외하고)이 정답이다.
+해석	 	몇몇의	선택된	직원들을	제외하고,	아무도	최고	경영자가	수요일에	점검을	위
+해	공장을	방문할	예정이었다는	것을	알지	못했다.
+어휘  select  adj.	선택된,	엄선된; v.	선택하다		 aware  adj.	알고	있는			 
+inspection  n.	점검,	조사		 as of 	~부터,	~부로		 in spite of ~에도	불구하고		 
+aside from ~을	제외하고,	~	외에는
+111	 부사절	접속사	자리	채우기
+해설  ‘새로운 부장이 도착할 때까지’라는 의미가 되어야 하므로 (B) until(~까지)이 
+정답이다. 
+해석	 	Ms.	Archer는	새로운	부장이	자리를	인계받기	위해	브라질에서	도착할	때까
+지	임시로	판매부의	책임자로	근무할	것이다.	
+어휘  temporarily  adv.	임시로,	일시적으로		 serve  v.	근무하다,	제공하다			 
+take over 인계받다,	이어받다
+112	 명사	어휘	고르기
+해설  ‘새로운 기업 로고를 만들 수 있는 예술적인 능력과 기술적인 전문 지식’이라
+는 문맥이므로 명사 (C) expertise(전문 지식)가 정답이다. (A)의 signal은  
+‘신호, 기호’, (B)의 benefit은 ‘이익’, (D) complexity는 ‘복잡성’이라는 의
+미이다.
+해석	 	디자인	부서의	오직	한	사람만이	새로운	기업	로고를	만들	수	있는	예술적인	
+능력과	기술적인	전문	지식	둘	다를	갖고	있다.
+어휘  artistic  adj.	예술적인		 corporate  adj.	기업의,	회사의			
+113	 형용사	어휘	고르기
+해설  ‘광고들이 브랜드 인식을 확산시키는데 크게 유익했다’라는 문맥이므로 형용
+사 (C) beneficial(유익한)이 정답이다. (A) appreciative는 ‘감사하는, 감
+사의’, (B) reliable은 ‘믿을 수 있는’, (D) accurate는 ‘정확한’이라는 의미 
+이다.  
+해석	 	비록	매출액은	낮았지만,	새	제품의	광고들은	회사의	브랜드	인식을	확산시키
+는데	크게	유익했다는	것을	증명했다.		
+어휘  awareness  n.	인식,	의식
+114	 명사	자리	채우기
+해설  전치사(to)의 목적어 자리에 올 수 있는 것은 명사이므로 명사 (C) 
+cooperation이 정답이다. 동사 (A), 형용사 (B), 부사 (D)는 명사 자리에 올 
+수 없다.
+해석	 	몇몇	지역	사업체들로부터의	계속적인	협력	덕분에,	그	오래된	공원은	재활성
+화되었고	이제	많은	목적들을	위해	사용될	수	있다.
+어휘  thanks to ~의	덕분에,	덕택에		 ongoing  adj.	계속하고	있는,	진행	중인			 
+revitalize  v.	재활성화시키다,	새로운	활력을	주다		 function  n.	목적,	기능
+115	 동사	어휘	고르기
+해설  ‘지나친 마모와 찢겨진 흔적들이 보이는 모든 가구들은 교체될 수 있다’라는 
+문맥이므로 동사 show의 현재분사형 (C) showing(보여주다)이 정답이다. 
+(A)의 limit은 ‘제한하다, 한정하다’, (B)의 track은 ‘뒤쫓다’, (D)의 result는 
+‘발생하다, 생기다’라는 의미이다.
+해석	 	지나친	마모와	찢어진	흔적들이	보이는	모든	가구들은	지하	2층의	사무용품	
+사무소를	통해	교체될	수	있다.
+어휘  excess  adj.	지나친,	초과한		 wear  n.	마모,	닳음		 tear  n.	찢어진	곳			 
+basement  n.	지하층			
+116	 문맥에	어울리는	형용사	채우기
+해설  빈칸은 주격 보어 자리이므로 형용사 (A), (D)와 명사 (B)가 정답의 후보이
+다. ‘기술자들은 양수기가 잘 작동한다고 확신했다’라는 의미가 되어야 하므
+로 형용사 (A) confident(확신하는)가 정답이다. 형용사 (D) confidential을 
+쓰면 ‘기술자들은 양수기가 잘 작동한다는 것이 은밀했다’라는 어색한 의미가 
+되고, 부사 (C)는 보어 자리에 올 수 없다. 명사 (B) confidentiality를 쓰면  
+‘기술자들은 기밀성을 느꼈다’라는 어색한 의미가 된다.
+해석	 	비록	기술자들은	양수기가	잘	작동한다는	것을	확신했지만,	그것은	극한의	상
+황에서	실험된	적이	없다.
+어휘  extreme  adj.	극한의,	극심한		 confidentiality  n.	기밀성,	비밀성 
+confidential  adj.	비밀의,	은밀한
+117	 태에	맞는	동사	채우기
+해설  종속절 동사(described)가 과거이므로, 주절에는 과거 시제 (B)나 (C)가 올 
+수 있다. 주어(Mr. Werner)가 다양한 기능들을 보여주는 주체이므로 능동태 
+동사 (C) was demonstrating이 정답이다.
+해석	 	Mr.	Werner는	그의	모든	잠재적인	고객들에게	기계장치를	설명하는	동안	비
+디오	영상	프로그램의	다양한	기능들을	보여주었다.
+어휘  mechanism  n.	기계장치,	방법		 demonstrate  v.	보여주다,	입증하다
+118	 전치사	채우기
+해설  ‘입국 절차를 빠르게 하기 위해서’라는 의미가 되어야 하므로 (A) In order 
+to(~하기 위해서)가 정답이다. 참고로, to 부정사가 목적을 나타낼 때는, to 대
+신 in order to, so as to를 쓸 수 있다.
+해석	 	입국	절차를	빠르게	하기	위해서,	정기적으로	국경을	넘나드는	여행자들은	특
+별	비자를	신청할	수	있다.
+어휘  border  n.	국경		 on behalf of ~을	대표하여		 in other words 다시	말해서			 
+on the contrary 대조적으로			
+119	 복합관계대명사	채우기
+해설  ‘그들이 원하는 누구든지 파트너가 되도록 선택했다’라는 의미가 되어야 하므
+로 (D) whomever(누구든지, 누구든 간에)가 정답이다. (C) whichever는 ‘셀 
+수 있는 몇 가지 중에서 어느 것이든 간에’를 의미하므로 문맥에 맞지 않아 답
+이 될 수 없다.
+해석	 	워크숍의	세	번째	활동은	둘씩	짝을	지어	일할	것을	요구해서,	각	참가자는	그
+들이	원하는	사람은	누구든지	파트너가	되도록	선택했다.
+어휘  in pairs 둘씩	짝을	지어		 participant  n.	참가자			 
+partner  v.	파트너가	되다; n.	동반자			
+120	 전치사	채우기
+해설  ‘승진을 위한 기회에 덧붙여 넉넉한 보수를 제공한다’라는 의미가 되어야 
+하므로 (B) in addition to(~에 덧붙여)가 정답이다. (A) up to는 ‘~까지,  
+~에 달하여’, (C) provided that은 ‘오직 ~하는 경우에만’, (D) in keeping 
+with는 ‘~와 어울려, 일치하여’라는 의미이다.
+해석	 	인테리어	장식자	직책은	승진을	위한	기회에	덧붙여	넉넉한	보수를	제공한다.
+어휘  generous  adj.	넉넉한,	후한		 compensation package 보수			 
+advancement  n.	승진,	출세,	전진			
+121	 명사	어휘	고르기
+해설  ‘최종 결제가 승인되면 구매 확인서를 받을 것이다’라는 문맥이므로 명사 (B) 
+confirmation(확인서)이 정답이다. (A) consultation은 ‘상담, 협의’, (C) 
+configuration은 ‘배열, 배치’, (D) conservation은 ‘보호, 보존’이라는 의
+미이다.
+해석	 	온라인으로	티켓을	예약하는	고객들은	최종	결제가	승인되면	그들의	구매	확
+인서를	이메일로	받을	것이다.
+어휘  purchase  n.	구매		 payment  n.	결제,	지불			 
+go through 승인되다,	통과하다			
+122	 동명사와	명사	구별하여	채우기
+해설  전치사(from)의 목적어 자리에는 동명사 (B) 또는 명사 (C)가 올 수 있다. 목
+적어 자리 앞에 부정관사(a)가 왔으므로 명사 (C) collection이 정답이다. 동
+명사 (B) 앞에는 부정관사가 올 수 없다. 형용사 (A)와 (D)는 전치사의 목적
+어 자리에 올 수 없다.
+해석	 	Amity	미술관은	르누아르의	초기	작품들의	순회	컬렉션으로	새로운	전시회를	
+열고	있는데,	이	컬렉션은	세	달	동안	전시될	것이다.
+4 |  무료 온라인 실전모의고사 · 무료 토익 학습자료 · 취업정보 제공  Hackers.co.kr
+어휘  display  n.	전시		 collective  adj.	집단의,	단체의			 
+collectable  adj.	수집	가치가	있는
+123	 상관접속사	채우기
+해설  상관접속사 but also와 맞는 짝인 (A) Not only가 정답이다.
+해석	 	Hyland	Towers의	각	아파트들은	멋진	풍경을	제공할	뿐	아니라,	매우	에너지	
+효율적이고	경제적이다.
+어휘  efficient  adj.	효율적인		 economical  adj.	경제적인
+124	 전치사	채우기
+해설  ‘뒤쪽 주차장과 인접해 있는 본관 뒤에’라는 의미가 되어야 하므로 (B) 
+behind(~ 뒤에)가 정답이다. 
+해석	 	교육	위원회는	뒤쪽	주차장과	인접해	있는	본관	뒤에	설치할	새로운	놀이터	용
+품을	구매했다.
+어휘  install  v.	설치하다		 adjacent  adj.	인접한,	가까운		 rear  adj.	뒤쪽의 
+beneath  prep.	~의	밑에
+125	 동사	자리	채우기
+해설  문장에 동사가 없으므로 동사 (A)와 (C)가 정답의 후보이다. 단수 주어(The 
+renovation work)가 왔으므로 단 · 복수 모두 쓰일 수 있는 과거 시제 동사 
+(C) transformed가 정답이다. 복수 동사 (A) transform은 단수 주어와 함
+께 쓸 수 없다. 명사 (B)와 (D)는 동사 자리에 올 수 없다.
+해석	 	Werner	강당에	완료된	보수	공사는	건물의	모습을	바꾸어	놓았는데,	모든	현
+대식	증축	부분을	제거하고	원래	상태로	건물을	복원했다.
+어휘  renovation  n.	보수	공사		 auditorium  n.	강당			 
+addition  n.	증축	부분,	추가		 restore  v.	복원하다
+126	 동사	어휘	고르기
+해설  ‘청중들이 그들의 최선을 다하도록 동기를 부여한다’라는 문맥이므로 동
+사 motivate의 ing형 (C) motivating(동기를 부여하다)이 정답이다. (A)의 
+notice는 ‘주목하다, 주의하다’, (B)의 remove는 ‘제거하다, 없애다’, (D)의 
+allocate는 ‘분배하다’라는 의미이다.
+해석	 	매우	인기	있는	기업	연사로서,	Helen	Farmer는	청중들이	그들의	최선을	다
+하도록	동기를	주는	것을	자기	발전에	대한	영감을	주는	메시지들을	통해	항상	
+성공한다.
+어휘  sought-after  adj.	인기	있는,	수요가	있는		 inspiring  adj.	영감을	주는			
+127	 빈도	부사	채우기
+해설  ‘소비자들은 자주 근거리 내에서 물건을 사는데, 대부분은 편리와 시간 효
+율성을 위한 전반적인 우려를 가지고 있다’라는 의미가 되어야 하므로 (A) 
+often(자주)이 정답이다.    
+해석	 	소비자들은	자주	그들의	집에서	가까운	거리	내에서	물건을	사는데,	대부분은	
+편리와	시간	효율성을	위한	전반적인	우려를	가지고	있다.	
+어휘  make a purchase 물건을	사다		 convenience  n.	편리,	편의
+128	 올바른	시제의	동사	채우기
+해설  과거의 특정 시점(세 대의 컴퓨터만으로 견디는 것으로 결정한 시점) 이전에 
+발생한 일(네 대의 컴퓨터를 요청한 시점)을 표현하기 위해서 과거 완료 시제
+를 쓴다. 따라서 과거 완료 시제 (C) had requested가 정답이다.
+해석	 	인사부는	사무실에	네	대의	컴퓨터를	요청했지만	이후에	세	대로	견디는	것으
+로	결정했다.
+어휘  human resources 	인사부,	인사과		 make do 견디다,	그런대로	때우다
+129	 의문사	채우기
+해설  빈칸 뒤의 대명사(one)과 함께 타동사(mention)의 목적어 역할을 하면서  
+‘편집자는 다음 호에 포함할 기사를 선택했지만 어떤 기사인지 언급하지 않
+고 퇴근했다’라는 의미를 만드는 의문형용사 (B) which가 정답이다. 부정형
+용사 (A) any는 ‘어떤 기사라도 언급하지 않았다’라는 어색한 문맥을 만들
+고, 부사 (C) only는 ‘단 하나의 것을 언급하지 않았다’라는 의미가 되므로 
+답이 될 수 없다. 전치사 (D) for는 타동사(mention) 바로 뒤에 올 수 없다. 
+참고로, 이 문장은 의문형용사 + 대명사(which one) 이하의 절(she had 
+selected to include in the next issue of True Fashion)이 문장의 앞 부
+분에서 이미 언급되었기 때문에 생략된 구조임을 알아 둔다.
+해석	 	편집자는	True	Fashion	의	다음	호에	포함할	기사를	선정했지만,	그녀는	어떤	
+기사인지	언급하지	않고	퇴근했다.
+어휘  select  v.	선정하다		 leave one’s office 퇴근하다
+130	 형용사	어휘	고르기
+해설  as 이하의 절과 앞 문장의 연결이 자연스러워야 한다. ‘소비자들은 더 큰 시
+각적 체험을 선호하기 때문에 대형 화면이 있는 텔레비전이 가장 많이 팔린
+다’라는 문맥이 되어야 하므로 형용사 (D) large(대형의, 큰)가 정답이다. (A) 
+spacious는 ‘널찍한’이라는 의미를 갖고 있지만 ‘공간이 넓다’라는 문맥에 사
+용되므로 답이 될 수 없다. (B) flat은 ‘납작한’, (C) frequent는 ‘잦은, 빈번
+한’이라는 의미이다.
+해석	 	Superlatronics사의	가장	많이	팔리는	텔레비전	모델은	대형	화면이	있는	것
+인데,	이는	소비자들이	요즘	더	큰	시각적	체험을	선호하기	때문이다.
+어휘  visual  adj.	시각의
+131-134는 다음 광고에 관한 문제입니다.
+131목재 테라스를 소유하고 있는 사람이라면 누구나 알다시피, 테라스를 유지
+하는 것은 힘든 일입니다.	혹독한	날씨와	태양은	모든	종류의	목재에	손상을	입
+힐	수	있습니다.
+여러분의	테라스를	새것처럼	보이게	유지하기	위해서,	Adoralook	착색제와	광
+택제를	사용하세요.	132모든 제품 라인은 색조와 내구성에 있어 최고급임을 자
+랑하므로, 완벽한 색상이 수년 동안 지속되는 것이 보장됩니다.	고객님들께서는	
+모든	주요	철물점과	주택	개조	센터에서	Adoralook	제품들과	설계	아이디어를	
+찾으실	수	있습니다.	133게다가, 회사의 웹사이트 www.adoralook. com에서
+는 흥미로운 디자인 아이디어들뿐만 아니라 착색제와 광택제 상품도 제공합니
+다.	또한,	이번	주	저희	판촉	상품들도	놓치지	마세요.	첫	구매자분들은	처음	산	
+물건에	대해	20퍼센트까지	절약하실	수	있습니다.	 134기존 고객님들께서도 큰 
+할인을 누리실 수 있습니다.	10월	31일까지,	선정된	제품에	있어	30퍼센트의	
+할인	또한	제공합니다.	오늘	저희를	방문하셔서	이	근사한	혜택들을	누리세요!
+patio  n.	테라스		 deck  n.	테라스,	갑판		 harsh  adj.	혹독한			 
+damaging  adj.	손상을	입히는,	훼손하는		 stain  n.	착색제		 varnish  n.	광택제			 
+tint  n.	색조,	빛깔		 durability  n.	내구성		 merchandise  n.	상품			 
+promotion  n.	판촉	상품		 selected  adj.	선정된,	선택된
+131	 동명사와	명사	구별하여	채우기
+해설  문장에서 be동사(is) 앞에 위치한 ____ a deck은 주어 자리이다. 주어 자리 
+맨 앞에 오면서 뒤에 목적어(a deck)를 가질 수 있는 것은 동명사이므로 (C) 
+maintaining이 정답이다. 명사 (D)는 뒤에 목적어를 가질 수 없다. 동사 (A), 
+동사 또는 과거분사 (B)는 주어 자리에 올 수 없다.
+어휘  maintain  v.	유지하다			
+132	 동사	어휘	고르기
+해설  ‘색조와 내구성에 있어 최고급임을 자랑하므로, 완벽한 색상이 수년 동안 지
+속된다’라는 문맥이므로 동사 (A) boasts(자랑하다, 뽐내다)가 정답이다.
+어휘  place  v.	놓다,	두다		 expect  v.	예상하다,	기다리다			 
+reduce  v.	줄이다,	축소하다
+133	 접속부사	채우기		 주변 문맥 파악
+해설  빈칸이 콤마와 함께 문장의 맨 앞에 온 접속부사 자리이므로, 앞 문장과 빈
+칸이 있는 문장의 의미 관계를 파악하여 접속부사인 네 개의 보기 중 하나
+를 정답으로 골라야 한다. 앞 문장에서 모든 주요 철물점과 주택 개조 센터에
+서 Adoralook 제품들과 설계 아이디어를 찾을 수 있다고 했고, 빈칸이 있는 
+문장에서는 회사의 웹사이트에서는 디자인 아이디어들뿐만 아니라 착색제와 
+광택제 상품도 제공한다고 했으므로, 앞 문장에서 언급된 내용에 추가 정보를 
+덧붙이는 내용의 문장에서 사용되는 (B) Likewise(게다가)가 정답이다.
+어휘  instead  adv.	그	대신에		 therefore  adv.	따라서			 
+meanwhile  adv.	그	동안에
+실전모의고사 1 |  5
+H
+a
+ck
+e
+rs T
+O
+E
+IC
+R
+e
+a
+d
+in
+g
+실
+전
+모
+의
+고
+사
+1
+134	 알맞은	문장	고르기	
+해석	 	(A)	우편물	내	무료	상품을	받기	위해	가입하세요.
+(B)	수년	동안	지속될	수	있도록	당신의	테라스를	보호하세요.
+(C)		우리는	당신의	테라스에	대해	어떤	아이디어를	가지고	있는지	알고	싶습니다.
+(D)	기존	고객님들께서도	큰	할인을	누리실	수	있습니다.
+해설  빈칸에 들어갈 알맞은 문장을 고르는 문제이므로 빈칸의 주변 문맥이나 전체 
+문맥을 파악한다. 앞 문장 ‘First-time customers can save as much as 
+20 percent on their first purchase.’에서 첫 구매자들은 처음 산 물건에 
+대해 20퍼센트까지 절약할 수 있다고 한 후, 뒤 문장 ‘we are also offering 
+30 percent off on selected products’에서 선정된 제품에 있어 30퍼센트
+의 할인 또한 제공한다고 했으므로 빈칸에는 제품을 처음 구매하는 사람들과 
+마찬가지로 기존 고객들 또한 할인을 누릴 수 있다는 내용이 들어가야 함을 
+알 수 있다. 따라서 (D) Existing customers can enjoy big discounts as 
+well이 정답이다.
+어휘  last  v.	지속되다,	계속되다		 existing  adj.	기존의,	현재의
+135-138은 다음 회람에 관한 문제입니다.
+수신:	학생	기숙사	거주자들
+발신:	기숙사	관리자들
+날짜:	10월	1일
+제목:	학생	기숙사	규정
+135기숙사 내에서의 문제들에 대한 몇몇 신고가 있어서 우리는 모두에게 몇 가
+지 기본 규칙들에 대해 상기시키기 위해 이 회람을 보내기로 결정하였습니다.	
+우선,	방	안이나	건물	주변의	대지에서	흡연은	허용되지	않습니다.	136이는 우리 
+대학 시설의 화재 안전 규정에 의거합니다.	이	규칙을	위반하는	학생은	대학교
+로부터	정학을	당할	수도	있습니다.
+두	번째로,	평일	저녁	11시부터는	조용한	시간이	실시됩니다.	137따라서, 이 시간 
+이후로는 시끄러운 소음, 음악 또는 파티가 있어서는 안 됩니다.	이미	거주자들
+이	위반을	신고하기	위해	교내	경비	담당자를	부른	사건이	두세	번	있었고,	우리
+는	이와	유사한	소란을	피하고자	합니다.	138공부하는 동안의 정숙에 대한 거주
+자들의 요구를 존중해 주시기 바랍니다.	이	규칙의	위반은	기숙사로부터의	퇴거
+라는	결과를	낳을	수	있습니다.
+질문이나	의견이	있으시면,	기숙사	관리자에게	연락하시기	바랍니다.
+property  n.	대지,	건물		 suspend  v.	정학시키다,	중단하다			 
+enforce  v.	실시하다,	시행하다		 weeknight  n.	평일	저녁		 incident  n.	사건			 
+violation  n.	위반		 disturbance  n.	소란		 need  n.	요구,	필요			 
+eviction  n.	퇴거,	쫓아냄
+135	 명사	어휘	고르기		 전체 문맥 파악
+해설  ‘기숙사 내에서 ____에 대한 몇몇 신고가 있어서 몇 가지 기본 규칙들에 대해 
+상기시킨다’라는 문맥이므로 (A) problems(문제)와 (D) improvements(개
+선)가 정답의 후보이다. 빈칸이 있는 문장만으로 정답을 고를 수 없으므로 주
+변 문맥이나 전체 문맥을 파악한다. 뒤 문장에서 기본 규칙(basic rules)들에 
+대해 안내한 후, 지문 뒷부분에서 ‘거주자들이 위반을 신고하기 위해 교내 경
+비 담당자를 부른 사건(incidents)이 두세 번 있었다’고 했으므로 기숙사에서 
+문제가 있었음을 알 수 있다. 따라서 명사 (A) problems가 정답이다.
+어휘  visitor  n.	방문자		 technician  n.	기술자			
+136	 알맞은	문장	고르기
+해석	 	(A)	이는	우리	대학	시설의	화재	안전	규정에	의거합니다.
+(B)	일부	대학	기숙사는	다른	기숙사에	비해	더	많은	학생을	수용합니다.
+(C)	향후에는	방침에	변화가	있을	수도	있습니다.
+(D)	대학교는	지불되어야	하는	벌금	액수를	인상했습니다.
+해설  빈칸에 들어갈 알맞은 문장을 고르는 문제이므로 빈칸의 주변 문맥이나 전
+체 문맥을 파악한다. 앞 문장 ‘smoking is not allowed inside the rooms 
+and on the property surrounding the building’에서 방 안이나 건물 주
+변의 대지에서 흡연은 허용되지 않는다고 했으므로 빈칸에는 흡연이 허용되
+지 않는 것은 대학 시설의 화재 안전 규정에 의거한다는 내용이 들어가야 함
+을 알 수 있다. 따라서 (A) This is in line with fire safety regulations at 
+our university’s facilities가 정답이다.
+어휘  be in line with ~에	의거하다,	일치하다		 facility  n.	시설			 
+residence hall 대학	기숙사,	생활관		 house  v.	수용하다,	거주시키다			 
+fine  n.	벌금
+137	 접속부사	채우기		 주변 문맥 파악
+해설  빈칸이 콤마와 함께 문장의 맨 앞에 온 접속부사 자리이므로, 앞 문장과 빈칸
+이 있는 문장의 의미 관계를 파악하여 접속부사인 네 개의 보기 중 하나를 정
+답으로 골라야 한다. 앞 문장에서 평일 저녁 11시부터는 조용한 시간이 실시
+된다고 했고, 빈칸이 있는 문장에서는 이 시간 이후로는 시끄러운 소음, 음악 
+또는 파티가 있어서는 안 된다고 했으므로, 원인과 결과를 나타내는 문장에서 
+사용되는 (D) Accordingly(따라서)가 정답이다.
+어휘  however  adv.	그러나			 
+regardless  adv.	그럼에도	불구하고; adj.	부주의한,	관심	없는			 
+conversely  adv.	거꾸로,	반대로
+138	 전치사	채우기
+해설  ‘정숙에 대한 요구를 존중하다’라는 의미가 되어야 하므로 전치사 (C) for 
+(~에 대한)가 정답이다.
+139-142는 다음 편지에 관한 문제입니다.
+2월	10일
+Gail	Canary
+237	Parkway로
+Highland	Heights,	버지니아주	30995
+Ms.	Canary께,
+귀하께서	500달러	이상의	가치가	있는	20개의	쿠폰북	중	하나를	얻을	수	있는	
+추첨에	대한	자격이	있다는	것을	알려드리게	되어서	기쁩니다.	139이 쿠폰들은 
+Soger’s Shoes나 Metzger Drugs, Hooper’s Music, 그리고 Fennerman 
+Electronics와 같은 100개 이상의 지역 사업체들에서의 놀라운 할인과 무료 
+선물들을 제공합니다.	 140행사에 참가하기 위해, 간단히 설문지를 작성하시고 
+귀하의 연락처를 포함하는 것을 잊지 마십시오.
+이	설문	조사는	특히	직원	서비스,	상품	품질,	매장	영업	시간의	편의,	그리고	거
+래의	신속함에	초점을	맞췄습니다.	141이 설문지 작성을 완료하는 데에는 10분 
+이상 소요되지 않을 것입니다.	귀하를	위해	동봉한	수신자	주소와	우표가	붙어	
+있는	봉투에	넣어	3월	1일까지	설문지를	저희에게	돌려보내	주십시오.	142고객들
+로부터 수집된 의견은 저희가 귀하와 귀하의 쇼핑에 필요한 것을 더 잘 도와드
+리는 데 도움을 줄 것입니다.	저희의	어느	매장에서라도	귀하에게	도움을	드리
+는	것을	기대하고	있습니다.
+Jake	Riverford	드림
+마케팅	부장
+Worthington	마케팅
+eligible for ~에	자격이	있는		 draw  n.	추첨; v.	그리다,	끌어당기다			 
+fill out 작성하다,	채우다		 quickness  n.	신속함,	기민함		 transaction  n.	거래			 
+among others 특히,	무엇보다도			 
+self-addressed stamped envelope 수신자	주소와	우표가	붙어	있는	봉투
+139	 명사	어휘	고르기		 주변 문맥 파악 
+해설  ‘____은 지역 사업체들에서의 놀라운 할인과 무료 선물들을 제공한다’라는 문
+맥이므로 (B) outlets(직판점, 소매점)와 (C) vouchers(쿠폰)가 정답의 후보
+이다. 빈칸이 있는 문장만으로 정답을 고를 수 없으므로 주변 문맥이나 전체 
+문맥을 파악한다. 앞 문장에서 ‘20개의 쿠폰북 중 하나를 얻을 수 있는 추첨
+에 대한 자격이 있다(you are eligible for a draw for 1 of 20 coupon 
+books)’라고 했으므로 쿠폰은 할인과 선물들을 제공한다는 것을 알 수 있다. 
+따라서 명사 (C) vouchers가 정답이다.
+어휘  detail  n.	세부,	상세		 design  n.	디자인,	설계
+140	 부사	어휘	고르기
+해설  ‘간단히 설문지를 작성하고 연락처를 포함해달라’는 문맥이므로 부사 (B) 
+simply(간단히, 단지)가 정답이다.
+어휘  widely  adv.	넓게,	크게		 evenly  adv.	고르게,	균등하게			 
+formerly  adv.	전에,	먼저
+6 |  무료 실전 문제 해설강의 · 무료 단어암기 MP3  HackersIngang.com
+141	 알맞은	문장	고르기
+해석	 	(A)	우리는	가까운	미래에	더	많은	직원을	모집할	계획입니다.
+(B)	이	설문지	작성을	완료하는	데에는	10분	이상	소요되지	않을	것입니다.
+(C)	귀하께서	쿠폰북을	가지고	싶으시다면	저희에게	알려주십시오.
+(D)	쿠폰은	오직	Metzger	Drugs에서만	유효합니다.
+해설  빈칸에 들어갈 알맞은 문장을 고르는 문제이므로 빈칸의 주변 문맥이나 전
+체 문맥을 파악한다. 앞 문장 ‘The survey focuses on staff service, 
+merchandise quality, convenience of store hours, and quickness of 
+transactions’에서 설문 조사의 항목들에 대해 언급한 후, 뒤 문장 ‘Return 
+the form’에서 설문지를 돌려보내 달라고 하며 설문지 작성에 관해 설명하고 
+있으므로, 빈칸에는 이 설문지 작성을 완료하는 데에는 10분 이상 소요되지 
+않을 것이라는 내용이 들어가야 함을 알 수 있다. 따라서 (B) It should take 
+no more than 10 minutes to complete the questionnaire가 정답 
+이다.
+어휘  recruit  v.	모집하다		 questionnaire  n.	설문지			 
+complete  v.	작성하다,	완료하다		 valid  adj.	유효한,	타당한
+142	 태에	맞는	동사	채우기
+해설  ‘수집된 의견은 도움을 준다’는 능동의 의미이고 동사 뒤에 목적어(us)가 있으
+므로, should 다음에 와서 능동태 동사를 만드는 (C) should help가 정답이
+다. 참고로, 조동사 should는 보통 현재 시제로 사용되어 ‘~해야 한다’를 의미
+하지만, 단순 미래를 나타내는 조동사로 사용되어 ‘~할 것이다’를 의미하기도 
+한다.
+143-146은 다음 이메일에 관한 문제입니다.
+수신:	James	Aldridge	<james_aldridge@newlymail.net>
+발신:	Frederick	Bender	<fred_bender@intlstay.com>
+날짜:	4월	10일
+제목:	고객님의	말레이시아	여행
+Mr.	Aldridge께,
+저는	귀하의	신용카드에서	오늘	530달러의	금액을	청구했다는	것을	알려드리
+려고	합니다.	143귀하의 예약은 이제 완료되었습니다.
+저는	Mr.	Rayyan	Tan에게	귀하의	정보를	보냈는데,	그는	쿠알라룸푸르에서	고
+급	아파트를	관리하는	관리인입니다.	Rayyan으로부터	곧	올	이메일을	기다리
+시기	바랍니다.	144그 이메일에는 귀하의 도착일에 대한 설명이 들어 있을 것입
+니다.	145아파트에 대한 중요한 정보들이 있을 것이기 때문에, 그의 지시 사항을 
+인쇄해서 함께 가지고 오시길 바랍니다.	지도	이외에도,	그	이메일은	현관을	열	
+비밀번호를	포함하고	있을	것입니다.	그	번호는	새로운	거주자마다	변경되며	기
+밀입니다.	146그것은 귀하의 일행분들과만 공유되어야 합니다.	그	설명은	보안	
+정보와	귀하께서	문제를	겪는다면	연락드릴	전화번호	또한	제공할	것입니다.	이
+틀	내로	그에게서	연락을	받지	못한다면,	제게	말씀해	주십시오.
+귀하와	귀하의	가족이	도시에서	좋은	여행을	하시길	바랍니다!
+Fred	Bender	드림
+International	Stay	Serviced	Residences사
+inform  v.	알리다		 charge  v.	청구하다		 reservation  n.	예약			 
+caretaker  n.	관리인,	돌보는	사람		 manage  v.	관리하다			 
+expect  v.	기다리다,	예상하다		 arrival  n.	도착			 
+aside from ~	이외에,	~은	별도로	하고		 unlock  v.	열다			 
+tenant  n.	거주자,	세입자		 confidential  adj.	기밀의,	비밀의
+143	 형용사	어휘	고르기		 전체 문맥 파악
+해설  ‘예약은 이제 _____하다’라는 문맥이므로 모든 보기가 정답의 후보이다. 빈칸
+이 있는 문장만으로 정답을 고를 수 없으므로 주변 문맥이나 전체 문맥을 파
+악한다. 지문 앞부분에서 ‘오늘 이메일 수신자의 신용카드에 530달러를 청구
+했다’고 했고, 지문 중반에서 ‘그 이메일에는 도착일에 대한 설명이 들어 있
+다’라고 한 것으로 보아 예약이 완료되었음을 알 수 있다. 따라서 형용사 (D) 
+complete(완료된)가 정답이다.
+어휘  closed  adj.	닫힌,	폐쇄된		 pending  adj.	미결정의,	임박한			 
+canceled  adj.	취소된
+144	 올바른	시제의	동사	채우기		 주변 문맥 파악
+해설  ‘그 이메일에는 도착일에 대한 설명이 들어 있다’라는 문맥인데, 이 경우 빈칸
+이 있는 문장만으로는 올바른 시제의 동사를 고를 수 없으므로 주변 문맥이나 
+전체 문맥을 파악하여 정답을 고른다. 앞 문장에서 ‘Rayyan으로부터 곧 올 
+이메일을 기다리길 바란다(Please expect an e-mail from Rayyan very 
+soon.)’고 했으므로 이메일의 내용이 미래의 상황에 대한 것임을 알 수 있다. 
+따라서 미래 시제 (C) will contain이 정답이다.
+어휘  contain  v.	~이	들어	있다
+145	 명사	자리	채우기
+해설  소유격(his)의 꾸밈을 받을 수 있는 것은 명사이므로 명사 direction(지시 사
+항)의 복수형 (B) directions가 정답이다. 동사 또는 과거분사 (A), 동사 또는 
+형용사 (C), 동명사 또는 현재분사 (D)는 소유격의 꾸밈을 받을 수 없다.
+어휘  direct  v.	지도하다,	지시하다; adj.	똑바른,	직접의
+146	 알맞은	문장	고르기
+해석	 	(A)	그것은	정문	근처에	게시되어	있을	것입니다.
+(B)	그것은	저희	대리점이	임대하고	있는	많은	아파트	중	하나입니다.	
+(C)	그것은	마지막으로	약	세	달	전에	임대되었습니다.
+(D)	그것은	귀하의	일행분들과만	공유되어야	합니다.
+해설  빈칸에 들어갈 알맞은 문장을 고르는 문제이므로 빈칸의 주변 문맥이나 전
+체 문맥을 파악한다. 앞부분에서 이메일이 현관 비밀번호를 포함할 것이라
+고 한 후, 앞 문장 ‘The code is changed for every new tenant and is 
+confidential.’에서 그 번호는 새로운 거주자마다 변경되며 기밀이라고 했으
+므로 빈칸에는 그것, 즉 현관 비밀번호는 일행들과만 공유되어야 한다는 내용
+이 들어가야 함을 알 수 있다. 따라서 (D) It should be shared only with 
+your group이 정답이다.
+어휘  lease  v.	임대하다		 rent out ~을	임대하다	
+147-148은 일정표에 관한 문제입니다.
+Fort	Dodge	무술	클럽
+호신술	운동을	배우고	싶으신가요?	또는	여러분은	좋은	몸매를	유지하기	위한	
+재미있는	방법을	원하실	수도	있습니다.	Fort	Dodge	무술	클럽이	여러분을	위
+한	바로	그곳일	수	있습니다.	학생들은	가라테,	태권도	또는	주지츠를	배울	수	있
+습니다.	수업은	9월	1일부터	11월	30일까지	진행됩니다.
+성인	수업 					강사 어린이	수업 강사
+가라테 월요일과	수요일
+오후	6-8시
+147-AJen Linus 월요일과	수요일
+오후	4-6시
+Ron	Miller
+태권도 화요일과	목요일
+오후	6-8시
+147-BBob Tomlin 화요일과	목요일
+오후	4-6시
+147-CAnne
+Serna
+주지츠 월요일과	수요일
+오후	8-10시
+147-DRon Miller 월요일과	수요일
+오후	6-8시
+Jen	Linus
+147-A/B/D성인 수업은 스포츠 별관의 주 강당에서 열릴 것인	반면,	어린이들은		
+B	강당에서	모이게	될	것입니다.	148등록은 8월 1일에 시작하여 그달의 마지막 
+날에 종료할 것입니다.
+martial arts 무술,	무예		 self-defense  n.	호신술,	호신,	자기방어			 
+get in shape 좋은	몸매를	유지하다			 
+jujitsu  n.	주지츠(일본의	무술로	그로부터	유도가	발전됨)			 
+annex  n.	별관,	별채,	부가물
+147	 Not/True	문제
+문제	 주	강당에서	수업을	가르치지	않는	사람은?
+(A)	Jen	Linus
+(B)	Bob	Tomlin
+(C)	Anne	Serna
+(D)	Ron	Miller
+해설  질문의 핵심 어구인 teach ~ in the main auditorium과 관련된 내용을 지
+문에서 찾아 보기와 대조하는 Not/True 문제이다. (A), (B), (D)는 ‘Adult 
+classes will be held in ~ main auditorium’(표 하단 1번째 줄)에서 성인 
+수업이 주 강당에서 열린다고 했으므로, 성인 수업(Adult Classes)을 가르치
+실전모의고사 1 |  7
+H
+a
+ck
+e
+rs T
+O
+E
+IC
+R
+e
+a
+d
+in
+g
+실
+전
+모
+의
+고
+사
+1
+는 강사인 Jen Linus(표 2행), Bob Tomlin(표 3행), 그리고 Ron Miller(표 
+4행)가 주 강당에서 수업한다는 것을 알 수 있다. (C)는 표에서 어린이 수업
+(Children’s Classes)만을 가르친다고 했으므로 지문의 내용과 일치하지 않
+는다. 따라서 (C) Anne Serna가 정답이다.
+148	 육하원칙	문제
+문제	 8월	31일에	무엇이	일어날	것인가?
+(A)	등록	기간이	끝날	것이다.
+(B)	무술	수업이	시작할	것이다.
+(C)	학생들이	스포츠팀에	지원할	것이다.
+(D)	학생들이	특별	할인을	받을	것이다.
+해설  8월 31일에 무엇(What)이 일어날 것인지를 묻는 육하원칙 문제이다. 질문
+의 핵심 어구인 on August 31와 관련하여, ‘Registration will begin on 
+August 1 and end on the last day of that month.’(표 하단 2번째 줄)
+에서 등록은 8월 1일에 시작하여 그달의 마지막 날에 끝날 것이라고 했으므
+로 (A) The registration period will end가 정답이다.
+Paraphrasing
+August 31 8월 31일 → August ~ the last day of that month 
+8월 ~ 그달의 마지막 날
+어휘  try out (팀원	·	배역	선발	등을	위한	경쟁에)	지원하다
+149-150은 다음 메시지 대화문에 관한 문제입니다.
+Robin	Colburn	 13:09
+안녕하세요,	아직	점심	드시는	중인가요?	149Westlake Financial사와의 작년 
+계약서 사본을 받았으면 해요.	제가	초안을	작성하고	있는	제안서를	위해	참고
+해야	해서요.
+Patrick	Bloom	 13:12
+미안해요,	Robin.	제	노트북에	그것이	있는데,	저는	회의에	가고	있어요.
+Robin	Colburn	 13:13
+149유감이네요. 저는 바로 받기를 기대하고 있었거든요.	언제쯤	돌아오실	것	같
+나요?
+Patrick	Bloom	 13:16
+회의가	두	시부터	네	시까지니,	다섯	시쯤에	돌아갈	거예요.	
+Patrick	Bloom	 13:18
+있잖아요?	 149/150저희가 아마도 세 시쯤에 쉴 것 같아요. 그때 그것을 보내드
+릴 수 있어요.
+Robin	Colburn	 13:20
+그렇게	해주실래요?	그럼	좋겠어요.	제게	검토할	충분한	시간을	줄	거예요.	
+Patrick	Bloom	 13:21
+그럴게요.	그동안에	Ms.	Wallace와	상의해보세요.	그녀도	그	프로젝트를	작업
+했어요.
+Robin	Colburn	 13:23
+사실,	그녀가	당신에게	문의하라고	했어요.	어쨌든,	정말	감사드리고	행운을	빌
+어요!
+agreement  n.	계약서		 consult  v.	참고하다,	상의하다			 
+draft  v.	초안을	작성하다; n.	초안,	원고		 look over 검토하다,	살펴보다			 
+in the meantime 그동안에			 
+refer  v.	~을	~에게	문의하라고	하다,	참조하게	하다
+149	 의도	파악	문제
+문제	 	13시	12분에,	Mr.	Bloom이	“I’m	on	my	way	to	a	meeting”이라고	썼을	
+때,	그가	의도한	것	같은	것은?
+(A)	발표를	위해	노트북을	사용해야	한다.
+(B)	회의에	예상보다	일찍	도착할	것이다.
+(C)	계약서	초안	작성을	나중에	작업할	것이다.
+(D)	지금	당장	서류를	보낼	시간이	없다.		
+해설  Mr. Bloom이 의도한 것 같은 것을 묻는 문제이므로, 질문의 인용어구(I’m  
+on my way to a meeting)가 언급된 주변 문맥을 확인한다. ‘I’d like to get 
+a copy of last year’s agreement with Westlake Financial.’(13:09)에
+서 Robin Colburn이 Westlake Financial사와의 작년 계약서 사본을 받았
+으면 한다고 하자, Mr. Bloom이 ‘I’m on my way to a meeting’(저는 회
+의에 가고 있어요)이라고 한 후, ‘We’ll probably break at around three. 
+I could send it to you then.’(13:18)에서 아마도 세 시쯤에 쉴 것 같으므
+로 그때 보내줄 수 있다고 한 것을 통해, Mr. Bloom이 지금 당장 계약서 사
+본, 즉 서류를 보낼 시간이 없다는 것을 알 수 있다. 따라서 (D) He does not 
+have time to send a document right away가 정답이다. 
+150	 육하원칙	문제
+문제	 	Ms.	Colburn은	몇	시에	Mr.	Bloom으로부터	이메일을	받을	것으로	예상할	
+수	있는가?
+(A)	오후	2시
+(B)	오후	3시
+(C)	오후	4시	
+(D)	오후	5시	
+해설  Ms. Colburn이 몇 시(what time)에 Mr. Bloom으로부터 이메일을 받을 
+것으로 예상할 수 있는지를 묻는 육하원칙 문제이다. 질문의 핵심 어구인 
+Ms. Colburn ~ receive an e-mail from Mr. Bloom과 관련하여 ‘We’ll 
+probably break at around three. I could send it to you then.’(13:18)
+에서 Mr. Bloom이 아마도 세 시쯤에 쉴 것 같으니 그때 그것, 즉 계약서 사본
+을 보내줄 수 있다고 했으므로 (B) 3 p.m.이 정답이다. 
+151-152는 다음 기사에 관한 문제입니다.
+색다른	휴가	즐기기
+애틀랜타,	6월	9일	-	이달	초에,	세계적으로	인정받는	낚시	전문가	 151Ehren 
+Jovanovich가 Water Adventures라는 자신의 사업체를 설립했다.	업체 사
+무실은 6월 6일 Shane가 87번지에 문을 열었으며 현재 아마존으로 가는 낚
+시 여행을 제공하고 있다.
+여행은	애틀랜타에서	브라질	마나우스로	가는	비행으로	시작한다.	그곳에서부
+터,	152-C여행객들은	아마존	강을	따라	열대	우림	깊숙이	위치한	외딴 목적지까
+지 수상 비행기로 수송될 것이다.	152-D고객들은 Southern Star 호에 승선해 선
+실에서 머물 것인데, 이는	탐험하는	동안	활동	기지의	역할을	할	주문 설계된 
+요트이다.	
+152-A패키지에 포함된 것으로는 적절한 장비 선택, 기후 및 수위와 같이 고려되 
+어야 할 사항들, 그리고 낚시를 하기에 알맞은 장소를 찾는 방법에 대한 강의가 
+있다.	강의는	Mr.	Jovanovich에	의해	직접	진행될	것인데,	그는	개인	및	단체	
+모두를	위한	낚시	여행을	주최할	것이다.
+이	특별한	아마존	여행에	대해	더	알고	싶은	사람들은	사무실	또는	웹사이트	
+www.wateradventures.com을	방문하면	된다.
+internationally  adv.	세계적으로,	국제적으로				 
+recognized  adj.	인정받는,	알려진		 establish  v.	설립하다			 
+expedition  n.	여행,	탐험		 transport  v.	수송하다,	이동하다			 
+floatplane  n.	수상	비행기		 remote  adj.	외딴,	외진			 
+destination  n.	목적지,	도착지		 rainforest  n.	열대	우림		 cabin  n.	선실,	객실			 
+aboard  prep.	(배	·	기차	·	비행기	등에)	승선한,	탑승한						 
+custom-design 주문	설계하다		 yacht  n.	요트		 serve as ~의	역할을	하다			 
+operation  n.	(조직적인)	활동		 appropriate  adj.	적절한			 
+conduct  v.	진행하다		 personally  adv.	직접,	개인적으로			 
+host  v.	(행사를)	주최하다; n.	주인,	진행자			 
+individual  n.	개인; adj.	각각의,	개인의			
+151	 육하원칙	문제
+문제	 Water	Adventures는	무엇인가?
+(A)	놀이공원
+(B)	호화	휴양지
+(C)	여행	제공	기관
+(D)	유람선
+해설  Water Adventures가 무엇인지(What)를 묻는 육하원칙 문제이다. 질
+문의 핵심 어구인 Water Adventures와 관련하여, ‘Ehren Jovanovich 
+established his own business called Water Adventures. Its office ~ is  
+now offering fishing expeditions to the Amazon’(1문단 1번째 줄)에
+서 Ehren Jovanovich가 Water Adventures라는 자신의 사업체를 설립했
+으며, 현재 아마존으로 가는 낚시 여행을 제공하고 있다고 했으므로 (C) A 
+8 |  무료 온라인 실전모의고사 · 무료 토익 학습자료 · 취업정보 제공  Hackers.co.kr
+tour provider가 정답이다. 
+Paraphrasing 
+offering ~ expeditions 여행을 제공하다 → A tour provider 여행 제공  
+기관
+어휘  provider  n.	제공	기관,	제공자		 cruise ship 유람선
+152	 Not/True	문제
+문제	 여행	패키지에	대해	언급되지	않은	것은?
+(A)	참가자들에게	낚시에	대해	가르칠	것이다.	
+(B)	대규모	단체에게는	특별	요금을	제공한다.		
+(C)	외딴	지역에서	진행될	것이다.
+(D)	선박에서의	숙박을	포함한다.
+해설  질문의 핵심 어구인 the trip package와 관련된 내용을 지문에서 찾아 보
+기와 대조하는 Not/True 문제이다. (A)는 ‘Included in the package are 
+lectures on ~ finding the right spot for fishing.’(3문단 1번째 줄)에서 
+패키지에 포함된 것으로는 알맞은 낚시 장소를 찾는 방법에 대한 강의가 있다
+고 했으므로 지문의 내용과 일치한다. (B)는 지문에 언급되지 않은 내용이다. 
+따라서 (B) It provides special rates for large groups가 정답이다. (C)는 
+‘travelers will be transported ~ to a remote destination’(2문단 1번째 
+줄)에서 여행객들은 외딴 목적지로 수송된다고 했으므로 지문의 내용과 일치
+한다. (D)는 ‘Guests will stay in cabins aboard ~ a custom-designed 
+yacht’(2문단 3번째 줄)에서 고객들은 주문 설계된 요트의 선실에서 머무를 
+것이라고 했으므로 지문의 내용과 일치한다.
+Paraphrasing
+remote destination 외딴 목적지 → isolated area 외딴 지역
+yacht 요트 → water vessel 선박   
+어휘  participant  n.	참가자		 provide  v.	제공하다		 rate  n.	요금,	비율			 
+isolated  adj.	외딴,	고립된		 include  v.	포함하다			 
+accommodation  n.	숙박	(시설),	거처		 vessel  n.	(대형)	선박,	배
+153-154는 다음 공고에 관한 문제입니다.
+주목:	Bishop	주립	공원의	모든	방문자들
+다수의	주립	공원들에서의	쓰레기와	오염에	대한	문제들로	인해,	153정부는 몇몇 
+새로운 규정을 세웠습니다.	승인된	저장소를	제외한	모든	곳에	쓰레기를	버리는	
+것이	발견된	사람은	누구라도	500달러	이상의	벌금을	받을	것입니다.	뿐만	아니
+라,	154숲에 음식 쓰레기를 버리는 사람들 또한 100달러까지의 벌금을 받을 수
+도 있습니다.	마지막으로,	잠재적인	곤충	침입	때문에,	자기	자신의	장작을	가져
+오는	모든	야영객들은	1,000달러의	벌금을	받을	것입니다.
+153이 규정들은 우리의 자연 지역에 있는 야생 동물과 식물들을 보호하기 위해 
+제정되었음을	잊지	말아	주시기	바랍니다.	154동물들은 쓰레기가 목에 걸리거나 
+폐기물에 중독될 수 있습니다.	식물들은	단순히	침습성의	해충	도입에	의해	손
+상되거나	심지어는	죽을	수도	있습니다.
+provincial  adj.	주의,	도의,	지방의		 institute  v.	세우다,	제정하다			 
+receptacle  n.	저장소,	용기		 be subject to ~을	받다			 
+fine  n.	벌금; v.	~에	벌금을	과하다		 potential  adj.	잠재적인,	가능한			 
+infestation  n.	침입		 camper  n.	야영객		 firewood  n.	장작			 
+choke on ~이	목에	걸리다		 waste product 	폐기물			 
+invasive  adj.	침습성의,	급속히	퍼지는		 pest  n.	해충				
+153	 주제/목적	찾기	문제
+문제	 공고는	주로	무엇에	대한	것인가?
+(A)	국립	공원의	일시적인	폐쇄
+(B)	자연을	보호하기	위한	새로운	법
+(C)	주거	지역에	쓰레기를	버리는	것에	대한	벌금
+(D)	쓰레기	수거	일정에	대한	변경
+해설  공고가 주로 무엇에 대한 것인지를 묻는 주제 찾기 문제이므로 공고의 내용을 
+확인한다. ‘the government has instituted several new regulations’ 
+(1문단 1번째 줄)에서 정부가 몇몇 새로운 규정을 세웠다고 한 후, ‘these 
+regulations have been established to protect the wildlife and 
+plants in our natural areas’(2문단 1번째 줄)에서 이 규정들은 자연 지
+역에 있는 야생 동물과 식물들을 보호하기 위해 제정되었다고 했으므로 (B) 
+New laws to protect nature가 정답이다.
+어휘  temporary  adj.	일시적인,	임시의		 closure  n.	폐쇄,	폐점			 
+litter  v.	(쓰레기	등을)	버리다; n.	쓰레기		 residential  adj.	주거의,	거주에	관한
+154	 육하원칙	문제
+문제	 공고에	따르면,	야영객들은	왜	음식	쓰레기를	버리는	것을	금지당하는가?
+(A)	몹시	불쾌한	냄새가	나게	한다.
+(B)	식물들에게	해롭다.
+(C)	동물들을	아프게	할	수	있다.
+(D)	산불로	이어질	수	있다.
+해설  야영객들이 왜(Why) 음식 쓰레기를 버리는 것을 금지당하는지를 묻는 육하
+원칙 문제이다. 질문의 핵심 어구 leaving food waste와 관련하여 ‘people 
+who dump cooking waste in the forest may also receive fines of up 
+to $100’(1문단 3번째 줄)에서 숲에 음식 쓰레기를 버리는 사람들은 100달
+러까지의 벌금을 받을 것이라고 한 후, ‘Animals can choke on trash or 
+be poisoned by waste products.’(2문단 2번째 줄)에서 동물들이 쓰레기
+가 목에 걸리거나 폐기물에 중독될 수 있다고 했으므로 (C) It might make 
+animals sick이 정답이다. 
+Paraphrasing 
+food waste 음식 쓰레기 → cooking waste 음식 쓰레기
+어휘  prohibit from 	~을	금지하다		 foul  adj.	몹시	불쾌한,	악취	나는		 odor  n.	냄새
+155-157은 다음 광고에 관한 문제입니다.
+Super	Flash	센터
+“순식간에	포착된	기억들”
+당신의	특별한	순간들을	간직할	방법을	찾고	계십니까?	Super	Flash	센터를	
+방문하셔서	당신의	기억들을	순식간에	포착해	보세요!	155저희는 고객님이 소중
+한 인생의 순간들을 간직하고, 그것들을 대대로 물려주는 것을 가능하게 하는 
+다양한 서비스들을 제공합니다.
+결혼식,	졸업식,	혹은	기념일과	같은	중요한	일을	계획하고	계십니까?	저희의	전
+문적인	스튜디오에는	고객님의	특별한	행사를	위해	완벽한	사진을	제공하는	것
+에	열심인	사진사들이	있습니다.	저희에게	미리	전화	주셔서	저희의	다양한	사
+진	서비스들에	대한	무료	상담을	받아보세요.
+저희는	또한	디지털	이미지에	대한	여러	가지	독특한	사진	인쇄	양식들을	제공
+합니다.	156-D고객님의 사진을 카드, 열쇠고리, 찻잔, 티셔츠,	또는	심지어	기념	행
+사를	위한	현수막에 넣음으로써 개인적인 소유물로 만들어 보세요.	157처음 방문
+하신 고객님들 중 100달러 혹은 그 이상의 사진을 주문하는 분들은 즉시 구매
+액의 10퍼센트 할인을 받으실 것입니다!
+그러니,	방문해	보세요!	고객님의	사진들은	25번지	Freetown로에	있는	저희	
+매장에서	순식간에	준비될	것입니다.	156-C매일	오전	10시부터	오후	9시까지	영
+업합니다.
+capture  v.	포착하다		 in a flash 순식간에,	눈	깜짝할	사이에			 
+preserve  v.	간직하다		 precious  adj.	소중한		 pass down 	물려주다			 
+generation to generation 	대대로		 dedicated  adj.	열심인,	전념하는			 
+occasion  n.	행사,	사건		 personalize  v.	개인적인	소유물로	만들다,	개인화하다			 
+hanging banner 현수막		 instantly  adv.	즉시,	즉각			
+155	 주제/목적	찾기	문제
+문제	 광고되고	있는	것은	무엇인가?
+(A)	맞춤	사진	액자
+(B)	개인적인	보관	방법
+(C)	이벤트	계획	상담
+(D)	전문	사진	서비스
+해설  광고되고 있는 것을 묻는 주제 찾기 문제이므로 지문의 앞부분을 주의 깊
+게 확인한다. ‘We offer a wide range of services that allow you to 
+preserve your precious life moments and pass them down from 
+generation to generation.’(1문단 2번째 줄)에서 소중한 인생의 순간들을 
+간직하고, 그것들을 대대로 물려줄 수 있도록 하는 다양한 서비스들을 제공한
+다고 했으므로 (D) Specialty photography services가 정답이다.
+어휘  custom  adj.	맞춤의,	주문한		 storage  n.	보관,	저장
+실전모의고사 1 |  9
+H
+a
+ck
+e
+rs T
+O
+E
+IC
+R
+e
+a
+d
+in
+g
+실
+전
+모
+의
+고
+사
+1
+156	 Not/True	문제
+문제	 센터에	대해	언급된	것은?
+(A)	상담회에	별로	많지	않은	비용을	청구한다.
+(B)	웹사이트에	서비스	전체	목록이	있다.
+(C)	주말과	휴일에는	문을	닫는다.
+(D)	의류	품목에	사진	이미지를	인쇄한다.
+해설  질문의 핵심 어구인 center와 관련된 내용을 지문에서 찾아 보기와 대조하
+는 Not/True 문제이다. (A)와 (B)는 지문에 언급되지 않은 내용이다. (C)
+는 ‘Open daily’(4문단 2번째 줄)에서 매일 영업한다고 했으므로 지문의 내
+용과 일치하지 않는다. (D)는 ‘Personalize your photo by putting it on 
+a ~ T-shirt’(3문단 2번째 줄)에서 사진을 티셔츠에 넣음으로써 개인적인 소
+유물로 만들라고 했으므로 지문의 내용과 일치한다. 따라서 (D) It prints 
+photographic images on clothing items가 정답이다.
+어휘  modest  adj.	별로	많지	않은,	적당한,	알맞은			
+157	 육하원칙	문제
+문제	 고객들은	어떻게	할인을	받을	수	있는가?
+(A)	지정된	날짜에	Super	Flash에	방문함으로써
+(B)	플래시	드라이브를	구매함으로써
+(C)	최소한의	주문을	함으로써	
+(D)	이름이	들어간	물품들을	가져옴으로써
+해설  고객들이 할인을 어떻게(How) 받을 수 있는지를 묻는 육하원칙 문제이다. 
+질문의 핵심 어구인 customers get a discount와 관련하여, ‘First-time 
+customers who order prints worth $100 or more will instantly 
+receive 10 percent off their purchase!’(3문단 3번째 줄)에서 처음 방
+문한 고객들 중 100달러 혹은 그 이상의 사진을 주문하는 사람들은 즉
+시 구매액의 10퍼센트 할인을 받을 것이라고 했으므로 (C) By placing a 
+minimum order가 정답이다.
+어휘  specified  adj.	지정된,	명시된		 minimum  adj.	최소한의,	최저의 
+personalized  adj.	이름이	들어간			
+158-160은 다음 기사에 관한 문제입니다. 
+지점들을	폐쇄할	Sok-Mart
+회원	전용	소매	체인점이자	 158/159-D다국적 소매업체인 Sok-Mart는 앞으로 몇 
+주 후에 10개 지점들을 폐쇄할 것이라고 수요일에 발표했다.	지점들을	폐쇄하
+기로	한	그	결정은	철저한	검토를	통해,	매출이	기대에	미치지	못하고	있다는	결
+론을	내린	후	이루어졌다.	Sok-Mart	최고경영자인	Neil	Dewitt에	따르면	“우리
+가	그	지역들에	높은	인구	증가를	예상했기	때문에	159-B특정 Sok-Mart 점포들
+은 상대적으로 서로 가깝게 지어졌습니다.	안타깝게도,	그런	일은	일어나지	않
+았으며,	이제	우리는	다른	지점들의	매출에	영향을	미치는	과잉	점포를	가지게	
+되었습니다.	159-D그것들을 폐쇄하는 것은 우리의 다른 지점들이 더 잘될 수 있도
+록 도와줄 것입니다.”
+16010개 점포에 있는 거의 1천 명의 근로자들이 곧 실직할 것이다. 하지만, Sok-
+Mart가 5개 지점들을 온라인 판매를 위한 센터로 전환시키려고 하기 때문에 
+그들에게는	더	높은	시급의	새로운 고용 기회가 제공될 것이다.	다른	많은	대
+형	소매업체들과	마찬가지로,	Sok-Mart는	온라인	상거래의	지속적인	성장에	
+대응하여	사업	모델을	바꾸기	위해	노력하고	있다.	 160그것은 다음 달부터 새
+로운 일자리에 대한 지원서를 받을 것이며, 이전 Sok-Mart 직원에게는 우선
+권이 주어진다.	
+multinational  adj.	다국적의		 retailer  n.	소매업체		 announce  v.	발표하다		 
+thorough  adj.	철저한		 fall short of ~에	미치지	못하다		 expectation  n.	기대			 
+relatively  adv.	상대적으로		 proximity  n.	가까움		 anticipate  v.	예상하다			 
+population  n.	인구		 surplus  adj.	과잉의,	잉여의		 out of work 실직한		 
+employment  n.	고용		 convert  v.	전환시키다,	개조하다			 
+modify  v.	바꾸다,	수정하다		 in response to ~에	대응하여			 
+continuous  adj.	지속적인		 e-commerce  n.	온라인	상거래			 
+priority  n.	우선권		 former  adj.	이전의
+158	 주제/목적	찾기	문제
+문제	 기사는	주로	무엇에	대한	것인가?
+(A)	증가한	실업률을	해결하기	위한	조치
+(B)	국내	소매업의	하락하는	매출
+(C)	한	가게	지점들의	폐쇄
+(D)	소매업체를	현대화하려는	시도
+해설  기사가 주로 무엇에 대한 것인지를 묻는 주제 찾기 문제이다. ‘Multinational 
+retailer Sok-Mart ~ announced ~ that it will be closing 10 
+locations’(1문단 1번째 줄)에서 다국적 소매업체 Sok-Mart가 10개 지점들
+을 폐쇄할 것이라고 발표했다고 한 후, 지점 폐쇄의 이유 및 폐쇄와 관련한 세
+부 내용을 설명하고 있으므로 (C) The shutdown of a store’s branches
+가 정답이다.
+Paraphrasing
+will be closing ~ locations 지점들을 폐쇄할 것이다 → shutdown of ~ 
+branches 지점들의 폐쇄
+어휘  measure  n.	조치,	방법		 address  v.	해결하다			 
+unemployment  n.	실업(률)		 shutdown  n.	폐쇄			 
+attempt  n.	시도; v.	시도하다		 modernize  v.	현대화하다
+159	 Not/True	문제
+문제	 Sok-Mart에	대해	언급된	것은?		
+(A)	온라인	판매로	전환하려는	시도는	실패했다.
+(B)	일부	지점들의	위치가	서로	너무	가깝다.
+(C)	고객들은	그것의	상품에	흥미를	잃었다.
+(D)	총	10개의	점포를	가지고	있었다.		
+해설  질문의 핵심 어구인 Sok-Mart와 관련된 내용을 지문에서 찾아 보기와 대
+조하는 Not/True 문제이다. (A)는 지문에 언급되지 않은 내용이다. (B)는 
+‘Certain Sok-Mart stores were built in relatively close proximity to 
+one another’(1문단 8번째 줄)에서 특정 Sok-Mart 점포들이 상대적으로 
+가깝게 지어졌다고 했으므로 (B) Some of its locations are too close 
+together가 정답이다. (C)는 지문에 언급되지 않은 내용이다. (D)는 ‘Sok-
+Mart ~ announced ~ that it will be closing 10 locations’(1문단 1번
+째 줄)에서 Sok-Mart가 10개 지점들을 폐쇄할 것이라고 발표했다고 했고, 
+‘Closing them will help our other locations do better.’(1문단 13번째 
+줄)에서 그것들, 즉 10개 지점들을 폐쇄하는 것은 다른 지점들이 더 잘될 수 
+있도록 도와줄 것이라고 했으므로 Sok-Mart는 총 10개가 넘는 점포를 가지
+고 있었다는 것을 알 수 있다. 따라서 (D)는 지문의 내용과 일치하지 않는다. 
+Paraphrasing 
+in ~ close proximity 가깝게 → close 가까운
+어휘 merchandise  n.	상품
+160	 추론	문제
+문제	 Sok-Mart의	새로운	온라인	상거래	센터들에	대해	암시되는	것은?
+(A)	Sok-Mart의	기존	점포들보다	더	적은	급료를	제공할	것이다.	
+(B)	여러	나라에서	문을	열	것이다.
+(C)	몇몇	일시	해고된	Sok-Mart	근로자들을	고용할	수도	있다.
+(D)	1,000개가	넘는	새로운	일자리를	제공할	수도	있다.
+해설  질문의 핵심 어구인 Sok-Mart’s new e-commerce centers에 대해 추
+론하는 문제이다. ‘Nearly 1,000 workers ~ will soon be out of work. 
+However, new employment opportunities ~ will be available to 
+them as Sok-Mart intends to convert 5 locations into centers for 
+its online sales.’(2문단 1번째 줄)에서 근로자들이 실직할 것이지만, Sok-
+Mart가 5개 지점들을 온라인 판매를 위한 센터들로 전환시키려고 하기 때문
+에 그들, 즉 실직된 근로자들에게 새로운 고용 기회가 제공될 것이라고 했고, 
+‘It will be accepting applications for the new positions starting next 
+month, with priority given to former Sok-Mart staff.’(2문단 9번째 줄)
+에서 그것, 즉 Sok-Mart의 새로운 온라인 상거래 센터가 새로운 일자리에 
+대한 지원서를 받을 것이며 이전 Sok-Mart 직원에게 우선권이 주어질 것이
+라고 했으므로 Sok-Mart의 새로운 온라인 상거래 센터가 해고된 Sok-Mart 
+근무자들을 고용할 수도 있다는 사실을 추론할 수 있다. 따라서 (C) It may 
+employ some laid-off Sok-Mart workers가 정답이다. 
+Paraphrasing 
+e-commerce centers 온라인 상거래 센터 → centers for online sales 
+온라인 판매를 위한 센터
+out of work 실직한 → laid-off 일시 해고된
+어휘  compensation  n.	급료,	보상		 existing  adj.	기존의		 employ  v.	고용하다			 
+laid-off  adj.	일시	해고된			
+10 |  무료 실전 문제 해설강의 · 무료 단어암기 MP3  HackersIngang.com
+161-163은 다음 편지에 관한 문제입니다. 
+3월	24일	
+Kyrie	Energy사	
+29번지	Rue	St.	Jean	
+올리언스,	프랑스	79212
+Ms.	Kayle께,	
+회계부는	본사로의	내부	이동을	위한	귀하의	지원서를	검토하였고,	저는	그것이	
+승인되었음을	알리게	되어	기쁩니다.	─	[1]	─.	161회계 부장님은 귀하의 대만과 
+독일에서의 해외 경험,	그리고	그곳에서	회사	동료들과	얼마나	잘	교류했는지에 
+대해서 깊은 인상을 받으셨습니다.	귀하의	업무는	국제	사업인데,	이	일은	여러	
+국가에	있는	지사들을	다루는	것을	요구할	것입니다.	─	[2]	─.
+저희는	귀하와	귀하의	가족이	해외로	이주하는	데	얼마간의	시간이	걸릴	것임
+을	이해합니다.	163귀하께서 이곳 프랑스로 오실 수 있게 되는 시기에 대해 가
+능한 한 빨리 저희에게 알려주시기 바랍니다.	─	[3]	─.	162인사부는 필요한 서
+류 작업이나 거주지를 찾는 것과 같은 전근 종합 서비스를 지원할 수 있습니다. 
+이러한 사안에 관해서는 인사부의 Diane Hyland에게 연락하실 수 있습니다.	
+다른	질문이	있으시면,	저에게	전화해	주시기	바랍니다.	─	[4]	─.	
+귀하께서	이곳에	오시게	될	것을	기대합니다.
+Oscar	Meeker	드림
+internal  adj.	내부의		 transfer  n.	이동; v.	옮기다		 branch  n.	지사,	지점			 
+overseas  adj.	해외의; adv.	해외로		 interact  v.	교류하다			 
+relocation service 전근	종합	서비스(전근자들의	이사	등을	도와주는	일)
+161	 육하원칙	문제		
+문제	 Mr.	Meeker는	회계부가	Ms.	Kayle의	어떤	점을	좋아한다고	했는가?	
+(A)	기꺼이	전근하려는	마음
+(B)	조직	기술
+(C)	국제	경험	
+(D)	교육상의	자격
+해설  회계부가 Mr. Kayle의 어떤(What) 점을 좋아한다고 했는지 묻는 육하원칙 
+문제이다. 질문의 핵심 어구인 the accounting department liked about 
+Ms. Kayle과 관련하여, ‘The accounting director was impressed with 
+your overseas experience in Taiwan and Germany’(1문단 2번째 줄)
+에서 회계 부장이 Mr. Kayle의 대만과 독일에서의 해외 경험에 대해 깊은 인
+상을 받았다고 했으므로 (C) Her international experience가 정답이다. 
+Paraphrasing 
+overseas experience 해외 경험 → international experience 국제 경험
+어휘  willingness  n.	기꺼이	~하려는	마음		 qualification  n.	자격,	자질
+162	 추론	문제	
+문제	 Diane	Hyland는	누구일	것	같은가?	
+(A)	인사부	조정자
+(B)	지사의	회계사	
+(C)	이삿짐	회사의	소유주
+(D)	채용부서	담당자
+해설  질문의 핵심 어구인 Diane Hyland에 대해 추론하는 문제이다. ‘The 
+human resources department is available to assist with relocation 
+services, such as necessary paperwork and finding a residence.’ 
+(2문단 2번째 줄)에서 인사부는 필요한 서류 작업이나 거주지를 찾는 것
+과 같은 전근 종합 서비스를 지원할 수 있다고 한 후, ‘You can contact 
+Diane Hyland in HR about those issues.’(2문단 4번째 줄)에서 이러한 
+사안에 관해서는 인사부의 Diane Hyland에게 연락할 수 있다고 했으므로, 
+Diane Hyland가 인사부 조정자라는 사실을 추론할 수 있다. 따라서 (A) A 
+personnel coordinator가 정답이다. 
+Paraphrasing 
+HR 인사부 → personnel 인사부
+어휘 personnel 인사부		 recruitment  n.	채용	
+163	 문장	위치	문제	
+문제	 	[1],	[2],	[3],	[4]로	표시된	위치	중,	다음	문장이	들어갈	곳으로	가장	적절한	
+것은?
+“물론,	저희가	귀하의	이주	비용을	지불할	것입니다.”
+(A)	[1]
+(B)	[2]
+(C)	[3]
+(D)	[4]
+해설  지문의 흐름상 주어진 문장이 들어가기에 가장 적절한 곳을 고르는 문제이다. 
+Of course, we will pay for the expenses of your move에서 편지의 발
+신자가 수신자의 이주 비용을 지불할 것이라고 했으므로, 주어진 문장 앞에 
+이주에 관한 내용이 있을 것임을 예상할 수 있다. [3]의 앞 문장인 ‘Please 
+inform us as soon as possible of when you can be here in France.’
+에서 수신자가 프랑스에 올 수 있는 시기에 대해 가능한 한 빨리 알려달라고 
+했으므로, [3]에 주어진 문장이 들어가면 프랑스로 올 수 있는 시기에 대해 알
+려주면 회사에서 편지 수신자의 이주 비용을 지불하겠다는 자연스러운 문맥
+이 된다는 것을 알 수 있다. 따라서 (C) [3]이 정답이다. 
+어휘 expense  n.	비용		
+164-167은 다음 온라인 채팅 대화문에 관한 문제입니다.
+Gabriel	Ortiz	 	[오전	10:07]
+164직원들이 Seawinds 여행 박람회 동안 회사 부스에서 근무할 일정을 짜려고 
+해요.	165아직 6월 8일 오전에 한 명과 6월 9일 오후에 또 다른 한 명이 필요해
+요.	가능하신	분	있나요?
+Rhonda	Jackson	 	[오전	10:08]
+죄송하지만,	저는	이미	두	번의	근무를	승낙했고,	164이곳 여행사에서	처리할	일
+이	많이	있어요.	
+Holly	Harrison	 	[오전	10:09]
+아무도	시간이	안	되시면	6월	9일	근무는	제가	할	수	있어요.
+Dean	Choudhury		 [오전	10:11]
+165제가 추가 오전 근무를 할 수 있어요.	몇	시에	컨벤션	센터에	가	있어야	하
+나요?
+Gabriel	Ortiz	 	[오전	10:12]
+165고마워요, Dean.	166-A오전 9시 30분까지 그곳에 가있어야 해요, 대중들에게
+는 30분 후에 열리거든요.	일정표에	당신의	이름을	추가할게요.
+Anna	Swayne	 	[오전	10:13]
+미안해요,	회의	중이어서	방금	당신의	메시지를	봤어요.	167어쨌든, 제가 오후 근
+무를 할 수 있어요. 
+Gabriel	Ortiz		 [오전	10:14]
+완벽해요,	 Anna,	 당신으로	 기록해둘게요.	 어쨌든	 제의해	 주셔서	 감사해요,	
+Holly.
+Holly	Harrison	 	[오전	10:15]
+괜찮아요.
+Rhonda	Jackson		 [오전	10:16]
+아,	저희	중에	오후	근무를	하는	사람은	몇	시에	그곳에	가	있어야	하나요?
+Gabriel	Ortiz	 	[오전	10:17]
+오후	근무자는	1시까지	거기에	도착해야	해요.	고마워요,	모두들!
+schedule  v.	일정을	짜다; n.	일정		 shift  n.	근무	(시간),	변화; v.	변화하다			 
+take care of ~을	처리하다,	돌보다		 convention center 컨벤션	센터			 
+public  n.	대중,	일반인		 mark down 기록하다,	적다
+164	 추론	문제
+문제	 Mr.	Ortiz는	어떤	종류의	사업체에서	일하는	것	같은가?
+(A)	컨벤션	센터
+(B)	여행사
+(C)	행사	주최사
+(D)	제조	시설
+해설  질문의 핵심 어구인 Mr. Ortiz ~ work에 대해 추론하는 문제이다. ‘I am 
+실전모의고사 1 |  11
+H
+a
+ck
+e
+rs T
+O
+E
+IC
+R
+e
+a
+d
+in
+g
+실
+전
+모
+의
+고
+사
+1
+trying to schedule staff to work at the company booth during the 
+Seawinds Travel Fair.’(10:07 a.m.)에서 Mr. Ortiz가 직원들이 Seawinds 
+여행 박람회 동안 회사 부스에서 근무할 일정을 짜려 한다고 했고, ‘here at 
+the agency’(10:08 a.m.)에서 같은 회사 직원인 Rhonda Jackson이 이곳 
+여행사에서 일한다고 했으므로 Mr. Ortiz가 여행사에서 일한다는 사실을 추
+론할 수 있다. 따라서 (B) A travel agency가 정답이다.
+165	 육하원칙	문제
+문제	 6월	8일에	누가	추가	근무를	할	것인가?
+(A)	Rhonda	Jackson
+(B)	Holly	Harrison
+(C)	Dean	Choudhury	
+(D)	Anna	Swayne	
+해설  6월 8일에 누가(Who) 추가 근무를 할 것인지를 묻는 육하원칙 문제이다. 질문
+의 핵심 어구인 extra shift on June 8와 관련하여, ‘I still need one person 
+for the morning of June 8 and another for the afternoon of June 
+9.’(10:07 a.m.)에서 Gabriel Ortiz가 아직 6월 8일 오전에 한 명과 6월 9일 
+오후에 한 명이 더 필요하다고 했고, ‘I’m free to do the extra morning 
+shift.’(10:11 a.m.)에서 Dean Choudhury가 자신이 추가 오전 근무를 할 
+수 있다고 하자, ‘Thanks, Dean.’(10:12 a.m.)에서 Gabriel Ortiz가 Dean 
+Choudhury에게 고맙다고 했으므로 Dean Choudhury가 6월 8일 오전에 추
+가 근무를 할 것임을 알 수 있다. 따라서 (C) Dean Choudhury가 정답이다.
+166	 Not/True	문제
+문제	 컨벤션	센터에서의	행사에	대해	언급된	것은?
+(A)	방문객들에게	오전	10시에	열릴	것이다.
+(B)	예년에도	개최되어	왔다.
+(C)	손님들에게	입장료를	청구한다.
+(D)	주말에	개최될	것이다.
+해설  질문의 핵심 어구인 event at the convention center와 관련된 내용을 
+지문에서 찾아 보기와 대조하는 Not/True 문제이다. (A)는 ‘You should 
+be there by 9:30 a.m., as doors open to the public half an hour 
+later.’(10:12 a.m.)에서 오전 9시 30분까지 그곳, 즉 컨벤션 센터에 가 있
+어야 한다고 하면서 대중들에게는 30분 후에 열린다고 했으므로 (A) It will 
+open to visitors at 10 a.m.이 정답이다. (B), (C), (D)는 지문에 언급되지 
+않은 내용이다.
+Paraphrasing
+public 대중들 → visitors 방문객들
+어휘  previous years 예년		 charge  v.	청구하다; n.	청구	금액		 entry  n.	입장,	출입 
+take place 개최되다
+167	 의도	파악	문제
+문제	 	오전	10시	14분에,	Mr.	Ortiz가	“That’s	perfect”라고	썼을	때,	그가	의도한	것
+은?
+(A)	행사는	일정에	맞춰	시작할	것이다.
+(B)	근무가	채워져서	만족한다.
+(C)	기록이	정확하다고	믿는다.	
+(D)	회의에	모두	참석할	것이다.	
+해설  Mr. Ortiz가 의도한 것을 묻는 문제이므로, 질문의 인용어구(That’s perfect)
+가 언급된 주변 문맥을 확인한다. ‘At any rate, I can take the afternoon 
+shift.’(10:13 a.m.)에서 Anna Swayne이 어쨌든 자신이 오후 근무를 할 
+수 있다고 하자, Mr. Ortiz가 ‘That’s perfect’(완벽해요)라고 한 것을 통해, 
+Mr. Ortiz는 근무가 채워져서 만족한다는 것을 알 수 있다. 따라서 (B) He is 
+satisfied a shift has been filled가 정답이다. 
+어휘  on schedule 일정에	맞춰		 satisfy  v.	만족시키다,	충족시키다			 
+accurate  adj.	정확한			
+168-171은 다음 이메일에 관한 문제입니다.
+168수신  전 직원	<karisterstaff@karisterinc.com>
+발신		Raquel	Marchet	<raquelmarchet@karisterinc.com>
+날짜		6월	12일	
+제목		은행	업무	변경				 
+모두	안녕하세요,	
+169최고의 온라인 비즈니스 금융 시스템의 하나를 이용하고 종이를 쓰지 않는 
+운동을 촉진하기 위해, Karister사는 최근에 금융 기관을 교체하였고,	이제는	
+Venture	은행의	고객입니다.	 170-B이 변경은 몇몇 중요한 은행 업무 절차들이 
+즉시 바뀔 것임을 의미합니다.	아래는	모두의	참고	사항에	대한	각각의	간략
+한	설명입니다.
+비용	상환
+출장이나	사업과	관계된	다른	활동으로	인한	추가	경비를	가지고	있는	직원은	
+이제	재무부서	페이지에서	이용	가능한	온라인	양식을	통해서	보고하게	될	것
+입니다.	 170-D이것은 기록 보존을 개선하기 위해 은행 업무 프로그램에 연결되
+어 있습니다.	
+계좌	입금	
+170-A모든 보수는 이제 직원 계좌로 직접 입금될 것입니다. 이것은 급여,	상환,	수
+수료,	상여금,	그리고	다른	모든	형태의	보상금을	포함합니다.	돈이	입금될	때마
+다	전자	명세서가	바로	사내	메일	계정으로	보내질	것입니다.		
+171청구서 지불
+이는 가장 상당한 변화일 수 있습니다.	회계부서에서는	현재	판매업체	계좌를	
+위한	적절한	은행	업무	정보를	얻기	위해	판매업체들에게	연락하고	있습니다.	
+나아가서,	모든	고지서는	그것들을	스캔함으로써	전자적으로	지불이	되어야	할	
+것입니다.	그러나	전자	판매업체	정보가	없는	종이	사본은	사내	메일을	통해	보
+내질	수	있습니다.	
+여러분의	협조에	미리	감사드립니다.	168질문이 있으시다면,	내선	번호	322로	관
+리부서의 저에게 연락해 주시길 바랍니다.
+Raquel	Marchet	드림
+take advantage of 	~을	이용하다		 further  v.	촉진하다,	조장하다			 
+paperless  adj.	종이를	쓰지	않는		 effective  adj.	시행되는,	효과적인			 
+immediately  adv.	즉시		 reimbursement  n.	상환			 
+direct deposit 계좌	입금		 compensation  n.	보수,	보상금			 
+substantial  adj.	상당한,	중요한		 vendor  n.	판매업체,	상인			 
+extension  n.	내선
+168	 추론	문제
+문제	 Ms.	Marchet은	누구일	것	같은가?	
+(A)	은행	창구	직원
+(B)	기술	컨설턴트
+(C)	회사	관리자	
+(D)	컴퓨터	프로그래머	
+해설  질문의 핵심 어구인 Ms. Marchet에 대해 추론하는 문제이다. ‘To All Staff’ 
+(이메일 상단)에서 전 직원에게 이메일을 보내고 있음을 알 수 있고, 회사의 
+은행 업무 변화에 대해 설명한 후, ‘If you have any concerns, please 
+contact me in the administration office’(5문단 1번째 줄)에서 질문
+이 있다면 관리부서의 자신에게 연락해달라고 했으므로 (C) A company 
+manager가 정답이다.
+169	 육하원칙	문제
+문제	 Ms.	Marchet에	따르면,	회사는	왜	은행을	교체했는가?
+(A)	잠재적인	판매업체들의	수를	늘리기	위해
+(B)	보다	나은	재무	상태를	달성하기	위해
+(C)	종이	낭비를	줄이기	위해
+(D)	보다	나은	고객	서비스를	얻기	위해
+해설  회사가 왜(why) 은행을 교체했는지를 묻는 육하원칙 문제이다. 질문의  
+핵심 어구인 switch banks와 관련하여, ‘In order to ~ further efforts to  
+go paperless, Karister Incorporated recently switched financial 
+institutions’(1문단 1번째 줄)에서 종이를 쓰지 않는 운동을 촉진하기 위해
+서 Karister사는 최근에 금융 기관을 교체하였다고 했으므로 (C) To reduce 
+waste on paper가 정답이다.
+Paraphrasing
+banks 은행 → financial institutions 금융 기관 
+어휘  potential  adj.	잠재적인	
+12 |  무료 온라인 실전모의고사 · 무료 토익 학습자료 · 취업정보 제공  Hackers.co.kr
+170	 Not/True	문제
+문제	 새로운	시스템에	대해	언급되지	않은	것은?	
+(A)	급여	분배에	영향을	미칠	것이다.
+(B)	바로	시작할	것이다.	
+(C)	은행	업무	속도를	개선시킬	것이다.
+(D)	회사	기록과	연결될	것이다.	
+해설  질문의 핵심 어구인 new system과 관련된 내용을 이메일에서 찾아 보
+기와 대조하는 Not/True 문제이다. (A)는 ‘All compensation will now 
+be deposited directly into employee bank accounts. This includes 
+salaries’(3문단 1번째 줄)에서 모든 보수는 이제 직원 계좌로 직접 입금될 
+것이고 이것은 급여를 포함한다고 했으므로 지문의 내용과 일치한다. (B)는 
+‘This change means that several key banking procedures will have 
+to be altered effective immediately.’(1문단 3번째 줄)에서 이 변경은 몇
+몇 중요한 은행 업무 절차들이 즉시 바뀔 것임을 의미한다고 했으므로 지문
+의 내용과 일치한다. (C)는 지문에 언급되지 않은 내용이다. 따라서 (C) It 
+will improve banking speed가 정답이다. (D)는 ‘This is linked to the 
+banking program to improve record keeping.’(2문단 2번째 줄)에서 
+이것은 기록 보존을 개선하기 위해 은행 업무 프로그램에 연결되어 있다고 했
+으므로 지문의 내용과 일치한다. 
+Paraphrasing
+immediately 즉시 → right away 바로 
+어휘  distribution  n.	분배,	배분	
+171	 육하원칙	문제	
+문제	 어느	절차가	가장	많이	변경될	것인가?
+(A)	청구서	지불
+(B)	계좌	입금
+(C)	명세서	교부
+(D)	비용	상환
+해설  어느(Which) 절차가 가장 많이 개선될 것인지를 묻는 육하원칙 문제이다. 질
+문의 핵심 어구인 modified the most와 관련하여, ‘Bill payment’, ‘This 
+may be the most substantial change.’(4문단 제목, 4문단 1번째 줄)에
+서 청구서 지불이 가장 상당한 변화일 것이라고 했으므로 (A) Bill payment
+가 정답이다. 
+Paraphrasing
+be modified the most 가장 많이 변경되다 → the most substantial 
+change 가장 상당한 변화 
+어휘  statement  n.	명세서,	진술	
+172-175는 다음 안내문에 관한 문제입니다. 
+Keep	Up을	사용하는	대부분의	사람들은	이것이	스케줄을	정리하는	데	사용될	
+수	있는	유용한	어플리케이션이라는	것을	알고	있습니다.	이것은	바쁜	삶을	살고	
+있고,	여러	가지	책무:	직장,	가족,	사생활을	처리해야	하는	사람들에게	특히	이
+상적입니다.	그러나	172Keep Up을 특히 유용하게 만드는 몇몇 특별한 특징들
+을 아는 사람들은 거의 없습니다.	여기에	몇	가지	예가	있습니다:
+알람	설정	
+알람은	다가오는	행사의	30분	전부터	일주일	전까지	어디서든	당신에게	상기시
+켜	줄	수	있도록	설정될	수	있습니다.	173-C이것은 심지어 여러 개의 알림을 설정
+할 수 있도록 프로그램될 수 있습니다.	
+이메일과의	사용	
+Keep	Up은	당신의	이메일	계정에	연결되면	자동적으로	날짜를	찾아	강조해	주
+는	기능을	가지고	있습니다.	간단히	175이메일의 날짜를 클릭하십시오.	─	[1]	─.
+장치	동기화	
+Keep	Up을	한	개	이상의	장치에서	가동시키고	있다면,	간단하게	주	메뉴의	
+“Sync	All”	버튼을	누르십시오.	─	[2]	─.	173-A이것은 당신의 장치들을 동기화
+시킬 것이고, 각각의 장치에 추가된 모든 새로운 행사들이 같은 달력으로 결합
+되도록 할 것입니다.	─	[3]	─.
+초대장	
+새로운	행사를	만들	때,	174사용자들은 연락처에 있는 친구들에게 이메일이나 문
+자 메시지로 공지를 보낼 수 있는 선택권이 있습니다.	─	[4]	─.	173-D공지는 	
+친구의 Keep Up 계정으로 바로 보내질 수도 있습니다.	공지를	받은	사용자들
+이	간단하게	Accept를	누르면,	어플리케이션이	그	사용자의	달력에	행사를	표
+시할	것입니다.	
+handy  adj.	유용한,	편리한		 lead  v.	(특정	유형의)	생활을	하다,	이끌다			 
+responsibility  n.	책무		 feature  n.	특징		 upcoming  adj.	다가오는			 
+alert  n.	알림,	경보		 automatically  adv.	자동적으로		 detect  v.	찾다			 
+synchronize  v.	동기화하다			
+172	 주제/목적	찾기	문제
+문제	 안내문은	주로	무엇에	대한	것인가?	
+(A)	온라인	사교	활동에	대한	생각들	
+(B)	프로그램의	효과적인	기능들	
+(C)	영상	통신용	어플리케이션
+(D)	스케줄을	정리하는	장치
+해설  안내문이 주로 무엇에 대한 것인지를 묻는 주제 찾기 문제이다. ‘few people 
+know about some special features that make Keep Up particularly 
+useful’(1문단 3번째 줄)에서 Keep Up을 특히 유용하게 만드는 몇몇 특별
+한 특징들을 아는 사람들은 거의 없다고 한 후, 그 특징들에 대해 설명하고 있
+으므로 (B) Useful functions of a program이 정답이다.
+Paraphrasing
+features 특징 → functions 기능 
+173	 Not/True	문제
+문제	 Keep	Up에	대해	언급되지	않은	특징은?	
+(A)	정보	동기화
+(B)	자동	업데이트
+(C)	특별	주의	알림
+(D)	즉각적인	행사	알림
+해설  질문의 핵심 어구인 Keep Up과 관련된 내용을 지문에서 찾아 보기와 대조
+하는 Not/True 문제이다. (A)는 ‘This will synchronize your devices, 
+ensuring that all new events added on separate devices will be 
+associated with the same calendar.’(4문단 2번째 줄)에서 장치를 동기
+화시켜서 각각의 장치에 추가된 모든 새로운 행사들이 같은 달력으로 결합되
+도록 할 것이라고 했으므로 지문의 내용과 일치한다. (B)는 지문에 언급되지 
+않은 내용이다. 따라서 (B) Automatic updates가 정답이다. (C)는 ‘It can 
+even be programmed for multiple alerts.’(2문단 2번째 줄)에서 이것
+은 심지어 여러 개의 알림을 설정할 수 있도록 프로그램될 수 있다고 했으므
+로 지문의 내용과 일치한다. (D)는 ‘The notice can ~ be sent directly to 
+a friend’s Keep Up account.’(5문단 2번째 줄)에서 공지가 친구의 Keep 
+Up 계정으로 바로 보내질 수 있다고 했으므로 지문의 내용과 일치한다. 
+어휘  automatic  adj.	자동의		 reminder  n.	주의,	상기시키는	것			
+174	 육하원칙	문제
+문제	 어플리케이션을	사용하여	행사를	만들	때,	사람들은	무엇을	할	수	있는가?	
+(A)	초대장에	위치	지도를	첨부하기
+(B)	친구들에게	메시지를	전송하기
+(C)	추천	장소를	조사하기	
+(D)	예약	요청을	보내기
+해설  사람들이 어플리케이션을 사용하여 행사를 만들 때 무엇을(What) 할 수 있
+는 지를 묻는 육하원칙 문제이다. 질문의 핵심 어구인 create an event와 관
+련하여, ‘users have the option to send a notice to friends on their 
+contact list by e-mail or text message’(5문단 1번째 줄)에서 사용자들은 
+연락처에 있는 친구들에게 이메일이나 문자 메시지로 공지를 보낼 수 있는 선
+택권이 있다고 했으므로 (B) Transmit messages to friends가 정답이다.
+Paraphrasing 
+send 보내다 → transmit 전송하다 
+notice 공지 → messages 메시지  
+어휘  attach  v.	첨부하다		 transmit  v.	전송하다		 explore  v.	조사하다			 
+venue  n.	장소			
+175	 문장	위치	문제	
+문제	 	[1],	[2],	[3],	[4]로	표시된	위치	중,	다음	문장이	들어갈	곳으로	가장	적절한	
+실전모의고사 1 |  13
+H
+a
+ck
+e
+rs T
+O
+E
+IC
+R
+e
+a
+d
+in
+g
+실
+전
+모
+의
+고
+사
+1
+것은?	
+“어플리케이션이	즉시	적절한	날짜와	시간을	열어줄	것입니다.”
+(A)	[1]
+(B)	[2]
+(C)	[3]
+(D)	[4]
+해설  지문의 흐름상 주어진 문장이 들어가기에 가장 적절한 곳을 고르는 문제이다. 
+The application will immediately open to the appropriate day and 
+time에서 어플리케이션이 즉시 적절한 날짜와 시간을 열어줄 것이라고 했으
+므로, 주어진 문장 앞에 날짜나 시간과 관련된 내용이 있을 것임을 예상할 수 
+있다. [1]의 앞 문장인 ‘click on the date in your e-mail’에서 이메일의 날
+짜를 클릭하라고 했으므로 [1]에 주어진 문장이 들어가면 날짜를 클릭했을 
+때 어플리케이션이 즉시 적절한 날짜와 시간을 열어줄 것이라는 자연스러운 
+문맥이 된다는 것을 알 수 있다. 따라서 (A) [1]이 정답이다.
+어휘  immediately  adv.	즉시		 appropriate  adj.	적절한			
+176-180은 다음 기사와 이메일에 관한 문제입니다.
+The	Ordenville	Times
+Ordenville	광장의	개발
+8월	18일
+Sweets	Center와	Castanet’s	Tacos가	Ordenville의	50A길	옆에	건설될	예
+정이다.	176그것들은 Ordenville 광장 소매 쇼핑센터에 있는 Pearl Dining 식
+당을 대체할 것이다.
+개발	회사의	대변인	Peter	Court에	따르면,	 177-A건설 공사는 9월 초에 시작
+할 준비가 되었고 내년 3월 중순에서 말에 끝날 것이다.	177-B프로젝트는 Pearl 
+Dining의 건물을 철거하고	Sweets	Center와	Castanet’s	Tacos를	수용할	두 
+개의 단독 건물들을 짓는 것을 포함할 것이다.	뿐만	아니라,	Gorvard	은행	현
+금	자동	입출금기가	두	건물	사이에	놓여질	것이다.	프로젝트	설명에	의하면,	
+177-C부지에는 총 100개 이상의 새로운 공간을 가진 두 개의 추가적인 주차장
+이 생길 것이다.
+계획	위원회	회장	Richard	Fox는	177-D현장 소음	및	지역의	교통과 더불어 예상
+되는 문제들을 처리하기 위해 그와 다른 회원들이 개발자들과 일하고 있다고	
+말했다.	주민들,	통근자들,	그리고	모든	다른	시민들은	추가적인	우려에	대해	시
+청으로	연락하거나,	180예정된 시청 회의	동안에	그것들을	제기하도록	권고되는
+데,	이 회의는 매월 5일에 개최된다.
+construct  v.	건설하다		 replace  v.	대체하다,	대신하다			 
+spokesperson  n.	대변인		 demolish  v.	철거하다,	무너뜨리다			 
+house  v.	수용하다,	숙박시키다		 site  n.	부지,	위치			 
+address  v.	(문제를)	처리하다,	다루다		 anticipate  v.	예상하다,	예기하다			 
+raise  v.	제기하다,	제안하다
+수신:	Richard	Fox	<r.fox@ordenville.gov>
+발신:	Charlotte	Barnard	<cbarnard1209@notmail.com>
+180날짜: 10월 20일
+제목:	버스	일정표
+Mr.	Fox께,
+저는	매일	아침	Ordenville에서	Kansas	City까지	오전	8시	버스를	탑니다.	이
+번	주에,	제	버스는	월요일에서	금요일까지	매일	20분	늦게	도착했습니다.	저와	
+많은	다른	승객들은	이런	지연에	대해	점점	불만을	느끼고	있습니다.	또한,	버스
+들이	지나치게	혼잡합니다.	179이는 많은 버스 승객들이 도시로 가는 전체 1시간 
+통근 동안 어쩔 수 없이 서 있도록 만드는데,	몹시	불편합니다.
+교통	당국	직원은	저에게	178Ordenville 광장의 건설이 이런 지연을 만드는 도
+로 정체의 주요 원인이라고	알려	주었습니다.	저는	아침	통근자들이	제시간에	
+직장에	갈	수	있도록	하기	위해	이	버스들을	위한	대체	도로가	만들어질	것을	
+제안합니다.
+180저는 다음 달 시청 회의 이전에 당신이 답변을 생각해 낼 충분한 시간을 줄 수 
+있기를 기대하며 글을 씁니다. 저와 몇 명의 동료들이 참석할 것입니다.
+Charlotte	Barnard	드림
+frustrated  adj.	불만스러워하는,	좌절감을	느끼는		 delay  n.	지연,	연기				 
+overly  adv.	지나치게		 crowded  adj.	혼잡한,	붐비는			 
+force  v.	어쩔	수	없이	~하게	만들다,	강요하다		 alternate  adj.	대체의,	대리의			 
+colleague  n.	동료
+176	 육하원칙	문제
+문제	 기사에	따르면,	Ordenville	광장에서	무엇을	더	이상	찾을	수	없을	것인가?
+(A)	Sweets	Center
+(B)	Castanet’s	Tacos
+(C)	Pearl	Dining	
+(D)	Gorvard	은행	현금	자동	입출금기
+해설  Ordenville 광장에서 무엇(what)을 더 이상 찾을 수 없을 것인지를 묻는 육
+하원칙 문제이므로 질문의 핵심 어구인 Ordenville Square가 언급된 기사
+에서 관련 내용을 확인한다. 첫 번째 지문인 기사의 ‘They will replace the 
+Pearl Dining restaurant at the Ordenville Square retail plaza.’(1문단 
+1번째 줄)에서 새로 지어질 건물들이 Ordenville 광장 소매 쇼핑센터에 있는 
+Pearl Dining 식당을 대체할 것이라고 했으므로 (C) Pearl Dining이 정답 
+이다.
+177	 Not/True	문제
+문제	 공사에	대해	언급되지	않은	것은?
+(A)	완료되는	데	수개월이	걸릴	것이다.
+(B)	두	개의	새로운	건물이	생길	것이다.
+(C)	현재	이용	가능한	주차	공간을	줄일	것이다.	
+(D)	지역의	몇몇	사람들에게는	시끄러울	수	있다.
+해설  질문의 핵심 어구인 construction에 대해 언급되지 않은 바를 묻는 Not/
+True 문제이므로 construction이 언급된 첫 번째 기사에서 관련 내용
+을 확인한다. (A)는 ‘construction work is ready to begin in early 
+September and should finish in mid to late March of next year’(2문 
+단 1번째 줄)에서 건설 공사는 9월 초에 시작할 준비가 되었고 내년 3월 중
+순에서 말에 끝날 것이라고 했으므로 지문의 내용과 일치한다. (B)는 ‘The 
+project will involve ~ constructing two separate buildings’(2문단 2번 
+째 줄)에서 프로젝트는 두 개의 단독 건물들을 짓는 것을 포함할 것이라고 
+했으므로 지문의 내용과 일치한다. (C)는 ‘the site will also have two 
+additional parking areas with over 100 new spaces in total’(2문단 
+4번째 줄)에서 부지에는 총 100개 이상의 새로운 공간을 가진 두 개의 추가
+적인 주차장이 생길 것이라고 했으므로 지문의 내용과 일치하지 않는다. 따
+라서 (C) It reduces the current parking available이 정답이다. (D)는 
+‘he and other members are working with developers to address 
+anticipated issues with construction noise’(3문단 1번째 줄)에서 현장 
+소음과 더불어 예상되는 문제들을 처리하기 위해 계획 위원회 회장과 다른 회
+원들이 개발자들과 일하고 있다고 했으므로 지문의 내용과 일치한다.
+178	 동의어	찾기	문제
+문제	 이메일에서,	2문단	두	번째	줄의	단어	“source”는	의미상	-와	가장	가깝다.
+(A)	목적
+(B)	권한
+(C)	원인
+(D)	방법
+해설  이메일의 source를 포함한 구절 ‘the construction in Ordenville Square 
+is the main source of road blockages leading to these delays’(2문
+단 1번째 줄)에서 source가 ‘원인’이라는 뜻으로 사용되었다. 따라서 ‘원인’
+이라는 뜻을 가진 (C) cause가 정답이다.
+어휘  object  n.	목적,	목표		 authority  n.	권한,	권위		 method  n.	방법,	방식
+179	 추론	문제
+문제	 아침	버스	통근자들에	대해	언급된	것은?
+(A)	버스들은	주중에	30분	늦게	운행되어	왔다.
+(B)	Ordenville에서	Kansas	City까지는	두	시간이	걸린다.
+(C)	도시로	가는	가장	빠른	버스는	오전	8시에	출발한다.
+(D)	통근자들은	최근	좌석을	찾는	데	어려움을	느꼈다.
+해설  질문의 핵심 어구인 morning bus commuters에 대해 추론하는 문제이므
+로 morning bus commuters가 언급된 이메일에서 관련 내용을 확인한다. 
+14 |  무료 실전 문제 해설강의 · 무료 단어암기 MP3  HackersIngang.com
+두 번째 지문인 이메일의 ‘This has forced many bus riders to stand for 
+the entire one-hour commute into the city’(1문단 3번째 줄)에서 많
+은 버스 승객들이 도시로 가는 전체 1시간 통근 동안 어쩔 수 없이 서 있도
+록 만든다고 했으므로 통근자들이 좌석을 찾는 데 어려움을 느낀다는 사실
+을 추론할 수 있다. 따라서 (D) Commuters have recently had difficulty 
+finding seats가 정답이다.
+Paraphrasing
+bus commuters 버스 통근자들 → bus riders 버스 승객들
+180	 추론	문제		 연계
+문제	 Ms.	Barnard에	대해	암시되는	것은?
+(A)	이전에	도시	프로젝트를	계획하는	것을	다소	경험했다.
+(B)	직장에서	집에	올	때	자주	지연에	부딪힌다.
+(C)	11월	5일	시청	회의에	참석할	것이다.	
+(D)	교통	당국	직원으로부터	부정확한	정보를	받았다.
+해설  두 지문의 내용을 종합적으로 확인한 후 추론해서 풀어야 하는 연계 문제이
+다. 질문의 핵심 어구인 Ms. Barnard가 작성한 이메일을 먼저 확인한다. 
+두 번째 지문인 이메일의 ‘Date: October 20’(상단 박스)에서 이메일을 보
+낸 날짜가 10월 20일이라고 했고, ‘I write to you in hopes of giving you 
+adequate time to come up with a response before next month’s 
+town hall meeting. I and a few colleagues will be attending.’(3문단 
+1번째 줄)에서 다음 달 시청 회의 이전에 당신이 답변을 생각해 낼 충분한 시
+간을 줄 수 있기를 기대하며 글을 쓰고 있으며, 자신과 몇 명의 동료들이 회의
+에 참석할 것이라는 첫 번째 단서를 확인할 수 있다. 그런데 Ms. Barnard가 
+참석할 회의가 언제인지 제시되지 않았으므로 기사에서 관련 내용을 확인한
+다. 첫 번째 지문인 기사의 ‘scheduled town hall meetings, which take 
+place on the fifth day of every month’(3문단 3번째 줄)에서 예정된 시
+청 회의는 매월 5일에 개최된다는 두 번째 단서를 확인할 수 있다. 
+Ms. Barnard가 이메일을 쓴 날짜가 10월 20일이고, 그녀가 다음 달 시청 회
+의에 참석할 것이라는 첫 번째 단서와 시청 회의는 매월 5일에 개최된다는 두 
+번째 단서를 종합할 때, Ms. Barnard는 11월 5일 시청 회의에 참석할 것임
+을 추론할 수 있다. 따라서 (C) She will be attending a meeting at City 
+Hall on November 5가 정답이다. 
+어휘  frequently  adv.	자주,	빈번히		 encounter  v.	부딪히다,	마주하다						 
+inaccurate  adj.	부정확한,	틀린
+181-185는 다음 일정표와 이메일에 관한 문제입니다.
+Waterbrook	대학교
+181-A제3회 연례 이탈리아어 연설 대회
+결승전
+행사 시간 연설	주제
+181-C/184-C초급 수준 연설
+(181-D/184-CWaterbrook 대학교
+의 이탈리아어 전공 1학년생)
+184-C오전 11시 - 
+오후 12시
+나의	일상생활/
+나의	인생	목표
+점심	휴식	시간
+181-C중급 수준 연설
+(181-DWaterbrook 대학교의  
+이탈리아어 전공 2-3학년생)
+오후	1시	-	오후	2시 언어의	힘
+181-C/182고급 수준 연설
+(181-DWaterbrook 대학교의  
+이탈리아어 전공 4학년생)
+오후	2시	-	오후	3시 182시사
+휴식	시간
+시상식
+오후	3시	30분	-	
+오후	4시	30분
+*	모든	Waterbrook	학생들은	연설	대회의	결승전을	관람할	수	있습니다.
+*		185참가자들의 가족도 참석할 수 있습니다. 하지만, 공간이 한정되어 있으므
+로, 참가자들은 555-0394로 이탈리아어학부에 전화하여 자리를 미리 예약
+해야 합니다.
+major  n.	(특정	분야를)	전공하는	학생		 intermediate  adj.	중급의			 
+advanced  adj.	고급의,	상급의		 awards ceremony 시상식			 
+contestant  n.	참가자		 attend  v.	참석하다		 in advance 미리		 
+수신:	Marie	Anders	<maran100@zmail.com>
+발신:	June	Weatherbee	<june_weatherbee@uwaterbrook.org>
+날짜:	10월	26일
+제목:	축하드립니다
+첨부:	연설	일정
+Ms.	Anders께,
+축하드립니다!	이탈리아어	연설	대회의	준결승전이	마무리되었으며,	183/185당신
+은 11월 5일에 열릴 결승전에 진출하였습니다.	당신은	세	명의	심사위원	앞에
+서	연설을	하게	될	것입니다.	당신은	5분	길이의	연설을	준비해야	할	것이고	각	
+심사위원에게	개요의	복사본을	미리	제공해야	할	것입니다.	183/184-C준비할 한 시
+간 정도의 시간을 가질 수 있도록 당신은 최소한 오전 10시까지 도착해야 한다
+는 점 또한 유념해 주십시오.	이	이메일에	그날의	전체	일정이	첨부되어	있습니
+다.	이전의	이메일에서,	185당신이 참여하게 된다면 부모님이 결승전에 참석할 
+수 있는지 문의하였습니다.	물론	그들은	참석할	수	있습니다.	하지만,	예약을	하
+는	것과	관련하여	당신이	알아야	할	몇	가지가	있습니다.	더	자세한	내용을	보려
+면	첨부된	일정을	확인하십시오.
+June	Weatherbee	드림
+Waterbrook	대학교
+semifinal  n.	준결승		 advance to ~에	진출하다		 judge  n.	심사위원			 
+copy  n.	복사본,	사본		 outline  n.	개요			
+181	 Not/True	문제
+문제	 이탈리아어	연설	대회에	대해	사실인	것은?
+(A)	올해가	이	대회가	열린	첫해이다.	
+(B)	각	라운드가	끝나는	데에는	하루보다	적게	걸린다.
+(C)	결승전은	4개의	참가자	그룹을	포함할	것이다.
+(D)	오로지	대학생만	연설하는	것이	허용된다.
+해설  질문의 핵심 어구인 the Italian speech contest에 대해 묻는 Not/True 
+문제이므로 이탈리아어 연설 대회가 언급된 일정표에서 관련 내용을 확인한
+다. (A)는 ‘Third Annual Italian Speech Contest’(표 상단 2번째 줄)에
+서 제3회 연례 이탈리아어 연설 대회라고 했으므로 지문의 내용과 일치하지 
+않는다. (B)는 지문에서 언급되지 않은 내용이다. (C)는 ‘Beginner Level 
+Speeches’(표 2행 1열), ‘Intermediate Level Speeches’(표 4행 1열), 
+‘Advanced Level Speeches’(표 5행 1열)에서 결승전에 3개의 참가자 그
+룹이 포함된다는 것을 알 수 있으므로 지문의 내용과 일치하지 않는다. (D)는 
+‘First-year Italian language majors at Waterbrook University’(표 2행 
+1열), Second- and third-year Italian language majors at Waterbrook 
+University(표 4행 1열), Fourth-year Italian language majors at 
+Waterbrook University(표 5행 1열)에서 Waterbrook 대학교 1학년에서 
+4학년 학생들만 연설을 할 수 있다는 것을 알 수 있으므로 지문의 내용과 일
+치한다. 따라서 (D) Only university students are permitted to give a 
+speech가 정답이다. 
+어휘 include  v.	포함하다		 permit  v.	허용하다,	허락하다
+182	 육하원칙	문제	
+문제	 가장	높은	수준의	이탈리아어	구사자들은	어떤	주제에	대해	이야기할	것인가?
+(A)	일상적인	일과
+(B)	말의	중요성
+(C)	정치적	사건
+(D)	개인적인	목표
+해설  가장 높은 수준의 이탈리아어 구사자들은 어떤(Which) 주제에 대해 이야
+기할 것인지를 묻는 육하원칙 문제이므로 질문의 핵심어구인 topic ~ the 
+highest-level Italian speakers talk about과 관련된 내용이 언급된 일정
+표를 확인한다. 첫 번째 지문인 일정표의 ‘Advanced Level Speeches’(표 
+5행 1열), ‘Current Affairs’(표 5행 3열)에서 고급 수준의 연설자들은 시사
+와 관련된 주제로 연설할 것이라고 했으므로 (C) Political events가 정답 
+이다.
+Paraphrasing
+the highest-level 가장 높은 수준 → Advanced level 고급 수준
+어휘  routine  n.	일과		 political  adj.	정치적인		 objective  n.	목표
+실전모의고사 1 |  15
+H
+a
+ck
+e
+rs T
+O
+E
+IC
+R
+e
+a
+d
+in
+g
+실
+전
+모
+의
+고
+사
+1
+183	 육하원칙	문제
+문제	 Ms.	Anders는	무엇을	하도록	지시받는가?
+(A)	그녀의	연설	주제에	대한	정보를	이메일로	보낸다
+(B)	그녀가	선호하는	시간대를	알린다
+(C)	그녀가	행사에	참여할	수	있는지를	확정한다
+(D)	대회	장소에	일찍	나타난다
+해설  Ms. Anders가 무엇(What)을 하도록 지시받는지를 묻는 육하원칙 문제이므
+로 질문의 핵심 어구인 Ms. Anders에게 보내진 이메일을 확인한다. 두 번째 
+지문인 이메일의 ‘you have advanced to the final round’(1번째 줄)에
+서 당신, 즉 Ms. Anders가 결승전에 진출하였다고 했고, ‘Please also note 
+that you must arrive by at least 10 in the morning so that you have 
+about an hour to prepare.’(4번째 줄)에서 당신, 즉 Ms. Anders는 준비
+할 한 시간 정도의 시간을 가질 수 있도록 최소한 오전 10시까지 도착해야 한
+다고 했으므로 (D) Appear at a competition venue early가 정답이다. 
+어휘 indicate  v.	알리다,	나타내다		 time slot 시간대		 confirm  v.	확정하다				
+venue  n.	장소
+184	 Not/True	문제		 연계
+문제	 Ms.	Anders에	대해	언급된	것은?
+(A)	신청서가	늦게	도착했다.
+(B)	결승전에서	탈락했다.
+(C)	대학교	1학년생이다.
+(D)	가족이	준결승전을	지켜보았다.
+해설  두 지문의 내용을 종합해서 풀어야 하는 연계 문제이다. 질문의 핵심 어구인 
+Ms. Anders와 관련된 내용이 언급된 이메일을 먼저 확인한다. 
+두 번째 지문인 이메일의 ‘Please note that you must arrive by at least 
+10 in the morning so that you have about an hour to prepare.’(4번
+째 줄)에서 당신, 즉 Ms. Anders는 준비할 한 시간 정도의 시간을 가질 수 있
+도록 최소한 오전 10시까지 도착해야 한다고 했으므로, Ms. Anders가 참
+여하는 행사는 오전 11시쯤에 시작할 것이라는 첫 번째 단서를 확인할 수 
+있다. 그런데, 오전 11시쯤에 시작하는 행사가 무엇인지 제시되지 않았으므
+로 일정표에서 관련 내용을 확인한다. 첫 번째 지문인 일정표의 ‘Beginner 
+Level Speeches(First-year Italian language majors at Waterbrook 
+University)’(표 2행 1열), ‘11:00 a.m. - 12:00 p.m.’(표 2행 2열)에서 
+Waterbrook 대학교의 이탈리아어 전공 1학년생이 참여하는 초급 수준 연설 
+행사가 오전 11시에 시작한다는 두 번째 단서를 확인할 수 있다. 
+Ms. Anders가 참여하는 행사가 오전 11시쯤에 시작할 것이라는 첫 번
+째 단서와 Waterbrook 대학교의 이탈리아어 전공 1학년생이 참여하는 행
+사가 오전 11시에 시작한다는 두 번째 단서를 종합할 때, Ms. Anders는 
+Waterbrook 대학교의 1학년생이라는 것을 알 수 있다. 따라서 (C) She is 
+a freshman at a college가 정답이다. (A), (B), (D)는 지문에 언급되지 않
+은 내용이다.
+Paraphrasing
+First-year ~ at ~ University 대학교 1학년생 → freshman at a college 
+대학교 1학년생
+어휘 registration form 신청서		 eliminate  v.	탈락시키다,	제거하다			
+185	 추론	문제		 연계
+문제	 Ms.	Anders는	11월	5일	전에	무엇을	할	것	같은가?	
+(A)	심사위원들에게	대회	규칙에	관해	질문한다
+(B)	그녀의	학부	교직원에게	연락한다
+(C)	다른	참가자들과의	회의에	참석한다
+(D)	Ms.	Weatherbee에게	그녀의	연설의	복사본을	보낸다
+해설  두 지문의 내용을 종합적으로 확인한 후 추론해서 풀어야 하는 연계 문제이
+다. 질문의 핵심 어구인 Ms. Anders ~ do before November 5에서 Ms. 
+Anders가 11월 5일 전에 무엇을 할 것 같은지를 묻고 있으므로 Ms. Anders
+에게 보내진 이메일을 먼저 확인한다.
+두 번째 지문인 이메일의 ‘you have advanced to the final round, which 
+will be held on November 5’(1번째 줄)에서 당신, 즉 Ms. Anders가 11
+월 5일에 열릴 결승전에 진출했으며, ‘you asked whether your parents 
+could attend the finals if you were participating’(5번째 줄)에서 당
+신, 즉 Ms. Anders는 부모님이 결승전에 참석할 수 있는지 문의했었다는 첫 
+번째 단서를 확인할 수 있다. 11월 5일에 있을 결승전에 부모님이 참석하기 
+위해서 Ms. Anders가 무엇을 해야 하는지 제시되지 않았으므로 일정표에
+서 관련된 내용을 확인한다. 첫 번째 지문인 일정표의 ‘Family members 
+of contestants may attend as well. However, ~ contestants must 
+reserve seats in advance by calling the Department of Italian 
+Studies ~.’(표 하단 2번째 줄)에서 참가자들의 가족도 참석할 수 있지만 참
+가자들이 이탈리아어학부에 전화하여 자리를 미리 예약해야 한다는 두 번째 
+단서를 확인할 수 있다. 
+11월 5일에 열리는 결승전에 Ms. Anders가 참여하게 되었으며 그녀의 부
+모님이 결승전에 참석하길 원한다는 첫 번째 단서와 참가자들의 가족이 참
+석하기 위해서는 이탈리아어학부에 미리 전화를 해야 한다는 두 번째 단서
+를 종합할 때, Ms. Anders는 결승전이 열리는 11일 5일 이전에 그녀의 학부
+인 이탈리아어학부의 교직원에게 연락할 것임을 추론할 수 있다. 따라서 (B) 
+Contact the faculty of her department가 정답이다.
+Paraphrasing
+calling the Department 학부에 전화하다 → Contact the faculty of ~ 
+department 학부 교직원에게 연락하다
+186-190은 다음 두 이메일과 양식에 관한 문제입니다. 
+수신:	Hana	Karasek	<h.karasek@stavet.com>
+발신:	Arnold	Novak	<a.novak@stavet.com>
+186제목: Svijany 다리 프로젝트
+날짜:	9월	12일
+첨부	파일:	수정된_가이드라인
+Hana,
+저는	오늘	Svijany시	의회와	만났고,	186그들은 당신이 알아야 할 것으로 제가 
+생각되는 몇 가지 정보를 주었습니다.	
+명백히,	Lavka	다리는	문화적으로	매우	중요해서	철거할	수	없습니다.	의회는	
+우리가	Jizera	강의	더	하류에	두	번째	다리를	짓고	Lavka	다리는	운전자들에
+게	안전하게	하기	위해	꼭	보수하기를	원합니다.	187-D새로운 다리는	Lavka	다리
+의	반대쪽에	있는	야생 동물 보호 지역에 지장을 주는 것을 피하기 위해 강의 하
+류에 지어져야만 합니다.
+새	요구	사항은	새로운	장소를	위해	우리의	현재	디자인을	수정해야	함을	의미
+할	것입니다.	188제가 보낸 첨부 파일을 검토해 주십시오. 그것들은 수정된 가이
+드라인과 그 지역의 지형도를 포함하고 있습니다.
+Arnold
+guidelines  n.	가이드라인,	지침		 council  n.	의회			 
+demolish  v.	철거하다,	허물다		 downstream  adv.	(강의)	하류에			 
+renovate  v.	(낡은	건물	등을)	보수하다,	개조하다		 motorist  n.	운전자			 
+interfere with 지장을	주다,	~을	방해하다		 wildlife refuge 야생	동물	보호	지역			 
+terrain  n.	지형,	지역
+수신:	Arnold	Novak	<a.novak@stavet.com>
+발신:	Hana	Karasek	<h.karasek@stavet.com>
+제목:	회신:	Svijany	다리	프로젝트
+날짜:	9월	13일
+Arnold,
+최신	정보를	주셔서	감사합니다.	188저는	검토를	위해	기술부서에 수정된 가이
+드라인을 보냈습니다.	그들은	고려	중인	계획을	비교하는	보고서	초안을	작성할	
+것입니다.	188저는 당신으로부터 다른 첨부 파일을 받지는 못했지만,	비슷한	것
+을	온라인에서	찾았습니다.
+전반적으로,	제	생각에는	우리가	새로운	장소에	맞게	190기존의 계획들을 변경
+할 수 있을 것입니다.	그런데,	 189우리가 오래된 다리의 본래 디자인 요소들을 
+유지해야 한다면 그것을 보수하는 것이 까다로울 수 있습니다. 사용된 일부 석
+재를 구하는 것이 힘들 것입니다.	이	모든	변경은	더	많은	작업을	발생시킬	것
+이고,	시간은	중대한	요소입니다.	 190우리에게는 7월 21일에 시작하기로 예정
+된 Gdansk에서의 또 다른 프로젝트가 있습니다. 그러므로, 우리의 마감일은 
+그 날짜 이전이어야 할 것이고	그렇게	하기	위해,	우리는	더	많은	인력을	필요
+로	할	것입니다.	
+제가	돌아가면,	더	많은	이야기를	나눌	수	있을	것입니다.
+Hana		 
+16 |  무료 온라인 실전모의고사 · 무료 토익 학습자료 · 취업정보 제공  Hackers.co.kr
+draft  v.	초안을	작성하다; n.	초안		 under consideration 고려	중인			 
+tricky  adj.	까다로운,	힘든		 retain  v.	유지하다,	보유하다			 
+element  n.	요소,	성분		 obtain  v.	구하다,	얻다			 
+workforce  n.	인력,	노동	인구			
+STAVET사	 	 	 비교	보고서
+건설	&	토목	공사	 		 준비:	Jan	Novotna
+날짜:	9월	21일
+참고:	두	계획은	모두	국경일	및	일어날	수	있는	날씨로	인한	지연	기간을	포함
+합니다.
+기존	프로젝트	계획:	450,000,000유로	 	 예상	완료일
+A)	임시	다리	건설	 		 1월	28일
+B)	Lavka	다리	철거	 		 2월	22일
+C)	새로운	다리	건설	 		 5월	16일
+190변경된 프로젝트 계획:	525,000,000유로 190예상 완료일
+A)	새	부지	검토	 		 10월	15일
+B)	새	부지로의	다리	설계도	변경	 		 11월	11일
+C)	최종	설계도	승인	획득	 		 11월	25일
+D)	새로운	다리	건설	 		 4월	27일
+E)	Lavka	다리	보수	 		 1907월 4일
+engineering  n.	토목	공사,	공학		 account for 포함하다,	차지하다			 
+adapt  v.	변경하다,	조정하다		 evaluate  v.	검토하다,	평가하다
+186	 주제/목적	찾기	문제
+문제	 Mr.	Novak은	왜	Ms.	Karasek에게	이메일을	썼는가?
+(A)	회의	결과에	대해	문의하기	위해
+(B)	프로젝트에	대한	새로운	사태를	알리기	위해
+(C)	일이	연기되었다는	것을	알리기	위해
+(D)	건축가의	연구	결과를	보고하기	위해
+해설  Mr. Novak이 이메일을 쓴 목적을 묻는 목적 찾기 문제이므로 Mr. Novak
+이 작성한 이메일의 내용을 확인한다. 첫 번째 지문인 이메일의 ‘Subject: 
+Svijany bridge project’(제목)와 ‘they presented me with some 
+information I thought you should know about’(1문단 1번째 줄)에서 
+이메일의 제목이 Svijany 다리 프로젝트이고, 그들, 즉 Svijany시 의회는 이
+메일의 수신자인 Ms. Karasek이 알아야 할 몇 가지 정보를 줬다고 한 후, 프
+로젝트의 새로운 사항에 대한 세부 내용을 설명하고 있으므로 (B) To notify 
+her of developments on a project가 정답이다.
+어휘  development  n.	새로운	사태,	개발,	발달		 findings  n.	연구	결과
+187	 Not/True	문제
+문제	 새로운	다리를	위해	선택된	장소에	대해	언급된	것은?
+(A)	구조물의	철거를	필요로	할	것이다.
+(B)	마을	사람들에게	문화적	의의를	가진다.
+(C)	처리되어야	할	위험	요소가	나타나	있다.
+(D)	동물	보호	서식지에	해를	입히지	않을	것이다.
+해설  질문의 핵심 어구인 the chosen location for a new bridge에 대해 묻는 
+Not/True 문제이므로 새로운 다리를 위한 장소에 대해 관련된 내용이 언급
+된 첫 번째 이메일에서 관련 내용을 확인한다. (A), (B), (C)는 지문에 언급되
+지 않은 내용이다. (D)는 ‘The new bridge must be built downstream 
+to avoid interfering with a wildlife refuge’(2문단 3번째 줄)에서 새로
+운 다리는 야생 동물 보호 지역에 지장을 주는 것을 피하기 위해 강의 하류에 
+지어져야 한다고 했으므로 지문의 내용과 일치한다. 따라서 (D) It will not 
+cause harm to protected animal habitats가 정답이다. 
+Paraphrasing
+interfering with 지장을 주다 → cause harm 해를 입히다
+a wildlife refuge 야생 동물 보호 지역 → protected animal habitats 동
+물 보호 서식지
+어휘  structure  n.	구조물		 significance  n.	의의,	중요성			 
+hazard  n.	위험	(요소)			
+188	 추론	문제		 연계
+문제	 Mr.	Novak에	대해	암시되는	것은?
+(A)	회의에	참석할	계획이다.
+(B)	새	사무실로	이사할	것이다.
+(C)	위치	지도를	첨부하는	것을	잊어버렸다.
+(D)	투자자를	찾는	것을	책임지고	있다.
+해설  두 지문의 내용을 종합적으로 확인한 후 추론해서 풀어야 하는 연계 문제이
+다. 질문의 핵심 어구인 Mr. Novak이 작성한 첫 번째 이메일을 먼저 확인한
+다.
+첫 번째 지문인 이메일의 ‘Please review the attachments ~ They 
+include the revised guidelines and a terrain map of the area.’ 
+(3문단 1번째 줄)에서 Mr. Novak이 보낸 첨부 파일이 수정된 가이드라인
+과 그 지역의 지형도를 포함하고 있다는 첫 번째 단서를 확인할 수 있다. 그
+런데 Mr. Novak이 보낸 첨부 파일에 대한 다른 정보가 제시되지 않았으므로 
+Mr. Novak에게 보내진 이메일에서 관련 내용을 확인한다. 두 번째 이메일
+의 ‘I’ve sent the revised guidelines to the engineering department’ 
+(1문단 1번째 줄)와 ‘I didn’t receive your other attachment’(1문단 2번
+째 줄)에서 이메일의 발신자인 Ms. Karasek이 수정된 가이드라인을 기술부
+서에 보냈으며, 다른 첨부 파일은 받지 못했다는 두 번째 단서를 확인할 수 있
+다. 
+Mr. Novak이 보낸 첨부 파일이 수정된 가이드라인과 그 지역의 지형도를 
+포함하고 있다는 첫 번째 단서와 Ms. Karasek이 수정된 가이드라인을 기
+술부서에 보냈지만 다른 첨부 파일은 받지 못했다는 두 번째 단서를 종합할 
+때, Mr. Novak이 지역의 지형도를 첨부하는 것을 잊어버렸다는 사실을 추
+론할 수 있다. 따라서 (C) He neglected to attach a location map이 정
+답이다.
+어휘  neglect  v.	(해야	할	일을)	잊어버리다,	하지	않다,	등한시하다
+189	 육하원칙	문제
+문제	 Ms.	Karasek은	보수	작업에	대해	무엇을	우려하는가?
+(A)	건축	자재의	입수	가능성
+(B)	날씨의	예측	불가능성
+(C)	특정	디자인의	복잡함
+(D)	공휴일로	허비되는	날짜	수	
+해설  Ms. Karasek이 보수 작업에 대해 무엇(What)을 우려하는지를 묻는 육하
+원칙 문제이므로 Ms. Karasek이 작성한 이메일에서 관련 내용을 확인한다. 
+두 번째 이메일의 ‘it could prove tricky to renovate the old bridge if 
+we have to retain its original design elements. Some of the stone 
+materials used will be hard to obtain.’(2문단 1번째 줄)에서 오래된 
+다리의 본래 디자인 요소들을 유지해야 한다면 그것을 보수하는 것이 까다
+로울 수 있으며, 사용된 일부 석재를 구하는 것이 힘들 것이라고 했으므로  
+Ms. Karasek이 건축 자재의 입수 가능성에 대해 우려하고 있음을 알 수 있
+다. 따라서 (A) The availability of building materials가 정답이다.
+어휘  availability  n.	(입수)	가능성,	유효성		 building material 건축	자재			 
+unpredictability  n.	예측	불가능성		 intricacy  n.	복잡함			 
+lose  v.	(시간	·	기회를)	허비하다
+190	 추론	문제		 연계
+문제	 변경된	프로젝트	계획에	대해	암시되는	것은?
+(A)	고객에게	비용	절감의	결과를	낳을	것이다.
+(B)	예정보다	더	늦게	시작할	것이다.	
+(C)	Stavet사의	Gdansk에	대한	계획에	영향을	미치지	않을	것이다.
+(D)	Ms.	Novotna에	의해	중단될	것이다.
+해설  두 지문의 내용을 종합적으로 확인한 후 추론해서 풀어야 하는 연계 문제이
+다. 질문의 핵심 어구인 the modified plan과 관련된 내용이 언급된 이메일
+을 먼저 확인한다.  
+두 번째 이메일의 ‘we can modify our current plans’(2문단 1번째 줄)와 
+‘We do have ~ project in Gdansk ~ scheduled to begin on July 21. 
+So, our deadline ~ have to be before that date’(2문단 4번째 줄)에
+서 우리, 즉 STAVET사는 기존의 계획들을 변경할 수 있다고 하고 7월 21일
+에 시작하기로 예정된 Gdansk에서의 프로젝트가 있으므로 마감일은 그 날
+짜 이전이어야 한다는 첫 번째 단서를 확인할 수 있다. 그런데 이 계획의 마감
+일이 언제인지 제시되지 않았으므로 변경된 계획의 마감일이 언급된 양식에
+서 관련 내용을 확인한다. 세 번째 지문인 양식에서 ‘MODIFIED PROJECT 
+PLAN, ESTIMATED COMPLETION, July 4’(표2)에서 변경된 프로젝트 계
+실전모의고사 1 |  17
+H
+a
+ck
+e
+rs T
+O
+E
+IC
+R
+e
+a
+d
+in
+g
+실
+전
+모
+의
+고
+사
+1
+획의 예상 완료일은 7월 4일이라는 두 번째 단서를 확인할 수 있다.  
+기존의 계획들을 변경할 수 있다고 하고 7월 21일에 시작하기로 예정된 
+Gdansk에서의 또 다른 프로젝트가 있으므로 마감일은 그 날짜 이전이어야 
+한다는 첫 번째 단서와 변경된 프로젝트 계획의 예상 완료일은 7월 4일이라
+는 두 번째 단서를 종합할 때, 변경된 계획은 STAVET사의 Gdansk에 대한 
+계획에 영향을 미치지 않을 것이라는 사실을 추론할 수 있다. 따라서 (C) It 
+may not affect Stavet’s plans for Gdansk이 정답이다. 
+어휘  saving  n.	절감,	절약		 suspend  v.	중단하다,	연기하다
+191-195는 다음 웹페이지와 두 이메일에 관한 문제입니다.
+www.tiabaga.com/upcomingexhibits	
+12월	15일부터	1월	10일까지,	Tiabaga	미술관은	비평가들의	찬사를	받는	화
+가	Julian	Grey의	작품을	전시할	것입니다.	Mr.	Grey의	작품은	전	세계의	미술
+관의	전시회에서	전시되고	있으며,	191-A그는 생생한 풍경화와 현실적인 동물 묘
+사로 유명합니다.	191-D살아 있는 동안, Mr. Grey는 큰 관심을 끌지 못했지만,	그
+가	죽고	약	10년이	지난	후에	친한	친구이자	유명한	예술가인	조각가	George	
+Candle이	그를	인정받지	못한	천재라고	말했을	때	매우	유명해졌습니다.
+192이 전시회의 개막일 밤에는, 작가 Susan Orlean이 발언할 예정인데,	191-C그 
+녀는 최근에 Mr. Grey의 전기를 출간하였습니다.	192올해 기금 모금 행사에 기
+부한 사람들만 이 연설에 참석하도록 초대됩니다.	관심이	있으시다면,	555-
+5322로	전화	주시거나	curator@tiabagagallery.com으로	이메일을	보내주
+시기	바랍니다.	
+exhibit  v.	전시하다		 acclaimed  adj.	찬사를	받는		 vivid  adj.	생생한,	선명한		 
+depiction  n.	묘사		 attract  v.	(주의,	흥미	따위를)	끌다,	매혹하다			 
+attention  n.	관심,	주의,	주목		 sculptor  n.	조각가			 
+declare  v.	말하다,	단언하다,	선포하다			 
+unrecognized  adj.	인정받지	못한,	의식되지	못하는			 
+remark  n.	발언,	의견; v.	말하다,	주목하다		 fund-raiser  n.	기금	모금	행사
+수신:	Philip	Bauer	<curator@tiabagagallery.com>
+발신:	Jessica	Doull	<jessica@expressmail.com>
+제목:	요청
+날짜:	12월	17일
+Mr.	Bauer께,
+제	이름은	Jessica	Doull이고,	최근에	당신의	미술관의	새로운	전시회에	참석
+하게	되어	즐거웠습니다. 192저는 전시된 예술품과 Susan Orlean의 대단히 흥
+미로운 연설 두 가지 모두에 감명을 받았습니다. 초대장을 보내주셔서 감사합
+니다.
+저는	특별한	요청을	드리기	위해	이메일을	씁니다.	현재	저는	Barrie	시민	문화
+회관에서	십대	청소년들에게	방과후	미술	수업을	가르치고	있으며,	그들이	그	
+전시회에	방문하고	싶어	할	거라고	알고	있습니다.	하지만,	Mr.	Grey의	미술품
+에	관한	제	이해는	제한적이므로,	193당신의 기관에서 누군가가 저와 제 학생들  
+15명을 위해 견학 안내를 해주실 수 있다면 감사하겠습니다. 저희는 다음 주 
+금요일이나 전시회 마지막 날인 1월 10일에 미술관에 방문하고 싶습니다.	만
+약	제	요청을	받아들일	수	있으시다면,	어느	날을	더	선호하시는지	알려주세요.
+Jessica	Doull	드림
+impress  v.	감명을	주다		 fascinating  adj.	대단히	흥미로운,	매력적인			 
+teenager  n.	십대	청소년		 limited  adj.	제한된,	한정된			 
+appreciate  v.	감사해하다,	가치를	인정하다		 institution  n.	기관			 
+tour  n.	견학,	여행; v.	관광하다		 accommodate  v.	받아들이다,	수용하다
+수신:	Jessica	Doull	<jessica@expressmail.com>
+발신:	Philip	Bauer	<curator@tiabagagallery.com>
+제목:	회신:	요청
+날짜:	12월	18일
+Ms.	Doull께,	
+어제	당신의	메시지를	받아서	매우	기뻤습니다.	193당신과 당신의 학생들이 다음 
+주 금요일에 방문하신다면 개인적으로 당신의 요청을 이행할 의향이 있음을 알
+려드리고 싶습니다. 저는 전시회의 마지막 주 내내 매우 바쁠 것으로 예상됩니
+다.	참석하실	수	있는지	확정하기	위해	555-5322로	제게	연락주십시오.	194만
+약 당신이 전화하셨을 때 제가 부재중이라면, 제 조수가 기꺼이 준비를	 
+처리해드릴 것입니다.	
+그건	그렇고,	영국	예술가들을	특집으로	다룰	추후	행사	홍보의	일환으로,	저
+희는	애프터눈	티	행사를	주최하기	시작했고,	행사	동안 195당신의 단체와 같은  
+10명 이상의 단체에게 다양한 차, 샌드위치, 스콘, 케이크를 제공합니다. 만약	
+당신과	학생들이	이	행사에	관심이	있으시다면	제게	알려주십시오.
+Philip	Bauer	드림
+fulfill  v.	이행하다,	실행하다		 provided  conj.	(만약)	~라면,	오직	~하는	경우에만			 
+throughout  prep.	내내,	도처에		 confirm  v.	확정하다,	확인하다			 
+make it 참석하다,	시간	맞춰	가다		 unavailable  adj.	부재의,	만날	수	없는			 
+arrangement  n.	준비,		계획		 feature  v.	~을	특집으로	하다; n.	특징			 
+a variety of 다양한,	여러	가지의
+191	 Not/True	문제
+문제	 Mr.	Grey에	대해	사실인	것은?
+(A)	그의	그림에	풍경을	그렸다.
+(B)	그림과	조각품을	모두	만들었다.
+(C)	예술가로서의	그의	경험에	대한	책을	썼다.
+(D)	그의	일생	동안	큰	명성을	이루었다.
+해설  질문의 핵심 어구인 Mr. Grey에 대해 묻는 Not/True 문제이므로 Mr. Grey
+가 언급된 첫 번째 지문인 웹페이지에서 관련 내용을 확인한다. (A)는 ‘Mr. 
+Grey ~ is famous for his vivid landscapes ~.’(1문단 2번째 줄)에서 Mr. 
+Grey가 생생한 풍경화로 유명하다고 했으므로 지문의 내용과 일치한다. 따
+라서 (A) He drew scenery in his paintings가 정답이다. (B)는 지문에 언
+급되지 않은 내용이다. (C)는 ‘Susan Orlean, who recently published 
+a biography of Mr. Grey’(2문단 1번째 줄)에서 Susan Orlean이 최근에 
+Mr. Grey의 전기를 출간하였다고는 했으나, Mr. Grey가 자신의 경험에 대한 
+책을 썼는지는 알 수 없으므로 지문의 내용과 일치하지 않는다. (D)는 ‘While 
+alive, Mr. Grey did not attract a great deal of attention’(1문단 3번째 
+줄)에서 Mr. Grey가 살아 있는 동안 큰 관심을 끌지 못했다고 했으므로 지문
+의 내용과 일치하지 않는다.
+Paraphrasing
+is famous for ~ landscape 풍경화로 유명하다 → drew scenery in ~ 
+paintings 그림에 풍경을 그렸다
+어휘  scenery  n.	풍경		 sculpture  n.	조각품		 achieve  v.	이루다,	달성하다		 
+fame  n.	명성
+192	 추론	문제		 연계 
+문제	 Ms.	Doull에	대해	암시되는	것은?
+(A)	미술관에	돈을	기부했다.
+(B)	몇몇	전시회를	개최했다.
+(C)	화가가	그녀의	수업에	방문해주기를	원한다.
+(D)	공공	행사에서	연설을	할	것이다.
+해설  두 지문의 내용을 종합적으로 확인한 후 추론해서 풀어야 하는 연계 문제이
+다. 질문의 핵심 어구인 Ms. Doull이 작성한 이메일을 먼저 확인한다.   
+두 번째 지문인 이메일의 ‘I was impressed by ~ Susan Orlean’s 
+fascinating speech. Thank you for sending me an invitation.’(1문
+단 2번째 줄)에서 자신, 즉 Ms. Doull이 Susan Orlean의 대단히 흥미로
+운 연설에 감명을 받았다고 하면서 초대장을 보내줘서 고맙다고 했으므로  
+Ms. Doull이 초대를 받아 Susan Orlean의 연설을 들었다는 첫 번째 단서
+를 확인할 수 있다. 그런데 Ms. Doull이 연설에 초대되었던 조건이 제시되
+지 않았으므로 웹페이지에서 관련 내용을 확인한다. 첫 번째 지문인 웹페이지
+의 ‘Only those individuals who donated at our fund-raiser this year 
+are invited to attend this talk.’(2문단 2번째 줄)에서 전시회의 개막일 밤
+에 Susan Orlean이 발언할 예정인데, 올해 기금 모금 행사에 기부한 사람들
+만 연설에 참석하도록 초대된다고 했으므로 연설에 초대되는 조건이 기금 모
+금 행사에 기부하는 것이라는 두 번째 단서를 확인할 수 있다.   
+Ms. Doull이 Susan Orlean의 연설에 초대되었다는 첫 번째 단서와 
+Tiabaga 미술관의 기금 모금 행사에 기부한 사람들만 연설에 참석하도록 초
+대된다는 두 번째 단서를 종합할 때, Ms. Doull이 미술관의 기금 모금 행사
+에 돈을 기부했다는 사실을 추론할 수 있다. 따라서 (A) She contributed 
+money to a gallery가 정답이다.
+18 |  무료 실전 문제 해설강의 · 무료 단어암기 MP3  HackersIngang.com
+Paraphrasing
+donated at ~ fund-raiser 기금 모금 행사에 기부했다 → contributed 
+money 돈을 기부했다
+어휘  contribute  v.	기부하다,	기증하다	
+193	 추론	문제		 연계
+문제	 Mr.	Bauer에	대해	추론될	수	있는	것은?
+(A)	미술	수업을	정기적으로	제공한다.
+(B)	다음	주에	출장을	떠날	것이다.
+(C)	1월	10일에	견학을	안내해줄	수	없다.
+(D)	임시	견학	안내인을	고용할	계획이다.
+해설  두 지문의 내용을 종합적으로 확인한 후 추론해서 풀어야 하는 연계 문제이
+다. 질문의 핵심 어구인 Mr. Bauer가 작성한 이메일을 먼저 확인한다.  
+세 번째 지문인 이메일의 ‘I want to let you know that I am willing to 
+personally fulfill your request provided that you and your students 
+come next Friday. I expect to be very busy throughout the final 
+week of the exhibit.’(1문단 1번째 줄)에서 Mr. Bauer가 Ms. Doull에
+게 그녀와 학생들이 다음 주 금요일에 방문한다면 개인적으로 요청을 들어
+줄 수 있다며, 자신이 전시회의 마지막 주 내내 매우 바쁠 것이라고 했으므로  
+Mr. Bauer가 전시회의 마지막 주에는 요청을 들어줄 수 없다는 첫 번째 단서
+를 확인할 수 있다. 그런데 Ms. Doull의 요청이 무엇인지 제시되지 않았으므
+로 Ms. Doull이 작성한 이메일에서 관련 내용을 확인한다. 두 번째 지문인 이
+메일의 ‘I would appreciate it if someone from your institution could 
+provide a guided tour for me and my ~ students. We are hoping to 
+visit the gallery either next Friday or on January 10, the last day of 
+the exhibit.’(2문단 3번째 줄)에서 Ms. Doull이 상대방, 즉 Mr. Bauer의 기
+관에서 누군가가 자신과 학생들을 위해 견학 안내를 해주면 고맙겠다고 하면
+서 자신들이 다음 주 금요일이나 전시회 마지막 날인 1월 10일에 방문하고 싶
+다고 했으므로 Ms. Doull이 다음 주 금요일과 1월 10일 중에 견학 안내를 요
+청했다는 두 번째 단서를 확인할 수 있다.   
+Mr. Bauer가 전시회의 마지막 주에는 요청을 들어줄 수 없다는 첫 번째 단서
+와 Ms. Doull이 Mr. Bauer에게 다음 주 금요일과 전시회의 마지막 날인 전
+시회의 마지막 날인 1월 10일 중에 견학 안내를 요청했다는 두 번째 단서를 
+종합할 때, Mr. Bauer가 전시회의 마지막 날인 1월 10일에 견학 안내를 해줄 
+수 없다는 사실을 추론할 수 있다. 따라서 (C) He is unavailable to guide 
+a tour on January 10가 정답이다.
+어휘  regularly  adv.	정기적으로,	규칙적으로		 temporary  adj.	임시의,	일시적인
+194	 동의어	찾기	문제
+문제	 	두	번째	이메일에서,	1문단	네	번째	줄의	단어	“handle”은	의미상	–와	가장	
+가깝다.
+(A)	꽉	잡다
+(B)	처리하다	
+(C)	가져가다
+(D)	작동하다
+해설  세 번째 지문인 이메일의 handle을 포함하고 있는 문장 ‘If I am 
+unavailable when you call, my assistant will be happy to handle the 
+arrangements.’(1문단 4번째 줄)에서 handle이 ‘처리하다’라는 뜻으로 사
+용되었다. 따라서 ‘처리하다’라는 뜻을 가진 (B) take care of가 정답이다.
+어휘 grasp  v.	꽉	잡다,	움켜잡다		 operate  v.	작동하다,	영업하다
+195	 육하원칙	문제
+문제	 Ms.	Doull의	단체가	방문하는	동안	무엇이	제공될	것	같은가?
+(A)	할인된	입장료
+(B)	다양한	음식과	음료
+(C)	특별히	준비된	영화	상영
+(D)	유명한	예술가의	개인적인	소개
+해설  Ms. Doull의 단체가 방문하는 동안 무엇(What)이 제공될 것 같은지를 묻는 
+육하원칙 문제이므로 질문의 핵심 어구인 offered ~ during ~ visit와 관련
+된 내용이 언급된 두 번째 이메일을 확인한다. 세 번째 지문인 이메일의 ‘we 
+serve a variety of teas, sandwiches, scones, and cakes to groups 
+of 10 or more, like yours’(2문단 2번째 줄)에서 자신들이 상대방, 즉  
+Ms. Doull의 단체와 같은 10명 이상의 단체에게 다양한 차, 샌드위치, 스콘, 
+케이크를 제공한다고 했으므로 (B) A selection of food and beverages
+가 정답이다. 
+Paraphrasing
+a variety of 다양한 → A selection of 다양한
+어휘 admission  n.	입장		 a selection of 다양한		 beverage  n.	음료
+196-200은 다음 공고, 양식, 이메일에 관한 문제입니다. 
+공고:	직원	경비	상환	정책	변경	사항
+P&H	Wentworth사의	모든	직원들은,	다음	회계	분기부터	새로운	상환	정책이	
+시행될	것임을	알아	두십시오.	다음	정보를	주의	깊게	읽고	여러분에게	적용되는	
+변경	사항을	유념하시기	바랍니다.	
+196법인 카드를 가진 간부 직원들은 500달러 이하의 비용에 대해서는 더 이상 
+영수증을 제출할 필요가 없을 것입니다.	이	액수를	넘는	모든	청구	금액에는	서
+류가	필요할	것입니다.	196회계부 직원들이 예외적이거나 많은 청구 금액에 대해 
+간단한 설명을 요구할 수 있습니다.
+198/200법인 카드가 없는 일반 직원들은 회계부에 영수증 원본을 제출함으로써 상
+환을 요청할 수 있습니다.	200하지만, 그렇게 하기 위해 직원들은 구매일로부터 
+단지 2주의 시간만을 가질 것이며,	이	기한을	넘어	제출한	분들은	지불에	대해	
+승인을	받지	못할	것입니다.	198일반 직원들은 100달러가 넘는 모든 비용에 대
+해 여전히 직속 상사로부터의 허가가 필요하다는	것을	상기하시기	바랍니다.
+협조에	감사드립니다.
+reimbursement  n.	상환,	배상		 fiscal  adj.	회계의,	국고의			 
+go into effect 시행되다,	실시되다		 make note of 유념하다,	필기하다			 
+executive  n.	간부,	경영진		 corporate  adj.	법인의,	기업의			 
+documentation  n.	서류,	(문서로	하는)	기록		 explanation  n.	설명			 
+substantial  adj.	많은,	상당한	(양의)		 claim  v.	요청하다,	주장하다			 
+permission  n.	허가,	허락		 expenditure  n.	비용,	지출
+198P&H Wentworth
+상환 양식
+198이름: Carlotta Manzoni	 	 	 198부서: 영업부
+경비	종류:	사무	용품	 		 198총액: 155달러
+Quills	and	Parchment	사무	용품사
+197-B483 Vermont 대로, 빈데일 뉴햄프셔주
+날짜:	2월	4일
+고객:	Carlotta	Manzoni,	P&H	Wentworth사
+물품	 비용
+Brite-Hue	화이트보드	마커	펜	1통	 28.00달러
+Jet	Blank	인쇄	용지	1상자	 62.00달러
+197-DHuntington 대형 스테이플러 1개 (모델: 03948)	 16.00달러
+Fino	검정	볼펜	1상자	 32.00달러
+소계:	 138.00달러
+세금:	 13.80달러
+총	지불액:		151.80달러
+현금	지불:		155.00달러
+거스름돈:	 3.20달러
+거래에	감사드립니다!	다시	방문해주십시오.
+197-A계산원: Jennifer Meijer
+198승인:
+Jack Farnsworth (Jack Farnsworth / 영업 부장)
+수신		Carlotta	Manzoni	<manzcarlotta@phwentworth.com>
+발신		Dave	Fredericks	<freddave@phwentworth.com>
+제목		회신:	상환	요청
+199날짜  2월 20일
+199저는 어제	Quills	and	Parchment	사무	용품사로부터의	영수증 스캔 사본
+과 함께 귀하의 상환 요청서를 받았습니다.	아마	귀하께서	회사의	최근	정책	변
+화를	모르시는	것	같은데,	우리는	이제	구매에	대한	영수증	원본을	필요로	합니
+다.	그것을	회계부에	갖다	놓아	주시면,	정말	감사하겠습니다.	 
+실전모의고사 1 |  19
+H
+a
+ck
+e
+rs T
+O
+E
+IC
+R
+e
+a
+d
+in
+g
+실
+전
+모
+의
+고
+사
+1
+또한,	200이제 우리 정책에 요청서가 제출되어야 하는 기한이 생겼다는	것을	유
+의하시기	바랍니다.	이번	경우에는,	제가	진행하여	승인해	드리겠습니다.	하지
+만,	추후에는	이	정책과	관련해서	어떠한	관대함도	없을	것이므로,	200앞으로 이
+러한 모든 요청서는 빠르게 제출될 수 있도록 해주시기	바랍니다.	
+감사합니다!
+Dave	Fredericks
+회계부	차장
+along with ~과	함께,	~에	덧붙여		 unaware  adj.	모르는,	알지	못하는			 
+drop off at ~에	갖다	놓다,	내려주다		 leniency  n.	관대함,	관대한	행위,	관용			 
+in a timely manner 빠르게,	적시에
+196	 육하원칙	문제
+문제	 	공고에	따르면,	회계부	직원들은	왜	간부들로부터	설명을	요구할	수도	있는
+가?
+(A)	신용카드	청구	금액이	평소보다	높다.
+(B)	관리자가	구매를	승인하지	않았다.
+(C)	비용	계정이	사용되지	않았다.
+(D)	신용	한도	인상이	요청되었다.
+해설  회계부 직원들이 왜(why) 간부들로부터 설명을 요구할 수도 있는지를 묻
+는 육하원칙 문제이므로 질문의 핵심 어구인 accounting employees 
+request explanations from executives와 관련된 내용이 언급된 공고에
+서 관련 내용을 확인한다. 첫 번째 지문인 공고의 ‘Executive ~ members 
+with corporate cards will no longer have to submit receipts for 
+amounts under $500.’(2문단 1번째 줄)에서 법인 카드를 가진 간부 직원
+들은 500달러 이하의 비용에 대해서는 더 이상 영수증을 제출하지 않아도 
+된다고 한 후,‘Accounting staff may request a short explanation for 
+unusual or substantial charges.’(2문단 3번째 줄)에서 회계부 직원들이 
+예외적이거나 많은 청구 금액에 대해 짧은 설명을 요구할 수 있다고 했으므
+로 법인 카드를 가진 간부 직원들은 회계부 직원들로부터 예외적이거나 많
+은 청구 금액에 대해 설명을 요구받을 수도 있음을 알 수 있다. 따라서 (A) A 
+credit card charge is higher than normal이 정답이다.
+어휘  expense  n.	비용,	돈			
+197	 Not/True	문제
+문제	 영수증에	포함되어	있지	않은	정보는	무엇인가?
+(A)	판매원의	이름
+(B)	가게	위치
+(C)	한	상자에	든	물품의	양
+(D)	물품의	모델	번호
+해설  질문의 핵심 어구인 information ~ provided on the receipt와 관련된 내
+용을 지문에서 찾아 보기와 대조하는 Not/True 문제이므로 영수증이 있는 
+두 번째 지문인 양식에서 관련 내용을 확인한다. (A)는 ‘Cashier: Jennifer 
+Meijer’(영수증 하단)에서 계산원의 이름을 확인할 수 있으므로 지문의 내
+용과 일치한다. (B)는 ‘483 Vermont Boulevard, Vinedale NH’(영수증 
+상단 2번째 줄)에서 가게의 위치를 확인할 수 있으므로 지문의 내용과 일
+치한다. (C)는 지문에 언급되지 않은 내용이다. 따라서 (C) The quantity 
+of products in a case가 정답이다. (D)는 ‘1 Huntington large stapler 
+(model: 03948)’(영수증 8번째 줄)에서 Huntington 대형 스테이플러의 
+모델 번호를 확인할 수 있으므로 지문의 내용과 일치한다.
+Paraphrasing 
+cashier 계산원 → sales associate 판매원   
+어휘  quantity  n.	양,	수량
+198	 육하원칙	문제		 연계
+문제	 왜	Ms.	Manzoni는	상환	양식을	제출했는가?
+(A)	P&H	Wentworth사의	간부가	아니다.
+(B)	구매를	위해	법인	카드를	사용했다.
+(C)	사무용	가구를	구입했다.
+(D)	Vermont	대로에	위치한	건물에서	일한다.
+해설  두 지문의 내용을 종합해서 풀어야 하는 연계 문제이다. 질문의 핵심 어구인 
+Ms. Manzoni submit the reimbursement form에서 Ms. Manzoni가 왜
+(Why) 상환 양식을 제출했는지를 묻고 있으므로 Ms. Manzoni가 작성한 양
+식을 먼저 확인한다.  
+두 번째 지문인 양식의 ‘P&H Wentworth, Reimbursement Form, 
+Name: Carlotta Manzoni, Department: Sales, Amount: $155.00’(양
+식 상단)에서 P&H Wentworth사의 영업부에서 일하는 Carlotta Manzoni
+가 155.00달러에 대한 상환 양식을 제출했고, ‘Authorized by: ~ Sales 
+Manager’(영수증 하단)에서 영업부장에게 승인을 받았다는 첫 번째 단서
+를 확인할 수 있다. 그런데 Ms. Manzoni가 왜 영업 부장에게 승인을 받아 상
+환 양식을 제출했는지 제시되지 않았으므로 제출과 관련된 내용이 언급된 공
+고에서 그 이유를 확인한다. 첫 번째 지문인 공고에서 ‘Regular staff ~ may 
+claim reimbursement by submitting an original receipt’(3문단 1번째 
+줄)에서 일반 직원들은 영수증 원본을 제출함으로써 상환을 요청할 수 있다
+고 했고, ‘Regular staff ~ are reminded that permission from a direct 
+supervisor is ~ required for any expenditure over $100.’(3문단 4번
+째 줄)에서 일반 직원들은 100달러가 넘는 비용에 대해 직속 상사로부터의 
+허가가 필요하다는 두 번째 단서를 확인할 수 있다.  
+P&H Wentworth사의 영업부에서 일하는 Ms. Manzoni는 155달러에 대한 
+상환양식을 영업부장에게 승인을 받아 제출했다는 첫 번째 단서와 일반 직원
+들은 영수증 원본을 제출함으로써 상환을 요청할 수 있고, 100달러가 넘는 비
+용에 대해서는 직속 상사로부터의 허가가 필요하다는 두 번째 단서를 종합할 
+때, Ms. Manzoni는 간부가 아닌 일반 직원임을 알 수 있다. 따라서 (A) She 
+is not an executive at P&H Wentworth가 정답이다. 
+Paraphrasing 
+Regular staff 일반 직원 → not an executive 간부가 아닌 
+199	 육하원칙	문제
+문제	 Ms.	Manzoni는	2월	19일에	무엇을	했는가?
+(A)	문구점에서	사무	용품을	샀다
+(B)	정책에	관한	공고	사본을	나누어	주었다
+(C)	Mr.	Fredericks에게	구매	영수증	스캔을	보냈다
+(D)	재무	절차의	변경을	승인했다	
+해설  Ms. Manzoni가 2월 19일에 무엇(What)을 했는지를 묻는 육하원칙 문제
+이므로 질문의 핵심 어구인 Ms. Manzoni do on February 19와 관련된 
+내용이 언급된 Ms. Manzoni에게 보내진 이메일을 확인한다. 세 번째 지
+문인 이메일의 ‘DATE, February 20’(이메일 상단)와 ‘I received your 
+reimbursement request yesterday along with a scanned copy of 
+a receipt’(1문단 1번째 줄)에서 이메일의 발신자인 Dave Fredericks는  
+Ms. Manzoni에게 2월 20일에 이메일을 보냈고 영수증 스캔 사본과 함께 상
+환 요청서를 어제 받았다고 했으므로 Ms. Manzoni가 어제, 즉 2월 19일에 
+Mr. Fredericks에게 영수증 스캔 사본을 보냈음을 알 수 있다. 따라서  (C) 
+Sent Mr. Fredericks a scan of a purchase receipt가 정답이다.
+어휘  stationery store 문구점		 distribute  v.	나누어주다,	분배하다			
+200	 추론	문제		 연계
+문제	 Ms.	Manzoni에	대해	추론될	수	있는	것은?
+(A)	상환이	되지	않는	물품	일부에	대해	청구했다.
+(B)	2주의	기간	내에	요청서를	제출하지	않았다.
+(C)	곧	대체	신용카드를	받을	것이다.
+(D)	회계부에서	문서를	가져가는	것을	잊었다.
+해설  두 지문의 내용을 종합적으로 확인한 후 추론해서 풀어야 하는 연계 문제이
+다. 질문의 핵심 어구인 Ms. Manzoni에게 보내진 이메일에서 관련 내용을 
+먼저 확인한다.  
+세 번째 지문인 이메일의 ‘our policy now has a time limit in which 
+a request must be made’(2문단 1번째 줄)와 ‘ensure that ~ such 
+requests in the future are made in a timely manner’(2문단 3번째 줄)
+에서 이제 정책에는 요청서가 제출되어야 하는 기한이 생겼다고 하며 앞으로 
+이러한 요청서는 빠르게 제출될 수 있도록 해달라고 했으므로 요청서에는 제
+출 기한이 있고, 앞으로 빠르게 제출되어야 한다는 첫 번째 단서를 확인할 수 
+있다. 그런데 요청서 제출 기간이 얼마나 되는지는 제시되지 않았으므로 제출 
+기간에 대해 언급된 공고에서 관련 내용을 확인한다. 첫 번째 지문인 공고의 
+‘Regular staff members ~ may claim reimbursement by submitting 
+an original receipt to accounting. ~, they ~ only have two weeks 
+from the date of purchase to do so’(3문단 1번째 줄)에서 일반 직원들
+은 회계부에 영수증 원본을 제출함으로써 상환을 요청할 수 있는데, 그렇게 
+20 |  무료 온라인 실전모의고사 · 무료 토익 학습자료 · 취업정보 제공  Hackers.co.kr
+하기 위해 구매일로부터 단지 2주의 시간만을 가질 것이라는 두 번째 단서를 
+확인할 수 있다. 
+요청서에는 제출 기한이 있으므로 앞으로 빠르게 제출되어야 한다는 첫 번째 
+단서와 직원들은 회계부에 영수증 원본을 제출함으로써 상환을 요청할 수 있
+으며 이를 위해 구매일로부터 2주의 시간만을 가질 것이라는 두 번째 단서를 
+종합할 때, Ms. Manzoni는 2주의 기간 내에 요청서를 제출하지 않았다는 사
+실을 추론할 수 있다. 따라서 (B) She did not make a request within the 
+two-week time period가 정답이다.  
+어휘  replacement  n.	대체,	교체
+실전모의고사 2 |  21
+H
+a
+ck
+e
+rs T
+O
+E
+IC
+R
+e
+a
+d
+in
+g
+실
+전
+모
+의
+고
+사
+2
+Part 5 p.538
+101  (D)    102  (C)    103  (A)    104  (B)    105  (D)   
+106  (B)    107  (C)    108  (A)    109  (D)    110  (B)   
+111  (A)    112  (A)    113  (D)    114  (A)    115  (C)   
+116  (C)    117  (C)    118  (B)    119  (B)    120  (D)   
+121  (C)    122  (C)    123  (A)    124  (C)    125  (C)   
+126  (B)    127  (B)    128  (D)    129  (D)    130  (C)
+Part 6 p.541
+131  (A)    132  (D)    133  (D)    134  (B)    135  (A)   
+136  (B)    137  (A)    138  (A)    139  (B)    140  (B)   
+141  (D)    142  (A)    143  (B)    144  (B)    145  (C)   
+146  (A)
+Part 7 p.545
+147  (D) 148  (B) 149  (D) 150  (A) 151  (D) 
+152  (A) 153  (A) 154  (B) 155  (A) 156  (D) 
+157  (A) 158  (C) 159  (C) 160  (B) 161  (C) 
+162  (D) 163  (D) 164  (C) 165  (B) 166  (B) 
+167  (C) 168  (D) 169  (A) 170  (C) 171  (C) 
+172  (C) 173  (B) 174  (A) 175  (B) 176  (A) 
+177  (B) 178  (D) 179  (A) 180  (B) 181  (D) 
+182  (C) 183  (B) 184  (A) 185  (D) 186  (B) 
+187  (A) 188  (C) 189  (B) 190  (B) 191  (C) 
+192  (A) 193  (B) 194  (D) 195  (B) 196  (B) 
+197  (B) 198  (A) 199  (D) 200  (B)
+101	 전치사	채우기
+해설  동사 base와 함께 쓰여 ‘~에 기초하다’라는 의미를 만드는 (D) on이 정답이
+다.
+해석	 	팀원들	다수가	전체	프로젝트가	기초하고	있는	디자인	컨셉에	대해	의견	차이
+를	보였다.
+어휘  disagreement  n.	의견	차이,	불일치		 entire  adj.	전체의
+102	 태에	맞는	동사	채우기
+해설  ‘그 회사는 관련되어 왔다’라는 의미가 되어야 하므로 has been과 함께 수동
+태 동사를 만드는 p.p.형 (C) involved가 정답이다. 현재 시제 (A), 동사원형 
+또는 현재 시제 (D)는 has been 다음에 올 수 없다.
+해석	 	새로운	회사임에도	불구하고,	그	회사는	모든	고객	프로젝트에	밀접하게	관련
+되어	왔고,	훌륭한	평판을	얻었다.
+어휘  business  n.	회사,	사업		 reputation  n.	평판,	명성
+103	 전치사	채우기
+해설  ‘해외 투자 계획에 관한 회사의 의도’라는 의미가 되어야 하므로 (A) with 
+respect to(~에 관하여)가 정답이다. 
+해석	 	회의	중에,	이사회	임원들	중	한	명이	해외	투자	계획에	관한	회사의	의도에	이
+의를	제기했다.
+어휘  intention  n.	의도,	의향		 initiative  n.	계획		 across from 	~의	맞은편에			 
+by means of 	~의	도움으로
+104	 등위접속사	채우기
+해설  ‘몇몇 연사들이 교통 체증을 겪었지만 모두 제시간에 왔다’라는 의미가 되어
+야 하므로 (B) but(그러나)이 정답이다.
+해석	 	몇몇	연사들이	회의장으로	오는	도중에	교통	체증을	겪었지만,	모두	개회	발표
+를	위해	제시간에	왔다.
+어휘  traffic delay 교통	체증
+105	 부사	자리	채우기
+해설  동사(rush)를 꾸밀 수 있는 것은 부사이므로 부사 (D) hastily(급히)가 정답
+이다. 명사 (A), 형용사 (B), (C)는 동사를 꾸며줄 수 없다.
+해석	 	직원들은	새로운	기술을	배울	때	천천히	해야	하고	교육	동안	급히	서두르지	
+않아야	한다.
+어휘  take one’s time 천천히	하다,	서두르지	않고	하다		 rush  v.	서두르다			 
+haste  n.	급함,	신속		 hasty  adj.	급한
+106	 보어	자리	채우기
+해설  동사(remain)의 주격 보어 자리를 채우는 문제이다. 보어가 될 수 있는 것은 
+명사나 형용사이므로 모든 보기가 정답의 후보이다. 이 중 주어의 상태를 설
+명해 주는 형용사 (B) local(지역의, 현지의)이 정답이다. 명사 (A) locality(부
+근), (C) locals(주민, 현지인), (D) location(장소)은 주어(Herdigen)와 동격 
+관계를 이루지 못하므로 답이 될 수 없다. 
+해석	 	비록	다른	회사들이	제조를	해외로	외주	제작하기	시작했지만,	Herdigen사는	
+지역에	남았고,	그들의	모든	제품을	국내에서	만들었다.
+어휘  outsource  v.	외주	제작하다		 manufacturing  n.	제조,	제조업			 
+domestically  adv.	국내에서		 locality  n.	부근,	장소
+107	 올바른	시제의	동사	채우기
+해설  ‘성공적인 거래가 체결되다’라는 수동의 의미이므로 수동태 동사 (C)와 (D)
+가 정답의 후보이다. 주절 동사(were)가 과거이므로 that절(종속절)에도 과
+거 동사가 와야 한다. 따라서 (C) were concluded가 정답이다.
+해석	 	무역	전시회의	주최자들은	몇몇	성공적인	거래가	행사	참가자들에	의해	체결
+되었다는	것을	듣고	기뻐했다.
+어휘  organizer  n.	주최자		 deal  n.	거래,	계약		 conclude  v.	체결하다,	끝내다
+108	 가정법	동사	채우기
+해설  If가 생략되어 주어(anything)와 조동사(Should)가 도치된 절에는 동사원
+형이 와야 하므로 동사원형 (A) happen이 정답이다. 현재 시제 (B), 과거 또
+는 과거분사 (C), 동명사 또는 현재분사 (D)는 조동사 다음에 올 수 없다.
+해석	 	만약	사무실	시설	내에서	보통과	다른	어떤	일이	생기면,	직원들은	즉시	건물	
+경비	회사에	전화를	걸어야	한다.
+어휘  out of the ordinary 보통과	다른,	이상한		 immediately  adj.	즉시			 
+dial  v.	전화를	걸다
+109	 다른	명사를	수식하는	명사	채우기
+해설  ‘공사 프로젝트의 상황을 확인하기 위해 주기적으로 진행 상황 보고서를 검토
+하다’라는 의미가 되어야 하므로 ‘진행 상황 보고서’라는 의미의 복합 명사를 
+만드는 (D) progress가 정답이다. 명사 (A), (B), (C)를 넣으면 ‘공사 프로젝
+트의 상황을 확인하기 위해 주기적으로 일기 예보/신용 평가 보고서/판례집
+을 검토하다’라는 어색한 의미가 되어 버린다. 
+해석	 	Ms.	Bisset은	공사	프로젝트의	상황을	확인하기	위해	주기적으로	진행	상황	
+보고서를	검토한다.	
+어휘  regularly  adv.	주기적으로		 status  n.	(진행	과정상의)	상황			 
+construction  n.	공사			
+110	 동사	어휘	고르기	
+해설  ‘정책 안내서는 경영자들이 직원들의 권리를 빼앗지 못하도록 기안되다’라는 
+문맥이므로 (B) deprive(빼앗다)가 정답이다. (A) assure는 ‘보증하다, 보장
+하다’, (C) conceive는 ‘상상하다, 생각하다’, (D) replace는 ‘대신하다’라는 
+실전모의고사	2
+22 |  무료 실전 문제 해설강의 · 무료 단어암기 MP3  HackersIngang.com
+의미이다.
+해석	 	그	정책	안내서는	경영자들이	온당한	휴가에	대한	직원들의	권리를	빼앗지	못
+하도록	확실히	하기	위해	신중히	기안되었다.	
+어휘  manual  n.	안내서		 draft  v.	기안하다,	초안을	작성하다		 right  v.	권리			 
+fair  adj.	온당한,	타당한			
+111	 to	부정사	채우기
+해설  동사 compel(was compelled) 다음에는 to 부정사가 와야 하므로, (A) to 
+call이 정답이다. 동명사 (B), 동사원형 (C), 단수 동사 (D)는 동사 compel 
+다음에 올 수 없다.
+해석	 	Mr.	Jenkins는	그의	직원들이	수많은	부주의한	회계	실수를	했다는	것을	알아
+차린	후,	어쩔	수	없이	전	직원	회의를	소집해야만	했다.
+어휘  be compelled to 어쩔	수	없이	~하다		 careless  adj.	부주의한			 
+accounting  n.	회계
+112	 형용사	어휘	고르기	
+해설  ‘빈자리는 다음 주에 채워질 것이다’라는 문맥이므로 (A) vacant(빈, 비어 있
+는)가 정답이다. (B) enhanced는 ‘증대한, 강화한’, (C) agreeable은 ‘기분 
+좋은, 기꺼이 동의하는’, (D) selective는 ‘선택하는’이라는 의미이다.
+해석	 	빈자리는	여름에	정보	기술	부서에	합류하는	인턴에	의해	다음	주에	채워질	것
+이다.
+어휘  position  n.	자리,	직위		 fill  v.	채우다,	메우다			
+113	 다른	명사를	수식하는	명사	채우기
+해설  명사 gas(가스)와 함께 ‘가스 누출’이라는 복합 명사를 만드는 (D) leak(누출)
+가 정답이다. (A) damage는 ‘손상’, (B) repair는 ‘수선, 수리’, (C) barrier
+는 ‘장벽’이라는 의미이다.
+해석	 	소방국은	잠재적으로	유해한	가스	누출이	신고된	직후에	Pillar	Towers의	거
+주자들에게	건물을	비우도록	명령했다.	
+어휘  tenant  n.	거주자,	임차인		 evacuate  v.	비우다,	대피시키다			 
+potentially  adv.	잠재적으로		 report  v.	신고하다,	보도하다			
+114	 형용사	자리	채우기
+해설  명사(results)를 꾸밀 수 있는 것은 형용사이므로 형용사 (A) contradictory 
+(모순된)가 정답이다. 동사 (B), (C)는 명사를 꾸밀 수 없고, 명사 (D) 
+contradiction은 명사 results와 복합 명사를 이룰 수 없다.
+해석	 	만약	두	개의	서로	다른	연구실에	의해	진행된	초기	실험들이	모순된	결과를	가
+져온다면,	연구원들은	세	번째	제공업체를	찾아내야	할	것이다.
+어휘  initial  adj.	초기의,	처음의		 separate  adj.	서로	다른,	분리된			 
+seek out 	~을	찾아내다			
+115	 상관접속사	채우기
+해설  상관접속사 and와 맞는 짝인 (C) both가 정답이다. (A) either와 (D) 
+whether는 or와 맞는 짝이다. (B) each는 단수 명사 앞에 와야 하는데 뒤에 
+복수 명사(risks)가 왔으므로 답이 될 수 없다.
+해석	 	정부	공무원들은	그러한	대규모	주택	개발	사업과	관련된	범위와	위험들에	대
+해	불안해했다.
+어휘  official  n.	공무원		 unsure  adj.	불안한,	의심스러워하는		 scope  n.	범위			 
+residential  adj.	주택의,	주거의
+116	 현재분사와	과거분사	구별하여	채우기	
+해설  명사(passengers)를 꾸미기 위해서는 분사 (B) 또는 (C)가 와야 한다. 수
+식 받는 명사(passengers)와 분사가 ‘탑승객들이 도착하다’라는 의미의 능
+동 관계이므로 현재분사 (C) arriving(도착하는)이 정답이다. 복합 명사(명사 
++ 명사)가 아닌 경우, 명사(arrival)는 명사(passengers)를 꾸밀 수 없으므
+로 명사 (D) arrival은 답이 될 수 없다. 참고로, 동사 arrive는 자동사이므로 
+수동 관계를 의미하는 과거분사로 쓰일 수 없다. 
+해석	 	Carson	국제공항에	도착하는	승객들을	위해	최근에	건설된	터미널은	5월		
+31일에	대중에게	개방될	것으로	예상된다.	
+어휘  construct  v.	건설하다,	짓다		 public  n.	대중,	일반	사람들
+117	 전치사	채우기
+해설  ‘주 전체에 걸쳐서’라는 의미를 만드는 (C) throughout(~ 전체에 걸쳐서)이 
+정답이다. (A) upon은 on 대신 사용되는 전치사이다. (B) inside는 ‘~ 안쪽
+에’, (D) above는 ‘~ 위에’라는 의미이다.
+해석	 	지역	뉴스는	주	전체에	걸쳐서	심각한	기상	경보를	내렸고	도로	이용을	삼가라
+고	권고했다.
+어휘  issue  v.	(선언	·	명령	·	경보	등을)	내리다,	발행하다		 severe  adj.	심각한,	엄중한			 
+stay off 삼가다,	~에서	떨어져	있다
+118	 단수	명사와	복수	명사	구별하여	채우기
+해설  빈칸은 전치사 of의 목적어 자리이므로 명사 (A)와 (B)가 정답의 후보이다. 
+part는 ‘부품, 부분’을 의미하는 가산 명사이므로 앞에 관사가 오거나 복수형
+이어야 하는데, 빈칸 앞에 관사가 없으므로 복수형 (B) parts가 정답이다.
+해석	 	기계	관리	부서장은	엔진이	제대로	기능하기	위해서는	핵심적인	부품들의	교
+체가	필요하다는	것을	알아챘다.
+어휘  maintenance  n.	관리,	유지		 replacement  n.	교체			 
+vital  adj.	핵심적인,	필수적인		 function  v.	기능하다		 properly  adv.	제대로
+119	 부사	어휘	고르기	
+해설  ‘직원들을 객관적으로 대하고 개인적인 의견이 결정에 간섭하지 않도
+록 하다’라는 문맥이므로 (B) objectively(객관적으로)가 정답이다. (A) 
+conditionally는 ‘조건부로’, (C) compassionately는 ‘동정적으로’, (D) 
+approvingly는 ‘찬성하여’라는 의미이다.
+해석	 	그	교수는	많은	사장들이	직원들을	객관적으로	대하고	개인적인	의견이	결정
+에	간섭하지	않도록	하는	것을	어려워한다고	말했다.
+어휘  interfere  v.	간섭하다
+120	 의미	구별하여	명사	채우기
+해설  형용사(personal)의 꾸밈을 받을 수 있는 것은 명사이므로 (C)와 (D)가 
+정답의 후보이다. ‘개인의 책임을 강조하다’라는 의미가 되어야 하므로 (D) 
+accountability(책임)가 정답이다. (C) account(계좌)를 쓰면 ‘개인의 계좌
+를 강조하다’라는 어색한 의미가 된다. 형용사 (A)와 부사 (B)는 형용사의 꾸
+밈을 받을 수 없다.
+해석	 	Accelero사는	직원들에게	명확한	역할을	주고	개인의	책임을	강조함으로써	
+그들의	리더십	역량을	발전시키려고	노력한다.
+어휘  develop  v.	발전시키다		 role  n.	역할		 emphasize  v.	강조하다			 
+accountable  adj.	책임이	있는			
+121	 형용사	어휘	고르기	
+해설  ‘새롭게 재디자인된 용기가 상점 선반에서 제품들을 쉽게 알아볼 수 있게 
+하다’라는 문맥이므로 (C) recognizable(알아볼 수 있는)이 정답이다. (A) 
+fashionable은 ‘최신 유행의, 유행하는’, (B) compatible은 ‘양립할 수 있
+는, 모순이 없는’, (D) preferable은 ‘오히려 나은, 보다 바람직한’이라는 의
+미이다.
+해석	 	Derry	Milk사는	그들의	새롭게	재디자인된	용기가	상점	선반에서	그들의	제품
+을	더	쉽게	알아볼	수	있게	하기를	바란다.
+어휘  packaging  n.	용기,	포장		 shelf  n.	선반
+122	 부사	자리	채우기
+해설  동사(allocate)를 꾸밀 수 있는 것은 부사이므로 부사 (C) reasonably(합리
+적으로)가 정답이다. 동사 또는 명사 (A), 명사 또는 형용사 (B), 형용사 (D)는 
+동사를 꾸밀 수 없다.
+해석	 	예산	위원회는	적절한	인재를	합리적으로	배치할	충분한	시간을	감안하여	사
+업	제안서를	승인했다.
+어휘  budget  n.	예산		 proposal  n.	제안서		 allocate  v.	배치하다,	배분하다			 
+human resources 인재,	노동력		 reasoning  n.	추리,	추론; adj.	추리하는 
+reasonable  adj.	도리에	맞는,	정당한			
+123	 전치사	채우기
+해설  이 문장은 주어(Many customers), 동사(have been), 보어(unwilling to 
+실전모의고사 2 |  23
+H
+a
+ck
+e
+rs T
+O
+E
+IC
+R
+e
+a
+d
+in
+g
+실
+전
+모
+의
+고
+사
+2
+switch)를 갖춘 완전한 절이므로 ____ some ~ offers는 수식어 거품으로 보
+아야 한다. 보기 중 수식어 거품을 이끌 수 있는 전치사 (A) despite가 정답
+이다. 부사 (B), (C), (D)는 수식어 거품을 이끌 수 없다.
+해석	 	몇몇	매력적인	판촉	할인에도	불구하고	많은	고객들이	Beat	Cellular사로	바
+꾸는	것을	마음	내켜하지	않았다.
+어휘  unwilling  adj.	마음	내키지	않는		 switch  v.	바꾸다			 
+attractive  adj.	매력적인		 offer  n.	할인			
+124	 명사	어휘	고르기	 	
+해설  ‘객실과 시설의 상태를 점검하는 검사관 팀을 고용한다’라는 문맥이므로 
+(C) condition(상태)이 정답이다. (A) relevance는 ‘적절, 타당성’, (B) 
+elimination은 ‘제거’, (D) concentration은 ‘집중’이라는 의미이다.
+해석	 	Signal	호텔은	호텔	체인점들의	모든	객실과	시설의	상태를	점검하는	검사관	
+팀을	고용한다.
+어휘  employ  v.	고용하다,	쓰다		 inspector  n.	검사관,	시찰자			 
+facility  n.	시설
+125	 부사	자리	채우기
+해설  동사(was aligned)를 꾸미기 위해서는 부사가 필요하므로 부사 (C) more 
+closely가 정답이다. 참고로, 부사 more가 부사 closely를 강조하여 ‘보다 밀
+접하게’라는 의미를 나타낸다. 형용사 (A), (B), (D)는 동사를 꾸밀 수 없다.
+해석	 	Mr.	Anderson은	KPI사를	떠나	Thornwoode사로	갔는데	그는	그의	가치관
+과	포부에	보다	밀접하게	결합되는	회사에서	일하고	싶었기	때문이다.
+어휘  align  v.	결합하다,	정렬하다		 value  n.	가치관,	가치		 aspiration  n.	포부
+126	 부사	어휘	고르기	
+해설  ‘몹시 바쁜 스케줄은 깊이 있는 일대일 대화를 할 수 있는 시간을 좀처럼 허
+락하지 않는다’라는 문맥이므로 (B) rarely(좀처럼 ~하지 않는)가 정답이다. 
+(A) frequently는 ‘자주’, (C) consistently는 ‘일관되게, 모순이 없게’, (D) 
+typically는 ‘전형적으로, 일반적으로’라는 의미이다. 
+해석	 	Mr.	Bloom의	몹시	바쁜	스케줄은	그가	팀원들과	깊이	있는	일대일	대화를	할	
+수	있는	시간을	좀처럼	허락하지	않는다.
+어휘  hectic  adj.	몹시	바쁜		 in-depth  adj.	깊이	있는,	면밀한			 
+one-on-one  adj.	일대일의,	단	두	사람	사이의
+127	 동사	어휘	고르기	
+해설  ‘다가오는 몇 주 이내에 추가적인 최신 정보를 공개하다’라는 문맥이므로 (B) 
+release(공개하다, 발표하다)가 정답이다. (A) inform(알려주다)도 답이 될 수 
+있을 것 같지만 inform 뒤의 목적어 자리에는 정보를 전달받는 대상이 나와
+야 하므로 답이 될 수 없다. (C) exhibit은 ‘전시하다’, (D) propose는 ‘제의
+하다, 제안하다’라는 의미이다.
+해석	 	GMT사의	고위	간부들은	다가오는	몇	주	이내에	Hawkland	Electric사와의	
+합병에	관한	추가적인	최신	정보를	공개할	것으로	예상된다.
+어휘  further  adj.	추가적인		 update  n.	최신	정보		 merger  n.	합병 
+coming  adj.	다가오는,	다음의			
+128	 명사	어휘	고르기	
+해설  ‘휠체어를 탄 사람들을 위해 공공건물들에 대한 접근성을 향상시키다’라는 
+문맥이므로 (D) accessibility(접근성)가 정답이다. (A) operation은 ‘작동’, 
+(B) capability는 ‘능력, 재능’, (C) evaluation은 ‘평가’라는 의미이다.
+해석	 	시의회는	휠체어를	탄	사람들을	위해	공공건물들에	대한	접근성을	향상시킬	
+법률을	신속히	승인했다.
+어휘  approve  v.	승인하다		 legislation  n.	법률		 improve  v.	향상시키다
+129	 지시대명사	채우기
+해설  뒤에 분사(wishing)를 수식어로 받아 ‘원하는 사람들’을 의미하므로 (D) 
+those가 정답이다. 관계대명사 (A)는 선행사가 있어야 하므로 답이 될 수 없
+다.
+해석	 	Moda-Lita사는	산업에	새로운	전망을	가져오길	희망하는	헌신적이고	열정적
+인	디자이너들로	구성된	팀에서	일하길	원하는	사람들을	위한	몇몇	공석을	가
+지고	있다.
+어휘  opening  n.	공석,	빈자리		 dedicated  adj.	헌신적인			 
+passionate  adj.	열정적인		 perspective  n.	전망,	관점
+130	 부사	어휘	고르기	
+해설  ‘연회는 엄격히 회원들을 위한 것이므로 입장하기 전에 초대장이 제시되어야 
+한다’라는 문맥이므로 (C) strictly(엄격하게)가 정답이다. (A) supremely는  
+‘극도로, 지극히’, (B) debatably는 ‘논쟁의 여지가 있게’, (D) widely는 ‘넓
+게, 크게’라는 의미이다.
+해석	 	내일	저녁	연회는	엄격히	Ravenport	Country	클럽의	회원들을	위한	것이므
+로,	입장이	허가되기	전에	초대장이	반드시	제시되어야	한다.
+어휘  banquet  n.	연회,	성찬		 invitation  n.	초대장			 
+present  v.	제시하다,	보여주다		 entry  n.	입장			 
+permit  v.	허가하다; n.	허가증
+131-134는 다음 광고에 관한 문제입니다.
+당신은	열정적인	독서가인가요?	당신은	집	서재에	책	더미를	가지고	있나요?	
+그	 모든	 공간	 낭비를	 그만두고	 새로운	 ShockRead	 모바일	 전자책	 단말기
+를	써	보세요!	자주	끊임없이	움직이는	독서가들을	위해	더할	나위	없이	좋은	
+ShockRead는	사실상	어디든	가져갈	수	있습니다.	게다가,	ShockRead는	재
+충전될	필요	없이	20시간	동안	작동합니다.	131이것은 진실로 타의 추종을 불허
+하는 편리함을 제공합니다.
+더구나,	이	휴대용	전자책	단말기는	20기가바이트의	데이터를	보유할	수	있습
+니다.	132그렇기 때문에, 당신은 당신 선반 위의 컬렉션만큼 당신의 새로운 디
+지털 서재가 광대할 것임을 확신할 수 있습니다.	그리고	만약	당신이	책을	읽
+고	싶지	않다면,	ShockRead가	당신을	위해	그것을	해드릴	수	있습니다.	133당
+신은 여러 가지의 자연스러운 목소리와 속도 중에서 선택할 수 있습니다.	그저	
+당신이	원하는	것을	고르고,	버튼	터치	한	번으로,	당신은	실시간	내레이션을	제
+공받을	것입니다!
+이	놀라운	기기는	온라인에서	7월	10일부터	구매	가능할	것입니다.	 134www.
+shockread.com을 방문하여 일주일 미리 선주문하면, 10퍼센트의 할인이 제
+공될 것입니다.
+avid  adj.	열정적인		 pile  n.	더미		 frequently  adv.	자주			 
+on the go 끊임없이	움직이는,	정신없이	바쁜		 virtually  adv.	사실상			 
+unmatched  adj.	타의	추종을	불허하는,	비길	데	없는			 
+portable  adj.	휴대용의,	휴대가	쉬운		 real-time  adj.	실시간의			 
+gadget  n.	기기		 pre-order  v.	선주문하다
+131	 부사	어휘	고르기		 주변 문맥 파악
+해설  ‘ShockRead는 ____ 타의 추종을 불허하는 편리함을 제공한다’라는 문
+맥이므로 모든 보기가 정답의 후보이다. 빈칸이 있는 문장만으로는 정답을 
+고를 수 없으므로 주변 문맥이나 전체 문맥을 파악한다. 지문 앞부분에서 
+‘ShockRead는 어디든 가져갈 수 있고, 재충전될 필요 없이 20시간 동안 작
+동한다’고 했으므로 강조의 의미를 나타내는 (A) truly(진실로)가 정답이다.
+어휘  lastly  adv.	마지막으로,	끝으로		 originally  adv.	원래,	처음에는 
+rarely  adv.	드물게
+132	 형용사	어휘	고르기		 주변 문맥 파악
+해설  ‘당신 선반 위의 컬렉션만큼 당신의 새로운 디지털 서재가 ____할 것이다’라
+는 문맥이므로 모든 보기가 정답의 후보이다. 빈칸이 있는 문장만으로 정답을 
+고를 수 없으므로 주변 문맥이나 전체 문맥을 파악한다. 앞 문장에서 ‘이 휴대
+용 전자책 단말기는 20기가바이트의 데이터를 보유할 수 있다’고 했으므로 
+(D) extensive(광대한)가 정답이다.
+어휘  affordable  adj.	(가격	등이)	알맞은		 adjustable  adj.	조정할	수	있는 
+simplistic  adj.	지나치게	단순화한
+133	 알맞은	문장	고르기
+해석	 	(A)	저장	공간은	수천	권의	책을	다운로드할	수	있도록	할	것입니다.	
+(B)	일부	독서가들은	그들의	컬렉션에	어떤	책이	있는지	모릅니다.	
+(C)	이	서비스는	지정된	구역에서만	이용	가능합니다.
+(D)		당신은	여러	가지의	자연스러운	목소리와	속도	중에서	선택할	수	있습니다.
+24 |  무료 온라인 실전모의고사 · 무료 토익 학습자료 · 취업정보 제공  Hackers.co.kr
+해설  빈칸에 들어갈 알맞은 문장을 고르는 문제이므로 빈칸의 주변 문맥이나 전
+체 문맥을 파악한다. 앞 문장 ‘if you don’t feel like reading, ShockRead 
+can do it for you’에서 책을 읽고 싶지 않다면 ShockRead가 당신을 위해 
+그것을 해줄 수 있다고 했고, 뒤 문장 ‘choose what you want and, at the 
+touch of a button, you will be provided with real-time narration’
+에서 원하는 것을 고르고 버튼 터치 한 번으로 실시간 내레이션을 제공받을 
+것이라고 했으므로 빈칸에는 여러 가지의 자연스러운 목소리와 속도 중에서 
+선택할 수 있다는 내용이 들어가야 함을 알 수 있다. 따라서 (D) You can 
+select from several natural voices and speeds가 정답이다. 
+어휘  storage space 저장	공간		 designated  adj.	지정된	
+134	 부사	어휘	고르기
+해설  ‘일주일 미리 선주문하면, 10퍼센트의 할인이 제공될 것이다’라는 문맥이므
+로 부사 (B) beforehand(미리)가 정답이다. 
+어휘 anytime  adv.	언제든		 lately  adv.	최근에		 instantly  adv.	즉시
+135-138은 다음 편지에 관한 문제입니다.
+Brad	Warren
+6809번지	Harvest로
+볼더,	콜로라도주	80301
+Mr.	Warren께,
+저희가	전화로	이야기했을	때,	당신은	볼더	도심지에	식당을	열	계획이라고	말
+씀하셨습니다.	 135제가 당신의 새로운 가게를 위한 이상적인 장소를 찾았습니
+다.	136이것은 귀하의 크기 요건을 충족시킬 뿐만 아니라, 귀하의 가격 범위 내
+에도 있습니다.
+하지만	한	가지	조건을	아셔야	합니다.	137소유주는 적어도 5년간 머무를 수 있
+는 세입자를 찾고 있습니다.	이러한	종류의	장기	임대차	계약과	관련된	위험	요
+소가	있다는	것을	알지만,	그는	그	장소를	꽤	저렴하게	임대할	의향이	있습니다.	
+그는	제가	예상했던	것보다	약	15퍼센트	더	적게	요구하고	있습니다.	
+138이번 주에 이 건물을 둘러보는 것에 관심이 있으시다면 알려주세요.	만약	그
+렇지	않다면,	그	대신에	제가	당신과	공유할	수	있는	몇	가지	다른	대안들을	생각
+해	두었습니다.	제게	(303)	555-9276으로	전화	주세요.
+Hillary	Evans	드림
+City	부동산업자
+ideal  adj.	이상적인		 location  n.	장소		 requirement  n.	요건,	요구 
+within  prep.	내에		 range  n.	범위		 condition  n.	조건,	상태			 
+risk  n.	위험	(요소)		 involve  v.	관련시키다,	내포하다		 lease  n.	임대차	계약			 
+be willing to ~할	의향이	있다		 rent  v.	임대하다		 rather  adv.	꽤,	상당히	 
+cheaply  adv.	저렴하게		 property  n.	건물,	부동산		 alternative  n.	대안 
+share  v.	공유하다,	나누다
+135	 올바른	시제의	동사	채우기		주변 문맥 파악
+해설  문장에 동사가 없으므로 동사 (A), (B), (C)가 정답의 후보이다. ‘새로운 가게
+를 위한 이상적인 장소를 찾다’라는 문맥인데, 이 경우 빈칸이 있는 문장만으
+로는 정답을 고를 수 없으므로 주변 문맥이나 전체 문맥을 파악한다. 뒤 문장
+에서 ‘이것은 귀하의 크기 요건을 충족시킬 뿐만 아니라, 귀하의 가격 범위 내
+에도 있다(Not only does it meet your size requirements, but it’s also 
+within your price range)’고 했으므로 새로운 가게를 위한 이상적인 장소
+를 찾는 것이 방금 완료되었음을 알 수 있다. 따라서 과거에 발생한 일이 현재
+까지 영향을 미치거나 방금 완료된 것을 표현할 때 사용되는 현재 완료 시제 
+(A) have found가 정답이다.
+136	 도치	구문	채우기
+해설  부정어(Not)가 문장 맨 앞에 왔으므로 주어와 동사가 도치된 구조가 나와야 
+한다. 보기에 있는 동사 meet이 일반동사이므로 do 조동사(does)가 앞으로 
+나가고 주어(it)와 동사원형(meet)이 사용된 (B) does it meet이 정답이다. 
+참고로, not only A but also B가 절(does it meet ~ requirements)과 절
+(it’s ~ range)을 연결하고 있다. 
+137	 알맞은	문장	고르기
+해석	 (A)	소유주는	적어도	5년간	머무를	수	있는	세입자를	찾고	있습니다.
+(B)	건설	공사가	특정	구역에서	이미	진행	중입니다.
+(C)	그	건물은	가장	최근의	안전	점검을	통과하지	못했습니다.
+(D)	이것이	당신이	희망했던	것보다	약간	더	작아서	유감입니다.
+해설  빈칸에 들어갈 알맞은 문장을 고르는 문제이므로 빈칸의 주변 문맥이나 전
+체 문맥을 파악한다. 앞 문장 ‘You should be aware of one condition, 
+however.’에서 알아야 할 한 가지 조건이 있다고 한 후, 뒤 문장 ‘I know 
+that there is risk involved with these kinds of long-term leases’에서 
+이러한 종류의 장기 임대차 계약과 관련된 위험 요소가 있는 것을 안다고 했
+으므로 빈칸에는 장기 임대차 계약에 관한 요구 조건이 들어가야 함을 알 수 
+있다. 따라서 (A) The owner is looking for a tenant who can stay at 
+least five years가 정답이다.
+어휘  owner  n.	소유주,	주인		 tenant  n.	세입자		 construction  n.	건설	공사			 
+underway  adj.	진행	중인		 pass  v.	통과하다		 recent  adj.	최근의			 
+inspection  n.	점검		 somewhat  adv.	약간,	다소
+138	 유사의미	동사	중에서	고르기		 전체 문맥 파악
+해설  ‘이 건물을 ____ 것에 관심이 있으면 알려달라’라는 문맥이므로 모든 보기가 
+정답의 후보이다. 빈칸이 있는 문장만으로 정답을 고를 수 없으므로 주변 문
+맥이나 전체 문맥을 파악한다. 지문 앞부분에서 발신자가 상대방의 새로운 가
+게를 열만한 적합한 장소를 찾았다고 한 후, 뒤 문장에서 ‘만약 그렇지 않다면 
+그 대신에 상대방과 공유할 수 있는 몇 가지 다른 대안들을 생각해 두었다(If 
+not, I’ve come up with a few other alternatives that I can share with 
+you instead.)’고 했으므로 그 장소를 둘러보는 것에 관심이 있으면 알려주
+고, 만약 관심이 없다면 다른 대안을 논의하자고 제안하고 있음을 알 수 있다. 
+따라서 ‘둘러보다, 살펴보다’를 의미하는 동사 view의 -ing형 (A) viewing이 
+정답이다. (B)의 design은 ‘디자인하다, 설계하다’, (C)의 show는 ‘보여주
+다’, (D)의 sell은 ‘팔다’라는 의미이므로 문맥에 어울리지 않는다. 
+139-142는 다음 공고에 관한 문제입니다.
+모든	Cheswick	타워	주민들께	드리는	공고
+139많은 분들께서 평소와 다르게 높은 가스 요금에 관해 관리 사무소로 연락하
+셨습니다.	140철저한 검사를 한 후에, 저희는 많은 계량기들이 결함이 있음을 발
+견했습니다.	그것들은	노후되어서	매달	사용되는	가스량을	정확하게	측정하지	
+못하고	있습니다.	그러므로,	저희는	각	아파트의	계량기가	교체되도록	계획했습
+니다.	141이 작업은 다음 주 중에 실시될 것입니다. 이는	문제를	해결하고,	여러분
+이	추후에	정확한	청구서를	받도록	보장할	것입니다.	
+또한,	초과	지불하셨던	분들은	배상을	받으실	것입니다.	여러분이	돌려받으실	정
+확한	금액은	다음	달	청구서에서	보여질	것입니다.	
+142이것이 초래한 불편에 대해 사과 드립니다. 
+notice  n.	공고		 resident  n.	주민		 a number of 많은	 
+management office 관리	사무소		 conduct  v.	하다,	처리하다			 
+thorough  adj.	철저한		 meter  n.	계량기			 arrange  v.	계획하다,	배치하다			 
+replace  v.	교체하다		 ensure  v.	보장하다		 bill  v.	청구서를	보내다; n.	청구서			 
+overpay  v.	초과	지불하다		 reimburse  v.	배상하다			 
+cause  v.	초래하다,	야기하다
+139	 전치사	고르기
+해설  ‘평소와 다르게 높은 가스 요금에 관해 관리 사무소로 연락했다’는 의미가 되
+어야 하므로 (B) concerning(~에 관해)이 정답이다. 
+어휘  between  prep.	~	사이에		 except  prep.	~을	제외하고는			
+140	 형용사	어휘	고르기		주변 문맥 파악
+해설  ‘많은 계량기들이 ____하다’라는 문맥이므로 모든 보기가 정답의 후보이다. 
+빈칸이 있는 문장만으로 정답을 고를 수 없으므로 주변 문맥이나 전체 문맥을 
+파악한다. 뒤 문장에서 ‘그것들은 노후되어서 매달 사용되는 가스량을 정확하
+게 측정하지 못한다(They are not accurately measuring the amount 
+of gas used each month because they are getting old.)’고 했으므로 
+많은 계량기가 결함이 있음을 알 수 있다.  따라서 (B) defective가 정답이다.
+어휘 absent  adj.	없는,	부재의		 hazardous  adj.	위험한		 complex  adj.	복잡한
+실전모의고사 2 |  25
+H
+a
+ck
+e
+rs T
+O
+E
+IC
+R
+e
+a
+d
+in
+g
+실
+전
+모
+의
+고
+사
+2
+141	 알맞은	문장	고르기
+해석	 	(A)	더	적은	에너지를	사용하기	위해	당신이	할	수	있는	일들이	있습니다.
+(B)	최근에	전기	요금이	낮아지고	있습니다.
+(C)	여러분은	더	이상	종이로	된	청구서를	받지	않을	것입니다.
+(D)	이	작업은	다음	주	중에	실시될	것입니다.		
+해설  빈칸에 들어갈 알맞은 문장을 고르는 문제이므로 빈칸의 주변 문맥이나 전
+체 문맥을 파악한다. 앞 문장 ‘we have arranged for the meter in each 
+apartment to be replaced’에서 각 아파트의 계량기가 교체되도록 계획했
+다고 한 후, 뒤 문장 ‘This should solve the problem and ensure that 
+you are billed correctly in the future.’에서 이는 문제를 해결하고 추후 
+정확한 청구서를 받도록 보장할 것이라고 했으므로 빈칸에는 아파트 계량기 
+교체와 관련된 세부 사항이 들어가야 함을 알 수 있다. 따라서 (D) The work 
+will be carried out sometime next week이 정답이다. 
+어휘 lately  adv.	최근에		 no longer 	더	이상	~	아닌		 carry out 	실시하다,	수행하다
+142	 명사	자리	채우기
+해설  전치사(for)의 목적어 자리에 올 수 있는 것은 명사이므로 한정사(any)로 수
+식된 명사 (A) any inconveniences가 정답이다. 형용사 (B)와 (D), 부사 
+(C)는 명사 자리에 올 수 없다. 참고로, 빈칸 뒤의 this has caused you는 앞
+의 목적어(any inconveniences)를 꾸미는 수식어 거품이며, 목적격 관계대
+명사 which 또는 that이 생략된 관계절이다.
+143-146은 다음 기사에 관한 문제입니다.
+음료의	새로운	선도자
+143이번 주 목요일에 발표될 Regalia사 연구 보고서에 따르면, Fizz Devil사가 
+급속히 확장되고 있는 탄산음료 제조업 분야에서 선두에 섰다. 
+Regalia사의	연구원들은	Fizz	Devil사가	자사의	제품을	경쟁사들의	제품들로
+부터	성공적으로	차별화시켰다고	말한다.	144식음료 산업의 경향에 대응해, Fizz 
+Devil사는 소비자들에 대한 접근법을 바꿨다.
+Fizz	Devil사의	마케팅	책임자	Andrea	Thompson은	“몇	년	전,	저희는	사람
+들의	음료	선호도에서	서서히	드러나고	있는	하나의	패턴을	발견했습니다.	145그 
+들은 설탕이 든 청량음료보다 건강한 대안을 찾고 있었습니다.	우리는	그들의	
+욕구를	충족시켜	줄	수	있는	제품을	만들기	위해	그	연구	결과를	활용했습니
+다.”라고	말한다.
+이	분야의	수많은	회사들이	여전히	따라잡으려고	노력하는	가운데,	Fizz	Devil
+사는	이미	소비자층이	구할	수	있는	건강에	좋은	병	음료	제품을	내놓았다.	이	제
+품들은	전국의	상점	선반에서	찾을	수	있으며	건강을	생각하거나	운동을	하는	
+사람들에게	인기	있다.	146이 제품은 Homerun Thirst와 Yoga Refresh와 같
+은 이름들로 음료의 특징을 보여준다.
+take the lead in ~에서	선두에	서다		 rapidly  adv.	급속히,	빠르게			 
+expand  v.	확장되다,	확대되다		 manufacturing  n.	제조업,	제조			 
+remark  v.	말하다,	언급하다		 modify  v.	바꾸다,	수정하다			 
+approach  n.	접근법,	처리	방법		 state  v.	말하다,	진술하다			 
+identify  v.	발견하다		 preference  n.	선호			 
+introduce  v.	(상품을)	내놓다,	소개하다		 line  n.	제품,	선			 
+buying public 소비자층		 health-conscious 건강을	생각하는,	조심하는
+143	 전치사	채우기
+해설  ‘이번 주 목요일에 발표될 Regalia사 연구 보고서에 따르면’이라는 의미가 되
+어야 하므로 (B) according to(~에 따르면, 의하면)가 정답이다.
+144	 명사	어휘	고르기		 주변 문맥 파악
+해설  ‘식음료 산업의 ____에 대응해, 소비자들에 대한 접근법을 바꿨다’라는 의미
+가 되어야 하므로 (B) trend(경향)와 (C) decline(하락)이 정답의 후보이다. 
+빈칸이 있는 문장만으로 답을 알 수 없으므로 주변 문맥이나 전체 문맥을 파
+악한다. 지문 중간 부분에서 ‘몇 년 전, 사람들의 음료 선호도에서 서서히 드
+러나고 있는 하나의 패턴을 발견했다(Some years back, we identified a 
+slowly emerging pattern in people’s beverage preferences.)’고 했으
+므로 음료 시장의 경향이 바뀌고 있음을 알 수 있다. 따라서 (B) trend가 정답
+이다.
+어휘  source  n.	원천,	근원		 control  n.	통제
+145	 알맞은	문장	고르기
+해석	 (A)	그들은	수돗물보다	깨끗한	병에	든	생수를	구매하기를	원했습니다.
+(B)	그들은	과일주스보다	탄산음료를	선호했습니다.
+(C)	그들은	설탕이	든	청량음료보다	건강한	대안을	찾고	있었습니다.
+(D)	그들은	제조업체들이	더	작은	병에	담긴	음료를	생산하기를	원했습니다.
+해설  빈칸에 들어갈 알맞은 문장을 고르는 문제이므로 빈칸의 주변 문맥이나 전
+체 문맥을 파악한다. 앞 문장 ‘we identified a slowly emerging pattern 
+in people’s beverage preferences’에서 사람들의 음료 선호도에서 서서
+히 드러나는 하나의 패턴을 발견했다고 한 후, 뒷부분에서 회사가 건강에 좋
+은 음료 제품을 내놓았다고 했으므로 빈칸에는 사람들이 설탕이 든 청량음료
+보다 건강한 대안을 찾고 있었다는 내용이 들어가야 함을 알 수 있다. 따라서 
+(C) They were seeking healthier alternatives to sugary soft drinks가 
+정답이다. 
+어휘  tap water 수돗물		 carbonated drink 탄산음료			 
+alternative  n.	대안,	대체물		 soft drink 청량음료
+146	 올바른	시제의	동사	채우기
+해설  문장에 동사가 없으므로 동사 (A), (B), (D)가 정답의 후보이다. ‘이 제품은 
+음료의 특징을 보여준다’라는 일반적인 사실을 표현하고 있으므로 현재 시제 
+(A) features가 정답이다. 과거 시제 (B)는 이미 끝난 과거의 동작이나 상태
+를 표현하므로 답이 될 수 없다. 동명사 (C)는 동사 자리에 올 수 없다.
+어휘  feature  v.	~의	특징을	보여주다,	특징을	이루다			
+147-148은 다음 광고지에 관한 문제입니다.
+Carbury	배관
+배관	공사	&	배수	서비스
+148-A이 업계에서 20년 이상의 경력을 가진 저희 배관 공사 전문가들은 
+진정으로 최고입니다!
+147저희는	고객님의	모든	배관	공사	문제를	처리하기	위해	다음을	포함한	많은 
+전문적인 서비스들을 제공합니다:
+	막힌	곳과	누수	보수
+	싱크대	수리
+	물	여과	장치	설치
+	148-B보일러 교체
+	양수기	수리
+	...그리고	더	많은	것들!
+이	전단지를	가지고	오셔서	무료	상담과	저희의	전문가들	중	한	명으로부터		
+고객님의	첫	방문으로	인한	10퍼센트	할인을	받으세요.
+이	판촉	활동은	다른	할인과	병행될	수	없다는	것을	유의해	주세요.
+Carbury	배관
+22	Pewter로
+앨버커키,	뉴멕시코주	87111
+555-8829
+plumbing  n.	배관,	배관	공사		 specialized  adj.	전문적인,	전문화된			 
+address  v.	처리하다		 renovation  n.	수리		 combine  v.	병행하다,	결합하다			 
+offer  n.	할인,	제공			
+147	 주제/목적	찾기	문제
+문제	 광고지의	목적은	무엇인가?
+(A)	한정된	기간	동안의	할인을	홍보하기	위해
+(B)	사무실	배관	공사	작업을	알리기	위해
+(C)	새로운	배관공들을	모집하기	위해
+(D)	다양한	서비스들을	광고하기	위해
+해설  광고지의 목적을 묻는 목적 찾기 문제이다. 특별히 이 문제는 지문의 중반
+에 목적 관련 내용이 언급되었음에 유의한다. ‘We offer a number of 
+specialized services’(2문단 1번째 줄)에서 우리는 많은 전문적인 서비스
+를 제공한다고 했으므로 (D) To advertise various services가 정답이다.
+어휘  recruit  v.	모집하다		 plumber  n.	배관공
+26 |  무료 실전 문제 해설강의 · 무료 단어암기 MP3  HackersIngang.com
+148	 Not/True	문제
+문제	 Carbury	배관의	전문가들에	대해	언급된	것은?
+(A)	30년의	경력을	갖고	있다.
+(B)	고장난	온수기를	고칠	수	있다.
+(C)	욕실	개보수를	전문으로	한다.
+(D)	그들의	웹사이트에서	판촉	행사를	하고	있다.
+해설  질문의 핵심 어구인 Carbury Plumbing’s specialists와 관련된 내용을 지
+문에서 찾아 보기와 대조하는 Not/True 문제이다. (A)는 ‘With more than 
+20 years of experience in the business, our plumbing specialists 
+are truly the best!’(1문단 1번째 줄)에서 이 업계에서 20년 이상의 경력
+을 가진 우리 배관 전문가들이 진정으로 최고라고 했으므로 지문의 내용과 일
+치하지 않는다. (B)는 ‘Boiler replacements’(3문단 4번째 줄)에서 보일러 
+교체를 한다고 했으므로 지문의 내용과 일치한다. 따라서 (B) They can fix 
+broken water heaters가 정답이다. (C)와 (D)는 지문에 언급되지 않은 내
+용이다. 
+Paraphrasing
+Boiler 보일러 → water heaters 온수기
+어휘  decade  n.	10년
+149-150은 다음 송장에 관한 문제입니다.
+Arbinton	조경	회사	 	 	 송장
+37번지	Cauliflower로	 	 150-D오늘 날짜 7월 6일
+댈러스,	텍사스주	75201	 	 송장	번호	 347528
+전화:	555-9273	 	 고객	ID	 893A
+팩스:	555-9274	 	 149지급 만기일 7월 31일
+www.arbintonland.com
+청구	대상
+Mr.	Cameron	Reynolds
+Poindexter	제약
+500번지	Emory가
+댈러스,	텍사스주	75221
+555-6723
+설명 총액
+서비스	요금:	정원	설계 230.00달러	
+인건비:	시간당	$20달러씩	18시간 360.00달러
+소계	 												590.00달러
+의견 150-B4.5%의 세금	 26.55달러	
+*기타	 75.50달러
+합계	 692.05달러
+1.		고객님의	수표에	송장	번호를	포
+함시켜주십시오.
+2.		150-D*6월 6일 송장에서의 한 물
+품에 대한 가격 오류를 바로잡기 
+위해 요금이 추가되었습니다.
+모든	수표는	Arbinton	조경	
+회사로	지불되게	해주십시오.
+150-C만약 문의 사항이 있으시다면, 이곳으로 연락해주십시오:
+Mark Devers, 555-2268,	m_devers@arbintonland.com
+고객님의	거래에	감사드립니다!
+due date 만기일		 labor charge 인건비		 correct  v.	바로잡다,	정정하다			
+149	 육하원칙	문제
+문제	 Mr.	Reynolds는	7월	31일까지	무엇을	해야	하는가?
+(A)	그의	고객	신원	확인	번호를	확인한다.
+(B)	새로운	송장을	위해	Arbinton사에	연락한다.
+(C)	추가	요금에	대해	문의한다.
+(D)	전체	송장	금액을	지불한다.
+해설  Mr. Reynolds가 7월 31일까지 무엇(What)을 해야 하는지를 묻는 육하
+원칙 문제이다. 질문의 핵심 어구인 July 31와 관련하여, ‘Due Date, July 
+31’(INVOICE 하단 4번째 줄)에서 지급 만기일이 7월 31일이라고 했으므로 
+(D) Pay the total invoice amount가 정답이다.
+어휘  identification  n.	신원	확인,	신분증		 additional  adj.	추가의			
+150	 Not/True	문제
+문제	 송장에서	언급되지	않은	것은?
+(A)	설계	요금은	시간제로	청구되었다.
+(B)	세금이	총액에	추가되었다.
+(C)	Mr.	Devers는	문의	전화를	받을	수도	있다.
+(D)	지난달의	송장에	착오가	있었다.
+해설  질문의 핵심 어구인 invoice와 관련된 내용을 지문에서 찾아 보기와 대조
+하는 Not/True 문제이다. (A)는 지문에 언급되지 않은 내용이다. 따라서 
+(A) Design fees were charged by the hour가 정답이다. (B)는 ‘Tax at 
+4.5%’(comments 옆 표 1번째 줄)에서 세금이 총액에 추가되었으므로 지문
+의 내용과 일치한다. (C)는 ‘If you have any questions, please contact: 
+Mark Devers, 555-2268’(청구서 하단 1번째 줄)에서 문의 사항이 있다면, 
+Mark Devers에게 555-2268로 연락해 달라고 했으므로 지문의 내용과 일
+치한다. (D)는 ‘Today’s Date, July 6’(INVOICE 하단 1번째 줄)에서 오늘 
+날짜가 7월 6일이라고 했고, ‘Charge was added to correct a pricing 
+error for an item on the June 6 invoice.’(Comments 하단 2번째 줄)에
+서 6월 6일 송장에서의 가격 오류를 바로잡기 위해 요금이 추가되었다고 했
+으므로 지문의 내용과 일치한다.
+Paraphrasing
+error 오류 → mistake 착오
+어휘  charge  v.	청구하다		 by the hour 시간제로		 inquiry  n.	문의,	질문
+151-152는 다음 메시지 대화문에 관한 문제입니다.
+Emily	Jones		 [오후	2:20]
+151-A연례 안전 워크숍이 곧 있을 예정인데,	저는	그것에	대해	별로	들은	것이	없
+어요.	어디에서	열릴	예정인지	아시나요?	
+Chris	Cochran		 [오후	2:21]
+Greenwood	사무실이요.	151-B사실 모든 정보가 방금 회사 웹사이트에 게시되
+었어요.	
+Emily	Jones		 [오후	2:25]
+아,	그렇군요.	152Greenwood가 차로 3시간 정도 떨어진 데 있다고	나와	있어
+요. 상당한 주행 거리네요.	
+Chris	Cochran		 [오후	2:27]
+전적으로	동의해요.	작년에는	장소가	훨씬	더	가까웠어요.	어쨌든,	Mr.	Tate가	
+우리가	함께	갈	수	있도록	두	대의	큰	SUV를	빌릴	거라고	했어요.
+Emily	Jones		 [오후	2:28]
+괜찮은	것	같네요.	우리는	언제	떠나나요?
+Chris	Cochran		 [오후	2:30]
+151-C수요일 오후에 출발해서, 이틀 내내 연수를 하고, 워크숍이 끝나면 금요일 
+밤에 돌아올 거예요. 
+Emily	Jones		 [오후	2:31]
+알겠어요.	그럼	수요일에	봐요.	정보	고마워요,	Chris.	
+annual  adj.	연례의,	매년의			 post  v.	게시하다,	공고하다; n.	우편물 
+quite  adv.	상당히,	꽤		 totally  adv.	전적으로,	완전히		 venue  n.	장소			
+151	 Not/True	문제
+문제	 안전	워크숍에	대해	언급되지	않은	것은?
+(A)	매년	열린다.
+(B)	세부	사항은	온라인에서	찾을	수	있다.
+(C)	이틀간의	연수를	포함한다
+(D)	참석하는	것이	의무적이지	않다.
+해설  질문의 핵심 어구인 safety workshops와 관련된 내용을 지문에서 찾아 보
+기와 대조하는 Not/True 문제이다. (A)는 ‘The annual safety workshops 
+are coming up soon’(2:20 p.m.)에서 연례 안전 워크숍이 곧 있을 예정이
+라고 했으므로 지문의 내용과 일치한다. (B)는 ‘All the information was 
+actually just posted on the company Web site.’(2:21 p.m.)에서 사실 
+모든 정보가 방금 회사 웹사이트에 게시되었다고 했으므로 지문의 내용과 일
+치한다. (C)는 ‘We’ll leave on Wednesday afternoon, do two full days 
+of training, and head back Friday night once the workshops are 
+done.’(2:30 p.m.)에서 수요일 오후에 출발해서 이틀 내내 연수를 하고 워크
+실전모의고사 2 |  27
+H
+a
+ck
+e
+rs T
+O
+E
+IC
+R
+e
+a
+d
+in
+g
+실
+전
+모
+의
+고
+사
+2
+숍이 끝나면 금요일 밤에 돌아올 것이라고 했으므로 지문의 내용과 일치한다. 
+(D)는 지문에서 언급되지 않은 내용이다. 따라서 (D) It is not mandatory 
+to attend them이 정답이다.  
+어휘  detail  n.	세부	사항,	정보		 mandatory  adj.	의무적인,	필수의
+152	 의도	파악	문제
+문제	 	오후	2시	27분에,	Mr.	Cochran이	“I	totally	agree”라고	썼을	때,	그가	의도
+한	것은?
+(A)	장소까지의	거리에	대해	걱정하고	있다.
+(B)	차량의	크기에	대해	걱정하고	있다.
+(C)	추가적인	수업이	제공되어야	한다고	생각한다.	
+(D)	자신들이	목요일에	돌아와야	한다고	생각한다.	
+해설  Mr. Cochran이 의도한 것을 묻는 문제이므로, 질문의 인용어구(I totally 
+agree)가 언급된 주변 문맥을 확인한다. ‘Greenwood is about three 
+hours away by car. That’s quite a drive.’(2:25 p.m.)에서 Emily Jones
+가 Greenwood, 즉 워크숍이 열릴 장소가 차로 3시간 정도 떨어진 데 있다
+고 하면서 상당한 주행 거리라고 하자, Mr. Cochran이 ‘I totally agree’(전
+적으로 동의해요)라고 한 것을 통해, Mr. Cochran이 워크숍 장소까지의 거
+리에 대해 걱정하고 있다는 것을 알 수 있다. 따라서 (A) He is concerned 
+about the distance to a venue가 정답이다.
+어휘  vehicle  n.	차량			
+153-154는 다음 편지에 관한 문제입니다.
+Vanter	은행	
+790번지	West	32번가,	뉴욕,	뉴욕주	10105
+6월	10일		
+Mr.	Oscar	Morrison
+63번지	Packerston로
+포킵시,	뉴욕주	12601
+Mr.	Morrison께,
+저희	콜센터는	고객님의	계좌와	관련해	저희가	갖고	있는	문제에	대해	고객님께	
+연락하려고	몇	차례	시도했으나	실패했습니다.	154-C만약 7월 11일 금요일까지 
+고객님으로부터 연락이 없다면, 고객님의 소기업 저축 계좌가 닫힐 것임을	숙
+지해	주십시오.	그날,	154-A/D저희는 또한 고객님의 남아 있는 잔액 350달러를 외
+부적으로 연결된 고객님의 Fulton 은행의 당좌 예금 계좌로 이체할 것입니다.
+가능한	한	빨리	1-800-555-2996으로	저희에게	전화주십시오.	저희는	월요
+일부터	금요일까지,	오전	8시부터	오후	9시까지	고객님을	돕기	위해	이곳에	있
+습니다.	 153저희에게 연락하실 때 문제 조회 번호인 100076965를 이용해 주
+십시오.
+Vanter	은행을	선택해	주셔서	감사합니다.
+Louise	Robertson	드림
+Vanter	은행	예금	사원
+account  n.	계좌		 savings  n.	저축,	저금		 transfer  v.	이체하다,	이전하다			 
+balance  n.	잔액,	잔고		 externally  adj.	외부적으로,	외부에서			 
+issue  n.	문제,	발행		 reference number 	조회	번호
+153	 추론	문제
+문제	 Mr.	Morrison에	대해	암시되는	것은?	
+(A)	직원에게	조회	암호를	제공할	것이다.
+(B)	Vanter사에	그의	기업	계좌를	닫아	달라고	요청했다.
+(C)	전화로	연락	받기를	바라고	있다.
+(D)	Ms.	Robertson에게	이메일	주소를	주는	것을	잊어버렸다.
+해설  질문의 핵심 어구인 Mr. Morrison에 대해 추론하는 문제이다. ‘Please use 
+issue reference number 100076965 when you contact us.’(2문단  
+2번째 줄)에서 은행으로 연락할 때 문제 조회 번호인 100076965를 이용해 
+달라고 한 내용을 통해 Mr. Morrison이 직원에게 조회 암호를 제공할 것이라
+는 사실을 추론할 수 있다. 따라서 (A) He will provide a reference code 
+to a representative가 정답이다.
+어휘  representative  n.	직원,	대리인
+154	 Not/True	문제
+문제	 예금	계좌에	대해	언급되지	않은	것은?
+(A)	인출	가능한	자금이	아직	있다.
+(B)	월간	이체	한도에	이르렀다.	
+(C)	조치가	취해지지	않는다면	닫힐	수도	있다.
+(D)	다른	기관의	계좌에	연결되어	있다.
+해설  질문의 핵심 어구인 savings account와 관련된 내용을 지문에서 찾아 보
+기와 대조하는 Not/True 문제이다. (A)는 ‘we will also transfer your 
+remaining balance of $350.00’(1문단 3번째 줄)에서 남아 있는 잔액 
+350달러를 이체할 것이라고 했으므로 지문의 내용과 일치한다. (B)는 지
+문에 언급되지 않은 내용이다. 따라서 (B) It has reached the monthly 
+transfer limit이 정답이다. (C)는 ‘if we do not hear from you ~ your 
+small business savings account will be closed’(1문단 2번째 줄)에
+서 연락이 없다면 소기업 저축 계좌가 닫힐 것이라고 했으므로 지문의 내용
+과 일치한다. (D)는 ‘we will also transfer your remaining balance of 
+$350.00 to your externally linked checking account at the Bank of 
+Fulton’(1문단 3번째 줄)에서 남아 있는 잔액을 외부적으로 연결된 Fulton 
+은행의 당좌 예금 계좌로 이체할 것이라고 했으므로 지문의 내용과 일치한다.
+어휘  fund  n.	자금		 withdrawal  n.	인출		 reach  v.	~에	이르다,	달하다			 
+limit  n.	한도,	제한		 institution  n.	기관,		단체
+155-157은 다음 안내문에 관한 문제입니다.
+155기밀 유지 협약
+이 협약의 모든 의도와 목적에 따라, “기밀 정보”는 Viridian International사
+에서의 고용 기간 동안 피고용인들에게 노출된 모든 기업 자료에 적용될 것입
+니다.	이러한	정보는	오로지	회사의	소유물로	간주될	것이며	개인적이고	사적
+인	용도를	위한	것이	아닙니다.	156-B기밀 유지 협약은 회사와 그것의 사업에 대
+한 모든 다른 관련 세부 사항에 더해 모든 서류, 보고서, 제안서, 디자인, 기술, 
+모형 및 연구 자료에 적용됩니다.	156-A모든 구두 및 서면 의사소통 또한 기밀 정
+보로 간주되어야 합니다.
+이	협약서에	서명하면서,	피고용인은	다음에	동의합니다:
+1.		기밀	정보는	회사의	사전	허가	없이는	어떤	방법으로든	타인에게	이전될	수	
+없습니다.
+2.	156-D기밀 정보는 어떤 이유로든 복제될 수 없습니다.
+3.		156-C피고용인의 회사 근무 기간 동안 회사와 관련된 자료로 이루어진 모든 산
+물 역시 기밀 정보로 간주될 것입니다.
+4.		157고용 계약의 종료에 따라, 피고용인들은 기밀 정보로의 접근을 포함한 모
+든 특권을 잃을 것입니다.
+non-disclosure agreement 기밀	유지	협약			 
+confidential  adj.	기밀의,	비밀의		 refer  v.	적용되다,	관련되다			 
+solely  adv.	오로지,	다만		 property  n.	소유물,	재산		 verbal  adj.	구두의			 
+duplicate  v.	복제하다,	베끼다		 termination  n.	종료,	종결			 
+privilege  n.	특권,	특전
+155	 주제/목적	찾기	문제
+문제	 안내문의	목적은	무엇인가?
+(A)	직원들에게	회사	정책에	대해	교육하기	위해
+(B)	정책	변화를	강조하기	위해
+(C)	피고용인	권리를	보호하기	위해
+(D)	일자리를	제의하기	위해
+해설  안내문의 목적을 묻는 목적 찾기 문제이다. 특별히 이 문제는 전체 지문을 요
+약하여 목적을 찾아야 한다. ‘Non-Disclosure Agreement’(제목)에서 안
+내문이 기밀 유지 협약에 관한 것임을 알 수 있고 ‘For all intentions and 
+purposes of this agreement, “confidential information” will refer to 
+any corporate data revealed to employees of Viridian International 
+throughout their employment with the company.’(1문단 1번째 줄)에
+서 이 협약의 모든 의도와 목적에 따라, 기밀 정보는 Viridian International
+사에서의 고용 기간 동안 피고용인들에게 노출된 모든 기업 자료에 적용될 것
+이라고 한 후, 기밀 정보를 노출시키지 않기 위한 회사 규정을 나열했으므로 
+(A) To educate staff on company policy가 정답이다.
+28 |  무료 온라인 실전모의고사 · 무료 토익 학습자료 · 취업정보 제공  Hackers.co.kr
+156	 Not/True	문제
+문제	 기밀	정보에	대해	언급되지	않은	것은?
+(A)	두	사람	사이에서	말해질	수	있다.
+(B)	다양한	다른	문서들을	포함한다.
+(C)	피고용인들이	회사를	위해	만드는	자료들을	포함한다.
+(D)	관리자의	허가가	있으면	복제될	수	있다.
+해설  질문의 핵심 어구인 confidential information과 관련된 내용을 지
+문에서 찾아 보기와 대조하는 Not/True 문제이다. (A)는 ‘All verbal 
+~ communication should also be considered confidential 
+information.’(1문단 6번째 줄)에서 모든 구두 의사소통 또한 기밀 정보
+로 간주되어야 한다고 했으므로 지문의 내용과 일치한다. (B)는 ‘The non-
+disclosure agreement applies to all forms, reports, proposals, 
+designs, techniques, models, and research data, along with any 
+other related details of the company and its business.’(1문단 4번
+째 줄)에서 기밀 유지 협약은 회사와 그것의 사업에 대한 모든 다른 관련 세
+부 사항에 더해 모든 서류, 보고서, 제안서, 디자인, 기술, 모형 및 연구 자
+료에 적용된다고 했으므로 지문의 내용과 일치한다. (C)는 ‘Any creation 
+of company-related material ~ will also be considered confidential 
+information.’(2문단 5번째 줄)에서 회사와 관련된 자료로 이루어진 모든 산
+물 역시 기밀 정보로 간주될 것이라고 했으므로 지문의 내용과 일치한다. (D)
+는 ‘No confidential information will be duplicated for any reason.’ 
+(2문단 4번째 줄)에서 기밀 정보는 어떤 이유로든 복제될 수 없다고 했으
+므로 지문의 내용과 일치하지 않는다. 따라서 (D) It can be copied with 
+managerial consent가 정답이다.
+어휘  managerial  adj.	관리자의,	관리상의		 consent  n.	허가,	동의
+157	 육하원칙	문제
+문제	 직원들은	계약이	끝나면	무엇을	해야	하는가?
+(A)	회사	자료에	대한	접근을	그만둔다
+(B)	개별적인	협약에	서명한다
+(C)	퇴직자	면접에	참여한다
+(D)	관련	없는	산업에서	일자리를	구한다
+해설  직원들이 계약이 끝나면 무엇(What)을 해야 하는지를 묻는 육하원칙 문
+제이다. 질문의 핵심 어구인 at the end of their contracts와 관련하여, 
+‘Upon termination of an employment contract, employees will 
+lose all privileges, including access to confidential information.’ 
+(2문단 7번째 줄)에서 고용 계약의 종료에 따라, 피고용인들은 기밀 정보로의 
+접근을 포함한 모든 특권을 잃을 것이라고 했으므로 (A) Give up access to 
+company data가 정답이다.
+Paraphrasing 
+at the end of their contracts 계약이 끝나면 → Upon termination of 
+an employment contract 고용 계약의 종료에 따라
+어휘  give up 그만두다,	포기하다		 separate  adj.	개별적인			 
+exit interview 	퇴직자	면접		 unrelated  adj.	관련	없는,	언급되지	않은
+158-160은 다음 공고에 관한 문제입니다.
+Mount	Victory	리프트	시간	변경
+지역	내	최고의	관광	명소	중	하나인	Mount	Victory	리프트는	하절기	영업	
+시간을	연장합니다.	─	[1]	─.	겨울에,	리프트는	스키	타는	사람들을	산	정상
+까지	나르고	그들이	정상의	많은	코스들	중	하나를	내려오는	것을	즐길	수	있
+도록	합니다.	 158-B여름 동안,	 158-C/160방문객들은 리프트를 타고 정상까지 가서,	
+Mountaineer	레스토랑에서	경치를	즐길	수	있습니다.	─	[2]	─.
+길어진	여름을	이용하기	위해,	158-DMount Victory 리프트는 이제 오전 8시부
+터 오후 10시까지 운행합니다.	─	 [3]	─.	 158-DMountaineer 레스토랑 또한	
+손님들의	편의를	위해	이용 시간을 오전 8시부터 오후 9시까지 연장합니다.		
+─	[4]	─.
+보도를	하이킹하고	싶으신	분들을	위해.	공원	경비원들은	159길은 하루 중 아무 
+때나 개방되지만, 밤 시간은 피하는 것이 제일 좋다는 점을	모든	분들께	상기시
+켜	드립니다.	159야생 동물들에 의해 제기되는 위험뿐만 아니라, 그 시간은 잘 보
+기가 어렵고, 하이커들이 길을 잃거나 다칠 수 있습니다.	또한,	“출입	금지”라고	
+표시된	모든	길들은	항상	피하셔야	합니다. 
+tourist attraction 관광	명소		 region  n.	지역		 extend  v.	연장하다,	늘리다			 
+trail  n.	코스,	산길		 take advantage of ~을	이용하다			 
+convenience  n.	편의		 park ranger 공원	경비원			 
+pose  v.	제기하다,	자세를	취하다		 wild animal 야생	동물		 off limits 출입	금지의
+158	 Not/True	문제
+문제	 리프트에	대해	언급된	것은?
+(A)	하이커들의	이용을	위해	예약되어	있다.
+(B)	겨울에	해당하는	달에만	작동된다.
+(C)	산의	정상에서	끝난다.
+(D)	식당과	영업시간이	같다.
+해설  질문의 핵심 어구인 chairlift와 관련된 내용을 지문에서 찾아 보기와 대조
+하는 Not/True 문제이다. (A)는 지문에 언급되지 않은 내용이다. (B)는 
+‘During the summer, visitors can ride’(1문단 3번째 줄)에서 여름 동안 
+방문객들이 리프트를 탈 수 있다고 했으므로 지문의 내용과 일치하지 않는다. 
+(C)는 ‘visitors can ride up to the top’(1문단 4번째 줄)에서 방문객들은 
+정상까지 타고 간다고 했으므로 (C) It ends at the top of the mountain
+이 정답이다. (D)는 ‘chairlift is now running from 8 a.m. to 10 p.m.’(2문
+단 1번째 줄)에서 리프트는 이제 오전 8시부터 오후 10시까지 운행한다고 했
+고, ‘Restaurant is ~ extending its service hours from 8 a.m. through 
+9 p.m.’(2문단 2번째 줄)에서 레스토랑은 운영 시간을 오전 8시부터 오후 9시
+까지로 연장한다고 했으므로 지문의 내용과 일치하지 않는다.
+어휘  reserve  v.	예약하다,	남겨	두다		 establishment  n.	시설,	설립
+159	 추론	문제
+문제	 산길에	대해	암시되는	것은?
+(A)	종종	나무들에	의해	막혀	있다.
+(B)	여름에는	들어갈	수	없다.
+(C)	낮에	더	안전하다.
+(D)	야생	동물들을	보기	위해	만들어졌다.
+해설  질문의 핵심 어구인 mountain paths에 대해 추론하는 문제이다. ‘tracks 
+are ~ best to avoid ~ at night’(3문단 2번째 줄)에서 길은 밤 시간
+에 피하는 것이 좋다고 한 후, ‘In addition to the danger posed by 
+wild animals, it can be difficult to see, and hikers can get lost or 
+injured.’(3문단 2번째 줄)에서 야생 동물들에 의해 제기되는 위험뿐만 아니
+라, 잘 보기가 어렵고 하이커들이 길을 잃거나 다칠 수 있다고 했으므로 산길
+이 낮에 더 안전하다는 사실을 추론할 수 있다. 따라서 (C) They are safer 
+during the day가 정답이다.
+어휘  inaccessible  adj.	들어갈	수	없는,	접근하기	어려운			 
+intended  adj.	~을	위해	만들어진
+160	 문장	위치	문제	
+문제	 	[1],	[2],	[3],	[4]로	표시된	위치	중,	다음	문장이	들어갈	곳으로	가장	적절한	
+것은?
+“그들은	그	다음에	리프트를	타거나	하이킹하여	산을	내려올	수	있습니다.”
+(A)	[1]
+(B)	[2]
+(C)	[3]
+(D)	[4]
+해설  지문의 흐름상 주어진 문장이 들어가기에 가장 적절한 곳을 고르는 문제이다. 
+They can then either take the lift or hike back down the mountain
+에서 그들은 그 다음에 리프트를 타거나 하이킹하여 산을 내려올 수 있다고 
+했으므로, 주어진 문장 앞에 산을 오르는 것에 관한 내용이 있을 것임을 예상
+할 수 있다. [2]의 앞 문장인 ‘visitors can ride up to the top’에서 방문객
+들은 리프트를 타고 정상까지 간다고 했으므로, [2]에 주어진 문장이 들어가
+면 리프트를 타고 정상에 오른 다음에 리프트를 타거나 하이킹하여 산을 내려
+올 수 있다는 자연스러운 문맥이 된다는 것을 알 수 있다. 따라서 (B) [2]가 정
+답이다. 
+실전모의고사 2 |  29
+H
+a
+ck
+e
+rs T
+O
+E
+IC
+R
+e
+a
+d
+in
+g
+실
+전
+모
+의
+고
+사
+2
+161-163은 다음 웹페이지에 관한 문제입니다.
+Redfield시
+Redfield	시청의	공식	웹사이트
+1.	Redfield	시청의	근무	시간은	어떻게	되나요?
+Redfield	시청의	모든	부서들은	월요일부터	금요일,	오전	8시부터	오후	5시까
+지	열려	있습니다.	본	관청은	또한	주말에도	오전	8시부터	오후	2시까지	열려	
+있습니다.	Redfield	시청은	모든	국경일에는	닫는다는	것을	유념해	주십시오.
+2.	부서	명부는	어디에서	찾을	수	있나요?
+162부서들과 각 부서장들은 상단의 주요 내비게이션 바의 온라인 서비스를 클릭
+함으로써 찾을 수 있습니다. 각 부서의 연락 정보는 그 페이지의 시청 부서 하단
+에 열거되어 있을 것입니다.	부서	위원회	회원들의	이메일	주소	역시	각	부서장	
+아래에	열거되어	있을	것입니다.
+3.	Redfield	시청의	163-C주간 이메일 공고를	신청하려면	어떻게	해야	하나요?
+고객님의	이메일	주소를	저희에게	등록하시려면,	메인	툴바의	공고에	가시면	됩
+니다.	그러고	나서	왼쪽에	E-mail	공고라고	표시된	링크를	클릭하고	구독을	위
+한	단계를	따라가시면	됩니다.	 163-B특정 이메일 공급업체들은 Redfield 시청
+으로부터의 이메일 공고를 인지하지 못한다는 것을	유념해	주십시오.	163-D정확
+한 수신을 위해, 이메일 공고가 스팸으로 표시된 것은 반드시 체크를 해제해 주
+십시오.
+official  adj.	공식의,	공인된		 department  n.	부서,	부처			 
+note  v.	유념하다,	주목하다		 national holiday 국경일			 
+respective  adj.	각각의,	각자의		 division  n.	부서,	부			 
+notification  n.	공고,	통지		 subscribe  v.	구독하다,	가입하다			 
+transmission  n.	수신,	전송		
+161	 주제/목적	찾기	문제
+문제	 웹페이지는	왜	만들어졌는가?
+(A)	시민들이	투표를	위해	등록하는	것을	장려하기	위해
+(B)	주민들에게	시청의	위치를	알리기	위해
+(C)	흔히	하는	질문들에	대한	답변을	제공하기	위해
+(D)	방문객들에게	도시의	역사를	설명하기	위해
+해설  웹페이지가 만들어진 목적을 묻는 목적 찾기 문제이다. ‘Frequently Asked 
+Questions’(상단 제목)에서 자주 묻는 질문이라고 한 후, Redfield  시청에 
+대한 질문들에 대해 답변을 제공하고 있으므로 (C) To provide answers to 
+common questions가 정답이다.
+Paraphrasing
+Frequently Asked Questions 자주 묻는 질문 → common questions 
+흔히 하는 질문들
+어휘  register  v.	등록하다		 vote  v.	투표하다		 direction  n.	위치
+162	 육하원칙	문제
+문제	 방문객들은	어떻게	부서장들의	연락처	정보를	찾을	수	있는가?
+(A)	위원회	회원들에게	이메일을	보냄으로써
+(B)	본청에	직접	전화함으로써
+(C)	웹사이트에서	계정을	만듦으로써	
+(D)	상단의	링크를	클릭함으로써
+해설  방문객들이 부서장들의 연락처 정보를 어떻게(How) 찾을 수 있는지를 묻는  
+육하원칙 문제이다. 질문의 핵심 어구인 contact information for 
+department heads와 관련하여, ‘Departments and respective 
+division heads can be found by clicking on Online Services on the 
+main navigation bar above.’(2문단 2번째 줄)에서 부서들과 각 부서장들
+은 상단의 주요 내비게이션 바의 온라인 서비스를 클릭함으로써 찾을 수 있다
+고 했고, ‘Contact information for each department will be listed ~ 
+on that page.’(2문단 3번째 줄)에서 각 부서의 연락 정보는 그 페이지에 열
+거될 것이라고 했으므로  (D) By clicking on a link at the top이 정답이다.
+163	 Not/True	문제
+문제	 이메일	공고에	대해	언급된	것은?
+(A)	양식을	기입함으로써	요청될	수	있다.
+(B)	모든	이메일	공급업체들에	의해	인지된다.
+(C)	매주	두	번	발송된다.
+(D)	스팸	메시지로	오인될	수	있다.
+해설  질문의 핵심 어구인 e-mail notifications와 관련된 내용을 지문에서 찾
+아 보기와 대조하는 Not/True 문제이다. (A)는 지문에 언급되지 않은 내
+용이다. (B)는 ‘certain e-mail providers may not recognize e-mail 
+notifications from Redfield Town Hall’(3문단 3번째 줄)에서 특정 
+이메일 공급업체들은 Redfield 시청으로부터의 이메일 공고를 인지하
+지 못한다고 했으므로 지문의 내용과 일치하지 않는다. (C)는 ‘weekly 
+e-mail notifications’(3문단 1번째 줄)에서 주간 이메일 공고라고 했으므
+로 지문의 내용과 일치하지 않는다. (D)는 ‘Be sure to uncheck e-mail 
+notifications labeled as spam to allow for proper transmission.’(3문
+단 4번째 줄)에서 정확한 수신을 위해, 이메일 공고가 스팸으로 표시된 것은 
+반드시 체크를 해제해달라고 했으므로 지문의 내용과 일치한다. 따라서 (D) 
+They may be mistaken for spam messages가 정답이다.
+어휘  fill out 기입하다		 mistake for ~으로	오인하다
+164-167은 다음 온라인 채팅 대화문에 관한 문제입니다.
+Wendy	Tran	 오후	3:32	
+안녕하세요.	Hogan’s	Fish	and	Chips의	유리잔에	관해	이야기할	수	있을까
+요?
+Vincent	Chou		 오후	3:33
+주문	번호	27248이죠,	맞나요?
+Wendy	Tran	 오후	3:35
+네,	바로	그거예요.	164소유주인 Ms. Lin이 그녀의 로고 디자인을 변경하고 싶
+어 하는데,	저는	그녀가	수정된	이미지를	보내주기를	아직도	기다리고	있어요.
+Vincent	Chou	 오후	3:36
+아.	우리는	그녀의	견본품을	마무리하려던	참이었어요.
+Wendy	Tran	 오후	3:37
+성가시다는	것을	이해하지만,	 164우리는 그녀의 요구를 충족시켜야 해요.	도움
+이	될지	모르겠지만,	그녀가	새로운	디자인을	7월	8일까지	이메일로	보내줄	수	
+있다고	했어요.	
+Vincent	Chou	 오후	3:38
+하지만	우리는	곧	시작될	또	다른	프로젝트가	있어요.	우리는	목요일에	Kerala	
+Curry	House의	디자인	작업을	시작해야	해요.	166유감이지만 Ms. Lin이 마감 
+기한을 연장해야 할 것 같네요.	
+Wendy	Tran		 오후	3:40
+그건	가능하지	않을	것	같아요.	166Hogan’s는 8월 1일에 문을 열기로 되어 있
+어서, 2주 내에 모든 것이 준비되어야 해요.	제가	Ms.	Lin과	이야기해볼게요.	
+Wendy	Tran	 오후	3:46
+좋아요,	165그녀가 7월 6일 오전 8시까지 새로운 디자인을 보내는 것에 동의하
+도록 했어요.	그건	충분한	시간이죠,	그렇죠?
+Vincent	Chou	 오후	3:47
+좋은	것	같네요.	165우리는 같은 날 오후에 견본품을 보내서 그녀가 그다음 날 아
+침에 받도록 할 수 있어요.	그녀에게	완전한	주문품을	위해서는	확정	후에	2주
+를	기다려야	할	것이라고	상기시켜	주세요.	1671주 신속 작업 방식을 위해 비용을 
+지불하는 경우 외에는, 그것이 모든 고객들에 대한 우리의 방침이에요.
+Wendy	Tran	 오후	3:48	
+그러고	보니	생각나네요	―167Abelardo’s의 관리자가 그의 커피잔들에 관해 전
+화했어요. 그는 그것들이 가능한 한 빨리 필요하다고 그 옵션을 구매했어요. 
+owner  n.	소유주,	주인		 revised  adj.	수정된,	변경된			 
+satisfy  v.	충족시키다,	만족시키다		 request  n.	요구,	요청		 extend  v.	연장하다			 
+deadline  n.	마감	기한		 remind  v.	상기시키다		 confirmation  n.	확정,	확인			 
+policy  n.	방침,	정책			
+164	 주제/목적	찾기	문제	
+문제	 주로	논의되고	있는	것은	무엇인가?
+(A)	견본	이미지를	제작하는	것
+(B)	생산	시설을	방문하는	것
+30 |  무료 실전 문제 해설강의 · 무료 단어암기 MP3  HackersIngang.com
+(C)	고객의	요청을	받아들이는	것
+(D)	제품	출시	행사에	참석하는	것
+해설  주로 논의되는 것이 무엇인지를 묻는 주제 찾기 문제이므로 지문의 앞부분
+을 주의 깊게 확인한다. ‘Ms. Lin, the owner, wants to change her logo 
+design’(3:35 p.m.)에서 Wendy Tran이 소유주인 Ms. Lin이 로고 디자인을 
+변경하고 싶어 한다고 한 후, ‘we need to satisfy her request’(3:37 p.m.)
+에서 그녀, 즉 고객의 요구를 충족시켜야 한다고 하며 충족시킬 방법에 대해 
+이야기하고 있으므로 (C) Accommodating a client’s request가 정답이
+다. 
+Paraphrasing
+satisfy ~ request 요구를 충족시키다 → Accommodating ~ request  
+요청을 받아들이는 것
+어휘  accommodate  v.	받아들이다,	수용하다		 attend  v.	참석하다			 
+launch  n.	출시	(행사)			
+165	 육하원칙	문제
+문제	 Ms.	Lin은	언제	견본품을	받을	것인가?
+(A)	7월	6일
+(B)	7월	7일
+(C)	7월	8일
+(D)	8월	1일
+해설  Ms. Lin이 언제(When) 견본품을 받을 것인지를 묻는 육하원칙 문제이
+다. 질문의 핵심 어구인 Ms. Lin receive the sample product와 관련하
+여, ‘I got her to agree to send the new design by 8 a.m. on July 
+6’(3:46 p.m.)에서 Wendy Tran이 7월 6일 오전 8시까지 새로운 디자인을 
+보내는 것에 그녀, 즉 Ms. Lin이 동의하도록 했다고 했고, ‘We can ship 
+out the sample product the same afternoon so she receives it the 
+following morning.’(3:47 p.m.)에서 Vincent Chou가 자신들이 같은 날 
+오후에 견본품을 보내서 Ms. Lin이 그다음 날 아침에 받도록 할 수 있을 것이
+라고 했으므로 7월 6일 다음 날인 7월 7일에 Ms. Lin이 견본품을 받을 것임
+을 알 수 있다. 따라서 (B) July 7가 정답이다.
+166	 의도	파악	문제
+문제	 	오후	3시	40분에,	Ms.	Tran이	“I	don’t	think	that’s	possible”이라고	썼을	
+때,	그녀가	의도한	것은?
+(A)	디자인이	승인될	수	없다.		
+(B)	마감	기한이	연장될	수	없다.
+(C)	고객이	연락될	수	없다.	
+(D)	주문품이	배송될	수	없다.
+해설  Ms. Tran이 의도한 것을 묻는 문제이므로, 질문의 인용어구(I don’t think 
+that’s possible)가 언급된 주변 문맥을 확인한다. ‘I’m afraid Ms. Lin will 
+need to extend the deadline.’(3:38 p.m.)에서 Vincent Chou가 유감
+이지만 Ms. Lin이 마감 기한을 연장해야 할 것 같다고 하자, Ms. Tran이 ‘I 
+don’t think that’s possible’(그건 가능하지 않을 것 같아요)’이라고 한 후, 
+‘Hogan’s is supposed to open on August 1, and everything has to 
+be ready within two weeks.’(3:40 p.m.)에서 Hogan’s가 8월 1일에 문
+을 열기로 되어 있어서 2주 내에 모든 것이 준비되어야 한다고 한 것을 통해,  
+Ms. Tran은 마감 기한이 연장될 수 없다고 생각한다는 것을 알 수 있다. 따라
+서 (B) A deadline cannot be extended가 정답이다. 
+어휘 approve  v.	승인하다,	찬성하다			
+167	 추론	문제
+문제	 Abelardo’s에	대해	암시되는	것은?
+(A)	8월	1일에	문을	열	것이다.
+(B)	새로운	음료	종류를	출시하였다.
+(C)	그곳의	주문품은	일주일	내에	준비될	것이다.
+(D)	그곳의	경영진이	최근에	바뀌었다.
+해설  질문의 핵심 어구인 Abelardo’s에 대해 추론하는 문제이다. ‘That is our 
+policy for all clients unless they pay for our one-week expedited 
+work plan.’(3:47 p.m.)에서 Mr. Chou가 1주 신속 작업 방식을 위해 비용을 
+지불하는 경우 외에는 그것, 즉 완전한 주문품을 위해 2주를 기다리는 것이 
+모든 고객에 대한 방침이라고 하자, ‘the manager of Abelardo’s called 
+about his coffee cups. He needs them as soon as possible and 
+purchased that option.’(3:48 p.m.)에서 Ms. Tran이 Abelardo’s의 관리
+자가 그의 커피잔들이 가능한 한 빨리 필요하다고 그 옵션, 즉 1주 신속 작
+업 방식을 구매했다고 했으므로 Abelardo’s의 주문품이 일주일 내에 준비될 
+것이라는 사실을 추론할 수 있다. 따라서 (C) Its order will be ready in a 
+week가 정답이다. 
+어휘 management  n.	경영(진)
+168-171은 다음 이메일에 관한 문제입니다.
+수신:	Robert	Kane	<r_kane@robkanedesigns.com>
+발신:	Victoria	Lim	<v_lim@nowtrendingmag.com>
+169날짜: 10월 25일
+제목:	고맙습니다!
+첨부	파일:	입장권
+Robert께,
+169저희가 지난달 귀하를 인터뷰한 사설이	이제	Now	trending지의	11월호로	
+출간된다는	것을	알려드리게	되어	매우	기쁩니다.
+업계의	전설로서,	저희	Now	trending	지는	귀하의	브랜드와	가을	패션에	대
+한	비전에	대해	이야기하게	되어	기뻤습니다.	사진	촬영	또한	Ashley가	사진들
+이	굉장히	아름답게	나왔다고	공언할	만큼,	놀라운	성공임이	판명되었습니다.
+168첨부된 것에서 최종판 두 권을 인터뷰와 사진 촬영에 대한 보수인 수표와 함
+께 확인해 주시기를 바랍니다.	덧붙여,	저의	비서	170Gina가 말하기를 귀하께 다
+음 주 금요일, 11월 2일에 Salinger 센터에서 곧 있을 저희 축제에 대해 알려
+드렸을 때 아주 흥미로워하셨다고 했습니다.	그러므로,	오후	7시	30분에	시작
+하는	행사	입장을	위한	귀하와	한	명의	손님에	대한	입장권도	확인해	주시기	바
+랍니다.	171귀하께서 오실 수 있는지 없는지 여부를 저에게 최대한 빨리 이메일
+로 알려주시길 요청드립니다. 귀하와 동행하는 손님이 있다면, 그 분의 이름
+도 필요합니다.
+Victoria	Lim	드림
+편집장
+Now	Trending지
+attachment  n.	첨부	파일,	부착물		 editorial  n.	사설			 
+marvelous  adj.	놀라운		 profess  v.	공언하다,	주장하다			 
+gala  n.	축제,	경축	행사		 intrigued  adj.	아주	흥미로워	하는		 pass  n.	입장권			 
+notify  v.	알리다,	통지하다		 accompany  v.	동행하다,	수반하다
+168	 주제/목적	찾기	문제
+문제	 이메일은	왜	쓰였는가?
+(A)	사업	상담을	준비하기	위해
+(B)	사진	촬영	이미지의	승인을	요청하기	위해
+(C)	고객을	연례	축제에	초대하기	위해
+(D)	제공된	서비스에	대한	보수를	제공하기	위해
+해설  이메일이 쓰인 목적을 묻는 목적 찾기 문제이다. ‘Attached please find 
+two finalized copies of the edition along with a check as payment 
+for the interview and photo shoot.’(3문단 1번째 줄)에서 첨부된 것에서 
+최종판 두 권을 인터뷰와 사진 촬영에 대한 보수인 수표와 함께 확인해 달라
+고 했으므로 (D) To provide payment for services rendered가 정답이
+다.
+Paraphrasing 
+the interview and photo shoot 인터뷰와 사진 촬영 → services  
+rendered 제공된 서비스
+어휘  arrange  v.	준비하다		 approval  n.	승인,	동의		 render  v.	제공하다
+169	 육하원칙	문제
+문제	 인터뷰는	언제	일어났는가?
+(A)	9월
+(B)	10월
+(C)	11월
+(D)	12월
+해설  인터뷰가 언제(When) 일어났는지를 묻는 육하원칙 문제이다. 질문의 핵심 
+어구인 interview와 관련하여, ‘the editorial we interviewed you for 
+실전모의고사 2 |  31
+H
+a
+ck
+e
+rs T
+O
+E
+IC
+R
+e
+a
+d
+in
+g
+실
+전
+모
+의
+고
+사
+2
+last month’(1문단 1번째 줄)에서 지난달에 인터뷰한 사설이라고 했고, 
+‘Date: October 25’(상단 3번째 줄)에서 이메일을 보낸 날짜가 10월 25일
+이라고 했으므로 (A) September가 정답이다.
+170	 육하원칙	문제
+문제	 누가	Robert에게	축제에	대해	이야기했는가?
+(A)	Victoria
+(B)	Ashley
+(C)	Gina
+(D)	Leo
+해설  Robert에게 누가(Who) 축제에 대해 이야기했는지를 묻는 육하원칙 문
+제이다. 질문의 핵심 어구인 gala와 관련하여, ‘Gina mentioned that 
+when she informed you of our upcoming gala ~ you were very 
+intrigued’(3문단 2번째 줄)에서 Gina가 축제에 대해 당신, 즉 Robert에게 
+알려주었을 때 Robert는 아주 흥미로워했다고 했으므로 Gina가 Robert에
+게 축제에 대해 이야기했음을 알 수 있다. 따라서 (C) Gina가 정답이다. 
+171	 추론	문제
+문제	 Mr.	Kane에	대해	암시되는	것은?
+(A)	다음	주	금요일	행사에	혼자	참석할	것이다.
+(B)	전에	Now	Trending	을	위해	유급	작업을	한	적이	없다.
+(C)	손님을	데려올	것이라면	Ms.	Lim에게	연락해야	한다.
+(D)	내년	봄에	그	잡지로부터	다시	인터뷰를	받을	것이다.
+해설  질문의 핵심 어구인 Mr. Kane에 대해 추론하는 문제이다. ‘I do ask that 
+you notify me as soon as possible by e-mail about whether or not 
+you can come. I will also need the name of your guest, should 
+anyone be accompanying you.’(3문단 5번째 줄)에서 올 수 있는지 없
+는지 여부를 최대한 빨리 이메일로 알려달라고 한 후, 동행하는 손님이 있다
+면, 그 분의 이름도 필요하다고 했으므로 손님을 데려올 경우 Ms. Lim에게 연
+락해야 한다는 사실을 추론할 수 있다. 따라서 (C) He will have to contact 
+Ms. Lim if he brings a guest가 정답이다.
+172-175는 다음 기사에 관한 문제입니다.
+Tech	Speculation	주간지
+신종	스마트	착용물
+Joshua	Hutchins	작성
+3월	20일
+172-C대형 기술업체인 BurTex사에 의해 곧 공개될 새 스마트 시계 라인에 대해 
+요즘 많은 말이 있었습니다.	이	회사는	이들의	새로운	스마트	시계	디자인을	건
+강과	신체	단련에서	미래	유행의	선구자로	만들기를	바라고	있습니다.
+최근	발행된	보고서는	거의	75퍼센트의	소비자들이	BurTex사의	스마트	시계	
+제품과	같은	착용	가능한	장비	때문에	건강	관리	분야를	가장	장래성	있는	산업
+으로	언급했음을	발견하였습니다.	─	[1]	─.	사람들은	자신들의	건강에	대해서
+는	1차	진료	의사들에게	가장	많은	신뢰를	둡니다.	그러므로,	173더 많은 이러한 
+의사들이 스마트 시계의 유용성을 인정해준다면,	소비자들은	매일	운동	일과에	
+이	기기를	결합하도록	장려될	것입니다.
+175하지만, 보고서는 BurTex사의 스마트 시계에 대한 전반적인 소비자의 관심
+이 제품 출시 발표부터 명백히 감소한 것 또한 언급했습니다.	─	[2]	─.	그러한	
+기기는	특수	품목으로	여겨지는데,	아마도	현재	시장에서의	희소성	때문일	것입
+니다.	174지난 2년간 스마트 시계를 구매한 소비자들의 4분의 1이 일상생활에서 
+얼마나 매우 드물게 이 장비를 사용하는지 언급했습니다.	이	소비자들은	착용	
+가능한	장비에	대한	불신의	첫	번째	이유로	부정확하고	정밀하지	않은	데이터를	
+언급했습니다.	─	[3]	─.
+게다가,	BurTex사의	새로운	시계	라인에	호기심을	느끼는	사람들의	무려	85퍼
+센트가	사생활에	대한	우려를	나타냈습니다.	스마트	시계는	건강	정보를	친구	
+및	가족과	공유하는	기능을	포함합니다.	─	[4]	─.	하지만,	많은	사람들이	이러
+한	정보가	매우	민감하고,	공유가	되었을	때,	많은	사회적	문제를	일으킬	수	있
+다고	느낍니다.
+a great deal of 많은,	다량의		 forerunner  n.	선구자			 
+cite  v.	언급하다,	인용하다		 promising  adj.	장래성	있는			 
+when it comes to ~에	대해서는		 incorporate  v.	결합하다				 
+device  n.	기기		 launch  n.	출시		 scarcity  n.	희소성,	부족			 
+intrigued  adj.	호기심을	느끼는			
+172	 Not/True	문제
+문제	 BurTex사에	대해	언급된	것은?
+(A)	그들의	경쟁사들에	비해	크지	않다.
+(B)	건강	산업	시장에서	기회를	발견하지	않는다.
+(C)	새로운	제품을	곧	출시한다.
+(D)	최근	정책	변경을	발표했다.
+해설  질문의 핵심 어구인 BurTex Corporation과 관련된 내용을 지문에서 찾아 
+보기와 대조하는 Not/True 문제이다. (A), (B), (D)는 지문에 언급되지 않
+은 내용이다. (C)는 ‘There has been a great deal of talk lately about 
+the new line of smart watches soon to be released by technology 
+giant, BurTex. Co.’(1문단 1번째 줄)에서 대형 기술업체인 BurTex사에 의
+해 곧 공개될 새 스마트 시계 라인에 대해 요즘 많은 말이 있었다고 했으므로 
+(C) They are about to launch some new merchandise가 정답이다. 
+Paraphrasing
+soon to be released 곧 공개될 → about to launch 곧 출시하는
+어휘  relative to ~에	비하여
+173	 추론	문제
+문제	 Mr.	Hutchins에	따르면,	1차	진료	의사들에	대해	사실인	것	같은	것은?
+(A)	일부는	착용	가능한	장비가	위험하다고	생각한다.
+(B)	일부는	스마트	시계의	실용성을	인정한다.
+(C)	지금은	대다수가	운동할	때	착용	가능한	기기를	사용한다.
+(D)		대다수는	환자의	건강	정보를	추적하는	더욱	정확한	방법을	요구하고	있다.
+해설  질문의 핵심 어구인 primary care physicians에 대해 추론하는 문제이
+다. ‘if more of these doctors approve the usefulness of smart 
+watches’(2문단 6번째 줄)에서 더 많은 의사들, 즉 1차 진료 의사들이 스
+마트 시계의 유용성을 인정해준다면이라고 한 내용을 통해 일부 의사들은 이
+미 스마트 시계의 유용성을 인정했다는 사실을 추론할 수 있다. 따라서 (B) 
+Some see practicality in smart watches가 정답이다. 
+Paraphrasing 
+usefulness 유용성 → practicality 실용성
+어휘  track  v.	추적하다
+174	 육하원칙	문제
+문제	 	몇	퍼센트의	소비자들이	그들의	스마트	시계를	거의	사용하지	않는다고	말했
+는가?
+(A)	25퍼센트
+(B)	50퍼센트
+(C)	75퍼센트
+(D)	85퍼센트
+해설  자신들의 스마트 시계를 거의 사용하지 않는다고 말한 소비자들이 몇 퍼센
+트(What percentage)인지를 묻는 육하원칙 문제이다. 질문의 핵심 어구
+인 consumers said they rarely use their smart watches와 관련하여, 
+‘One quarter of consumers who purchased a smart watch ~ noted 
+how they used the technology very infrequently in their daily 
+lives.’(3문단 6번째 줄)에서 스마트 시계를 구매한 소비자의 4분의 1이 일
+상생활에서 얼마나 매우 드물게 이 장비를 사용하는지 언급했다고 했으므로 
+(A) 25 percent가 정답이다.
+175	 문장	위치	문제
+문제	 	[1],	[2],	[3],	[4]로	표시된	위치	중,	다음	문장이	들어갈	곳으로	가장	적절한	
+것은?
+“이것은	몇몇	소비자들이	아직	착용	가능한	건강	장비에	확신이	없다는	사실에	
+기인합니다.”
+(A)	[1]
+(B)	[2]
+(C)	[3]
+(D)	[4]
+32 |  무료 온라인 실전모의고사 · 무료 토익 학습자료 · 취업정보 제공  Hackers.co.kr
+해설  지문의 흐름상 주어진 문장이 들어가기에 가장 적절한 곳을 고르는 문제이
+다. This is due to the fact that some consumers are still unsure of 
+wearable health technology에서 이것을 몇몇 소비자들이 아직 착용 가능
+한 건강 장비에 확신이 없다는 사실에 기인한다고 했으므로, 주어진 문장 앞
+에 착용 가능한 건강 장비에 대한 소비자의 의견과 관련된 내용이 있을 것임
+을 예상할 수 있다. [2]의 앞 문장인 ‘The report ~ stated ~ that overall 
+consumer interest in BurTex’s smart watches has apparently 
+declined since the product launch announcement.’에서 보고서가 
+BurTex사의 스마트 시계에 대한 전반적인 소비자의 관심이 제품 출시 발표
+부터 명백히 감소한 것을 언급했다고 했으므로, [2]에 주어진 문장이 들어가
+면 이것, 즉 스마트 시계에 대한 관심이 감소한 것이 아직 착용 가능한 건강 장
+비에 대한 소비자의 확신이 없다는 사실에 기인한다는 자연스러운 문맥이 된
+다는 것을 알 수 있다. 따라서 (B) [2]가 정답이다.  
+어휘  due to ~에	기인하는,	~	때문에		 wearable  adj.	착용	가능한			
+176-180은 다음 두 이메일에 관한 문제입니다.
+수신:	David	Marsh	<davemarsh@careconstruction.com>
+발신:	Gary	Brent	<gbrent@placidpaints.com>
+날짜:	9월	2일
+제목:	페인트	주문
+첨부:	카탈로그
+Mr.	Marsh께,
+최근	페인트	주문에	대해	감사드립니다.	저희는	현재	요청된	색들을	섞고	있는
+데,	추가의	설명이	필요한	일부	품목에	대해	몇	가지	질문이	있습니다.
+180B227 하늘색 페인트에 대한 두 개의 개별적인 기재 사항이 있었고,	각각은		
+4리터	한	통씩을	요구하고	있습니다.	176이것이 오류가 아니고 고객님께서 실제
+로 두 개를 모두 주문하고 싶으신 것이란 것을 확인해 주시겠습니까?
+또한,	178-D귀하께서 요청하신 색들 중 두 개가 작년 카탈로그의 옛날 색상 코드
+에 해당합니다.	저희에게	똑같은	상품이	있는데,	지금	선황색은	Y866이고	보라
+색은	P306입니다.	저는	올해	카탈로그	한	부를	첨부했고	귀하께서	고르신	색들
+은	강조	표시를	했습니다.	만약	이것들이	사실과	다르다면,	오류를	정정하기	위
+해	가급적	빨리	저희에게	연락주시기	바랍니다.	
+귀하의	지속적인	애용에	감사드리며	다른	페인트들은	이미	준비되고	있다는	것
+을	알려	드립니다.	제시간에	주문품이	배송될	수	있도록	앞으로	24시간	안에	이	
+세부	사항에	대한	확인을	보내주십시오.
+Gary	Brent	드림
+고객	상담원,	Placid	Paints사
+catalog  n.	카탈로그,	목록		 further  adj.	추가의		 clarification  n.	설명			 
+entry  n.	기재	사항,	입장		 pail  n.	들통		 correspond  v.	해당하다,	일치하다			 
+canary yellow 	선황색		 highlight  v.	강조	표시를	하다,	눈에	띄게	하다			 
+patronage  n.	애용,	후원
+수신:	Gary	Brent	<gbrent@placidpaints.com>
+발신:	David	Marsh	<davemarsh@careconstruction.com>
+날짜:	9월	10일
+주제:	완료된	페인트	주문
+Gary께,
+저희는	오늘	페인트를	받았습니다.	정보를	주는	데	늦어져	다시	한번	사과드립
+니다,	하지만	179저희 인테리어 디자이너가 자리에 없어서, 세부 정보를 즉시 얻
+을 수 없었습니다.	아무튼,	페인트가	도착했고,	178-A이는 저희 일정을 유지하기
+에 여전히 충분한 시간을 줍니다.
+또한,	양식에	있었던	모든	문제점에	대해	다시	한	번	사과드리고	싶습니다.	몇몇	
+여러	사람들이	주문서에	품목을	추가하였고,	그중	일부가	몇몇	변경이	있었다는	
+것을	파악하지	못한	것	같습니다.	안타깝게도,	그들은	또한	177/180같은 페인트 색
+조를 두 번 주문했음을	알아채지	못했습니다.	귀하가	저희에게	이메일을	써서	
+저희가	그	문제를	여기	저희	사무실에서	해결할	수	있었던	것은	다행입니다.	저
+희	모든	직원들이	이	변화들에	대한	최신	정보를	받았으니	안심하십시오,	이제	
+이런	일은	다시	일어나지	않을	것입니다.
+David	Marsh	드림
+관리자,	Care	Construction사	 
+immediately  adv.	즉시		 in any event 	아무튼		 shade  n.	색조,	명암			 
+resolve  v.	해결하다,	풀다		 rest assured 	안심하다,	믿어도	된다		
+176	 육하원칙	문제
+문제	 첫	번째	이메일에	의하면,	Mr.	Brent는	왜	카탈로그를	보냈는가?
+(A)	주문의	정확성을	확인하기	위해
+(B)	새로운	페인트	색조를	광고하기	위해
+(C)	다른	색을	추천하기	위해
+(D)	계산	오류를	설명하기	위해
+해설  Mr. Brent가 왜(why) 카탈로그를 보냈는지를 묻는 육하원칙 문제이므로 첫 
+번째 이메일에서 질문의 핵심 어구인 catalog와 관련된 내용을 확인한다. 첫 
+번째 지문인 이메일의 ‘Could you please confirm that this was not an 
+error and that you would actually like to place both orders?’(2문단 
+2번째 줄)에서 이것이 오류가 아니고 두 개를 모두 주문하고 싶은 것인지를 
+확인해 달라고 했으므로 (A) To check order accuracy가 정답이다.
+어휘  accuracy  n.	정확성		 calculation  n.	계산,	셈
+177	 동의어	찾기	문제
+문제	 	두	번째	이메일에서,	2문단	세	번째	줄의	단어	“shade”는	의미상	-와	가장	가
+깝다.
+(A)	반영
+(B)	색조
+(C)	표현
+(D)	피난처
+해설  두 번째 지문인 이메일의 shade를 포함하고 있는 구절 ‘one order had 
+been made twice for the same paint shade’(2문단 3번째 줄)에서 
+shade는 ‘색조’라는 뜻으로 사용되었다. 따라서 ‘색조’라는 뜻을 가진 (B) 
+tone이 정답이다.
+어휘  reflection  n.	반영		 expression  n.	표현		 shelter  n.	피난처,	은신처
+178	 Not/True	문제		 연계
+문제	 Care	Construction사에	대해	언급된	것은?
+(A)	스케줄이	바뀌어야	했다.
+(B)	Mr.	Marsh를	위한	프로젝트를	최근	완료했다.
+(C)	몇몇의	새로운	디자인	직원을	이제	막	고용했다.
+(D)	주문이	구식의	정보를	참고했다.
+해설  질문의 핵심 어구인 Care Construction에 대해 묻는 Not/True 문제이므로 
+Care Construction사가 언급된 첫 번째와 두 번째 이메일 모두에서 관련 내
+용을 확인한다. (A)는 두 번째 이메일의 ‘which still gives us enough time 
+to stay within our schedule’(1문단 3번째 줄)에서 일정을 유지하기에 충
+분한 시간이 있다고 했으므로 지문의 내용과 일치하지 않는다. (B)와 (C)는 
+지문에 언급되지 않은 내용이다. (D)는 첫 번째 이메일의 ‘I am afraid that 
+two of the colors you requested correspond to old color codes 
+from last year’s catalog’(3문단 1번째 줄)에서 요청한 색들 중 두 개가 작
+년 카탈로그의 옛날 색상 코드에 해당한다고 했으므로 지문의 내용과 일치한
+다. 따라서 (D) Its order referred to outdated information이 정답이다.
+어휘  alter  v.	바뀌다		 refer  v.	참고하다		 outdated  adj.	구식의
+Paraphrasing
+old color codes 옛날 색상 코드 → outdated information 구식의 정보
+179	 육하원칙	문제
+문제	 Mr.	Marsh에	따르면,	정보를	보내는	것이	왜	지연되었는가?
+(A)	인테리어	디자이너가	자리에	없었다.
+(B)	관리자는	아무런	문제를	찾을	수	없었다.
+(C)	페인트	색상에	대한	번호가	바뀌었다.
+(D)	디자이너는	결정을	하는	데	힘들었다.
+해설  정보를 보내는 것이 왜(why) 지연되었는지를 묻는 육하원칙 문제이므로 질
+문의 핵심 어구인 a delay sending information이 언급된 두 번째 이메일
+에서 관련 내용을 확인한다. 두 번째 이메일의 ‘our interior designer was 
+away, so we couldn’t get the details immediately’(1문단 1번째 줄)에
+서 저희 인테리어 디자이너가 자리에 없어서, 세부 정보를 즉시 얻을 수 없었
+실전모의고사 2 |  33
+H
+a
+ck
+e
+rs T
+O
+E
+IC
+R
+e
+a
+d
+in
+g
+실
+전
+모
+의
+고
+사
+2
+다고 했으므로 (A) The interior designer was not present가 정답이다.
+어휘  present  adj.	사람이	특정	장소에	있는		 decision  n.	결정
+180	 추론	문제		 연계
+문제	 Mr.	Marsh의	주문에	대해	암시되는	것은?
+(A)	부정확한	주소로	보내졌다.
+(B)	색상	B227의	수량	오류를	포함했다.
+(C)	해외	공급업체로부터	배송되었다.
+(D)	예상보다	더	많은	비용이	들었다.
+해설  두 지문의 내용을 종합적으로 확인한 후 추론해서 풀어야 하는 연계 문제이다. 
+질문의 핵심 어구인 Mr. Marsh가 작성한 두 번째 이메일을 먼저 확인한다.
+두 번째 이메일에서 ‘one order had been made twice for the same 
+paint shade’(2문단 3번째 줄)에서 같은 페인트 색조를 두 번 주문했다는 첫 
+번째 단서를 확인할 수 있다. 그런데 어떤 페인트 색조를 두 번 주문했는지 제
+시되지 않았으므로 첫 번째 이메일에서 관련 내용을 확인한다. 첫 번째 이메
+일의 ‘There were two separate entries for the color B227 sky blue 
+paint’(2문단 1번째 줄)에서 B227 하늘색 페인트에 대한 두 개의 개별적인 
+기재 사항이 있었다는 두 번째 단서를 확인할 수 있다. 
+같은 페인트 색조를 두 번 주문했다는 첫 번째 단서와 B227 하늘색 페인트
+에 대한 두 개의 개별적인 기재 사항이 있었다는 두 번째 단서를 종합할 때, 
+B227 하늘색 페인트를 두 번 주문했다는 사실을 추론할 수 있다. 따라서 (B) 
+It contained a quantity error for color B227이 정답이다.
+어휘  incorrect  adj.	부정확한		 foreign  adj.	해외의,	외국의
+181-185는 다음 광고와 이메일에 관한 문제입니다. 
+Dover	지역	봉사	활동
+Dover	지역	봉사	활동(DCO)은	50년이	넘는	기간	동안	Dover시의	저소득	가
+정들에게	도움을	제공해	왔습니다.	181DCO는 지역의 정부 지원을 받는 사회 복
+지 기관들과 협력하고 있습니다.	182어려움에 처한 가정들은 다음 단체들을 통
+해 소정의 보조금을 제공받습니다:
+주거	및	의료	관리
+•임대료	보조
+•임대	보증금	지원
+•의료	관리	지원
+교육	및	직업	훈련
+•182구직자를 위한 특정 분야 훈련 프로그램
+•기술력을	향상시키기	위한	기술	개발	수업
+당신이	도울	수	있는	방법
+DCO로의	당신의	자비로운	기부는	우리가	더	많이	활동하도록	도울	수	있습
+니다.	 184Dover 지역 봉사 활동에 기부하기 위해, 저희 기부금 페이지 www. 
+doveroutreach.org/donation을 방문해 주십시오.	DCO와	관련된	어떤	질
+문들이	있다면,	행정	부장	Ms.	Laura	Kingsley에게	555-2338로	연락하거나	
+l_kingsley@doveroutreach.org로	이메일을	보내주십시오.	
+outreach  n.	봉사	활동	 low-income  adj.	저소득의,	저수입의			 
+social service 사회	복지		 in need 어려움에	처한,	궁핍한			 
+security deposit 임대	보증금		 job-seeker  n.	구직자 
+charitable  adj.	자비로운		 administrative  adj.	행정의,	사무의
+수신		Douglas	Porter	<dporter@wvdp.com>
+발신		Laura	Kingsley	<l_kingsley@doveroutreach.org>
+제목		월례	단체	회의
+날짜		6월	1일
+Dr.	Porter께,
+183늘 그렇듯이, Dover 지역 봉사 활동의 회원들을 위한 월례 단체 회의는 매
+달 두 번째 월요일(6월	 10일)에 열릴 것입니다.	당신의 치과 병원인 West 
+Victoria 치과는 지난 10년간 Dover 지역 봉사 활동의 헌신적인 회원이자 후
+원자였기 때문에,	저희는	이번	월례	회의에서	당신이	발표를	하는	것에	대해	아
+주	기쁩니다.	저는	당신이	영사기와	마이크	시스템이	필요할	것이라는	것을	알
+고	있기에	당신을	위해	그	물품들을	꼭	준비해	놓을	것입니다.
+184/185이번 달의 회의 안건을	확인해	주십시오:	 
+• 184들어오는 기부금의 부족에 대한 우려;	기부금	페이지를	제외한	다른	방법
+들에	대한	제안
+•새로운	프로그램을	위한	강사	모집
+•주택	가격	인상;	경제	자료에	대한	논의
+•185노인 치아 관리에 대한 Dr. Douglas Porter의 특별 발표
+항상	그렇듯이,	DCO와	관련된	모든	주제에	대한	귀하의	의견과	문의도	환영
+합니다.
+Laura	Kingsley	드림
+행정	부장,	Dover	지역	봉사	활동
+practice  n.	병원,	의원		 delighted  adj.	아주	기쁜		 agenda  n.	안건			 
+incoming  adj.	들어오는		 senior citizen 노인,	어르신
+181	 육하원칙	문제
+문제	 누가	Dover	지역	봉사	활동과	함께	일하는가?
+(A)	제약	회사들
+(B)	인터넷	서비스	제공업체들
+(C)	국제적으로	운영되는	회사들
+(D)	주	복지	단체들	
+해설  Dover 지역 봉사 활동과 함께 일하는 것이 누구(Who)인지를 묻는 육하
+원칙 문제이므로 질문의 핵심 어구인 Dover Community Outreach가 
+언급된 광고에서 관련 내용을 확인한다. 첫 번째 지문인 광고에서 ‘DCO 
+works in partnership with local government-funded social service 
+agencies.’(1문단 2번째 줄)에서 DCO는 지역의 정부 지원을 받는 사회 복
+지 기관들과 협력하고 있다고 했으므로 (D) State welfare groups가 정답
+이다.
+Paraphrasing 
+social service agencies 사회 복지 기관들 → welfare groups 복지 단체들
+어휘  pharmaceutical  adj.	제약의,	약학의			
+182	 육하원칙	문제
+문제	 Dover	지역	봉사	활동은	어떻게	가정들에게	지원을	제공하는가?
+(A)	주택	소유권과	관련된	모든	비용을	지불한다.
+(B)	70세	이상의	사람들에	대한	건강	비용을	완전히	보장한다.
+(C)	직장을	찾는	사람들을	위한	강좌를	제공한다.	
+(D)	집에서	일하는	사람들을	위해	컴퓨터를	설치해	준다.
+해설  가정들에게 어떻게(How) 지원을 제공하는지를 묻는 육하원칙 문제이므로 질
+문의 핵심 어구인 provide support to families가 언급된 광고에서 관련 내
+용을 확인한다. 첫 번째 지문인 광고에서 ‘Families in need are offered 
+small grants through these groups for the following’(1문단 3번째 줄)
+에서 어려움에 처한 가정들은 다음 단체들을 통해 소정의 보조금을 제공받는
+다고 한 후, ‘Field-specific training programs for job-seekers’(3문단  
+1번째 줄)에서 구직자를 위한 특정 분야 훈련 프로그램이 있다고 했으므로 (C) 
+They offer classes for people looking for employment가 정답이다.
+Paraphrasing
+job-seekers 구직자들 → people looking for employment 직장을 찾는 
+사람들
+어휘  ownership  n.	소유권,	소유		 cover  v.	보장하다		 expense  n.	비용			 
+employment  n.	직장,	고용
+183	 추론	문제
+문제	 Dr.	Porter에	대해	암시되는	것은?
+(A)	출판을	위해	연구	자료를	모으고	있다.
+(B)	매달	두	번째	월요일에	있는	DCO	회의에	초대된다.
+(C)	DCO의	설립	이래로	후원자였다.
+(D)	Dover시에	많은	치과	병원을	소유하고	있다.
+해설  질문의 핵심 어구인 Dr. Porter에 대해 추론하는 문제이므로 Dr. Porter에
+게 보내는 이메일에서 관련 내용을 확인한다. 두 번째 지문인 이메일의 ‘As 
+usual, the monthly group meeting for Dover Community Outreach 
+members will take place on the second Monday of the month’(1문 
+단 1번째 줄)에서 늘 그렇듯이, Dover 지역 봉사 활동의 회원들을 위한 월
+례 단체 회의는 매달 두 번째 월요일에 열린다고 했고, ‘As your dental 
+34 |  무료 실전 문제 해설강의 · 무료 단어암기 MP3  HackersIngang.com
+practice ~ has been a dedicated member and supporter of Dover 
+Community Outreach for the past 10 years’(1문단 2번째 줄)에서  
+Dr. Porter의 치과 병원은 지난 10년간 Dover 지역 봉사 활동의 헌신적
+인 회원이자 후원자였다고 했으므로, Dover 지역 봉사 활동의 후원자인  
+Dr. Porter가 매달 두 번째 월요일에 열리는 월례 단체 회의에 초대된다는 
+사실을 알 수 있다. 따라서 (B) He is invited to a DCO meeting every 
+second Monday of the month가 정답이다.
+어휘  gather  v.	모으다		 publication  n.	출판,	출간		 establishment  n.	설립
+184	 추론	문제		 연계
+문제	 Dover	지역	봉사	활동에	대해	암시되는	것은?
+(A)	그들의	웹사이트를	통해	충분한	자금을	모으고	있지	않다.
+(B)	제공된	어떤	서비스들을	줄이는	것을	고려하고	있다.
+(C)	행정직에	새로운	직원들을	모집하고	있다.
+(D)	최근의	주택	비용	증가에	대해	잘	모르고	있다.
+해설  두 지문의 내용을 종합적으로 확인한 후 추론해서 풀어야 하는 연계 문제이
+다. 질문의 핵심 어구인 Dover Community Outreach가 언급된 광고를 먼
+저 확인한다. 
+첫 번째 지문인 광고의 ‘To make a donation to Dover Community 
+Outreach, visit our Contributions Page at www.doveroutreach.org/ 
+donation.’(4문단 1번째 줄)에서 Dover 지역 봉사 활동에 기부하기 위해서
+는 기부금 페이지에 방문해 달라고 했으므로 기부금은 웹페이지에서 낼 수 있
+다는 첫 번째 단서를 확인할 수 있다. 그런데 기부금에 대한 다른 정보가 제
+시되지 않았으므로 이메일에서 관련 내용을 확인한다. 두 번째 지문인 이메
+일의 ‘this month’s meeting agenda:’, ‘Concerns regarding lack of 
+incoming donations’(2문단 1번째 줄)에서 이번 월례 회의의 안건으로 들
+어오는 기부금의 부족에 대한 우려가 있다는 두 번째 단서를 확인할 수 있다. 
+기부금은 웹페이지에서 낼 수 있다는 첫 번째 단서와 이번 달 회의 안건에 들
+어오는 기부금의 부족에 대한 우려가 있다는 두 번째 단서를 종합할 때, 웹
+페이지를 통해 들어오는 기부금이 부족하다는 사실을 추론할 수 있다. 따라
+서 (A) They are not raising enough funds through their Web site
+가 정답이다.
+Paraphrasing 
+lack of incoming donations 들어오는 기부금의 부족 → not raising 
+enough funds 충분한 자금을 모으고 있지 않다
+Contributions page 기부금 페이지 → Web site 웹사이트
+어휘  raise  v.	(자금을)	모으다,	얻어	내다		 cut back 	줄이다,	삭감하다			
+185	 육하원칙	문제
+문제	 이메일에	따르면,	월례	회의에서	무엇이	논의될	것인가?
+(A)	조직이	기부금을	제공해야	하는	곳
+(B)	DCO의	새로운	기술	프로그램들
+(C)	개인	주택의	가치를	높이는	방법
+(D)	중장년층을	위한	치아	관리	제공
+해설  월례 회의에서 무엇(what)이 논의될 것인지를 묻는 육하원칙 문제이므로 질
+문의 핵심 어구인 monthly meeting이 언급된 이메일에서 관련 내용을 확
+인한다. ‘this month’s meeting agenda:’(2문단 1번째 줄)와 ‘Special 
+presentation by Dr. Douglas Porter on senior citizen dental care’ 
+(2문단 6번째 줄)에서 이번 월례 회의에서 Dr. Douglas가 노인 치아 관리
+에 대한 특별 발표를 한다고 했으므로 (D) Providing dental care for the 
+elderly가 정답이다.
+Paraphrasing 
+senior citizen 노인 → the elderly 중장년층 
+186-190은 다음 편지, 송장, 이메일에 관한 문제입니다. 
+5월	1일
+Mr.	Borden께,
+저희	회사는	5월	9일에	임대	계약이	만료되면	그것을	갱신하지	않을	것이라는	
+점을	알려드리고	싶습니다.	이는	시설이나	서비스,	혹은	건물	소유주인	귀하에	
+대해	잘못된	것이	있어서가	아닙니다.	저희	사업체는	이	공간을	쓰기에는	단지	
+너무	크게	성장했을	뿐입니다.	저는	지난	5년간의	귀하의	모든	도움에	감사드립
+니다.	저희는	5월	10일과	11일에	Facade	Towers에	있는	새	사무실로		 
+이전할	것입니다.
+186/187저희가 구내를 비우면, 청소업체가 와서 모든 것들이 저희가 처음 이사 왔
+을 때의 상태와 동일해지도록 하기 위해 고용되었습니다.	계약	조건에	동의되
+어	있듯이,	186그 서비스에 대해서는 제가 비용을 지불할 것입니다.	어떤	것이든	
+저와	확인하실	필요가	있다면	emoses@dancertranslation.com으로	언제든	
+연락하시면	됩니다.
+Elizabeth	Moses	드림
+경영자,	Dancer	Translation	Services사
+renew  v.	갱신하다		 lease  n.	임대	계약		 relocate  v.	이전하다,	이동하다			 
+vacate  v.	비우다		 premises  n.	구내,	건물		 terms  n.	(합의	·	계약	등의)	조건			 
+proprietor  n.	경영자,	소유주
+190OFFICINA 청소업체	 	 	 송장:	#DTS-3987	
+4204번지 Grandville대로, 내슈빌,	테네시주	37207
+전화.	555-2350
+186이름: Elizabeth Moses 188-B날짜: 5월 12일
+186/188-D주소: Dancer Translation 
+Services사 56호, 4층,	
+Stembridge 상업 건물,	내슈빌,	테
+네시주
+이메일:	
+emoses@dancertranslation.com
+188-C제공되는 서비스 비용
+188-C카펫 증기 세탁 
+응접실과	화장실	바닥	닦기
+조명	기구	먼지	털기	및	청소
+화장실과	직원	사무실	청소
+모든	창문	닦기
+두	곳의	개인	사무실	청소
+회의실	청소
+전구	교체
+230달러
+170달러
+75달러
+120달러
+200달러
+150달러
+75달러
+30달러
+소계
+세금
+지불	금액
+1,050달러
+105달러
+1,155달러
+이	송장에	대한	지불금은	서비스	마지막	날로부터	5일	이내에	내셔야	합니다.	
+늦은	지불은	현금	위약금을	발생시킬	수	있습니다.
+steam  n.	증기		 polish  v.	닦다,	광을	내다		 reception area 응접실,	안내실			 
+dust  v.	먼지를	털다		 light fixture 조명	기구		 light bulb 전구			 
+owe  v.	지불할	의무가	있다,	빚지고	있다		 incur  v.	(비용을)	발생시키다,	초래하다			 
+penalty  n.	위약금,	벌금,	형벌
+수신		Elizabeth	Moses	<emoses@dancertranslation.com>
+발신		Harris	Lloyd	<h.lloyd@officinacleaning.com>
+제목		긴급
+날짜		5월	17일
+Ms.	Moses께,
+190저희 업체가 귀하를 위해 수행한 서비스에	대해	이메일을	작성합니다.	서비
+스	마지막	날은	5월	11일이었으며,	송장은	귀하께서	요청하신	대로	건물	관
+리인에게	맡겨졌습니다.	귀하께서	그로부터	청구서를	받으셨는지	모르겠지만,		
+189저는 아직 보수를 받지 못했습니다.	이제	서비스가	제공된	지	6일이	되었습
+니다.	저는	새로운	장소로의	이사로	인한	혼란으로	착오가	있었을지도	모른다
+는	것을	이해합니다.	
+189저는 내일까지 귀하께서 지불 금액을 송금해주시기를 정중히 요청드립니다.	
+그	후에는,	190Officina 청소업체는	서명하신	서비스	계약서의	조건으로	명시되
+어	있듯이	귀하에게	지불	연체에	대해	하루당	5달러의	위약금을 청구할 것입
+니다.	문의	사항이나	용건이	있으시다면,	언제든지	이	이메일로	답장하시거나	
+555-4933으로	제게	연락하시기	바랍니다.	
+Harris	Lloyd	드림
+payment  n.	보수,	지불	금액		 render  v.	제공하다,	~이	되게	하다			 
+confusion  n.	혼란		 oversight  n.	착오,	간과		 remit  v.	송금하다			 
+thereafter  adv.	그	후에		 indicate  v.	명시하다,	나타내다
+실전모의고사 2 |  35
+H
+a
+ck
+e
+rs T
+O
+E
+IC
+R
+e
+a
+d
+in
+g
+실
+전
+모
+의
+고
+사
+2
+186	 육하원칙	문제		 연계 
+문제	 Ms.	Moses는	무엇을	하는	것에	동의했는가?
+(A)	상업	공간을	또	한	번의	기간	동안	더	임대한다
+(B)	4층의	호실	하나를	청소하는	것에	대한	비용을	부담한다
+(C)	회사를	Facade	Towers로	이전하기	위해	Mr.	Borden을	고용한다	
+(D)	이전	사무실	공간의	바닥을	교체한다
+해설  두 지문의 내용을 종합해서 풀어야 하는 연계 문제이다. 질문의 핵심 어구인 
+Ms. Moses agreed to do에서 Ms. Moses가 무엇(What)을 하는 것에 동
+의했는지를 묻고 있으므로 Ms. Moses가 작성한 편지를 먼저 확인한다.  
+첫 번째 지문인 편지의 ‘Once we vacate the premises, a cleaning 
+company has been hired to come in’(2문단 1번째 줄)과 ‘I will pay for 
+those services’(2문단 3번째 줄)에서 구내, 즉 사무실을 비우면 청소업체가 
+오도록 고용되어 있으며, 그 서비스에 대해 자신, 즉 Ms. Moses가 비용을 지
+불할 것이라는 첫 번째 단서를 확인할 수 있다. 그런데 사무실에 대한 세부 정
+보가 제시되지 않았으므로 사무실에 대해 언급된 Ms. Moses에게 청구하는 
+송장에서 관련 내용을 확인한다. 두 번째 지문인 송장의 ‘NAME: Elizabeth 
+Moses’(표 1행 1열)와 ‘ADDRESS: ~ Unit 56, 4th floor’(표 2행 1열)에서 
+Ms. Moses의 사무실이 56호 4층이라는 두 번째 단서를 확인할 수 있다. 
+사무실을 비우면 청소업체가 오도록 고용되어 있으며 그 서비스에 대해  
+Ms. Moses가 비용을 지불할 것이라는 첫 번째 단서와 Ms. Moses의 사무실
+이 56호 4층이라는 두 번째 단서를 종합할 때, Ms. Moses는 4층의 호실 하
+나를 청소하는 것에 대한 비용을 부담하는 것에 동의했음을 알 수 있다. 따라
+서 (B) Cover costs for cleaning a unit on the fourth floor가 정답이다.
+Paraphrasing 
+pay for 지불하다 → Cover costs 비용을 부담하다
+어휘  lease out 임대하다		 cover  v.	(비용	등을)	부담하다,	덮다,	다루다			 
+unit  n.	호실,	한	가구,	구성	단위
+187	 동의어	찾기	문제
+문제	 편지의	2문단	두	번째	줄의	단어	“condition”은	의미상	-와	가장	가깝다.
+(A)	상태
+(B)	요건
+(C)	평판
+(D)	용어
+해설  편지의 condition을 포함한 문장 ‘Once we vacate the premises, a 
+cleaning company has been hired to come in and make sure 
+everything is in the same condition as it was when we first moved 
+in.’(2문단 1번째 줄)에서 condition이 ‘상태’라는 뜻으로 사용되었다. 따라
+서 ‘상태’라는 뜻을 가진 (A) state가 정답이다.
+어휘  requirement  n.	요건,	필요조건		 reputation  n.	평판,	명성			 
+term  n.	용어,	기간
+188	 Not/True	문제	
+문제	 Officina	청소업체에	대해	사실인	것은?
+(A)	이사	서비스	업체이다.
+(B)	5월	12일까지	모든	결제를	하도록	요구한다.
+(C)	카펫	청소	서비스를	제공한다.	
+(D)	Stembridge	상업	건물에	위치하고	있다.	
+해설  질문의 핵심 어구인 Officina Cleaning Services에 대해 묻는 Not/True 문
+제이므로 Officina 청소업체가 언급된 송장에서 관련 내용을 확인한다. (A)
+는 지문에 언급되지 않은 내용이다. (B)는 ‘Date: May 12’(표 1행 2열)에
+서 송장이 5월 12일에 쓰여졌다는 것을 알 수 있으나 모든 결제를 5월 12일
+까지 해야 한다고는 언급하지 않았다. (C)는 ‘SERVICES PROVIDED’(표 3
+행 1열), ‘Steam cleaning carpets’(표 4행 1열)에서 카펫 증기 세탁 서
+비스가 제공된다고 했으므로 지문의 내용과 일치한다. 따라서 (C) It offers 
+a carpet cleaning service가 정답이다. (D)는 ‘Dancer Translation 
+Services, ~ Stembridge Commercial Building’(표 2행 1열)에서 
+Stembridge 상업 건물에 위치한 것은 Dancer Translation Services사라
+고 했으므로 지문의 내용과 일치하지 않는다.
+어휘  relocation  n.	이사		 provider  n.	업체,	공급체		 situate  v.	위치시키다
+189	 주제/목적	찾기	문제
+문제	 이메일의	주	목적은	무엇인가?
+(A)	청소	서비스	날짜를	확인하기	위해
+(B)	고객에게	미지불된	청구서에	대해	알리기	위해
+(C)	재무제표의	오류를	보고하기	위해
+(D)	관리자에게	호실의	문제를	알려주기	위해
+해설  이메일의 목적을 묻는 목적 찾기 문제이므로 이메일의 내용을 확인한다. 세 
+번째 지문인 이메일의 ‘I have yet to receive any payment’(1문단 3번째 
+줄)와 ‘I ~ ask that you remit payment by tomorrow.’(2문단 1번째 줄)
+에서 아직 보수를 받지 못했으며 내일까지 지불 금액을 송금해주길 요청한다
+고 했으므로 (B) To notify a client of an outstanding bill이 정답이다.
+어휘  outstanding  adj.	미지불된,	뛰어난		 financial statement 재무제표
+190	 추론	문제		 연계 
+문제	 Harris	Lloyd에	대해	암시되는	것은?
+(A)	잘못된	장소로	문서를	발송했다.
+(B)	내슈빌에	위치한	청소업체를	소유하고	있다.
+(C)	송장에	계산	오류를	범했다.
+(D)	실수로	Mr.	Borden의	비서에게	청구서를	맡겼다.
+해설  두 지문의 내용을 종합적으로 확인한 후 추론해서 풀어야 하는 연계 문제이
+다. 질문의 핵심 어구인 Harris Lloyd가 작성한 이메일을 먼저 확인한다.   
+세 번째 지문인 이메일의 ‘the services my business performed for 
+you’(1문단 1번째 줄)와 ‘Officina Cleaning Services will charge you 
+a penalty’(2문단 1번째 줄)에서 이메일의 발신자인 Harris Lloyd의 업
+체가 수신자인 Elizabeth Moses를 위해 서비스를 수행했으며, 이 업체
+인 Officina 청소업체가 위약금을 청구할 것이라는 첫 번째 단서를 확인할 
+수 있다. 그런데 Harris Lloyd의 업체가 어디에 위치했는지 제시되지 않았
+으므로 두 번째 지문인 송장에서 관련 내용을 확인한다. 송장의 ‘OFFICINA 
+CLEANING SERVICES INC. ~ Nashville’(송장 상단)에서 Officina 청소업
+체가 내슈빌에 위치하고 있다는 두 번째 단서를 확인할 수 있다. 
+Harris Lloyd의 업체가 Elizabeth Moses를 위해 서비스를 수행한 Officina 
+청소업체이며 이 청소업체가 위약금을 청구할 것이라는 첫 번째 단서와 
+Officina 청소업체가 내슈빌에 위치하고 있다는 두 번째 단서를 종합할 때, 
+Harris Lloyd는 내슈빌에 위치한 청소업체를 소유하고 있다는 사실을 추론할 
+수 있다. 따라서 (B) He owns a cleaning business located in Nashville
+이 정답이다.
+어휘  calculation  n.	계산		 mistakenly  adv.	실수로
+191-195는 다음 기사, 회람, 이메일에 관한 문제입니다. 
+Brayden	부동산이	리노에	지점을	개업하다
+192지난해 초 라스베이거스에서 개점한 최초의 네바다 지점에서의 성공에 이어,	
+191-C/192Brayden 부동산이 리노에 두 번째 사무소를 개업할 것이라고 발표했
+다.	192“두 도시의 시장은 유사합니다,”라고	191-BBrayden 부동산 최고경영자인 
+Marjorie Olsen은	말한다.	“그것이	우리가	이	새로운	사업이	수익성이	좋을	것
+이라고	확신하는	이유입니다.”	Olsen은	또한	194회사가 리노 지점의 모든 일자
+리를 현지에서 고용을 할 것이라고 설명했다.	이	지점은	총	18명의	관리인,	중
+개인,	그리고	관리부	직원들을	뽑을	것이다.
+191-DBrayden 부동산은 주로 호텔, 쇼핑 센터, 오락 시설을 포함하는 대형 건물
+들을 취급한다.	콜로라도주	덴버에	본사를	두고	있는	이	회사는,	미	서부의	12개		
+주에	사무소를	운영한다.	1942월 14일에 개업하면 리노는 회사의 28번째 소재
+지가 될 것이다.	리노	지점이	운영되고	나면	191-ABrayden사는 아리조나주를 겨
+냥하고 있으며, 우선 피닉스와 투손에 사무소를 계획하고 있다.	
+realty  n.	부동산		 branch  n.	지점		 venture  n.	사업			 
+lucrative  adj.	수익성이	좋은		 locally  adv.	현지에서			 
+recruit  v.	(신입	사원	등을)	뽑다,	모집하다		 primarily  adv.	주로;	처음으로			 
+deal in ~을	취급하다		 property  n.	건물,	부동산			 
+headquarter  v.	~에	본부를	두다		 operate  v.	운영하다			 
+up and running 운영	중인,	가동하고	있는			 
+have one’s sights set on ~을	겨냥하다		 envision  v.	계획하다,	구상하다
+회람		 
+36 |  무료 온라인 실전모의고사 · 무료 토익 학습자료 · 취업정보 제공  Hackers.co.kr
+날짜:	2월	3일
+수신:	중개	교육생들
+발신:	Michelle	Larsen
+다음	주	교육	일정에	관하여	여러분	모두가	숙지해야	할	필요가	있는	변경	사항
+이	있습니다.	우선,	저는	긴급한	채용	사안을	돕기	위하여	본사로	오라는	요청을	
+받았습니다.	그러므로	저는	다음	주	여러분의	오전	교육을	진행할	수	없을	것입
+니다.	저를	대신해서	근무할	사람은	193Adrian Gist인데, 그는 이번 주 화요일에 
+여러분의 사무소 시스템 교육을 지도했습니다.	그는	리노에서의	모든	남아	있는	
+수업을	지도할	것입니다.	
+또한,	195다음 주 금요일에, 우리는 인근 식당에서 저녁식사를 하며 교육 수료를 
+축하할 것입니다. 모든 신규 교육생들이 초대되며	오후	7시	30분에	24가	695번	
+지에	위치한	 Paolo’s Grill로 한 명의 손님을 데려올 수 있습니다.	 agist@
+braydenrealestate.com으로	이메일을	보내	Adrian에게	여러분이	오시는지	
+안	오시는지	알려주시기	바랍니다.	그렇게	함으로써	우리가	미리	예약을	할	수	
+있습니다.	
+be aware of 숙지하다,	알다		 recruitment  n.	채용			 
+step in for 남을	대신해서	근무하다		 remaining  adj.	남아	있는,	남은			 
+completion  n.	수료,	졸업;	완성,	완료			
+수신:	Adrian	Gist	<agist@braydenrealestate.com>
+194/195발신: Sofia Suarez <ssuar@braydenrealestate.com>
+제목:	축하	만찬
+날짜:	2월	4일
+안녕하세요	Adrian,
+195저는 다음 주 2월 11일에 있을 식사에 참석하고 싶습니다.	제	남편이	출장으
+로	부재	중일	것이기	때문에	저는	손님은	데려오지	않을	것입니다.
+또한,	저는	사무소	교육	시간	마지막에	당신이	모든	신규	중개인들에게	배부했	
+던	명함에	대해	질문이	있습니다.	제	이메일	주소는	잘못	인쇄되어	있었습니다.
+저는	이	문제와	관련해	누구에게	연락을	해야	할지	몰랐습니다.	19414일에 사무
+소가 개업할 때 명함을 나누어 주어야 할 것이므로	제게	알려주시기	바랍니다.	
+도움에	감사드리며,	다음	주의	교육	시간을	고대하겠습니다.	
+Sofia	Suarez	드림
+attend  v.	참석하다		 business card 명함		 distribute  v.	배부하다			 
+misprint  v.	잘못	인쇄하다		 hand out (사람들에게	물건을)	나누어	주다			 
+open to public 개방하다
+191	 Not/True	문제
+문제	 Brayden	부동산에	대해	언급되지	않은	것은?
+(A)	피닉스에서	사업에	착수할	계획이다.
+(B)	현재	Marjorie	Olsen의	지도하에	있다.
+(C)	라스베이거스에서	리노로	사무소를	이전할	것이다.
+(D)	대형	시설과	건물을	전문으로	한다.
+해설  Brayden Realty에 대해 언급되지 않은 것을 묻는 Not/True 문제이므로 질
+문의 핵심 어구인 Brayden Realty가 언급된 첫 번째 지문인 기사에서 관련 
+내용을 확인한다. (A)는 ‘Brayden ~ envisions offices in Phoenix ~ to 
+start with’(2문단 5번째 줄)에서 Brayden사가 우선 피닉스에 사무소를 계
+획하고 있다고 했으므로 지문의 내용과 일치한다. (B)는 ‘Marjorie Olsen, 
+CEO of Brayden Realty’(1문단 3번째 줄)에서 Brayden 부동산 최고경
+영자인 Marjorie Olsen이라고 했으므로 지문의 내용과 일치한다. (C)는 
+‘Brayden Realty has announced it will be opening a second office 
+in Reno’(1문단 2번째 줄)에서 Brayden 부동산이 리노에 두 번째 사무소
+를 개업할 것이라고 발표했으므로 지문의 내용과 일치하지 않는다. 따라서 
+(C) It will move its offices from Las Vegas to Reno가 정답이다. (D)
+는 ‘Brayden Realty primarily deals in large properties, including 
+hotels, shopping centers, and entertainment facilities.’(2문단 1번째 
+줄)에서 Brayden 부동산은 주로 호텔, 쇼핑 센터, 오락 시설을 포함하는 대
+형 건물들을 취급한다고 했으므로 지문의 내용과 일치한다.
+Paraphrasing 
+envisions 계획하다 → plans 계획하다 
+primarily deals in large properties 주로 대형 건물들을 취급한다 → 
+specializes in larger facilities 대형 건물들을 전문으로 한다
+어휘  launch  v.	착수하다		 under the leadership of ~의	지도하에			 
+specialize in ~을	전문으로	하다		 facility  n.	시설			 
+structure  n.	건물,	건축물
+192	 Not/True	문제
+문제	 리노의	부동산	시장에	대해	언급된	것은?
+(A)	라스베이거스의	시장과	흡사하다.	
+(B)	현재의	공급자들에	의해서	수요가	충족되지	못하고	있다.
+(C)	미	서부에서	가장	빠르게	성장하는	시장이다.
+(D)	리노	거주민들에게	많은	일자리를	제공한다.
+해설  질문의 핵심 어구인 the real estate market in Reno에 대해 묻는 Not/
+True 문제이므로 첫 번째 지문인 부동산 시장에 대해 언급된 기사에서 관
+련 내용을 확인한다. (A)는 ‘Following the success of its first Nevada 
+branch, ~ in Las Vegas, Brayden Realty has announced it will be 
+opening a second office in Reno. “The market in both cities is 
+similar,”’ (1문단 1번째 줄)에서 라스베이거스에서 개점한 최초의 네바다 지
+점에서의 성공에 이어 Brayden 부동산이 리노에 두 번째 사무소를 개업할 
+것이라고 발표한 뒤, 두 도시의 시장은 유사하다고 했으므로 지문의 내용과 
+일치한다. 따라서 (A) It is comparable to the market in Las Vegas가 정
+답이다. (B), (C), (D)는 지문에 언급되지 않은 내용이다.
+어휘  comparable  adj.	흡사한,	유사한		 substantial  adj.	많은,	상당한
+193	 Not/True	문제
+문제	 Michelle	Larsen이	Adrian	Gist에	대해	언급한	것은?
+(A)	본사에서	교육생들에게	소개되었다.
+(B)	이번	주에	사무소	시스템에	관한	교육을	진행했다.
+(C)	최근에	채용	관리자로	고용되었다.
+(D)	중개	교육생들을	여러	번	만났다.	
+해설  질문의 핵심 어구인 Adrian Gist에 대해 Michelle Larsen이 언급한 내용
+을 지문에서 찾아 보기와 대조하는 Not/True 문제이므로 두 번째 지문
+인 Adrian Gist가 언급된 회람에서 관련 내용을 확인한다. (B)는 ‘Adrian 
+Gist, who led your office system training session on Tuesday this 
+week’(1문단 4번째 줄)에서 Adrian Gist가 이번 주 화요일에 사무소 시
+스템 교육을 지도했다고 했으므로 지문의 내용과 일치한다. 따라서 (B) He 
+facilitated a session on office systems this week가 정답이다. (A), (C), 
+(D)는 지문에 언급되지 않은 내용이다.
+Paraphrasing 
+led ~ session 교육을 진행했다 → facilitated a session 교육을 진행했다 
+어휘  facilitate  v.	진행하다,	용이하게	하다			
+194	 추론	문제		 연계
+문제	 Sofia	Suarez에	대해	암시되는	것은?
+(A)	관리자로서	교육을	할	것이다.
+(B)	출장을	가게	될	것이다.
+(C)	연례	회의에	참석할	수	없다.
+(D)	리노의	지역	주민이다.
+해설  두 지문의 내용을 종합적으로 확인한 후 추론해서 풀어야 하는 연계 문제이
+다. 질문의 핵심 어구인 Sofia Suarez가 작성한 이메일에서 관련 내용을 먼
+저 확인한다. 
+세 번째 지문인 이메일의 ‘I will ~ hand out business cards when the 
+office opens to the public on the 14th’(2문단 3번째 줄)에서 이메일의 
+발신자인 Sofia Suarez가 14일에 사무소가 개업할 때 명함을 나누어 줄 것
+이라고 했으므로 Sofia Suarez가 14일에 개업할 사무소에서 일하게 될 사람
+이라는 첫 번째 단서를 확인할 수 있다. 그런데 일하게 되는 사람에 대한 정보
+가 제시되지 않았으므로 기사에서 관련 내용을 확인한다. 첫 번째 지문인 기사
+의 ‘the firm would be hiring locally for all of the positions in Reno’(1
+문단 5번째 줄)와 ‘Reno will become the firm’s 28th location when it 
+opens on February 14.’(2문단 3번째 줄)에서 회사가 리노 지점에서의 모
+든 일자리를 현지에서 고용을 할 것이며, 2월 14일에 개업하면 리노는 회사의 
+28번째 소재지가 될 것이라고 했다는 두 번째 단서를 확인할 수 있다.
+Sofia Suarez가 14일에 개업할 사무소에서 일하게 될 사람이라는 첫 번째 
+실전모의고사 2 |  37
+H
+a
+ck
+e
+rs T
+O
+E
+IC
+R
+e
+a
+d
+in
+g
+실
+전
+모
+의
+고
+사
+2
+단서와 2월 14일에 개업하는 리노 지점의 모든 일자리를 회사가 현지에서 
+고용을 할 것이라는 두 번째 단서를 종합할 때, Sofia Suarez는 리노의 지
+역 주민임을 추론할 수 있다. 따라서 (D) She is a local resident of Reno
+가 정답이다.
+어휘  annual  adj.	연간의		 local resident 주민
+195	 육하원칙	문제		 연계
+문제	 Ms.	Suarez는	다음	주에	무엇을	할	것인가?
+(A)	관리직	교육	프로그램을	위해	리노	사무소에	도착한다
+(B)	Paolo’s	Grill에서	다른	교육생들과	함께	축하	행사에	참석한다
+(C)	수업	마지막에	새	명함을	찾아간다
+(D)	팔려고	내놓은	부동산	투어	중인	사람들을	인솔한다
+해설  두 지문의 내용을 종합해서 풀어야 하는 연계 문제이다. 질문의 핵심 어구인 
+Ms. Suarez do next week에서 Ms. Suarez가 다음 주에 무엇(what)을 할 
+것인지를 묻고 있으므로 Ms. Suarez가 작성한 이메일을 먼저 확인한다. 
+세 번째 지문인 이메일의 ‘I’d like to attend the meal next week on 
+February 11.’(1문단 1번째 줄)에서 이메일의 발신자인 Ms. Suarez가 다
+음 주 2월 11일에 있을 식사에 참석하고 싶어 한다는 첫 번째 단서를 확인
+할 수 있다. 그런데 식사를 어디에서 하는지 제시되지 않았으므로 회람에
+서 관련 내용을 확인한다. 두 번째 지문인 회람의 ‘next Friday, we will 
+be celebrating the completion of training with dinner ~. All new 
+trainees are invited ~ to Paolo’s Grill’(2문단 1번째 줄)에서 다음 주 금
+요일에 저녁식사를 하며 교육 수료를 축하할 것이고 모든 신규 교육생들이 
+Paolo’s Grill로 초대된다는 두 번째 단서를 확인할 수 있다.  
+이메일의 발신자인 Ms. Suarez가 다음 주 2월 11일에 있을 식사에 참석하고 
+싶다는 첫 번째 단서와 다음 주 금요일에 모든 신규 교육생들이 Paolo’s Grill
+에서 열리는 교육 수료를 축하하기 위한 저녁식사에 초대된다는 두 번째 단
+서를 종합할 때, Ms. Suarez가 Paolo’s Grill에서 다음 주 금요일에 다른 교
+육생들과 함께 축하 행사에 참석할 것임을 알 수 있다. 따라서 (B) Attend 
+a celebratory event with other trainees at Paolo’s Grill이 정답이다.
+어휘  managerial  adj.	관리직의,	관리의		 public  n.	사람들,	대중			 
+for sale 팔려고	내놓은
+196-200은 다음 이메일, 양식, 기사에 관한 문제입니다.
+수신		Harvey	Lee	<h.lee@deltadawn.com>
+발신		Sarah	Holland	<s.holland@deltadawn.com>
+제목		등록
+날짜		10월	20일
+Harvey께,
+어제	주간	회의에	참석하지	못해서	유감입니다,	그런데	연례	여행	박람회에	대
+한	준비는	어떻게	되어가고	있나요?	저희가	박람회를	등록하기	전에,	제가	확
+인해야	할	것이	있다는	것을	알려드리고	싶었습니다.	제가	정확하게	기억한다
+면,	Ms.	Tucker가	저희	홍보용	현수막의	크기는	저희가	얻을	부스의	종류와	
+잘	맞아야만	한다고	말했습니다.	그러나	196저는 현수막의 치수를 받아보지 못
+해서,	어떤	종류의	부스를	선택해야	하는지	알	방법이	없습니다.	 196치수가 어
+떤지 저에게 알려주시기 바랍니다.	저는	이	정보를	받으면	바로	등록을	진행
+할	수	있습니다.
+또한	 198모든 등록 비용은 회사 법인 카드로 지불될 것임을	알아두십시오.	감
+사합니다!
+Sarah	Holland	드림
+come along 되어가다		 exposition  n.	박람회,	전시회		 register  v.	등록하다			 
+confirm  v.	확인하다		 promotional  adj.	홍보의		 measurement  n.	치수			 
+proceed  v.	진행하다
+197등록 양식:	199-D제5회 연례 여행 박람회,	197Penner 전시관, 199-D11월 11-13일
+197다음 옵션들 중 하나를 선택하시기 바랍니다.	표에	기재된	가격들은	오전		
+10시부터	오후	8시까지	3일간의	전	행사에	대한	것입니다.	199-D참가자들은 박람
+회 첫째 날 24시간 전에 각자의 부스를 설치해야 합니다.
+197대형 부스, 가로 6미터 세로 4미터……… 967달러  ■
+중형	부스,	가로	5미터	세로	3미터…………	838달러		□
+소형	부스,	가로	4미터	세로	2미터…………	767달러		□
+Penner	전시관은	모든	주요	신용카드와	온라인	납입을	받습니다.	 198모든 신
+용카드 결제에는 5달러의 수수료가 적용됩니다.	결제가	확인되면,	4장의	입장
+권,	행사	일정표,	그리고	모든	참석	업체의	목록을	포함하고	있는	자료집을	받
+으실	것입니다.	
+subject to ~에	적용되는,	~의	대상		 processing fee 수수료			 
+packet  n.	자료집,	묶음
+제5회	연례	여행	박람회가	또	한	번의	굉장한	성공을	누리다!
+Penner	전시관의	제5회	연례	여행	박람회는	역대	최대	규모였으며,	이는	지
+난	주말	3일	동안	182개의	참여	업체와	3만	명이	넘는	참석자를	끌어들였다.	
+Broad	Horizons	 199-A/B/C여행사의 대표 Karen Moore는,	 199-A/B“행사에 대한 
+반응은 대단했습니다.”라고 말했다.	그녀는	199-A/B행사에서 그녀의 여행사가 상
+대적으로 작은 존재였음에도	불구하고	아직도	그녀의	회사는	박람회	참석자들
+로부터	전화와	이메일이	쇄도하고	있다고	말했다.	Moore의	의견은	항공사,	크
+루즈	여행사,	여행	안내소	및	여행사의	여러	다른	대표들로부터	공감을	얻었다.	
+행사	주최자인	Barbara	Felton은	행사의	성공을	온라인	홍보와	소셜	미디어의	
+활용	덕분으로	여긴다.	“199-A우리는 모든 참여 회사와 업체들이 온라인으로 광
+고하고 소셜 미디어에 박람회를 알리도록 촉구했습니다.”	200내년 여행 박람회 
+계획에 대해 질문 받았을 때, Felton은 25개의 추가적인 부스를 이용 가능하게 
+될 것이라고 전했다. 
+resounding  adj.	굉장한		 tremendous  adj.	대단한			 
+comparatively  adv.	상대적으로		 presence  n.	존재,	참석			 
+inundate with ~이	쇄도하다,	밀려들다		 sentiment  n.	(감정이	섞인)	의견,	생각			 
+echo  v.	공감하다,	공명하다		 travel bureau 여행	안내소			 
+attribute  v.	~의	덕분으로	여기다		 urge  v.	촉구하다,	설득하다			 
+publicize  v.	알리다,	광고하다
+196	 육하원칙	문제
+문제	 	이메일에	따르면,	Ms.	Holland는	Mr.	Lee에게	무엇을	제공할	것을	요청하는
+가?
+(A)	하루	대여	비용
+(B)	광고물	크기
+(C)	장소의	위치
+(D)	부스의	규모
+해설  Ms. Holland가 Mr. Lee에게 무엇(What)을 제공할 것을 요청하는지를 묻
+는 육하원칙 문제이므로 질문의 핵심 어구인 Ms. Holland ask Mr. Lee to 
+provide에 대해 언급된 Ms. Holland가 작성한 이메일에서 관련 내용을 확
+인한다. 첫 번째 지문인 이메일의 ‘I haven’t received the measurements 
+for them’(1문단 4번째 줄)과 ‘Please let me know what they are.’(1문
+단 6번째 줄)에서 이메일의 발신자(I)가 현수막의 치수를 받아보지 못했다고 
+한 후, 치수를 알려달라고 했으므로 (B) The size of advertising materials
+가 정답이다. 
+Paraphrasing 
+measurements 치수 → size 크기 
+promotional banners 홍보용 현수막 → advertising materials 광고물 
+크기
+어휘  dimension  n.	규모,	크기
+197	 주제/목적	찾기	문제
+문제	 양식의	목적은	무엇인가?
+(A)	관광	산업	회담에	등록하기	위해
+(B)	전시관에	자리를	등록하기	위해
+(C)	저장	장치	대여료를	지불하기	위해
+(D)	무역	박람회	3일	입장권을	구매하기	위해
+해설  양식의 목적을 묻는 목적 찾기 문제이므로 양식의 내용을 확인한다. 두 번
+째 지문인 양식의 ‘REGISTRATION FORM: ~ Penner Exhibit Hall’(양
+38 |  무료 실전 문제 해설강의 · 무료 단어암기 MP3  HackersIngang.com
+식 상단)과 ‘Please select one of the following options.’(1문단 1번째 
+줄)에서 Penner 전시관 등록 양식의 다음 옵션들 중 하나를 선택하라고 한 
+후, ‘Large Booth, 6 by 4 meters, $967’(2번째 표 1번째 줄)에서 사용료
+가 967달러인 대형 부스를 선택했으므로 (B) To sign up for space in an 
+exhibit hall이 정답이다.
+Paraphrasing 
+REGISTRATION 등록 → sign up 등록하다
+Booth 부스 → space 자리 
+어휘  storage  n.	저장,	보관
+198	 육하원칙	문제		 연계
+문제	 Delta	Dawn	여행사는	무엇을	해야	할	것인가?
+(A)	처리를	위한	추가	요금을	지불한다
+(B)	추가	전시	부스를	예약한다
+(C)	홍보용	현수막의	크기를	줄인다
+(D)	직원으로	있는	사람의	수를	보고한다
+해설  두 지문의 내용을 종합해서 풀어야 하는 연계 문제이다. 질문의 핵심 어구
+인 Delta Dawn Travel ~ have to do에서 Delta Dawn 여행사가 무엇
+(What)을 해야 할 것인지를 묻고 있으므로 Delta Dawn 여행사가 작성한 양
+식을 먼저 확인한다. 
+두 번째 지문인 양식의 ‘NAME: Sarah Holland, COMPANY: Delta 
+Dawn Travel Agency’(1번째 표 1번째 줄, 2번째 줄)와 ‘All credit card 
+payments are subject to a $5 processing fee.’(양식 하단 1번째 줄)
+에서 Ms. Holland가 Delta Dawn 여행사에서 일하며, 모든 신용카드 결
+제 시 5달러의 수수료가 적용된다는 첫 번째 단서를 확인할 수 있다. 그런
+데 Delta Dawn 여행사가 무엇으로 결제했는지 제시되지 않았으므로  
+Ms. Holland가 작성한 이메일에서 Delta Dawn 여행사의 결제 수단을 확
+인한다. 첫 번째 지문인 이메일의 ‘all registration costs will be paid for 
+with the company credit card’(2문단 1번째 줄)에서 모든 등록 비용은 회
+사 법인 카드로 지불될 것이라는 두 번째 단서를 확인할 수 있다. 
+Ms. Holland가 Delta Dawn 여행사에서 일하며, 모든 신용카드 결제 시 5달
+러의 수수료가 적용된다는 첫 번째 단서와 모든 등록 비용은 회사 법인 카드
+로 지불될 것이라는 두 번째 단서를 종합할 때, Delta Dawn 여행사가 신용
+카드 결제로 인한 5달러의 수수료를 지불해야 할 것임을 알 수 있다. 따라서 
+(A) Pay a surcharge for processing이 정답이다.
+Paraphrasing 
+processing fee 수수료 → surcharge for processing 처리를 위한 추가 
+요금
+어휘  surcharge  n.	추가	요금
+199	 Not/True	문제		 연계
+문제	 Ms.	Moore에	대해	사실이	아닌	것은?
+(A)	소셜	미디어에서	홍보할	것을	요청받았다.
+(B)	행사	경험이	완전히	긍정적이었다.
+(C)	Delta	Dawn	여행사와	비슷한	사업체를	운영한다.
+(D)	11월	11일에	부스가	현장에	조립되고	있었다.
+해설  두 지문의 내용을 종합해서 풀어야 하는 연계 문제이다. 질문의 핵심 어구인 
+Ms. Moore에 대해 묻는 Not/True 문제이므로 Ms. Moore가 언급된 양식
+과 기사 모두에서 관련 내용을 확인한다.  
+(A)와 (B)는 세 번째 지문인 기사의 ‘Karen Moore, a representative 
+from travel agency ~, said, “The response to the event was 
+tremendous.”’(1문단 2번째 줄)와 ‘her agency’s ~ presence at the 
+event’(1문단 4번째 줄)에서 행사에 대한 반응이 대단했다고 말한 여행
+사의 대표 Karen Moore가 여행 박람회에 참여했다는 것을 알 수 있고, 
+“We urged all participating companies ~ to ~ publicize the expo 
+on social media.”(2문단 2번째 줄)에서 모든 참여 회사, 즉 박람회에 참
+여한 회사들이 소셜 미디어에 박람회를 알리도록 촉구되었음을 알 수 있으
+므로 지문의 내용과 일치한다. (C)는 두 번째 지문인 양식의 ‘COMPANY, 
+Delta Dawn Travel Agency’(1번째 표 2번째 줄)에서 Delta Dawn 여행사
+라고 했고, 세 번째 지문인 기사의 ‘Karen Moore, a representative from 
+travel agency’(1문단 2번째 줄)에서 Karen Moore가 여행사의 대표라
+고 했으므로 지문의 내용과 일치한다. (D)는 두 번째 지문인 양식의 ‘Travel 
+Exposition, ~ Nov. 11-13’(양식 상단)과 ‘Participants are required to 
+set up their booths 24 hours prior to the first day of the fair.’(1문단 
+2번째 줄)에서 여행 박람회가 11월 11-13일 동안 열리며, 참가자들은 박람
+회 첫째 날 24시간 전에 각자의 부스를 설치해야 한다고 했으므로 지문의 내
+용과 일치하지 않는다. 따라서 (D) Her booth was being assembled at 
+a venue on November 11가 정답이다.
+Paraphrasing
+set up 설치하다 → assemble 조립하다 
+어휘  entirely  adv.		완전히,	전적으로
+200	 육하원칙	문제
+문제	 Barbara	Felton은	무엇을	할	계획인가?
+(A)	추후	행사에	판매자로	참여한다
+(B)	내년	박람회에서	추가	공간을	제공한다
+(C)	Penner	전시관의	시설을	확장한다
+(D)	온라인	광고	캠페인을	시작한다
+해설  Barbara Felton이 무엇(What)을 할 계획인지를 묻는 육하원칙 문제이므
+로 질문의 핵심 어구인 Barbara Felton이 언급된 기사를 확인한다. 세 번
+째 지문인 기사의 ‘When asked about plans for next year’s travel 
+exposition, Felton reported that an additional 25 booths would be 
+made available.’(2문단 3번째 줄)에서 내년 여행 박람회 계획에 대해 질문 
+받았을 때 Felton이 25개의 추가적인 부스를 이용 가능하게 될 것이라고 전
+했으므로 (B) Offer additional spaces at next year’s exposition이 정답
+이다.
+어휘  vendor  n.	판매자,	상인		 enlarge  v.	확장하다,	확대하다			 
+launch  v.	시작하다,	출시하다

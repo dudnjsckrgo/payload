@@ -1,0 +1,1120 @@
+문법 Hackers Practice 해설
+저작권자의 동의 없이 해커스 토익 READING 문법 Hackers Practice 해설 내용의 복제·전송·배포 등의 행위를 금합니다. 1
+Hackers Practice 정답
+01 ⓑ [토익 공식 3] 02 ⓑ [토익 공식 2]
+03 ⓑ [토익 공식 3] 04 ⓑ [토익 공식 1]
+05 ⓐ [토익 공식 3] 06 ⓐ [토익 공식 2]
+07 ⓑ [토익 공식 3]
+08 Efficient → Efficiency [토익 공식 1]
+09 finishes → finished [토익 공식 3]
+10 requests → request [토익 공식 4]
+11 맞는 문장 [토익 공식 3]  
+12 There → It [토익 공식 2] 
+13 evaluation → evaluated [토익 공식 3]
+14 omit → omission [토익 공식 1]
+Hackers Practice 해설
+01 문장에 동사가 없으므로 동사 ⓑ worked가 정답이다. 준동사 
+ⓐ는 동사 자리에 올 수 없다.
+02 빈칸 뒤에 동사(remains)와 명사구 형태의 진짜주어(one 
+more training session)가 왔으므로, 빈칸에는 가짜주어가 와
+야 한다. ‘교육이 하나 더 남아 있다’라는 의미가 되어야 하므로 
+동사 remains의 가짜주어로 올 수 있으면서 ‘~이 있다’를 나타
+내기 위해 쓰이는 ⓑ There가 정답이다.
+03 단수 주어(The restaurant’s main course menu)가 왔으므로 
+단수 동사 ⓑ varies가 정답이다.
+04 문장에서 동사(will increase) 앞에 위치한 _______ the time은 
+주어 자리이다. 주어 자리에 올 수 있는 것은 동명사구이므로 ⓑ 
+Reducing이 정답이다. 동사 ⓐ는 주어 자리에 올 수 없다. 
+05 문장에 동사가 없으므로 동사 ⓐ comprises가 정답이다. 명사 
+ⓑ는 동사 자리에 올 수 없다.
+06  빈칸 뒤에 동사(is)와 진짜주어(to instruct ~ conduct)가 왔으
+므로, 빈칸에는 가짜주어가 와야 한다. 따라서 가짜주어 ⓐ It이 
+정답이다.
+07  ‘예산안은 보내져야 한다’라는 수동의 의미이므로 수동태 동사 
+ⓑ be sent가 정답이다.
+08  형용사 Efficient는 주어 자리에 올 수 없다. 주어 자리에 올 수 있
+는 것은 명사이므로 Efficient를 Efficiency로 고쳐야 맞다.
+09  과거를 나타내는 시간 표현(yesterday)이 있으므로, 현재 시제
+의 동사 finishes가 오면 ‘어제 회람 작성을 끝낸다’라는 어색한 
+문맥을 만든다. 따라서 finishes를 과거 시제 동사 finished로 고
+쳐야 맞다. 
+10  If절 뒤에 ‘~해라’라는 의미의 명령문이 와서 ‘만약 마감 시간을 
+맞추는 것이 불확실하다면, 관리자에게 연장을 요청하라’라는 
+의미가 되어야 자연스럽다. 명령문은 주어 없이 동사원형으로 
+시작되므로 requests를 동사원형 request로 고쳐야 맞다.
+11  맞는 문장
+12  가짜주어 There는 that절(that ~ access)을 대신할 수 없다. 따
+라서 There를 that절의 가짜주어로 올 수 있는 It으로 고쳐야 맞
+다.
+13  명사 evaluation은 동사 자리에 올 수 없다. 앞에 과거를 나타내
+는 수식어 At the meeting last night(지난밤 회의에서)이 왔으므
+로 evaluation을 과거 시제 동사 evaluated로 고쳐야 맞다. 
+14  동사 omit은 주어 자리에 올 수 없다. 주어 자리에 올 수 있는 것
+은 명사이므로 omit을 omission으로 고쳐야 맞다.
+Chapter 01  |  주어 · 동사
+Section 1 문제 패턴
+저작권자의 동의 없이 해커스 토익 READING 문법 Hackers Practice 해설 내용의 복제·전송·배포 등의 행위를 금합니다. 2
+Hackers Practice 정답
+01 who purchased the printer [토익 공식 5]
+02 of several staff from the main office [토익 공식 5]
+03 While Erica set the table for dinner [토익 공식 5]
+04 ⓐ [토익 공식 3] 05 ⓐ [토익 공식 6]
+06 ⓑ [토익 공식 1] 07 ⓑ [토익 공식 5]
+08 ⓑ [토익 공식 4] 09 ⓐ [토익 공식 6]
+10 ⓐ [토익 공식 1]
+11 raise → to raise [토익 공식 2]
+12 admiration → admirable [토익 공식 4]
+13 맞는 문장 [토익 공식 3]
+14 submit → to submit [토익 공식 1]
+Hackers Practice 해설
+01  이 문장은 주어(The customer), 동사(wants), 목적어(a 
+refund)를 갖춘 완전한 절이므로 who purchased the printer
+는 수식어 거품으로 보아야 한다.
+02  이 문장은 주어(The company), 동사(announced), 목적어
+(the transfer)를 갖춘 완전한 절이므로 of several staff from 
+the main office는 수식어 거품으로 보아야 한다.
+03  이 문장은 주어(Donald), 동사(made), 목적어(a salad)를 갖
+춘 완전한 절이므로 While Erica set the table for dinner는 수
+식어 거품으로 보아야 한다.
+04  동사(made)의 목적격 보어가 될 수 있는 것은 명사나 형용사이
+므로 형용사 ⓐ comfortable이 정답이다. 부사 ⓑ는 보어 자리
+에 올 수 없다.
+05  이 문장은 주어(James), 동사(presented), 목적어(the 
+proposal)를 갖춘 완전한 절이므로 _______ he ~ feasibility는 
+수식어 거품으로 보아야 한다. 이 수식어 거품은 동사(wasn’t)
+가 있는 거품절이므로, 거품절을 이끌 수 있는 부사절 접속사  
+ⓐ even though가 정답이다. 전치사 ⓑ는 거품절을 이끌 수 
+없다.
+06  타동사(showed)의 목적어 자리를 채우는 문제이므로 목적어가 
+될 수 있는 명사 ⓑ surprise가 정답이다. 형용사 ⓐ는 목적어 
+자리에 올 수 없다.
+07  이 문장은 주어(Jose), 동사(is looking for), 목적어(an 
+apartment)를 갖춘 완전한 절이므로 _______ is ~ office는 수
+식어 거품으로 보아야 한다. 따라서 수식어 거품을 이끄는 관계
+사 ⓑ which가 정답이다. 등위 접속사 ⓐ는 수식어 거품을 이끌 
+수 없다.
+08  동사(keep)의 목적격 보어가 될 수 있는 것은 명사나 형용사이
+므로 형용사인 ⓑ updated가 정답이다. 동사 ⓐ는 보어 자리에 
+올 수 없다. ⓐ를 동사가 아닌 ‘업데이트, 최신 정보’라는 의미
+의 명사로 본다 해도 명사 update(업데이트, 최신 정보)는 목적
+어(her secretary)와 의미적으로 동격 관계를 이루지 못하므로 
+답이 될 수 없다.
+09  이 문장은 주어(Employee evaluations), 동사(will be 
+conducted)를 갖춘 완전한 절이므로 _______ October는 수식
+어 거품으로 보아야 한다. 이 수식어 거품은 동사가 없는 거품구
+이므로, 거품구를 이끌 수 있는 전치사 ⓐ during이 정답이다. 
+접속사 ⓑ는 거품구를 이끌 수 없다.
+10  이 문장은 주어(visitors), 동사(can tour), 목적어(the plant)를 
+갖춘 완전한 절이므로 who ~ _______는 수식어 거품으로 보아
+야 한다. 수식의 거품에서 동사(have received)의 목적어가 없
+으므로 목적어가 될 수 있는 명사 ⓐ permission이 정답이다. 
+분사 또는 동사 ⓑ는 목적어 자리에 올 수 없다.
+11  가목적어 it이 있으므로 문장에 진목적어가 와야 한다. 동사 
+raise는 진목적어 자리에 올 수 없다. 따라서 raise를 진목적어 
+자리에 올 수 있는 to 부정사구 to raise로 고쳐야 맞다.
+12  명사 admiration이 목적격 보어 자리에 오면 ‘최고경영자의 업
+적이 존경이라고 생각한다’라는 어색한 의미가 된다. ‘최고경영
+자의 업적이 존경할 만하다고 생각한다’라는 문맥이 되어야 자
+연스러우므로 admiration을 형용사 admirable로 고쳐야 맞다.
+13  맞는 문장 
+14  동사 submit은 타동사(need)의 목적어 자리에 올 수 없다. 
+submit을 목적어가 될 수 있는 to 부정사구 to submit으로 고쳐
+야 맞다.
+Chapter 02  |  목적어 · 보어 · 수식어
+Section 1 문제 패턴
+저작권자의 동의 없이 해커스 토익 READING 문법 Hackers Practice 해설 내용의 복제·전송·배포 등의 행위를 금합니다. 3
+Hackers Practice 정답
+01 ⓐ [토익 공식 1] 02 ⓐ [토익 공식 4]
+03 ⓑ [토익 공식 3] 04 ⓐ [토익 공식 1]
+05 ⓐ [토익 공식 1] 06 ⓑ [토익 공식 3]
+07 ⓑ [토익 공식 3] 
+08 called → call [토익 공식 1]
+09 agree → agreed [토익 공식 2]
+10 will write → write [토익 공식 4]
+11 be sponsor → be sponsored [토익 공식 2]
+12 provides → provide [토익 공식 1]
+13 is study → is studying, studies [토익 공식 2]
+14 to remain → remain [토익 공식 4]
+Hackers Practice 해설
+01  조동사(will) 다음에는 동사원형이 와야 하므로 ⓐ explain이 정
+답이다.
+02  주절에 의무를 나타내는 형용사(important)가 왔으므로 종속절
+의 동사로는 동사원형이 와야 한다. 따라서 ⓐ wear가 정답이
+다.
+03  목적어(members of congress) 앞에 전치사(to)가 있는 것으로 
+보아 빈칸에는 자동사가 와야 한다. 따라서 전치사 to와 함께 쓰
+여 ‘~와 이야기하다’라는 의미를 만드는 자동사 ⓑ speak이 정
+답이다. ⓐ는 타동사이므로 답이 될 수 없다.
+04  이 문장은 부정어(Never)가 앞에 와서 주어와 동사가 도치된 도
+치 구문이다. 도치 구문을 만드는 조동사(did) 다음에는 동사원
+형이 와야 하므로 ⓐ abandon이 정답이다.
+05  조동사처럼 쓰이는 표현(would like to) 다음에는 동사원형이 
+와야 하므로 ⓐ have가 정답이다.
+06  빈칸 뒤에 전치사 없이 목적어(plans)가 온 것으로 보아, 빈칸에
+는 타동사가 와야 한다. 따라서 ⓑ oppose가 정답이다. ⓐ는 자
+동사이므로 목적어를 갖기 위해서는 전치사(to)가 필요하다. 
+07  빈칸 뒤에 목적어 that절이 하나만 온 것으로 보아 빈칸에는 3형
+식 동사가 와야 한다. 따라서 ⓑ mention이 정답이다. ⓐ는 목
+적어를 2개 가지는 4형식 동사이므로 답이 될 수 없다. to me는 
+전치사구이므로, 목적어로 간주될 수 없다.
+08  조동사처럼 쓰이는 표현(had better) 다음에는 동사원형이 와
+야 한다. 따라서 called를 call로 고쳐야 맞다.
+09  have동사 다음에는 동사원형이 올 수 없다. 따라서 agree를 
+have동사(has)와 함께 완료형을 만드는 p.p.형 agreed로 고쳐
+야 맞다.
+10  주절에 요청을 나타내는 동사(request)가 왔으므로 종속절에는 
+동사원형이 와야 한다. 따라서 미래 시제 동사 will write를 write
+로 고쳐야 맞다. 
+11  동사원형 sponsor는 be동사 다음에 올 수 없다. ‘마라톤은 후
+원될 것이다’라는 의미가 되기 위해서는 수동형 문장이 되어
+야 하므로, be동사(be)와 함께 수동형 동사를 만드는 p.p.형 
+sponsored로 고쳐야 맞다. 
+12  이 문장은 부정어(Seldom)가 앞에 와서 주어와 동사가 도치된 
+도치 구문이다. 도치 구문을 만드는 조동사(does) 다음에는 동
+사원형이 와야 하므로 provides를 provide로 고쳐야 맞다. 
+13  동사원형 study는 be동사 다음에 올 수 없다. study를 be동사
+(is) 다음에 와서 능동 진행형을 만드는 studying으로 고치거나 
+is study를 3인칭 단수 현재형 studies로 고쳐야 맞다.
+14  주절에 의무를 나타내는 형용사(essential)가 왔으므로 종속절
+에는 동사원형이 와야 한다. 따라서 to remain을 remain으로 고
+쳐야 맞다.
+Chapter 03  |  동사의 형태와 종류
+Section 1 동사구
+저작권자의 동의 없이 해커스 토익 READING 문법 Hackers Practice 해설 내용의 복제·전송·배포 등의 행위를 금합니다. 4
+Hackers Practice 정답
+01 ⓑ [토익 공식 1] 02 ⓑ [토익 공식 4]
+03 ⓐ [토익 공식 2] 04 ⓑ [토익 공식 2]
+05 ⓑ [토익 공식 1] 06 ⓑ [토익 공식 1]
+07 ⓐ [토익 공식 3] 
+08 is → are [토익 공식 3]
+09 opens → open [토익 공식 2]
+10 맞는 문장 [토익 공식 1]
+11 report → reports [토익 공식 1]
+12 is → are / The passengers → The passenger [토익 공식 1]
+13 맞는 문장 [토익 공식 1]  
+14 are → is [토익 공식 1]
+Hackers Practice 해설
+01  주어(Details)가 복수이므로 복수 동사 ⓑ were가 정답이다. 주
+어와 동사 사이에 있는 regarding ~ company picnic은 수식어 
+거품이다.
+02  주격 관계절(who ~ presentations)의 동사가 없고, 빈칸 앞의 
+선행사(Attendees)가 복수이므로 복수 동사 ⓑ are가 정답이
+다. 주어와 주격 관계사(who) 사이에 있는 of the conference
+는 수식어 거품이다.
+03   문장에서 동사(feel) 앞에 위치한 빈칸은 주어 자리이다. 동사가 
+복수이므로 단어 자체가 주어로 쓰일 수 있으면서 복수로 취급
+되는 수량 표현 ⓐ Many가 정답이다.
+04  주어(All documents)가 복수이므로 복수 동사 ⓑ were가 정답
+이다. 주어와 동사 사이에 있는 in the archive는 수식어 거품이
+다. 
+05  주어(The speakers)가 복수이므로 복수 동사 ⓑ are가 정답이
+다. 주어와 동사 사이에 있는 introduced ~ symposium은 수식
+어 거품이다.
+06  빈칸은 주어 자리이다. 동사(have started)가 복수이므로 복수 
+주어 ⓑ cafés가 정답이다. 주어와 동사 사이에 있는 in the city
+는 수식어 거품이다.
+07  주어(The movie director)가 단수이므로 단수 동사 ⓐ is가 정
+답이다. 주어와 동사 사이에 있는 together ~ members는 수식
+어 거품이다.
+08  주어(A rare diamond and a large sapphire)가 복수이므로 is
+를 복수 동사 are로 고쳐야 맞다.
+09  부분을 나타내는 표현(Half)이 주어로 왔으므로 동사 자리에는 
+of 뒤의 복수 명사(the coffee shops)에 맞는 복수 동사가 와야 
+한다. 따라서 opens를 open으로 고쳐야 맞다. 주어와 동사 사
+이에 있는 in the area는 수식어 거품이다.
+10  맞는 문장
+11  주어(The news)가 단수이므로 report를 단수 동사 reports로 
+고쳐야 맞다.
+12   주어(The passengers)가 복수이므로 is를 복수 동사 are로 고
+쳐야 맞다. 또는 The passengers를 단수 주어 The passenger
+로 고쳐도 맞다. 주어와 동사 사이에 있는 with a first-class 
+ticket은 수식어 거품이다.
+13  맞는 문장
+14  동명사 주어(Boosting ~ offers)는 단수 주어로 취급되므로 are
+를 단수 동사 is로 고쳐야 맞다.
+Chapter 04  |  주어와의 수일치
+Section 2 동사구
+저작권자의 동의 없이 해커스 토익 READING 문법 Hackers Practice 해설 내용의 복제·전송·배포 등의 행위를 금합니다. 5
+Hackers Practice 정답
+01 ⓐ [토익 공식 1] 02 ⓑ [토익 공식 2, 4]
+03 ⓐ [토익 공식 1] 04 ⓑ [토익 공식 3]
+05 ⓐ [토익 공식 1] 06 ⓐ [토익 공식 1]
+07 ⓑ [토익 공식 3]
+08 relating → related [토익 공식 4]
+09 맞는 문장 [토익 공식 1]
+10  has suggested → has been suggested/was suggested  
+[토익 공식 1]
+11 designed → was designed [토익 공식 1]
+12 wearing → to wear [토익 공식 2, 4]
+13 awarded → was awarded [토익 공식 2]
+14 맞는 문장 [토익 공식 4]
+Hackers Practice 해설
+01  ‘Bill이 말했다’라는 능동의 의미이고 동사 뒤에 목적어(that 
+he needed ~ before November)가 있으므로 능동태 동사  
+ⓐ stated가 정답이다.
+02  ‘항공기들이 예정대로 도착할 것으로 기대된다’라는 수동의 의
+미이고, ‘~할 것으로 기대되다’라는 표현은 be expected to이
+므로 ⓑ are expected가 정답이다.
+03  ‘상점 주인은 수락했다’라는 능동의 의미이고 동사 뒤에 목적어
+(the customer’s demand ~ refund)가 있으므로 능동태 동사 
+ⓐ accepted가 정답이다.
+04  감정 동사(frustrate)의 태를 구별하는 문제이다. 주어(Dr. 
+Menkin)가 실망감을 느끼므로 수동태를 써야 한다. 따라서  
+ⓑ frustrated가 정답이다. 
+05  ‘영화사는 제작해 왔다’라는 능동의 의미이고 동사 뒤에 목적어
+(a documentary ~ industry)가 있으므로 능동태 동사 ⓐ has 
+produced가 정답이다.
+06  ‘이삿짐 운송업자들은 운송할 것이다’라는 능동의 의미이고 동
+사 뒤에 목적어(the furniture)가 있으므로 능동태 동사 ⓐ will 
+transport가 정답이다.
+07  감정 동사(excite)의 태를 구별하는 문제이다. 주어(Joshua)가 
+흥분을 느끼므로 수동태를 써야 한다. 따라서 ⓑ excited가 정
+답이다. 
+08  ‘가격은 관련되어 있다’라는 수동의 의미이고, ‘~와 관련되어 
+있다’라는 표현은 be related to이다. 따라서 relating을 p.p.형 
+related로 고쳐야 맞다.
+09  맞는 문장
+10  ‘교육이 제안되었다’라는 수동의 의미이므로, has suggested
+를 완료형 수동태인 has been suggested로 고쳐야 맞다. 또는 
+was suggested로 고쳐도 맞다.
+11  ‘차량은 고안되었다’라는 수동의 의미이므로, designed를 수동
+태 동사 was designed로 고쳐야 맞다.
+12  ‘~하라고 권고받다’라는 표현은 be advised to이므로 wearing
+을 to 부정사 to wear로 고쳐야 맞다.
+13  ‘승진이 주어졌다’라는 수동의 의미이므로, awarded를 수동태 
+동사 was awarded로 고쳐야 맞다.
+14  맞는 문장
+Chapter 05  |  능동태 · 수동태
+Section 2 동사구
+저작권자의 동의 없이 해커스 토익 READING 문법 Hackers Practice 해설 내용의 복제·전송·배포 등의 행위를 금합니다. 6
+Hackers Practice 정답
+01 ⓑ [토익 공식 1, 4] 02 ⓐ [토익 공식 3, 4]
+03 ⓑ [토익 공식 5] 04 ⓑ [토익 공식 1]
+05 ⓑ [토익 공식 6] 06 ⓐ [토익 공식 1]
+07 ⓐ [토익 공식 5] 08 ⓐ  [토익 공식 1]
+09 ⓑ [토익 공식 6] 10 ⓐ [토익 공식 2]
+11 by the time [토익 공식 4]
+12 be [토익 공식 5]
+13 at the moment [토익 공식 2]
+14 usually [토익 공식 1]
+Hackers Practice 해설
+01  주절의 동사(noticed)가 과거이므로 종속절에도 과거 동사가 
+와야 한다. 따라서 ⓑ inspected가 정답이다.
+02  과거의 특정한 시점(기술자가 발견한 시점) 이전에 발생한 일 
+(바이러스가 컴퓨터를 감염시킨 일)을 표현하기 위해서는 과거 
+완료 시제를 쓴다. 따라서 과거 완료 시제 ⓐ had infected가 
+정답이다.
+03  If절에 ‘had p.p.’가 왔으므로 주절에는 이와 짝을 이루는 would 
+have p.p.가 와야 한다. 따라서 ⓑ have understood가 정답이
+다.
+04  when으로 시작되는 시간절에서는 미래를 나타내기 위해 현
+재 시제를 쓰고, 주절에는 미래 시제를 쓴다. 따라서 미래 시제  
+ⓑ will be가 정답이다.
+05  If절 대신 ‘without + 명사’가 와서 가정법 문장을 만들고 있다. 
+따라서 가정법 과거 완료를 나타내는 데 쓰이는 ⓑ would가 정
+답이다.
+06  If로 시작되는 조건절에서는 미래를 나타내기 위해 현재 시제를 
+쓴다. 따라서 현재 시제  ⓐ think가 정답이다.
+07  주절에 ‘would + 동사원형’이 왔으므로 if절에는 이와 짝을 이루
+는 과거동사가 와야 한다. 따라서 ⓐ charged가 정답이다.
+08  as soon as로 시작되는 시간절에서는 미래를 나타내기 위해 현
+재 시제를 쓴다. 따라서 현재 시제 ⓐ is packed가 정답이다.
+09  if가 생략되어 조동사와 주어가 도치된 ‘Had + 주어(my house) 
++ p.p.(been)’가 온 것으로 보아 주절에는 이와 짝을 이루는 
+would have p.p.가 와야 한다. 따라서 ⓑ have bought이 정답
+이다.
+10  감정 동사 want는 진행 시제로 쓸 수 없으므로, 단순 시제인 현
+재 시제 ⓐ wants가 정답이다.
+11  미래 완료 시제(will have upgraded)가 왔으므로, 미래 특정 시
+점까지를 의미하는 표현인 by the time이 정답이다. since는 주
+로 현재 완료 시제와 함께 쓰인다.
+12  If절에 had p.p.(had left)가 왔지만, 주절에 현재 시제를 나타내
+는 단서(now)가 있으므로 가정법 과거를 나타내는 ‘would + 동
+사원형’을 써서 혼합가정법을 만들어야 한다. 따라서 be가 정답
+이다.
+13  현재 진행 시제(is preparing)가 왔으므로 현재를 나타내는 표현 
+at the moment가 정답이다.
+14  치과 의사들이 발치 하나에 60달러를 청구하는 것이 일반적인 
+사실이기 때문에 현재 시제(charge)가 왔다. 따라서 현재를 나
+타내는 표현 usually가 정답이다.
+Chapter 06  |  시제와 가정법
+Section 2 동사구
+저작권자의 동의 없이 해커스 토익 READING 문법 Hackers Practice 해설 내용의 복제·전송·배포 등의 행위를 금합니다. 7
+Hackers Practice 정답
+01 ⓑ [토익 공식 3] 02 ⓐ [토익 공식 2]
+03 ⓑ [토익 공식 1] 04 ⓑ [토익 공식 4]
+05 ⓐ [토익 공식 2] 06 ⓑ [토익 공식 4]
+07 ⓑ [토익 공식 3]
+08 requesting → to request [토익 공식 3]
+09 맞는 문장 [토익 공식 3]
+10 finish → to finish [토익 공식 2]
+11 reschedule → rescheduled [토익 공식 4]
+12 approve → to approve [토익 공식 3]
+13 맞는 문장 [토익 공식 4]
+14 improve → to improve [토익 공식 1]
+Hackers Practice 해설
+01  이 문장은 주어(The manager), 동사(will be), 보어(happy)를 
+갖춘 완전한 절이므로 _____ a raise ~ accomplishment는 부
+사 역할을 하는 수식어 거품으로 보아야 한다. 따라서 수식어 거
+품이 될 수 있는 to 부정사 ⓑ to receive가 정답이다. 이 경우 
+to receive는 이유(받게 되어서)를 나타내는 to 부정사이며, be 
+happy(will be happy)는 뒤에 to 부정사를 자주 취하는 구문이
+다.
+02  가주어 it에 대한 진주어로 올 수 있는 것은 to 부정사구나 that절
+이다. 따라서 to부정사구를 만드는 ⓐ distribute가 정답이다.
+03  이 문장은 주어(The requirement), 동사(may be waived)를 
+갖춘 완전한 절이므로 _______ a reference는 수식어 거품으로 
+보아야 한다. 따라서 수식어 거품이 될 수 있는 to 부정사 ⓑ to 
+provide가 정답이다.
+04  사역동사 let의 목적격 보어로는 원형 부정사가 와야 하므로  
+ⓑ affect가 정답이다.
+05  ‘생물학과의 연구를 지속하려면(=지속하기 위해서)’이라는 의
+미가 되어야 하므로, 목적을 나타내는 to 부정사 ⓐ to continue
+가 정답이다. 
+06  사역동사 have의 목적격 보어로는 원형 부정사나 p.p.가 와야 
+한다. 목적어(his vehicle)와 목적격 보어(inspected)가 ‘자동
+차가 점검된다’라는 수동 관계를 이루면 목적격 보어로 p.p.가 
+와야 한다. 따라서 ⓑ inspected가 정답이다.
+07  동사 forbid(forbids)의 목적격 보어로는 to 부정사가 와야 하므
+로 ⓑ to use가 정답이다.
+08  명사 right 다음에는 명사를 꾸며 주어 형용사 역할을 하는 to 부
+정사가 와야 하므로 requesting을 to request로 고쳐야 맞다.
+09  맞는 문장
+10  ‘거래를 완료할 수 있도록(=완료하기 위해서)’라는 의미가 되
+어야 하므로, 목적을 나타내는 to 부정사가 와야 한다. 따라서 
+finish를 to finish로 고쳐야 맞다.
+11  사역동사 have의 목적격 보어로는 원형 부정사나 p.p.가 와야 
+한다. 목적어(his flight)와 목적격 보어가 ‘항공편의 일정이 변
+경되다’라는 수동 관계를 이루면 목적격 보어로 p.p.가 와야 한
+다. 따라서 reschedule을 rescheduled로 고쳐야 맞다.
+12  형용사 willing 다음에는 to 부정사가 와야 하므로 approve를 to 
+approve로 고쳐야 맞다.
+13  맞는 문장
+14  명사 methods 다음에는 명사를 꾸며 주어 형용사 역할을 하는 
+to 부정사가 와야 하므로 improve를 to improve로 고쳐야 맞다.
+Chapter 07  |  to 부정사
+Section 3 준동사구
+저작권자의 동의 없이 해커스 토익 READING 문법 Hackers Practice 해설 내용의 복제·전송·배포 등의 행위를 금합니다. 8
+Hackers Practice 정답
+01 ⓑ [토익 공식 4] 02 ⓐ [토익 공식 2]
+03 ⓑ [토익 공식 3] 04 ⓐ [토익 공식 4]
+05 ⓐ [토익 공식 3] 06 ⓑ [토익 공식 4]
+07 ⓑ [토익 공식 4]
+08 examine → examining/to examine [토익 공식 1]
+09 맞는 문장 [토익 공식 1]
+10 drive → driving [토익 공식 1]
+11 to eat → eating [토익 공식 2]
+12 choose → choosing [토익 공식 1]
+13 맞는 문장 [토익 공식 2]
+14 help → helping [토익 공식 4]
+Hackers Practice 해설
+01  be used to(is used to)의 to는 전치사이므로 to 다음에는 동명
+사가 와야 한다. 따라서 ⓑ cooperating이 정답이다. 
+02  동사 forget(forgot)은 동명사와 to 부정사를 모두 목적어로 가
+질 수 있지만, ‘Melanie가 전화할 것을 잊었다’라는 미래에 할 
+일을 잊었다는 문맥이므로 미래의 의미를 나타내는 to 부정사 
+ⓐ to call이 정답이다. 동명사 calling을 쓰면 과거에 전화했었
+던 사실을 잊었다는 문맥이 된다.
+03  목적어 앞에 관사가 없으므로 ⓑ wording이 정답이다. 단수 명
+사 ⓐ는 관사 없이 쓰일 수 없다.
+04  ‘계속 ~하다’는 keep (on) –ing로 표현하므로 동명사 ⓐ 
+walking이 정답이다.
+05  목적어 자리 앞에 부정관사(a)가 왔으므로 명사 ⓐ knowledge
+가 정답이다. 부정관사 뒤에 동명사 ⓑ는 올 수 없다.
+06  contribute to(contributed to)의 to는 전치사이므로 to 다음에
+는 동명사가 와야 한다. 따라서 ⓑ raising이 정답이다. ⓐ를 동
+사가 아닌 ‘(물가•급료 등의) 인상’이라는 의미의 명사로 본다 
+해도 단수 명사이므로 관사 없이 쓰일 수 없다.
+07  ‘~하지 않을 수 없다’는 cannot help –ing로 표현하므로 동명사 
+ⓑ wondering이 정답이다.
+08  주어 One ~ responsibilities의 보어 자리에 동사는 올 수 없다. 
+보어 자리에 올 수 있는 것 중에서 목적어(patients)를 가질 수 
+있는 것은 동명사나 to 부정사이므로 examine을 examining 또
+는 to examine으로 고쳐야 맞다.
+09  맞는 문장 
+10  전치사(of)의 목적어 자리에 동사는 올 수 없다. 전치사의 목적
+어 자리에 올 수 있는 것 중에서 목적어(a car)를 가질 수 있는 
+것은 동명사이므로 drive를 driving으로 고쳐야 맞다.
+11  동사 avoid(avoids)의 목적어 자리에는 동명사가 와야 하므로 
+to eat을 eating으로 고쳐야 맞다.
+12  전치사(at)의 목적어 자리에 동사는 올 수 없다. 전치사의 목적
+어 자리에 올 수 있는 것 중에서 목적어(clothes)를 가질 수 있는 
+것은 동명사이므로 choose를 choosing으로 고쳐야 맞다.
+13  맞는 문장 
+14  be dedicated to(is dedicated to)의 to는 전치사이므로 to 다
+음에는 동명사가 와야 한다. 따라서 help를 helping으로 고쳐야 
+맞다. help를 ‘도움’이라는 의미의 명사로 본다 해도 명사는 뒤
+에 목적어(others in need)를 취할 수 없다. 
+Chapter 08  |  동명사
+Section 3 준동사구
+저작권자의 동의 없이 해커스 토익 READING 문법 Hackers Practice 해설 내용의 복제·전송·배포 등의 행위를 금합니다. 9
+Hackers Practice 정답
+01 ⓑ [토익 공식 3] 02 ⓐ [토익 공식 4]
+03 ⓑ [토익 공식 3] 04 ⓐ [토익 공식 1]
+05 ⓑ [토익 공식 2] 06 ⓑ [토익 공식 3]
+07 ⓐ [토익 공식 3]
+08 handled → handling [토익 공식 3]
+09 맞는 문장 [토익 공식 4]
+10 Knew → Knowing [토익 공식 3]
+11 revise → revised [토익 공식 1]
+12 맞는 문장 [토익 공식 2]
+13 issuing → issued [토익 공식 3]
+14 promised → promising [토익 공식 4]
+Hackers Practice 해설
+01  ‘부사절 접속사(when) + 분사구문’ 표현에서 생략된 주어인 
+shoppers와 분사가 ‘(쇼핑객들이) 구입하다’라는 의미의 능동 
+관계이므로 현재분사 ⓑ purchasing이 정답이다. 
+02  수식받는 명사(impression)와 분사가 ‘오래도록 기억에 남는 인
+상’이라는 의미의 능동 관계이므로 현재분사 ⓐ lasting이 정답
+이다.
+03  빈칸은 명사(time)를 꾸미는 형용사 역할을 하는 분사 자리이
+다. 명사와 분사가 ‘승차권에 명시된 시간’이라는 의미의 수동 
+관계이므로 과거분사 ⓑ indicated가 정답이다.
+04  이 문장은 주어(Jane), 동사(received), 목적어(a notice)를 갖
+춘 완전한 절이므로 _______ her to pay her rent는 수식어 거품
+으로 보아야 한다. 보기 중 수식어 거품이 될 수 있는 것은 분사
+이므로 ⓐ reminding이 정답이다.
+05  이 문장은 주어(Several phone calls), 동사(came in)를 갖춘 
+완전한 절이므로 _______ him ~ at hand는 수식어 거품으로 보
+아야 한다. 보기 중 수식어 거품이 될 수 있는 것은 분사이므로 
+ⓑ preventing이 정답이다.
+06  빈칸은 명사(Customers)를 꾸미는 형용사 역할을 하는 분사 
+자리이다. 수식받는 명사가 불만을 느끼는 주체이므로 과거분사 
+ⓑ dissatisfied가 정답이다.
+07  5형식 동사(keep)의 목적격 보어 자리에 분사를 채우는 문제
+이다. 목적어와 목적격 보어가 ‘바이러스 퇴치 프로그램이 최신 
+버전으로 유지되다’라는 의미의 수동 관계이므로 과거분사 ⓐ 
+updated가 정답이다.
+08  과거분사 handled는 목적어(expense reimbursements)를 가
+질 수 없다. 수식받는 명사(staff)와 분사가 ‘경비 상환을 처리
+하는 직원’이라는 의미의 능동 관계가 되어야 자연스럽고 뒤에 
+목적어를 가질 수 있는 것이 와야 하므로 handled를 현재분사 
+handling으로 고쳐야 맞다.
+09  맞는 문장
+10  이 문장은 주어(Maureen), 동사(asked), 목적어(her 
+coworker), 목적격 보어(to bring her up-to-date)를 갖춘 완
+전한 절이므로, 콤마 앞은 수식어 거품으로 보아야 한다. 따라서 
+Knew를 목적어(nothing)를 가질 수 있으면서 수식어 거품을 이
+끄는 현재분사 Knowing으로 고쳐야 맞다.
+11  명사(statement)를 꾸미는 형용사 역할을 하는 분사 자리에 동
+사 revise는 올 수 없다. 수식받는 명사와 분사가 ‘수정된 내역
+서’라는 의미의 수동 관계이므로 revise를 과거분사 revised로 
+고쳐야 맞다.
+12  맞는 문장
+13  명사(memo)를 꾸미는 현재분사 issuing은 ‘교부하는 회람’이
+라는 어색한 문맥을 만든다. 수식받는 명사와 분사가 ‘(관리자
+에 의해) 교부된 회람’이라는 의미의 수동 관계이므로 과거분사 
+issued로 고쳐야 맞다.
+14 명사(applicants)를 꾸미는 과거분사 promised는 ‘약속된 지
+원자들’이라는 어색한 문맥을 만든다. 수식받는 명사와 분사
+가 ‘유망한 지원자들’이라는 의미가 되어야 하므로 현재분사 
+promising(유망한)으로 고쳐야 맞다.
+Chapter 09  |  분사
+Section 3 준동사구
+저작권자의 동의 없이 해커스 토익 READING 문법 Hackers Practice 해설 내용의 복제·전송·배포 등의 행위를 금합니다. 10
+Hackers Practice 정답
+01 ⓑ [토익 공식 1] 02 ⓐ [토익 공식 6]
+03 ⓑ [토익 공식 6] 04 ⓑ [토익 공식 6]
+05 ⓐ [토익 공식 1] 06 ⓑ [토익 공식 5]
+07 ⓐ [토익 공식 5]
+08 arrive → arrival [토익 공식 1]
+09 applicants → applicant [토익 공식 3]
+10 developer → development [토익 공식 4]
+11 supervisor → supervision [토익 공식 4]
+12 traveling → traveler [토익 공식 2]
+13 occupancy → occupation [토익 공식 4]
+14 beneficiaries → benefits [토익 공식 4]
+Hackers Practice 해설
+01  전치사(for)의 목적어 자리에 올 수 있는 것은 명사나 동명사이
+므로 명사 ⓑ dedication이 정답이다.
+02  ‘귀중품이 안전한 장소에 보관되도록 하는 것은 호텔 투숙객들
+의 책임이다’라는 의미이므로 ⓐ responsibility(책임)가 정답이
+다. ⓑ를 쓰면 ‘귀중품이 안전한 장소에 보관되도록 하는 것은 
+호텔 투숙객들의 대응력이다’라는 어색한 의미가 된다.
+03  ‘영화 제작 일정표’라는 의미가 되어야 하므로 ⓑ production 
+(제작)이 정답이다. ⓐ를 쓰면 ‘영화 생산성 일정표’라는 어색
+한 의미가 된다.
+04  ‘허리케인이 홍수를 일으킬 가능성 때문에’라는 의미가 되어야 
+하므로 ⓑ likelihood(가능성)가 정답이다. ⓐ를 쓰면 ‘허리케인
+이 홍수를 일으킬 유사성 때문에’라는 어색한 의미가 된다.
+05  주어 자리에 올 수 있는 것은 명사이므로 ⓐ trend(유행)가 정답
+이다. 형용사 ⓑ는 주어 자리에 올 수 없다.
+06  ‘투자 조언’이라는 의미가 되어야 하므로 ⓑ investment(투자)
+가 정답이다. 분사 ⓐ를 쓰면 ‘투자하는 조언’이라는 어색한 의
+미가 된다.
+07  ‘출근 기록’이라는 의미가 되어야 하므로 ⓐ attendance(출근)
+가 정답이다. 분사 ⓑ를 쓰면 ‘참석하는 기록’이라는 어색한 의
+미가 된다.
+08  타동사(await)의 목적어 자리에 올 수 있는 것은 명사이므로 
+arrive를 arrival(도착)로 고쳐야 맞다.
+09  단수 명사 앞에 오는 수량 형용사 Every가 있으므로, applicants
+를 단수 명사 applicant로 고쳐야 맞다.
+10  developer를 쓰면 ‘EU와 일본 간의 경제 관계 개발자에 관한 워
+크숍’이라는 어색한 의미가 된다. 따라서 ‘EU와 일본 간의 경제 
+관계 발전에 관한 워크숍’이라는 의미를 만드는 development 
+(발전)로 고쳐야 맞다.
+11  supervisor를 쓰면 ‘총지배인은 전 직원의 감독관을 통솔한다’
+라는 어색한 의미가 되므로 ‘총지배인은 전 직원의 감독을 맡는
+다’라는 의미를 만드는 supervision(감독)으로 고쳐야 맞다. 참
+고로 동사 handle 뒤에 사람이 오면 ‘(사람을) 통솔하다, 지도하
+다, 다루다’라고 해석하고 뒤에 일과 관련된 내용이 오면 ‘(일을) 
+맡다, 처리하다’라고 해석한다.
+12  traveling을 쓰면 ‘Mr. Lee는 잦은 비즈니스 여행하기이다’라는 
+어색한 의미가 되므로 ‘Mr. Lee는 출장이 잦은 비즈니스 여행객
+이다’라는 의미를 만드는 traveler(여행객)로 고쳐야 맞다.
+13  occupancy를 쓰면 ‘그의 점유는 가르치는 것’이라는 어색한 의
+미가 되므로 ‘그의 직업은 가르치는 것이다’라는 의미를 만드는 
+occupation(직업)으로 고쳐야 맞다.
+14  beneficiaries를 쓰면 ‘체계적인 운동의 수익자를 발견할 것을 
+사람들에게 권고한다’라는 어색한 의미가 되므로 ‘체계적인 운
+동의 이점을 발견할 것을 사람들에게 권고한다’라는 의미를 만
+드는 benefits(이점)로 고쳐야 맞다.
+Chapter 10  |  명사
+Section 4 품사
+저작권자의 동의 없이 해커스 토익 READING 문법 Hackers Practice 해설 내용의 복제·전송·배포 등의 행위를 금합니다. 11
+Hackers Practice 정답
+01 ⓑ [토익 공식 1] 02 ⓑ [토익 공식 3]
+03 ⓐ [토익 공식 1] 04 ⓐ [토익 공식 4]
+05 ⓑ [토익 공식 2] 06 ⓐ [토익 공식 1]
+07 ⓑ [토익 공식 3]
+08 someone → anyone [토익 공식 5]
+09 its → their [토익 공식 6]  
+10 our → its [토익 공식 6]
+11 them → it [토익 공식 6]   
+12 its → their [토익 공식 6]
+13 its → our [토익 공식 6]
+14 themselves → them [토익 공식 2]
+Hackers Practice 해설
+01  명사(supervisors) 앞에서 형용사처럼 쓰일 수 있는 인칭대명사
+는 소유격이므로 ⓑ their가 정답이다.
+02  앞에 나온 복수 명사(beaches)를 대신해서 사용할 수 있는 지
+시대명사가 필요하므로 ⓑ those가 정답이다.
+03  명사(request) 앞에서 형용사처럼 쓰일 수 있는 인칭대명사는 
+소유격이므로 ⓐ your가 정답이다.
+04  ‘또 다른 직원’이라는 의미로 단수 가산 명사(employee) 앞에 
+올 수 있는 ⓐ another가 정답이다. ⓑ는 복수 가산 명사나 불가
+산 명사 앞에 사용되므로 답이 될 수 없다. 
+05  ‘혼자 영화를 보러 가다’라는 의미이므로, by oneself(홀로, 혼자 
+힘으로)를 만드는 재귀대명사 ⓑ himself가 정답이다.
+06  동사 believe의 목적어 자리에 오면서 ‘그녀의 것이 가장 적합한 
+후보자라고 생각한다’가 아니라 ‘그녀가 가장 적합한 후보자라
+고 생각한다’라는 의미를 완성하는 것이 와야 하므로 ⓐ her가 
+정답이다.
+07  documents는 복수이므로 복수 명사와 어울리는 지시형용사 
+ⓑ Those가 정답이다. 
+08  someone은 긍정문에 쓰므로 부정문에 쓰는 anyone으로 고쳐
+야 맞다.
+09  ‘시 근로자들이 (자신들의) 6퍼센트 임금 인상에 대한 요구를 재
+고하기를 거부한다’라는 의미이므로 소유격 its가 가리키게 되는 
+것은 city workers이다. its는 단수 사물명사를 대신하는 대명사
+이므로 복수 사람명사(city workers)를 가리키는 소유격 their로 
+고쳐야 맞다.
+10  ‘Sunrise 리조트는 그것만의 수영장을 가지고 있다’라는 의미
+이므로 소유격 our가 가리키게 되는 것은 Sunrise 리조트이다. 
+our는 복수 사람명사를 대신하는 대명사이므로 단수 사물명사
+(Sunrise resort)를 가리키는 소유격 its로 고쳐야 맞다.
+11  ‘영화 평론가들은 Forrest Hills를 걸작으로 여긴다’라는 의미
+이므로 대명사 them이 가리키게 되는 것은 Forrest Hills이다. 
+Forrest Hills는 영화 한 편의 제목으로 단수 명사이므로  them
+을 it으로 고쳐야 맞다. 
+12  ‘학생들은 (그들의) 강좌들에 등록해야 한다’라는 의미이므로 
+소유격 its가 가리키게 되는 것은 Students이다. its는 단수 사물
+명사를 대신하는 대명사이므로 복수 사람명사(Students)를 가
+리키는 소유격 their로 고쳐야 맞다.
+13  ‘우리는 (우리의) 고객들에게 제공한다’라는 의미이므로 소유격 
+its가 가리키게 되는 것은 We이다. its는 단수 사물명사를 대신
+하는 대명사이므로 복수 사람명사(We)를 가리키는 소유격 our
+로 고쳐야 맞다.
+14  ‘Ms. Jenson이 여행 단체 일원들에게 알리기 위해 연락했다’라
+는 의미로 주어(Ms. Jenson)와 목적어(여행 단체 일원들)가 같
+은 대상이 아니다. 따라서 재귀대명사 themselves를 여행 단체 
+일원들(the members of the tour group)을 대신하는 대명사 
+them으로 고쳐야 맞다.  
+Chapter 11  |  대명사
+Section 4 품사
+저작권자의 동의 없이 해커스 토익 READING 문법 Hackers Practice 해설 내용의 복제·전송·배포 등의 행위를 금합니다. 12
+Hackers Practice 정답
+01 ⓐ [토익 공식 3] 02 ⓑ [토익 공식 3]
+03 ⓐ [토익 공식 2] 04 ⓑ [토익 공식 3]
+05 ⓐ [토익 공식 1] 06 ⓑ [토익 공식 2]
+07 ⓑ [토익 공식 3]
+08 economical → economic [토익 공식 3]
+09 newly → new [토익 공식 1]
+10 awareness → aware [토익 공식 4]
+11 like → likely [토익 공식 4]
+12 Difference → Different [토익 공식 1]
+13 understandable → understanding [토익 공식 3]
+14 regionally → regional [토익 공식 1]
+Hackers Practice 해설
+01  ‘각자의 자리’라는 의미가 되어야 하므로 ⓐ respective(각자
+의)가 정답이다. ⓑ를 쓰면 ‘존경할 만한 자리’라는 어색한 의미
+가 된다.
+02  ‘다섯 학기 연속으로 좋은 성적을 받지 못했다’라는 의미가 되
+어야 하므로 ⓑ successive가 정답이다. ⓐ를 쓰면 ‘5개의 성
+공적인 학기 동안 좋은 성적을 받지 못했다’라는 어색한 의미가  
+된다.
+03  단수 가산 명사(day) 앞에 빈칸이 있으므로 단수 명사 앞에 쓰는 
+ⓐ every가 정답이다. ⓑ는 복수 가산 명사 앞에 올 수 있다.
+04  ‘올해 총 생산량은 지난 3년간의 총 생산량에 필적한다’라는 의
+미가 되어야 하므로 ⓑ comparable(필적하는, 비슷한)이 정답
+이다. ⓐ를 쓰면 ‘올해 총 생산량은 지난 3년간의 총 생산량에 비
+교적이다’라는 어색한 의미가 된다.
+05  명사를 꾸미기 위해서는 형용사 또는 분사가 올 수 있으므로 분
+사 ⓐ revised가 정답이다.
+06  불가산 명사(traffic) 앞에 빈칸이 있으므로 불가산 명사 앞에 쓰
+는 ⓑ much가 정답이다. ⓐ는 복수 가산 명사 앞에 온다.
+07  ‘그 이사가 휴가를 더 준 것은 매우 사려 깊었다’라는 의미가 되
+어야 하므로 ⓑ considerate(사려 깊은)이 정답이다. ⓐ를 쓰면 
+‘그 이사가 휴가를 더 준 것은 매우 상당하다’라는 어색한 의미
+가 된다. 
+08  economical이 recession 앞에 오면 ‘절약하는 침체’라는 어
+색한 의미가 된다. ‘경기 침체’라는 의미가 되어야 하므로 
+economical을 economic으로 고쳐야 맞다.
+09  부사 newly를 명사(stadium)를 꾸며 줄 수 있는 형용사 new로 
+고쳐야 맞다.
+10  ‘저희 호텔이 직불카드를 받지 않는다는 규정을 알아 두십시오’
+라는 의미가 되어야 하므로, awareness를 be aware of(~을 알
+고 있다)를 만드는 aware로 고쳐야 한다.
+11  ‘다음 분기에 사업을 확장할 것 같다’라는 의미가 되어야 하므
+로, like를 be likely to do(~할 것 같다)를 만드는 likely로 고쳐야 
+맞다.
+12  ‘다양한 쟁점들이 논의되었다’라는 의미가 되어야 하므로 명사 
+Difference를 명사(issues)를 꾸며 줄 수 있으면서 ‘다양한’이
+라는 의미를 지닌 형용사 Different로 고쳐야 맞다. 
+13  understandable이 physician 앞에 오면 ‘이해하기 쉬운 의사’
+라는 어색한 의미가 된다. ‘이해심 있는 의사’라는 의미가 되어
+야 하므로 understandable을 understanding으로 고쳐야 맞다. 
+14  부사 regionally를 명사(businesses)를 꾸며 줄 수 있는 형용사 
+regional로 고쳐야 맞다.
+Chapter 12  |  형용사
+Section 4 품사
+저작권자의 동의 없이 해커스 토익 READING 문법 Hackers Practice 해설 내용의 복제·전송·배포 등의 행위를 금합니다. 13
+Hackers Practice 정답
+01 ⓑ [토익 공식 3] 02 ⓐ [토익 공식 7]
+03 ⓑ [토익 공식 7] 04 ⓐ [토익 공식 5]
+05 ⓑ [토익 공식 7] 06 ⓐ [토익 공식 8]
+07 ⓑ [토익 공식 6]
+08 Always → Usually [토익 공식 4]
+09 great → greatly [토익 공식 2]
+10 맞는 문장 [토익 공식 1]
+11 significance → significantly [토익 공식 1]
+12 never → ever [토익 공식 4]
+13 맞는 문장 [토익 공식 1]
+14 slight → slightly [토익 공식 1]
+Hackers Practice 해설
+01  not 뒤에 올 수 있는 ⓑ yet이 정답이다. ⓐ는 주로 not 앞에 온
+다. 
+02  ‘매우 값비싸서’라는 의미가 되어야 하므로 형용사(pricey)를 수
+식하는 ⓐ so가 정답이다. ⓑ는 명사를 수식한다.
+03  ‘너무 많은 음식’이라는 의미가 되어야 하므로 ‘too much + 명
+사’를 만드는 ⓑ too much가 정답이다.
+04  ‘예약을 취소해 주십시오. 그렇지 않으면 우리는 수수료를 내야 
+합니다’라는 의미가 되어야 하므로 ‘그렇지 않으면’이라는 의미
+의 ⓐ otherwise가 정답이다. ⓑ는 ‘그러나’라는 의미로 ‘예약
+을 취소해 주십시오. 하지만 우리는 수수료를 내야 합니다’라는 
+어색한 의미가 되므로 답이 될 수 없다.
+05  ‘매우 만족했다’라는 의미가 되어야 하므로 형용사(satisfied)를 
+수식하는 ⓑ very가 정답이다. ⓐ는 명사를 수식한다.
+06  문장 중간에 올 수 있는 부사가 와야 하므로 ⓐ also가 정답이
+다. ⓑ는 문장 끝에 온다. 
+07  전치사구(before his scheduled speech)를 강조하면서 ‘그의 
+예정된 연설 바로 직전에’라는 의미가 되어야 하므로 ⓑ Right
+가 정답이다.
+08  Always는 문장 맨 앞이나 뒤에 올 수 없으므로 Always를 문장 
+맨 앞이나 뒤에 올 수 있는 Usually로 고쳐야 맞다. 
+09  부사 great를 쓰면 ‘Ciko 화장품사는 매출을 멋지게 증가시킬 
+수 있었다’라는 어색한 문맥을 만든다. ‘Ciko 화장품사는 매출
+을 대단히 증가시킬 수 있었다’라는 의미가 되어야 하므로 부사 
+greatly로 고쳐야 맞다.
+10  맞는 문장
+11  명사 significance는 분사(being expanded)를 꾸밀 수 없으므
+로 significance를 부사 significantly로 고쳐야 맞다.
+12  부사 hardly가 이미 부정의 의미(거의 ~않다)를 담고 있으므로 
+또 다른 부정어 never와 함께 쓸 수 없다. 따라서 never를 ever
+로 고쳐야 맞다.
+13  맞는 문장
+14  형용사 slight는 동사(rose)를 꾸밀 수 없으므로 slight를 부사 
+slightly로 고쳐야 맞다.
+Chapter 13  |  부사
+Section 4 품사
+저작권자의 동의 없이 해커스 토익 READING 문법 Hackers Practice 해설 내용의 복제·전송·배포 등의 행위를 금합니다. 14
+Hackers Practice 정답
+01 ⓐ [토익 공식 2] 02 ⓐ [토익 공식 5]
+03 ⓑ [토익 공식 6] 04 ⓑ [토익 공식 2]
+05 ⓐ [토익 공식 5] 06 ⓑ [토익 공식 7]
+07 ⓐ [토익 공식 5] 
+08 on → at/by [토익 공식 1, 2]
+09 on → in [토익 공식 1]   
+10 맞는 문장 [토익 공식 1]
+11 At → In [토익 공식 4]   
+12 for → of [토익 공식 8]
+13 to → for [토익 공식 5]
+14 below → under [토익 공식 3]
+Hackers Practice 해설
+01  ‘지난 10년 동안’이라는 의미가 되어야 하므로 ⓐ over(~ 동안)
+가 정답이다. ⓑ는 ‘~까지’라는 의미이다. 
+02  ‘상승하는 원자재 가격으로 인해’라는 의미가 되어야 하므로 ⓐ 
+Due to(~으로 인해, ~ 때문에)가 정답이다. ⓑ는 ‘~을 제외하고
+는’이라는 의미이다.
+03  ‘도시의 이 지역’이라는 의미가 되어야 하므로 ⓑ of(~의)가 정
+답이다. ⓐ는 셋 이상의 사물/사람 사이에 쓴다. 
+04  ‘업무 시간 동안에’라는 의미가 되어야 하므로 ⓑ during(~ 동
+안)이 정답이다. ⓐ는 ‘~부터’라는 의미로 시점 표현 앞에 온다.
+05  ‘재정 위기에도 불구하고’라는 의미가 되어야 하므로 ⓐ 
+Despite(~에도 불구하고)가 정답이다. ⓑ는 ‘~을 위해서’라는 
+의미이다. 
+06  ‘연중 내내’라는 의미가 되어야 하므로 ⓑ throughout(~ 내내)
+이 정답이다. ⓐ는 ‘~ 전에’라는 의미이다.
+07  ‘매입 비용을 제외하고’라는 의미가 되어야 하므로 ⓐ Aside 
+from(~을 제외하고는)이 정답이다. ⓑ는 ‘그 이후에’라는 의미이
+다. 
+08  시점을 나타내는 표현(the beginning of next quarter)이 있으
+므로 날짜, 요일, 특정일 앞에 오는 on은 올 수 없다. 따라서 특
+정 시점 앞에 올 수 있으면서 ‘다음 분기 초에/다음 분기 초까지 
+물가 상승률이 4퍼센트에 달할 수 있다’라는 자연스러운 의미를 
+만드는 전치사 at(~에) 또는 by(~까지)로 고쳐야 맞다.
+09  큰 공간 내의 장소(the city)를 나타내는 표현이 있으므로 표면 
+위나 일직선 상의 지점을 나타낼 때 쓰이는 on은 올 수 없다. 따
+라서 on을 in으로 고쳐야 한다.  
+10  맞는 문장 
+11  ‘~의 관점에서’라는 뜻의 전치사 표현은 in terms of이다. 따라
+서 At을 In으로 고쳐야 맞다. 
+12  ‘~을 기념하여’라는 뜻의 전치사 표현은 in observance of이다. 
+따라서 for를 of로 고쳐야 맞다. 
+13  to를 ‘~을 위해’라는 의미를 나타내는 for로 고쳐야 맞다. 
+14  ‘조사 중인’이라는 뜻의 전치사 숙어 표현은 under investigation
+이다. 따라서 below를 under로 고쳐야 맞다. 
+Chapter 14  |  전치사
+Section 4 품사
+저작권자의 동의 없이 해커스 토익 READING 문법 Hackers Practice 해설 내용의 복제·전송·배포 등의 행위를 금합니다. 15
+Hackers Practice 정답
+01 ⓑ [토익 공식 1] 02 ⓐ [토익 공식 1]
+03 ⓐ [토익 공식 1] 04 ⓐ [토익 공식 1]
+05 ⓑ [토익 공식 1] 06 ⓑ [토익 공식 1]
+07 ⓐ [토익 공식 1]
+08 not only → both [토익 공식 2]
+09 neither → not [토익 공식 2]
+10 and → but [토익 공식 2]
+11 Both → Either [토익 공식 2]
+12 or → nor [토익 공식 2]
+13 yet → and [토익 공식 2]
+14 also → or [토익 공식 2]
+Hackers Practice 해설
+01  ‘선물을 구매하고 포장했다’라는 의미가 되어야 하므로 ⓑ and 
+(그리고)가 정답이다.
+02  ‘건물에 들어가려고 시도했으나 보안 요원이 이미 정문을 잠갔
+다’라는 의미가 되어야 하므로 ⓐ but(그러나)이 정답이다. 접속 
+부사 ⓑ는 등위접속사 자리에 올 수 없다. 
+03  ‘할인을 해주거나 추가 서비스를 제공해야 한다’라는 의미가 되
+어야 하므로 ⓐ or(또는)가 정답이다.
+04  ‘그 영화를 여러 번 봤는데도 여전히 그것을 보는 것을 즐긴다’라
+는 의미가 되어야 하므로 ⓐ and yet(그런데도)이 정답이다. 접
+속 부사 ⓑ는 ‘그래서’라는 의미로, 등위접속사 자리에 올 수 없
+다.
+05  ‘휴가를 신청했는데, 왜냐하면 스키를 타러 가고 싶었기 때문이
+다’라는 의미가 되어야 하므로 ⓑ for(왜냐하면)가 정답이다. ⓐ
+는 ‘~대신에’라는 의미이다. 
+06  ‘항구 옆에 있는 전망대와 시내에 있는 전통 시장’이라는 의
+미가 되어야 하고 구(The observatory ~ harbor)와 구(the 
+traditional market downtown)를 이어줄 수 있는 것이 와야 하
+므로 ⓑ and(그리고)가 정답이다. ⓐ는 ‘그래서’라는 의미로, 오
+직 절과 절을 연결할 수 있다.
+07  ‘차의 시동이 걸리지 않았고 그래서 견인차를 불러야 했다’라는 
+의미가 되어야 하므로 ⓐ and so(그래서)가 정답이다. 접속부사 
+ⓑ는 ‘또한’이라는 의미로, 등위접속사 자리에 올 수 없다.
+08  and와 함께 쓰여 ‘A와 B 모두’라는 의미를 만드는 것은 both이
+므로 not only를 both로 고쳐야 맞다. not only는 but also와 함
+께 쓰인다. 
+09  but과 함께 쓰여 ‘A가 아닌 B’라는 의미를 만드는 것은 not이므
+로 neither를 not으로 고쳐야 맞다. neither는 nor와 함께 쓰여 
+‘A도 B도 아닌’이라는 의미를 만든다. 
+10  상관접속사 not only와 맞는 짝은 but also이므로 and를 but으
+로 고쳐야 맞다.
+11  or와 함께 쓰여 ‘A 또는 B 중 하나’라는 의미를 만드는 것은 
+either이므로 Both를 Either로 고쳐야 맞다. Both는 and와 함
+께 쓰인다. 
+12  상관접속사 neither와 맞는 짝은 nor이므로 or를 nor로 고쳐야 
+맞다.
+13  상관접속사 both와 맞는 짝은 and이므로 yet을 and로 고쳐야 
+맞다.
+14  상관접속사 either와 맞는 짝은 or이므로 also를 or로 고쳐야  
+맞다.
+Chapter 15  |  등위접속사와 상관접속사
+Section 5 접속사와 절
+저작권자의 동의 없이 해커스 토익 READING 문법 Hackers Practice 해설 내용의 복제·전송·배포 등의 행위를 금합니다. 16
+Hackers Practice 정답
+01 ⓐ [토익 공식 1] 02 ⓑ [토익 공식 2]
+03 ⓐ [토익 공식 2] 04 ⓑ [토익 공식 1]
+05 ⓐ [토익 공식 1] 06 ⓐ [토익 공식 2]
+07 ⓑ [토익 공식 2]
+08 where → which/that [토익 공식 2]
+09 is targeted → are targeted [토익 공식 1]
+10 having → has [토익 공식 1]
+11 when → which/that [토익 공식 4]
+12 that → which [토익 공식 2]
+13 them → which [토익 공식 3]
+14 맞는 문장 [토익 공식 4]
+Hackers Practice 해설
+01  이 문장은 주어(Susan), 동사(can speak), 목적어(several 
+languages)를 갖춘 완전한 절이므로, _______ is ~ clients는 
+수식어 거품으로 보아야 한다. 따라서 수식어 거품을 이끌 수 있
+는 관계사 ⓐ which가 정답이다.
+02  선행사가 사람(Passengers)이므로 사람 관계대명사 ⓑ who
+가 정답이다. 
+03  관계절(_______ proposals are chosen)에는 명사(writers)를 
+꾸며 주어 ‘기획안이 선정된 모든 필자들’이라는 의미를 만드는 
+소유격 관계대명사가 필요하므로 ⓐ whose가 정답이다.
+04  이 문장은 주어(Mr. Ing), 동사(installed), 목적어(security 
+lights)를 갖춘 완전한 절이므로, _______ automatically ~ the 
+room은 수식어 거품으로 보아야 한다. 따라서 수식어 거품을 이
+끌 수 있는 관계사 ⓑ that이 정답이다.
+05  이 문장은 주어(Customers)와 동사(may stop by)를 갖춘 완
+전한 절이므로, _______ would ~ membership은 수식어 거품
+으로 보아야 한다. 따라서 수식어 거품을 이끌 수 있는 관계사 
+ⓐ who가 정답이다.
+06  ‘그 프린터 모델은 6개의 무료 잉크 카트리지와 함께 제공되며, 
+이는 제한된 시간 동안만 이용 가능하다’라는 의미로 콤마 뒤의 
+관계절이 앞 문장 전체에 대해 부가 설명을 하는 계속적 용법으
+로 쓰였다. 앞 문장 전체에 대해 부가 설명을 할 수 있는 관계대
+명사는 which이므로 ⓐ which가 정답이다.
+07  관계절(_______ identification ~ list)에는 명사(People)를 꾸
+며 주어 ‘식별 번호가 대기자 명단에 있는 사람들’이라는 의미를 
+만드는 소유격 관계대명사가 필요하므로 ⓑ whose가 정답이다
+08  관계부사 where 뒤에는 완전한 절이 와야 하는데, where뒤에 
+주어가 없는 불완전한 절이 왔다. 따라서 where를 주어가 없는 
+불완전한 절을 이끌면서 사물 선행사(the project timetable) 뒤
+에 올 수 있는 주격 사물 관계대명사 which 또는 that으로 고쳐
+야 맞다. 
+09  관계절(that is targeted ~ adults)의 선행사(entertainment 
+programs)가 복수이므로 관계절 내의 동사 is targeted를 복수 
+동사 are targeted로 고쳐야 맞다.
+10  that the department ~ organized는 명사(series)를 뒤에서 꾸
+미는 관계절이다. 관계절에 동사가 없으므로, having을 has로 
+고쳐야 맞다.
+11  관계부사 when 뒤에는 완전한 절이 와야 하는데, when 뒤의 
+절에 주어가 없다. 따라서 when을 주격 관계대명사이면서 사물 
+선행사(an issue) 뒤에 올 수 있는 which 또는 that으로 고쳐야 
+맞다. 
+12  that은 콤마(,) 바로 뒤에 올 수 없으므로 that을 콤마(,) 바로 뒤
+에 올 수 있으면서 앞에 온 사물 명사(the stairway)에 대해 부
+가 설명을 할 수 있는 which로 고쳐야 맞다.
+13  이 문장은 주어(I), 동사(purchased), 목적어(a new suit and a 
+tie)를 갖춘 완전한 절이므로 both ~ sale은 수식어 거품으로 보
+아야 한다. 이 수식어 거품은 수량 표현(both of)으로 시작하고 
+있으므로 뒤에 관계대명사가 와야 한다. 따라서 them을 which
+로 고쳐야 맞다. 또는 콤마를 and로 고쳐도 맞다.
+14  맞는 문장 
+Chapter 16  |  관계절
+Section 5 접속사와 절
+저작권자의 동의 없이 해커스 토익 READING 문법 Hackers Practice 해설 내용의 복제·전송·배포 등의 행위를 금합니다. 17
+Hackers Practice 정답
+01 ⓐ [토익 공식 4] 02 ⓑ [토익 공식 3]
+03 ⓐ [토익 공식 2] 04 ⓐ [토익 공식 5]
+05 ⓑ [토익 공식 3] 06 ⓑ [토익 공식 3]
+07 ⓐ [토익 공식 4]
+08 even → even though [토익 공식 3]
+09 Despite → Although [토익 공식 6]
+10 during → while [토익 공식 6]
+11 from → before [토익 공식 1]
+12 as soon → as soon as [토익 공식 2]
+13 while → because [토익 공식 4]
+14 unless when → unless [토익 공식 3]
+Hackers Practice 해설
+01  ‘지갑을 잃어버렸기 때문에 신분증을 가지고 있지 않다’라는 의
+미가 되어야 하므로 ⓐ As(~이기 때문에)가 정답이다.
+02  ‘그 구두는 내가 예산 세운 것보다 비용이 더 들었지만 나는 어쨌
+든 그것들을 구매했다’라는 의미가 되어야 하므로 ⓑ Although 
+(비록 ~이지만)가 정답이다.
+03  ‘마케팅 조사가 끝날 때까지 그 프로젝트를 시작할 수 없다’라는 
+의미가 되어야 하므로 ⓐ until(~할 때까지)이 정답이다.
+04  ‘그 식당이 붐빌 때는 언제라도 기다린다’라는 의미가 되어야 하
+므로 ⓐ Whenever(언제 ~하든)가 정답이다.
+05  ‘대용량 파일을 보낼 경우에 대비하여 용량 제한이 없는 이메일 
+계정 주소를 알려주다’라는 의미가 되어야 하므로 ⓑ in case 
+(~에 대비하여)가 정답이다.
+06  ‘만약 공사가 완료되면 운영을 시작할 것이다’라는 의미가 되어
+야 하므로 ⓑ if(만약 ~라면)가 정답이다.
+07  ‘팸플릿을 인쇄할 수 있도록 프린터를 샀다’는 의미가 되어야 하
+므로 ⓐ so that(~할 수 있도록)이 정답이다.
+08  ‘얼마나 많은 사람들이 올 것인지 확실하지 않았지만 나는 예약
+을 했다’라는 의미가 되어야 하므로 even을 even though(비록 
+~이지만)로 고쳐야 맞다.
+09  despite는 전치사로 동사(didn’t have)가 있는 절 앞에 올 수 없
+다. 따라서 Despite를 부사절 접속사 Although(비록 ~이지만)
+로 고쳐야 맞다.
+10  during은 전치사로 동사(was)가 있는 절 앞에 올 수 없다. 따라
+서 during을 부사절 접속사 while(~하는 동안)로 고쳐야 맞다.
+11  ‘새 예산안을 작성하기 전에 연간 지출 보고서를 참조해야 한다’
+라는 의미가 되어야 하므로 from을 before(~하기 전에)로 고쳐
+야 맞다. 
+12  ‘초대장들이 도착하자마자 그것들을 우편으로 보낼 것이다’라는 
+의미가 되어야 하므로 as soon을 as soon as(~하자마자)로 고
+쳐야 맞다.
+13  ‘미디어 캠페인이 준비되지 않았기 때문에 일정을 변경했다’라
+는 의미가 되어야 하므로 while을 because(~이기 때문에)로 고
+쳐야 맞다.
+14  ‘(그가) 아프지 않다면 통지 없이 일찍 퇴근할 수 없다’라는 의미
+가 되어야 하므로 unless when을 unless(만약 ~가 아니라면)로 
+고쳐야 맞다.
+Chapter 17  |  부사절
+Section 5 접속사와 절
+저작권자의 동의 없이 해커스 토익 READING 문법 Hackers Practice 해설 내용의 복제·전송·배포 등의 행위를 금합니다. 18
+Hackers Practice 정답
+01 ⓐ [토익 공식 2] 02 ⓑ [토익 공식 4]
+03 ⓐ [토익 공식 3, 6] 04 ⓑ [토익 공식 3]
+05 ⓑ [토익 공식 5] 06 ⓑ [토익 공식 4]
+07 ⓐ [토익 공식 2]
+08  when the moment is right to make a change  
+→ 동사의 목적어 [토익 공식 1, 4]
+09 How the offices will be assigned → 주어 [토익 공식 1, 4]
+10  what questions would appear on the test  
+→ 전치사의 목적어 [토익 공식 1, 4]
+11  what customers have been complaining about  
+→ 보어 [토익 공식 1, 4]
+12  that good education should be available to all youths  
+→ 명사 idea의 동격절 [토익 공식 1, 4]
+13  why the staff were being trained again  
+→ 동사의 목적어 [토익 공식 1, 4]
+14 that many people dislike telemarketing → 보어 [토익 공식 1, 2]
+Hackers Practice 해설
+01  sure는 that절을 취하는 형용사이므로 절(Hank ~ branch) 앞
+에는 that이 와야 한다. 따라서 ⓐ that이 정답이다.
+02  ‘두 가지 제안 중 어떤 것’이라는 의미가 되어야 하므로 ⓑ 
+which가 정답이다.
+03  afraid는 that절을 취하는 형용사이므로 절(suburban ~ 
+valuable land) 앞에는 that이 와야 한다. 따라서 ⓐ that이 정
+답이다. 
+04  if는 전치사(than) 다음에 올 수 없으므로 ⓑ whether가 정답이
+다.
+05  ‘현장 관리직에 지원하고 싶은 사람은 누구든지 이력서를 제
+출해야 한다’라는 의미가 되어야 하므로 복합관계대명사 ⓑ 
+Whoever가 정답이다. ⓐ가 오면 ‘누가 현장 관리직에 지원하
+고 싶은지는 이력서를 제출해야 한다’라는 어색한 의미가 되므
+로 답이 될 수 없다. 
+06  ‘여행을 위해 무엇을 싸야 할지 고르는데 어려움을 겪고 있다’라
+는 의미가 되어야 하므로 ⓑ what이 정답이다. ⓐ가 오면 ‘여행
+을 위해 언제 싸야 할지 고르는데 어려움을 겪고 있다’라는 어색
+한 의미가 되므로 답이 될 수 없다. 
+07  report는 동격절을 취하는 명사이므로 (the company ~ 
+market) 앞에는 동격절을 만드는 명사절 접속사 that이 와야 한
+다. 따라서 ⓐ that이 정답이다.
+08  when the moment is right to make a change(변화를 주기에 
+적당한 시점이 언제인지)는 동사 decide(결정하다)의 목적어 역
+할을 하는 명사절이다.
+09  How the offices will be assigned(사무실이 어떻게 배정될지)는 
+주어 역할을 하는 명사절이다.
+10  what questions would appear on the test(시험에 어떤 문제들
+이 나올지)는 전치사 about(~에 대한)의 목적어 역할을 하는 명
+사절이다.
+11  what customers have been complaining about(고객들이 불
+평해 왔던 것)은 be동사(are)의 보어 역할을 하는 명사절이다.
+12  that good education should be available to all youths(좋은 
+교육이 모든 젊은이들에게 이용 가능해야 한다는 것)는 명사 idea 
+(생각)와 동격을 이루는 명사절이다.
+13  why the staff were being trained again(직원들이 왜 다시 교육 
+받고 있었는지)은 동사 didn’t explain(설명하지 않았다)의 목적
+어 역할을 하는 명사절이다.
+14  that many people dislike telemarketing(많은 사람들이 전화 판
+매를 싫어한다는 것)은 be동사(is)의 보어 역할을 하는 명사절이
+다.
+Chapter 18  |  명사절
+Section 5 접속사와 절
+저작권자의 동의 없이 해커스 토익 READING 문법 Hackers Practice 해설 내용의 복제·전송·배포 등의 행위를 금합니다. 19
+Hackers Practice 정답
+01 ⓑ [토익 공식 4] 02 ⓑ [토익 공식 2]
+03 ⓐ [토익 공식 1] 04 ⓑ [토익 공식 4]
+05 ⓐ [토익 공식 3] 06 ⓐ [토익 공식 2]
+07 ⓑ [토익 공식 1] 
+08 more → the more [토익 공식 2]
+09 to → as [토익 공식 1] 
+10 more → most [토익 공식 3]
+11 conveniently → convenient [토익 공식 2]
+12 when → than [토익 공식 2] 
+13 much → many [토익 공식 1]
+14 low → lower [토익 공식 2]
+Hackers Practice 해설
+01  ‘오늘보다는 내일’이라는 의미가 되어야 하므로 rather than 
+(~보다)을 써야 한다. 빈칸 앞에 rather가 있으므로 ⓑ than이 
+정답이다.
+02  빈칸 뒤에 비교급 표현을 만드는 than이 왔으므로 비교급  
+ⓑ more efficiently가 정답이다. 
+03  as ~ as는 원급 표현이므로 부사의 원급 ⓐ regularly가 정답이
+다.
+04  ‘비행기가 이륙하자마자 조종사는 방송했다’라는 의미가 되어야 
+하므로 no sooner ~ than –(~하자마자 –하다)을 써야 한다. 뒤
+에 than이 있으므로 ⓑ No sooner가 정답이다.
+05  빈칸 뒤에 최상급(the most innovative)이 왔으므로 최상급을 
+강조할 수 있는 표현 ⓐ by far가 정답이다.
+06  비교급(more expensive)이 왔으므로 함께 비교급 표현을 만드
+는 ⓐ than이 정답이다.
+07  ‘꼭 우리의 이전 관리자만큼이나 체계적인’이라는 의미가 되어
+야 하고 뒤에 원급 표현(as organized as)이 왔으므로 ⓑ just 
+(꼭)가 정답이다.
+08  앞에 ‘the 비교급’(The closer)이 온 것으로 보아 ‘the 비교급 ~, 
+the 비교급 –’(~할수록 점점 더 –하다)을 완성하는 것이 와야 한
+다. 따라서 more를 the more로 고쳐야 맞다.
+09  to를 the same과 함께 원급 표현 ‘the same + as’(~와 같은 –)
+를 만드는 as로 고쳐야 맞다.
+10  ‘내가 봤던 사람들 중에서 가장 창의적인 사람’이라는 의미가 되
+어야 하므로 최상급이 와야 한다. 따라서 more를 most로 고쳐
+야 맞다. 
+11  비교급 구문에서 more ~ than 사이의 형용사/부사 자리
+는 more와 than 이하를 지우고 구별해야 한다. Shopping 
+is conveniently는 보어 자리에 부사가 온 틀린 문장이므로 
+conveniently를 형용사 convenient로 고쳐야 맞다.
+12  비교급(higher)이 왔으므로 함께 비교급을 만드는 than이 와야 
+한다. 따라서 when을 than으로 고쳐야 맞다.
+13  much는 불가산 명사 앞에 오는 수량 형용사이므로 복수 가산 명
+사(examples) 앞에 오는 수량형용사 many로 고쳐야 맞다.
+14  비교급과 함께 쓰이는 than이 있으므로 low를 비교급 lower로 
+고쳐야 맞다.
+Chapter 19  |  비교 구문
+Section 6 특수 구문
+저작권자의 동의 없이 해커스 토익 READING 문법 Hackers Practice 해설 내용의 복제·전송·배포 등의 행위를 금합니다. 20
+Hackers Practice 정답
+01 ⓐ [토익 공식 1] 02 ⓑ [토익 공식 2]
+03 ⓐ [토익 공식 1] 04 ⓑ [토익 공식 1]
+05 ⓐ [토익 공식 2] 06 ⓐ [토익 공식 2]
+07 ⓑ [토익 공식 1]
+08 energize → energy [토익 공식 1]
+09 맞는 문장 [토익 공식 1]  10 Have → Had [토익 공식 2]
+11 employ → employees [토익 공식 1]
+12 meet → meets [토익 공식 1]
+13 reputable → reputation [토익 공식 1]
+14 맞는 문장 [토익 공식 2]
+Hackers Practice 해설
+01  등위접속사(and) 뒤에 형용사(easy)가 있으므로 and 앞에도 
+형용사가 와야 한다. 따라서 ⓐ strong이 정답이다.
+02  주어와 동사가 도치된 절(does this store)이 왔으므로 절의 맨 
+앞에서 도치 구문을 이끌 수 있는 부정어 ⓑ Seldom이 정답이
+다. 부정어가 절의 맨 앞으로 나오면 도치가 일어난다. 
+03  등위접속사(and) 앞에 동명사(Exercising)가 있으므로 and 뒤
+에도 동명사가 와야 한다. 따라서 ⓐ eating이 정답이다.
+04  등위접속사(and) 앞에 동사(take)가 있으므로 and 뒤에도 동사
+가 와야 한다. 따라서 ⓑ serve가 정답이다.
+05  ‘약속을 취소하려면’이라는 의미의 가정법 미래 구문에서 if가 생
+략되어 도치가 일어난 문장이다. 따라서 가정법 미래 도치 구문
+을 이끌 수 있는 ⓐ Should가 정답이다.
+06  ‘Only + 부사구’가 문장 앞에 와서 주어와 동사가 도치된 문장이
+다. do 조동사(did)가 앞에 나와 있으므로, 동사원형 ⓐ notice
+가 정답이다.
+07  등위접속사(and) 앞에 형용사(entertaining)가 있으므로 and 
+뒤에도 형용사가 와야 한다. 따라서 ⓑ intelligent가 정답이다.
+08  등위접속사(and) 앞에 명사(stamina)가 있으므로 and 뒤의 
+energize를 명사 energy로 고쳐야 맞다. 
+09  맞는 문장
+10  주절에 ‘주어 could have p.p.’가 온 것으로 보아 가정법 과거 
+완료 문장이다. 가정법 과거 완료의 도치 문장은 ‘Had + 주어 + 
+p.p.’이므로 Have를 Had로 고쳐야 맞다.
+11  등위접속사(and) 앞에 명사(full-time workers)가 있으므로 
+and 뒤에도 명사가 와야 한다. 따라서 employ를 employees
+로 고쳐야 맞다.
+12  등위접속사(and) 앞에 단수 동사(travels)가 있으므로 and 뒤
+에도 단수 동사가 와야 한다. 따라서 meet을 meets로 고쳐야 
+맞다.
+13  등위접속사(and) 앞에 명사(sales record)가 있으므로 and 뒤
+에도 명사가 와야 한다. 따라서 reputable을 reputation으로 고
+쳐야 맞다.
+14  맞는 문장
+Chapter 20  |  병치 · 도치 구문
+Section 6 특수 구문

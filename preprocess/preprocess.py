@@ -8,6 +8,7 @@ from miner.miner import MinerService
 from os.path import getsize
 import pandas as pd 
 from collections import defaultdict
+import json
 @dataclass
 class Prepro():
     context3: str = os.path.join(basedir,'pdf-text-linestrip-0kbremove')
@@ -160,6 +161,28 @@ class PreproService:
         f.close()
         return mydict
     @staticmethod
+    def jsonpart5process(path):
+        jsondatas = json.load(open(path, encoding='UTF-8'))
+        # print(jsondatas)
+        mylist= []
+        for jsondata in jsondatas:
+            # print(jsondata)
+            print('-'*50)
+            # print(jsondatas[jsondata]['question'])
+            # print(jsondatas[jsondata]['answer'])
+            question =jsondatas[jsondata]['question']
+            anwser =jsondatas[jsondata]['anwser']
+            regex=r'(___)'
+            corpus=re.sub(regex,anwser,question)
+            print(corpus)
+            mylist.append(corpus)
+            
+            
+            print('-'*50)
+        df = pd.DataFrame(mylist,columns=['problem'])
+        print(df.head())
+        df.to_csv('problemcorpus.csv')
+    @staticmethod
     def dictToDataFrame(mydict):
         df =pd.DataFrame.from_dict(mydict)
         df=df.T
@@ -176,6 +199,8 @@ class PreproService:
         df.to_csv(path,encoding='utf-8-sig', errors= 'strict', index_label='problem')
         pass
 if __name__=='__main__':
-    api = PreproController()
-    # api.zremove_loopfun()
-    api.part5_loopfun()
+    # api = PreproController()
+    # # api.zremove_loopfun()
+    # api.part5_loopfun()
+    api = PreproService()
+    api.jsonpart5process('C:/Users/dudnj/payloadProject/toeic_test.json')

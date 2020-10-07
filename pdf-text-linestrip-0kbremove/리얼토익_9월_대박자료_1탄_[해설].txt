@@ -1,0 +1,1020 @@
+<5265616C544F4549432039BFF9B4EBB9DAC0DAB7E131C5BA5BC7D8BCB35D2E687770>
+101. In the unlikely event that printing is unsatisfactory,
+or there is a defect, we will ------- return your money or
+print them again at no charge to you.
+(A) happy
+(B) happily
+(C) happiness
+(D) happier
+해설|
+조동사 와 동사 사이에는 부사가 들어갈 자리이므로(will) (return)
+가 답(B) happily .
+어휘|
+만약 할 경우에는In the unlikely event that~ ~ /
+불만족스런 마음에 차지 않는 결점 단점unsatisfactory , / defect , ,
+부족 요금/ charge
+번역|
+인쇄가 마음에 들지 않거나 결점이 있는 경우 우리는 기꺼이,
+당신이 지불한 돈을 돌려드리거나 더 이상 요금을 받지 않고 다시
+인쇄해 드리겠습니다.
+102. The government should make it compulsory that
+domestic workers open an account either at the post
+office ------- a commercial bank.
+(A) nor
+(B) and
+(C) or
+(D) so
+해설|
+앞에 를 보았다면 상관구문 를 재빨리 떠올릴either either A or B
+수 있어야 한다 따라서 가 답. (C) or .
+어휘|
+정부 정치 강제적인 의무적인government , / compulsory , ,
+필수의 자국의 국내의 상업상의/ domestic , / commercial
+번역|
+정부는 국내 노동자들이 우체국이나 일반 은행 중 한 곳에
+의무적으로 계좌를 개설하도록 해야 한다.
+103. Faced with the ------- of dramatic growth in
+passenger numbers, Birmingham International Airport's
+managers needed to be sure that existing and planned
+facilities could cope with the anticipated throughput.
+(A) prospect
+(B) prospectus
+(C) prospected
+(D) prospective
+해설|
+정관사 뒤에는 명사가 들어갈 자리이므로 는 일단the (C), (D)
+답이 될 수 없다 예상 기. (A) prospect( , ), (B)
+설립 취지서 사업 계획 등의 강령 중prospectus( , / ) faced
+에 직면하다 을 직시하다 와 급격한with(~ , ~ ) dramatic growth(
+증가 를 논리적으로 연결시켜 줄 수 있는 것은 이다) (A) prospect .
+어휘|
+극적인 존재하다 설비 시설dramatic / exist / facility , / cope
+항하다 맞서다 극복하다 예상하다 기 하다, , / anticipate , /
+작업처리량throughput
+번역|
+승객 수에 급격한 증가를 예상한 브링엄 국제 공항 관계자들은
+현존하는 그리고 계획된 설비들이 예상되는 업무량을 처리할 수
+있는지를 확신할 필요가 있었다.
+104. The proposed ventilation plan and any revision to
+the plan must be submitted ------- writing to the district
+manager.
+(A) of
+(B) on
+(C) at
+(D) in
+해설|
+은 서면으로란 의미의 관용표현 따라서 이 답이in writing ‘ ’ . (D) in
+된다.
+어휘|
+제출하다 제의하다 환기 장치propose , / ventilation / revision
+개정 정정 제출하다 지역 구역, / submitt / district ,
+번역|
+환기장치 계획안과 그 계획에 따른 여느 개정안이 반드시 그 구역
+담당자들에게 서면으로 제출되어야 합니다.
+105. The chemical and physical nature of fine particulate
+emissions are considered to change ------- after emission
+into the atmosphere, varying with factors such as
+location, temperature, humidity and the presence of other
+pollutants.
+(A) considerable
+(B) consider
+(C) considerably
+(D) consideration
+해설|
+빈칸은 부정사 를 수식할 수 있는 부사자리 따라서to to change .
+상당히 크게 가 답(C) considerably( , ) .
+어휘|
+화학의 화학적인 물리적인chemical , / physical / particulate
+미립자 고려할 가치가 있는 방출/ be considerd to / emission ,
+방사 바뀌다 변화하다 습도 존재/ vary , / humidity / presence ,
+실체 오염물질 오염원/ pollutant ,
+번역|
+미세한 미립자 방출의 화학적 물리적 특성은 장소 기온 습도, , , ,
+오염원과 같은 요인들에 의해 달라지긴 하지만 기로의 방사
+이후에 크게 변화할 것으로 고려된다.
+106. The ------- from the sale of counterfeit software
+don't help expand the economy by providing jobs, taxes,
+and wages.
+(A) profits
+(B) prices
+(C) revenue
+(D) money
+해설|
+빈칸은 주어 자리로서 전치사구 와 서술부(from the sale ~) (don't
+와 의미상 논리적으로 연결될 수help expand the economy)
+있는 명사가 필요하다 는 특히 물건의 판매로부터 얻은. (A) profits
+이익 이득 는 물건의 가격 는 세금상의/ , (B) prices , (C) revenue
+이득 는 일반적인 돈을 의미하며 출처를 나타내는, (D) money ,
+전치사 이하의 명사구from (the sale of counterfeit software -
+가짜 소프트웨어의 판매 의 의미를 고려했을 때 가) (A) profits
+답으로 적절하다 는 영업활동이나 세금으로부터 거두는. revenue
+수입을 의미하므로 전치사구와 연결되기에 부적절하다.
+어휘|
+위조의 가짜의 확장하다 임금counterfeit , / expand / wage
+번역|
+일자리와 세금 임금을 제공하는데 있어 가짜 소프트웨어 판매의,
+수익은 경제를 활성화시키는데 도움을 주지 못한다.
+107. Human Network's sales force has had exponential
+growth both by acquisition of its rival company and
+professional agents ------- the company.
+(A) joins
+(B) joining
+(C) will join
+(D) will be joining
+해설|
+문장의 주어는 동사는 이므로 더 이상의sales force, has had
+주어나 동사가 필요없다 따라서 동사. (A) joins, (C) will join,
+은 답이 될 수 없기 때문에 자연스럽게(D) will be joining (B)
+이 답이 됨을 알 수 있다 은 목적어joining . joininig the
+를 취하면서 앞의 명사 를 수식하는 현재분사로company agents
+명사 현재분사 명사 의 패턴을 기억해두자[ + + ] .
+어휘|
+영업팀 기하급수적인 급격한sales force exponential , /
+획득 습득 경쟁자 직업의acquisition , / rival / professional ,
+직업상의 리인 행자/ agent ,
+번역|
+휴먼 네트워크의 영업팀은 경쟁 회사의 인수와 그 회사에 합류한
+전문 에이전트들에 의해 급격한 성장을 보였다.
+108. Most of the properties we have purchased in the
+------- several years have been for facility expansion and
+parking lots.
+(A) past
+(B) next
+(C) following
+(D) ultimate
+해설|
+의미상 궁극적인 최후의 는(D) ultimate( , ) in the ~ several
+와 어울릴 수 없으므로 일단 답에서 제외시킨다years . (A), (B) ,
+는 모두 빈칸에 들어갈 수 있지만 문장 앞(C) we have
+의 시제를 고려했을 때 구매한 사실은 과거의 일이므로purchased
+전치사구 역시 과거의 시점을 나타내(in the ~ several years)
+주어야 한다 다음의 다음의 는 모두. (B) next( ), (C) following( ) in
+와 연결될 경우 미래시점을 보여주기 때문에the ~ several years
+답이 될 수 없다.
+어휘|
+재산 부동산 확장 주차장property , / expansion / parking lot
+번역|
+지난 몇 년 동안 우리가 구매했던 소유지 중 부분이 시설확장과
+주차장을 위한 것이었다.
+109. Almost every enterprise has ------- own sales force,
+which often has a slightly different structure and
+approach based upon the unique needs of its customers.
+(A) his
+(B) her
+(C) its
+(D) theirs
+해설|
+빈칸은 소유격 명사 자리이므로 소유 명사 그들의(D) theirs(
+것 는 답이 될 수 없다 빈칸에 들어갈 명사가 받는 명사는 앞의) .
+이기 때문에 인칭 명사 가 답이 된다every enterprise 3 (C) its .
+어휘|
+기업 회사 영업팀 약간 조금enterprise , / sales force / slightly , /
+구조 유일한 독특한 요구structure / unique , / needs
+번역|
+거의 모든 기업은 그들만의 영업팀을 가지고 있는데 영업팀은,
+회사마다 조금씩 다른 구조와 그 회사 고객의 독특한 요구에 따른
+접근방법을 갖는다.
+110. In May 2004, the Ministry ------- local governments
+that it would be revising the reporting forms for
+collection of local government financial information for
+2004 and future fiscal years.
+(A) recommended
+(B) announced
+(C) ordered
+(D) advised
+해설|
+동사 문형 문제로 특정 동사 뒤에 오는 문장 구조를 파악할 수
+있어야 한다 위 문장은 목적어 구조로. [---- + + that + S + V]
+이를 충족시켜줄 수 있는 동사는 이다 동사(D) advised .
+권고하다 는advise( ) [advise + sb + that S + V], [advise + sb
+패턴을 갖는다+ to do sth] . (A) recommended, (B)
+는 모두 의announced [recommend/ announce + that S + V]
+패턴을 취하며 는, (C) ordered [order sb + sth], [order sb to
+의 패턴을 취한다do sth], [order + that S + V] .
+어휘|
+내각 행정부 개정하다 수정하다ministry , / revise , / financial
+재정적인 회계연도/ fiscal year
+번역|
+년 월 내각은 년과 미래 회계연도를 위한 지역 정부의2004 5 , 2004
+재정 정보 수집의 보고 형태를 개편할 것이라고 지역 정부들에게
+알렸다.
+111. According to a survey by Singapore's National
+Computer Board, the proportion of Internet users
+conducting online transactions in Singapore is expected to
+quadruple from 6 percent to 26 percent ------- the next
+six months.
+(A) by
+(B) until
+(C) over
+(D) since
+해설|
+는 뒤에 고정된 하나의 특정시점이(A) by, (B) until, (D) since
+오는데 빈칸 뒤에는 다음 개월이라는 표현, ‘ 6 ’ (the next six
+이 오므로 시기 기간 등을 아우르는 의미를 갖는months) / (C)
+에 거쳐 사이에 가 답으로 적절하다over(~ , ~ ) .
+어휘|
+에 따르면 비율 수행하다according to ~ / proportion / conduct /
+거래 배가 되다transaction / quadruple 4
+번역|
+싱가폴의 국가 컴퓨터 위원회의 조사에 따르면 싱가폴에서 온라인,
+거래를 하는 인터넷 사용자의 비율이 다음 개월 사이에6
+퍼센트에서 퍼센트로 배가 될 것으로 예상하고 있다6 26 4 .
+112. Part of the project manager's job is to gather
+------- information about a company's clients and compile
+comprehensive profiles of their requirements.
+(A) accurate
+(B) earnest
+(C) dignified
+(D) outspoken
+해설|
+명사 은 적절히 수식해 줄 수 있는 형용사 어휘information ‘ - ’
+문제로 선택지 중 과 어울릴 수 있는 형용사는information (A)
+정확한 이다 진지한 성실한accurate( ) . (B) earnest( , ), (C)
+위엄 있는 솔직한 노골적인dignified( ), (D) outspoken( , )
+어휘|
+모으다 의뢰인 고객 편집하다gather / client , / compile ,
+집계하다 포괄적인 종합적인/ comprehensive , / requirment
+요구 필요,
+번역|
+프로젝트 매니저가 하는 일 중 일부는 회사의 고객에 관한 정확한
+정보를 수집하고 고객의 요구조건을 담은 종합적인 데이터를
+집계하는 것이다.
+113. Please note that Fairfax Fitness Center is not -------
+for personal belongings lost or stolen in the facility.
+(A) responsive
+(B) responsible
+(C) response
+(D) responsibility
+해설|
+는 에 책임이 있는이란 의미의 관용표현be responsible for ‘~ ’ .
+역시 빈칸에 들어갈 수 있으나 뒤에는 전치사 를(A) responsive to
+취한다 에 반응하는 바로 답하는(responsive to ~ , ).
+어휘|
+소유물 재산 분실한beloning , / lost
+번역|
+페어팩스 휘트니스 센터는 시설 내에서 잃어버리거나 도난당한
+개인 소지품에 해 책임지지 않는다는 사실을 유념해 주시기
+바랍니다.
+114. Should you have any questions concerning our
+services, please don't hesitate to contact the sales
+department at your earliest -------.
+(A) option
+(B) probability
+(C) requirement
+(D) convenience
+해설|
+는 되도록 빨리 형편이 닿는 로at one's earliest convenience ‘ ,
+빨리란 의미의 관용표현’ .
+어휘|
+관계가 있다 주저하다 망설이다concern / hesitate ,
+번역|
+우리 서비스에 해 어떠한 질문이라도 있다면 주저하지 말고 편한
+시간에 영업 부서에 연락을 주세요.
+115. Maya Travel recommends that groups of eight or
+more should call ------- for reservations to ensure the
+availability of a tour guide.
+(A) along
+(B) ahead
+(C) above
+(D) aside
+해설|
+명 이상의 단체는 투어가이드를 이용할 수 있기 위해서 예약을8
+빨리 해야한다는 의미이므로 시간상 앞에 기한 등을 앞당겨‘( ) , ’
+등의 의미를 갖는 전치사 가 답으로 적절하다(B) ahead .
+어휘|
+추천하다 안전하게 하다 지키다recommend / ensure , /
+유효성 이용할수 있는 사람availability ,
+번역|
+마야 트래블은 명 이상의 단체가 투어 가이드를 이용할 수 있도록8
+예약 전화를 미리 해줄 것을 권한다.
+116. ------- of our Therapeutic Massage Program is
+designed to provide the student with the essential skills
+to become a bodywork practitioner.
+(A) complete
+(B) completion
+(C) completely
+(D) completed
+해설|
+빈칸은 주어자리이므로 명사 완성 수료 이 답(B) completion( ; ) .
+어휘|
+치료의 지압요법 마사지therapeutic / bodywork , / practitioner
+업에 종사하는 사람 개업가 전문가, ,
+번역|
+치료 마사지 프로그램의 수료는 그 학생들이 마사지 전문가가 되기
+위한 필수적인 스킬을 제공하도록 고안되어 있다.
+117. We no longer have the support of the committee;
+we have ------- decided to resign simultaneously.
+(A) however
+(B) therefore
+(C) in which case
+(D) in contrast
+해설|
+앞 문장은 우리가 위원회의 도움을 더 이상 받지 못한다는 것이고,
+뒷 문장은 우리 모두가 사직하기로 결정했다는 의미이므로
+빈칸에는 앞 문장의 결과를 나타내 줄 수 있는 접속부사 (B)
+가 들어갈 수 있다therefore .
+어휘|
+지지 원조 위원회 사직하다support , / committee / resign /
+동시에 일제히simultaneously ,
+번역|
+우리는 더 이상 위원회의 지원을 받지 못해서 우리는 일제히
+그만두기로 결정했다.
+118. Flowers are being used for making decorations,
+gifts, dried decorative pieces, bedding plants and -------
+traditional medicine.
+(A) also
+(B) but
+(C) yet
+(D) it
+해설|
+꽃의 용도를 열거하고 있는 문장의 특성과 뒤에 올 수 있는and
+단어를 묻고 있으므로 첨가 부연의 의미를 갖는 부사 가‘ , ’ (A) also
+답이 된다.
+어휘|
+장식 실내장식 선물 소품decoration , / gift / piece
+번역|
+꽃은 실내장식 선물 말린 장식용 소품 침구용 식물뿐만 아니라, , ,
+전통적인 약재를 만드는 데에도 사용되고 있다.
+119. For an organization to succeed in today's highly
+competitive environment, management should make it a
+point ------- the accomplishment of their employees.
+(A) to recognize
+(B) recognizing
+(C) recognizes
+(D) recognized
+해설|
+은 반드시 하다란 의미의make it a point to do sth ‘ ~ ’
+관용구문으로서 가목적어 진목적어가 적용된 문장, .
+어휘|
+성공하다 경쟁력 있는succeed in / competitive / management
+경영진 확신하다 성취 달성/ make a point / accomplishment ,
+번역|
+한 조직이 오늘날의 경쟁이 심한 환경에서 살아남기 위해서는
+경영진은 반드시 그들의 직원들의 성과를 인정해줘야 한다.
+120. Trained Customer Service Representatives are
+available to assist you any time ------- 10 am onwards,
+but not earlier.
+(A) from
+(B) at
+(C) during
+(D) between
+해설|
+특정시점 는 특정시점 이후로라는 의미의[from + + onwards] ‘ ’
+관용표현이다 문맥을 따져봐도 시간의 기점을 나타내는 전치사. ‘ ’
+이 알맞다from .
+어휘|
+표자 할 시간이 있다representative / be available ~ / assist
+도와주다 앞으로 에/ onwards [ ]
+번역|
+훈련받은 고객 서비스 담당자들은 오전 시 이후로는 언제든지10
+당신을 도울 시간이 있습니다 하지만 그 전에는 안됩니다. .
+121. Riverina Regional Tourism has initiated an -------
+marketing campaign directly targeting visitors who travel
+by car as free and independent travelers.
+(A) exciting
+(B) excite
+(C) excitement
+(D) excitedly
+해설|
+관사 형용사 명사 패턴을 알고 있다면 초 이내에 풀 수[ + ( ) + ] 3
+있는 문제 형용사 이 답. (A) exciting .
+어휘|
+시작하다 개시하다initiate ,
+번역|
+리베리나 지역 투어리즘은 자유롭고 독립적인 여행객으로서
+자동차로 여행하는 방문객들을 상으로 하는 마케팅 캠페인을
+착수했다.
+122. The British government has ------- taken measures
+to tighten security on airlines and at airports, including
+providing more secure perimeter fencing and better
+policing in and around airports
+(A) already
+(B) shortly
+(C) ever
+(D) once
+해설|
+문맥상으로나 현재완료형과 곧잘 어울려 쓰이는 부사는 (A)
+이다already .
+어휘|
+조치를 취하다 엄하게 하다 강화하다take measure / tighten , /
+보안 안전한 위험이 없는 방어선security / secure , / perimeter ,
+경계 울타리 경비/ fencing / policing
+번역|
+영국 정부는 이미 더욱 안전한 경계 울타리와 공항 안과 주변의
+경비를 포함한 비행기와 공항의 보안을 강화하기 위한 조치를 취해
+놓았다.
+123. The public-pension system has about 120,000
+active members in state and local governments and
+school employees, and provides ------- to 59,000 retirees.
+(A) benefits
+(B) beneficial
+(C) beneficiary
+(D) benefiting
+해설|
+빈칸 앞 동사 의 주어는provides the public-pension
+공공연금제도 이므로 이와 어울릴 수 있는system( )
+명사 목적어 를 찾는 문제로 공공연금제도가 명의[ ] 59,000
+퇴직자에게 주는 것이 무엇인지를 생각해보면 알 수 있다 혜택. ‘ ,
+국민 보험의 급부를 뜻하는 가 답’ (A) benefits .
+어휘|
+퇴직자 은퇴자 연금 수령자retiree , ,
+번역|
+공공연금제도는 학교 직원과 주 지역 정부에서 현재 활동중인/
+만명의 회원을 보유하고 있으며 만 천명의 퇴직자들에게12 5 9
+국민보험혜택을 제공합니다.
+124. Although they had been looking forward to the
+annual rock festival, the punk band was forced to -------
+the offer due to lack of funds to cover the airfares.
+(A) deteriorate
+(B) faint
+(C) weaken
+(D) decline
+해설|
+주절의 의미를 파악하면 확실하게 답을 이끌어낼 수 있는 문제로
+그 펑크밴드는 항공료가 없어서 그 제의를 거절할 수밖에‘
+없었다는 의미 따라서 거절하다를 뜻하는 이 답이’ . ‘ ’ (D) decline
+된다 악화하다 가치가 떨어지다. (A) deteriorate - , , (B) faint -
+낙담시키다 약해지다, (C) weaken -
+어휘|
+을 고 하다 어쩔수 없이look forward to ~ be forced to do
+하다 때문에 결핍 부족 기금 자금~ / due to ~ / lack , / funds , /
+비용 등을 감당하다 항공요금cover / airfare
+번역|
+그 펑크 밴드는 연례의 락 페스티벌에 가기를 고 했지만 그들은,
+항공요금을 낼 돈이 없어서 어쩔수 없이 그 제안을 거절했다.
+125. It is important to note that mold is ------- of
+causing allergic distress whether it is alive or dead.
+(A) capable
+(B) possible
+(C) potential
+(D) consist
+해설|
+빈칸은 동사 뒤 형용사 자리로서 뒤에be of doing sth(of causing
+패턴을 취할 수 있는 형용사는 을allergic distress) (A) capable(~
+할 수 있는 이다 역시 뒤에 패턴을 취할) . (D) consist of doing sth
+수 있지만 는 동사이기 때문에 동사 뒤에 원형 형태로 올consist be
+수 없다.
+어휘|
+곰팡이 알레르기의 고통 고민거리mold / allergic / distress , ,
+골칫거리
+번역|
+곰팡이는 그것이 살아있던지 죽어있던지 간에 알레르기 증세를
+일으킬 수 있다는 것은 주목할만한 사실이다.
+126. ------- in the heart of Singapore, The Western
+Stamford & Western Plaza boasts a prime location amid
+the diversions of the City Shopping Complex.
+(A) Located
+(B) Locating
+(C) Locates
+(D) Locate
+해설|
+주절의 주어 를(The Western Stamford & Western Plaza)
+수식하면서 뒤에 전치사구를 취할 수 있는 과거분사 (A)
+가 답이 된다 분사구문이 적용된 문장Located . .
+어휘|
+자랑하다 뽐내다 제 의 최고의 의boast , / prime 1 , / amid ~
+한복판에 사이에 위락 오락시설, ~ / diversion ,
+번역|
+싱가포르의 중심에 위치한 웨스턴 스탬포드와 웨스턴 플라자는
+도시쇼핑단지의 위락시설 한복판에 있는 최고의 위치를 뽐낸다.
+127. The school office has only two constantly -------
+telephone lines; therefore, students will be allowed use of
+the phone only in emergences.
+(A) busy
+(B) hurried
+(C) rapid
+(D) quick
+해설|
+를 수식해줄 수 있는 형용사는 선택지 중telephone lines (A)
+통화 중인 밖에 없다 황급한 허둥지둥한busy( ) . (B) hurried - , ,
+급속한 빠른 빠른(C) rapid - , , (D) quick -
+어휘|
+끊임없이 비상시에constantly / in emergency
+번역|
+교무실에는 끊임없이 걸려오는 전화기가 두 개 뿐이어서 학생들은
+오직 비상시에만 사용할 수 있다.
+128. Fire fighters' injuries can be reduced by a fitness
+program, but only if it is strictly ------- and includes
+workouts appropriate to the job.
+(A) follow
+(B) follows
+(C) followed
+(D) following
+해설|
+절은 부사 구조로 빈칸에는if ‘it is + (strictly) + ----’
+과거 현재분사가 들어갈 수 있다 이때 이 가리키는 명사는/ . it
+건강프로그램 으로서 이는 엄격히 따르게 되는fitness program( )
+상이므로 과거분사 가 답이 된다(C) followed .
+어휘|
+소방관 부상 엄격히 운동fire fighter / injury / strictly / workout /
+에 적절한 적합한appropriate to ~ ,
+번역|
+소방관의 부상은 운동 프로그램에 의해 감소될 수 있는데 그 운동,
+프로그램이 엄격히 이해되고 그 일에 적합한 운동을 포함하는
+경우에만 가능하다.
+129. If all the money from the Asian Development Bank
+had been distributed ------- among the 10,000 villages in
+Laos, each village would have received over $70,000.
+(A) equally
+(B) equal
+(C) most equally
+(D) more equal
+해설|
+빈칸 앞은 수동태 구조 로 빈칸에 올 수(~ had been distributed)
+있는 품사는 선택지 중 부사 밖에 없다equally .
+어휘|
+분배하다 마을distribute / village
+번역|
+만일 아시아 개발 은행의 모든 돈이 라오스에 있는 일만 개의
+마을에 똑같이 분배되었다면 각 마을은 만 달러가 넘는 돈을, 7
+받게 되었을 것이다.
+130. Ottawa convention organizers blamed the inclement
+weather ------- the low turnout.
+(A) from
+(B) with
+(C) of
+(D) for
+해설|
+동사 의 문형을 알아야 정확히 풀 수 있는 문제로서 을blame ‘~
+비난하다의 뜻으로 쓰일 때는’ [blame for 을 의 탓으로sth], '~ ...
+돌리다의 의미로 쓰일 때는‘ [blame sth on sth/ blame sth/sb
+for 의 패턴을 취한다 따라서 가 답sth] . (D) for .
+어휘|
+회의 설립자 창설자 주최자convention / organizer , , / inclement
+악천후 출석자 수weather / turnout
+번역|
+오타와 컨벤션 주최자들은 낮은 출석률에 해 궂은 날씨를
+탓했다.
+131. The allegations against Johnson & Johnson stem
+from a lawsuit brought by a former employee who claims
+------- was pressured to falsify data to hide
+manufacturing lapses.
+(A) him
+(B) himself
+(C) his
+(D) he
+해설|
+문장의 주어는 동사는 이며 는 앞의allegations, stem from who
+명사 를 수식하는 주격관계 명사로서 뒤에는 동사employee ‘ +
+목적어 구조를 취해야 한다 이때 동사 은’ . claim [claim (that) +
+패턴을 갖기 때문에 이 생략되고 주어 동사가S + V] that +
+이어지는 형태로 파악할 수 있다 따라서 빈칸에는 주어 가. (D) he
+들어가게 된다.
+어휘|
+주장 탄원 진술 에서 기인하다allegation , , / stem from ~ ,
+유래하다 소송 이전의 주장하다/ lawsuit / former / claim ,
+요구하다 압력을 가하다 을 속이다/ pressure / falsify ~ ,
+위조하다 과실 실책/ lapse ,
+번역|
+존슨 존슨 사에 한 탄원서는 제조상의 과실을 숨기기 위해&
+데이터를 위조하라는 압력을 받았다고 주장한 전 직원에 의해
+제기된 소송에서 시작된다.
+132. Though ------- planned to be a partnership rather
+than a takeover, Parthenon's final acquisition of Lancelot
+fits into the entertainment company's plan to include
+animation in its children's programming activities.
+(A) origin
+(B) original
+(C) originally
+(D) originality
+해설|
+과거분사 를 수식하는 부사 가 답 이planeed (C) originally .
+문장은 원래 Though Parthenon's final acquisition of Lancelot
+was originally planned to be ~, Parthenon's final acquisition
+이었으나 종속절의 주어가 주절의 주어와of Lancelot fits into ...
+같아 이를 생략하고 동사도 함께 생략된 분사구문이 적용된be
+문장이다.
+어휘|
+공동경영 경영권 취득 인계partnership / takeover , / acquisition
+인수 에 적합하다 어울리다 애니메이션/ fit into ~ , / animation ,
+동화 제작( )
+번역|
+본래 경영권 취득보다는 공동경영을 하기로 계획하긴 했지만 결국
+파르테논이 란셀럿을 인수한 것은 아이들의 프로그램제작 활동에서
+동화제작을 포함하려는 그 엔터테인먼트 회사에 꼭 들어맞는
+것이다.
+133. A grocery chain in Hong Kong recently quit -------
+hydroponic tomatoes from a large corporate greenhouse
+facility because of the poor quality.
+(A) to purchase
+(B) purchase
+(C) purchasing
+(D) purchaser
+해설|
+멈추다 그만두다 은 동명사를 목적어로 취하는 동사이므로quit( , )
+이 답이 된다(C) purchasing .
+어휘|
+식료품 수경법 물재배 단체의grocery / hydroponic , / corporate ,
+집합적인 온실/ greenhouse
+번역|
+홍콩의 식료품 체인은 최근 낮은 품질로 인해 큰 하우스에서
+재배된 수경 토마토 구매를 중지하기로 했다.
+134. Darrell McGraw, West Virginia's attorney general,
+has been suing in federal court since 1998 to have the
+law ------- unconstitutional.
+(A) declare
+(B) declared
+(C) declaring
+(D) to declare
+해설|
+가 사역동사로 쓰인 형태로 목적어 패턴을have [have + + p.p.]
+취한다 따라서 가 답 뒤에는 가. (B) declared . declared to be
+생략된 형태이다. have the law declared (to be)
+그 법이 위헌으로 선언되다unconstitutional :
+어휘|
+주의 검찰 총장 고소하다 소송을attorney general ( ) / sue ,
+제기하다 연방법원 선언하다/ federal court / declare /
+헌법 위반의 위헌의unconstitutional ,
+번역|
+웨스트 버지니아의 검찰 총장인 데럴 맥그로우는 그 법이 위헌으로
+선언되었던 년 이후로 연방정부에 고소당한 상태이다1998 .
+135. Even in casual offices, many managers expect job
+candidates to show up for interviews in more formal
+------- than they would wear to work.
+(A) attire
+(B) ambivalence
+(C) assembly
+(D) approach
+해설|
+문장을 살펴봤을 때 옷차림과 관련된 얘기를 하고 있으므로 복장‘ ,
+의복의 의미를 갖는 가 답이 됨을 알 수 있다’ (A) attire . (B)
+모순 동요 조립ambivalence - , (C) assembly - (D) approach -
+접근
+어휘|
+평상복의 캐주얼의 격식을 차리지 않는casual , ; / candidate
+지원자 나타나다/ show up
+번역|
+아무리 격식을 차리지 않는 사무실일지라도 많은 매니저들은,
+지원자들이 일할 때 입는 복장보다는 더 갖추어진 복장으로
+인터뷰를 하러 오기를 바란다.
+136. Especially when ------- for a position as a
+Webmaster, the candidate should have at least checked
+out the company's Web site.
+(A) apply
+(B) application
+(C) applying
+(D) applied
+해설|
+분사구문 문제로 이 문장은 원래 'when the candidate applies
+이나 종속절과for a position ~, the candidate should have ...'
+주절의 주어가 로 같아서 종속절의 주어를 생략하고the candidate
+일반동사 를 현재분사로 고친 뒤에 목적어를 받고apply for (
+있으므로 분사구문이 적용된 문장이다 따라서 이) . (C) applying
+답이 된다.
+어휘|
+신청하다 지원하다apply for ,
+번역|
+특히 웹마스터 직을 지원할 경우에 지원자는 최소한 그 회사의,
+웹사이트를 확인해 두는 것이 좋다.
+137. If you've managed to leave a favorable impression,
+build on the good feelings by keeping in touch -------
+former managers and co-workers, who can prove
+valuable career resources.
+(A) on
+(B) for
+(C) over
+(D) with
+해설|
+는 와 연락을 지속하다란 의미의 관용표현keep in touch with ‘~ ’ .
+따라서 가 답이다(D) with .
+어휘|
+그럭저럭 용케 하다 호의적인manage to [ ] ~ / favorable / career
+직업 적인 자원 수단( )/ resource ;
+번역|
+어떻게든 당신이 호의적인 인상을 남겼다면 가치있는 직업상의
+재원이 되는 이전 매니저와 동료와 연락을 지속함으로써 좋은
+느낌을 만들어 가세요.
+138. The publicity director of the publishing house is
+------- an innovative advertising campaign in order to
+increase book sales.
+(A) launching
+(B) raising
+(C) laying
+(D) gathering
+해설|
+주어 와 목적어the publicity director an innovative advertising
+을 논리적으로 연결시켜줄 수 있는 동사는campaign (A)
+착수하다 이다launching( ) .
+어휘|
+홍보담당자 출판사publicity director / publishing house /
+혁신적인innovative
+번역|
+그 출판사의 홍보담당자는 책 판매를 증가시키기 위해 혁신적인
+광고 캠페인을 착수할 것이다.
+139. A spokesperson for the research division announced
+an important ------- in the field of biotechnology.
+(A) restoration
+(B) adherence
+(C) knowledge
+(D) breakthrough
+해설|
+문장 전체의 의미를 고려했을 때 의 수식을 받을 수 있는important
+명사로는 중요한 발견 약진 등을 뜻하는 가‘ , ’ (D) breakthrough
+된다 회복 부활 고수 집착. (A) restoration - , (B) adherence - ,
+지식(C) knowledge -
+어휘|
+변인 생명공학spokesperson / biotechnology
+번역|
+연구 부서의 변인은 생명공학 분야에서의 중요한 발견을
+소개했다.
+140. Before Mr. Blake can be a successful manager, he
+must learn to ------- authority to people working under
+him.
+(A) delineate
+(B) delegate
+(C) delete
+(D) deliberate
+해설|
+주절의 문맥상 또는 와 어울리는 동사는authority (B)
+이다 는 토익에서 주로 을 파견하다란delegate . delegate ‘~ ’
+의미로 자주 출제되지만 권한 등을 위임하다의 뜻으로도 많이‘ ’
+쓰이며 의 패턴을[delegate sth(authority) to sb(to people)]
+취한다 윤곽을 그리다 묘사 서술 하다. (A) delineate - , [ ] (C)
+삭제하다 지우다 숙고하다delete - , (D) deliberate -
+어휘|
+권한authority
+번역|
+블레이크씨는 성공적인 매니저가 되기에 앞서 그 사람 밑에서,
+일하던 사람들에게 권한을 넘겨주는 것을 알아야만 한다.
+141. The French, (A)after dominating European football
+(B)for the last four years, (C)they finished( finished)→
+the tournament (D)with the worst record.
+해설|
+문장의 주어 가 이미 있는데 이를 받는 주어 역할의The French ,
+명사 가 또 나옴으로써 중복이 되고 있다 따라서they . (C) they
+를 를 삭제한 로 고친다finished they finished .
+어휘|
+지배하다 우위를 점하다 토너먼트 승자dominate , / tournament ,
+진출전
+번역|
+프랑스는 지난 년 간 유럽 축구를 점령한 이후 가장 나쁜 기록으로4
+토너먼트를 끝마쳤다.
+142. Effective (A)managers keep (B)employees satisfied
+and morale and productivity high, and (C)saves( save)→
+(D)companies money by minimizing employee stress and
+turnover.
+해설|
+는 과 함께 복수주어 의 동사이므로saves keep managers
+수일치를 시켜야 한다 따라서 를 복수동사 로 고친다. saves save .
+어휘|
+효율적인 유능한 사기 생산성effective , / morale / productivity /
+최소로 하다 이직률minimize / turnover
+번역|
+유능한 매니저들은 직원들에게 만족을 느끼게 해주고 그들의
+사기와 생산성을 높게 유지하며 직원들의 스트레스와 이직률을,
+최소로 함으로써 회사로 하여금 돈을 절약하게 해준다.
+143. Government investigators are (A)looked
+into( looking into)→ whether Enron managers (B)knew
+that the network of partnerships (C)was being (D)used to
+conceal huge debts.
+해설|
+명사절을 이끄는 접속사 가 문장에서 목적어 역할을 하고whether
+있으므로 수동태인 를 능동형으로 바꿔야 한다 이 때looked into .
+앞에 동사 가 있는 것으로 미루어 진행형인 로be are looking into
+고치는 것이 옳다.
+어휘|
+조사관 연구관 을 들여다보다investigator , / look into ~ ,
+조사하다 공동 협력 제휴 숨기다/ partnership , , / conceal ,
+감추다 부채 채무/ debt ,
+번역|
+정부 조사관들은 엔론 매니저들이 공동 연락망이 막 한 부채를
+숨기기 위해 사용되고 있었던 사실을 알고 있었는지를 조사했다.
+144. People were most (A)likely to say an attack in the
+next 12 months (B)would be carried out with a car or truck
+(C)carrying a bomb or with (D)biologically( biological)→
+or chemical weapons.
+해설|
+명사 를 수식하는 형용사가 등위접속사 에 의해weapons or
+연결되는 형태를 취해야 하므로 부사 를 형용사biologically
+로 고친다 이처럼 등위접속사 앞 뒤에는biological . (and, or, but) ,
+같은 문장성분이 와야 한다.
+어휘|
+수행하다 옮기다 짐을 나르다 폭탄carry out / carry , / bomb /
+생물 학 의 화학의 무기biological ( ) / chemical / weapon
+번역|
+아마도 사람들은 앞으로 개월 이내에 폭탄을 실은 차나 트럭12
+또는 생화학 무기로 공격이 이루어질거라고 말하는 것 같다.
+145. At (A)the end of this stage, every team
+(B)members( member)→ (C)should have (D)an
+understanding of what must be accomplished.
+해설|
+한정사 명사 수일치 문제로 뒤에는 단수명사가 와야‘ - ’ every
+하므로 를 로 고친다 단 가 단위나members member . , every
+기준 마다 의 의미로 쓰일 경우에는 뒤에 복수명사도 가능하다(~ ) .
+일요일마다ex. every Sundays( )
+어휘|
+이해 납득understanding ,
+번역|
+이 단계 끝에서 모든 팀 멤버들은 무엇이 달성되야 하는지를,
+이해해야 한다.
+146. When (A)faced with flat revenues and
+(B)declinable( declining)→ profits, business owners
+(C)can respond in a (D)number of ways.
+해설|
+은 문법용어로서 어형 변화가 되는 격변화가 있는을declinable ‘ , ’
+의미하므로 명사 를 적절히 수식할 수 없다 문맥상 기우는profits . ‘ ,
+감소하는을 뜻하는 형용사 으로 고친다’ declinining .
+어휘|
+평평한 단조로운 무일푼의 수입 세입flat , ; / revenue ,
+번역|
+낮은 수입과 감소하는 수익에 직면했을 때 기업가들은 여러 가지
+방법으로 처할 수 있다.
+147. Student organizations (A)that have been allocated
+(B)funds by the FAC (C)must follow certain procedures in
+order to (D)reception( receive)→ reimbursement.
+해설|
+하기 위하여 의 는 부정사의 로서 뒤에는in order to(~ ) to to
+동사원형이 온다 따라서 명사 을 로 고친다. reception receive .
+어휘|
+조직 기관 할당하다 절차organization , / allocate / procedures /
+상환 변제reimbursement ,
+번역|
+의 기금을 할당받았던 학생 조직들은 상환을 받기 위해 특정FAC
+절차를 따라야 한다.
+148. Students who (A)miss tours or classes, or who
+(B)require specialist assistance, (C)may contact
+(D)his( their)→ advisor to arrange individual or group
+sessions.
+해설|
+주어 명사 수일치 문제로서 자리에는 앞의 를‘ - ’ his students
+받는 명사가 와야 하므로 인칭 복수명사를 받을 수 있는 로3 their
+고친다.
+어휘|
+놓치다 도움 원조 학 등의 신입생miss / assistance , /advisor ( )
+지도교수 회의 회기 수업/ session ; ;
+번역|
+관광 또는 수업을 놓치거나 전문가의 도움을 요구하는 학생들은
+개인 또는 그룹 수업을 마련해 달라고 지도 교수에게 연락할 수
+있습니다.
+149. (A)Almost of( Almost all of)→ the companies
+(B)that hire graduates (C)conduct an informal (D)verbal
+test of technical abilities.
+해설|
+는 부사이므로 뒤에 이하의 전치사구가 올 수 없다almost of .
+따라서 그 회사들 중 거의 모두를 뜻하기 위해 또는‘ ’ Almost all of
+로 고친다 은 여러 품사의 기능을 가지고 있는데Almost all . all ,
+에서는 명사로 에서는 뒤에Almost all of , Almost all the
+를 한정해주는 전치 한정사로 쓰인 것이다 이 외에companies ( ) .
+은 부사로도 쓰인다all .
+어휘|
+고용하다 졸자 수행하다hire / graduates / conduct / informal
+비형식적인 구두시험/ verbal test
+번역|
+졸자를 뽑는 회사들 거의 모두가 전문능력의 비형식적인 구두
+시험을 수행한다.
+150. The reality is that wireless data (A)services that
+(B)boost productivity and (C)communication are much
+(D)on demand( in demand)→ .
+해설|
+문맥상 무선데이터서비스의 수요가 많다는 의미로서 가‘ ’ demand
+수요가 많다의 뜻으로 쓰일 때는 전치사 을 취하여‘ ’ in ‘be in
+와 같이 쓰인다 는 수요가 있을 때마다demand’ . on demand ‘ ,
+수요가 있는 즉시의 의미’ .
+어휘|
+현실 성 사실 무선의 돋우다reality ( ), / wireless / boost ,
+증가시키다 생산성 의사소통/ productivity / communication
+번역|
+생산성과 의사소통을 높이는 무선데이터서비스의 수요가 아주 많은
+것이 사실이다.
+151. If you have not heard (A)from employer( from→
+the employer) for some time after the interview, (B)it can
+be a good idea to be in contact (C)with them and ask
+whether they (D)have made some decision.
+해설|
+에서 는 고용주란 의미의from employer employer ‘ ’
+가산명사이다 이 때 가산명사가 단수로 쓰이기 위해서는 반드시.
+앞에 관사가 있어야 하는데 여기서는 특정 고용주를 의미하므로
+정관사 를 삽입한다the .
+어휘|
+얼마간 와 연락을 취하다for some time / be in contact with ~ /
+결정하다make a desion
+번역|
+만일 당신이 면접 이후에 얼마간 고용주로부터 아무 소식도 듣지
+못했다면 그들에게 연락을 해서 어떤 결정이 났는지를 물어보는,
+것이 좋은 방법이 될 수 있다.
+152. Success in today's (A)extreme( extremely)→
+competitive business environment (B)depends on a
+company's (C)ability to adapt continuously and rapidly
+(D)to changing conditions by immediately accessing and
+processing information for driving strategic business
+decisions.
+해설|
+은 문맥상 를 수식하는 것이extreme business environment
+아니라 형용사 를 수식해야 옳다 따라서 형용사를competitive .
+수식하는 부사 로 고친다extremely .
+어휘|
+매우 극히 경쟁의 경쟁적인extremely , / competitive , / depend
+에 의존하다 적응시키다 익숙해지다on ~ / adapt , / continuously
+계속적으로 빠르게 몰고 가다 추진하다/ rapidly / drive ,
+번역|
+오늘날과 같이 극도로 경쟁적인 비즈니스 환경에서의 성공은
+전략적인 경영상의 결정을 추진한데 한 정보를 즉시 입수,
+처리함으로써계속해서 빠르게 상황이 변화하는 것에 회사가
+적응하는 능력에 달려 있다.
+153. (A)Despite( Although)→ many of our
+(B)competitors use reply cards, our research (C)proves
+they actually have a negative effect (D)on response rates.
+해설|
+전치사 뒤에는 절Despite (S(many of our competitors) +
+이 위치해 있으므로 이와 유사한 의미를 갖는 양보접속사V(use))
+로 고친다Although .
+어휘|
+경쟁자 업체 답 응답 답변competitor [ ]/ reply , ; / prove
+증명하다 입증하다 실제로 부정적인, / actually / negative / effect
+효과
+번역|
+우리의 경쟁업체 중 다수가 리플라이 카드를 사용하지만 우리의,
+조사는 그들이 실제로 반응률에 있어 부정적인 영향을 갖는다는
+것을 보여준다.
+154. (A)Depending on your age and the dollar amount,
+most insurance companies will require you (B)to take a
+medical examination (C)prior issuing( prior to→
+issuing) a life insurance policy (D)for you.
+해설|
+가 단독으로 쓰이면 형용사로서 이전의란 뜻인데 형태상prior ‘ ’ ,
+자리에는 전치사가 와야 하므로 로 고친다prior prior to .
+어휘|
+보험회사 건강진단insurance company / medical examination /
+발급하다 생명보험증권issue / life insurance policy
+번역|
+당신의 나이와 돈의 액수에 따라 부분의 보험 회사들은 당신에게
+생명보험증권을 발급하기 전에 건강진단을 받을 것을 요구한다.
+155. The candidate for this position needs to be an
+effective (A)administrator and (B)must be skilled (C)for(→
+in) supervising many (D)employees.
+해설|
+과 어울려 쓰이는 전치사는 이다skill in/at .
+어휘|
+직위 직책 관리자 행정관position , / administrator , / supervise
+감독하다 에 노련한 숙련된/be skilled in ~ ,
+번역|
+이 직책을 위한 지원자는 유능한 관리자가 되어야 하며 많은,
+직원들을 감독하는데 노련해야 한다.
+156. (A)Under the recently adopted (B)budget revisions,
+advertising and other promotional
+(C)spender( spending)→ will be (D)significantly
+decreased.
+해설|
+주어 자리에 있는 를 수식하는 형용사spender (advertising and
+와 서술부other promotional) will be significantly
+를 해석해 봤을 때 사람명사인 의 쓰임이decreased spender
+어색하다 따라서 문맥에 맞게 지출 소비를 뜻하는. ‘ , ’
+으로 고친다spending .
+어휘|
+채택하다 예산 개편adopt / budget revision / promotional
+홍보의 상당히 크게/ significantly ,
+번역|
+최근에 채택된 예산 개편에서 광고 및 기타 홍보비용이 크게
+감소될 것이다.
+157. The president (A)has been very (B)consistent
+of( consistent in)→ his (C)views on global (D)trade
+restrictions.
+해설|
+주의나 방침 등에 변함이 없는 언행이 일치하는을 뜻하는‘ , ’
+는 전치사 과 어울려 쓰인다consistent in .
+어휘|
+견해 전세계의 세계적인view / global , / trade restriction
+무역규제
+번역|
+그 사장은 전 세계의 무역규제에 한 그의 견해에 변함이 없었다.
+158. To carry out its (A)expansion strategy, the shipping
+conglomerate has (B)recruited some capable (C)individuals
+from several of its (D)competitor( competitors)→ .
+해설|
+등과 마찬가지로a number of/a list of/a series of several of
+뒤에는 복수명사가 온다.
+어휘|
+수행하다 선적carry out / shipping / conglomerate
+거 복합기업 채용하다/ recruit /
+번역|
+그 거 선적회사는 팽창전략을 이행하기 위해 여러
+경쟁회사들로부터 몇몇 유능한 사람들을 채용했다.
+159. In retrospect, if we (A)had been a little more flexible
+on the (B)unit price, we probably (C)could have persuaded
+them to (D)sign agreement( sign the agreement)→
+yesterday.
+해설|
+가 합의 협정 하는 상황 을 의미할 경우에는agreement ‘ / ( )’
+불가산명사로서 관사가 필요없으나 협정서 계약서와 같이 문서를‘ , ’
+의미할 때는 가산명사이므로 단수로 쓰이는 경우 관사가 반드시
+필요하다 문맥상 합의서에 서명하다가 되어야 옳기 때문에. ‘ ’
+정관사 를 삽입한다the .
+어휘|
+회상하면 뒤돌아보면 유연한in retrospect , / flexible / unit price
+단가 설득하다/ persuade
+번역|
+뒤돌아보면 우리가 단가에 좀 더 유연한 입장을 취했더라면, ,
+그들이 어제 계약서에 서명하는 것을 설득시킬 수 있었을텐데.
+160. The personnel office's (A)stated policy is that it will
+(B)acknowledgement( acknowledge)→ receipt of all
+applications (C)within two weeks of receiving (D)them.
+해설|
+조동사 뒤에는 동사원형이 온다 따라서 명사will .
+승인 감사 를 동사 을acknowledgement( / ) acknowledge(~
+받았음을 알리다 로 고친다) .
+어휘|
+정해진 일정한 정기의 정식의 명백히 진술된stated , , , , / policy
+정책 방침 수취 수령 영수 증 신청서, / receipt , , ( )/ application
+번역|
+인사과의 정식 방침은 모든 신청서를 받은지 주 내에 수령한2
+사실을 알리는 것이다.

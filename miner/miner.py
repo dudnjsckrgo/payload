@@ -45,6 +45,16 @@ class MinerService:
             print (full_filename)
         return mylist
     @staticmethod
+    def searchfile(miner):
+        dirname = miner.context3
+        filenames = os.listdir(dirname)
+        mylist=[]
+        for filename in filenames:
+            full_filename = filename
+            mylist.append(full_filename)
+            print (full_filename)
+        return mylist
+    @staticmethod
     def saveFile(miner,text,mytype,title):
         
         filename =os.path.join(miner.context4, title + '.'+mytype)
@@ -57,6 +67,7 @@ class MinerService:
                 print(f'{filename} 저장완료!!!!!!!!!!!!')
             except:
                 pass
+    
 if __name__ =="__main__":
     miner= MinerController()
     miner.loop('pdf')

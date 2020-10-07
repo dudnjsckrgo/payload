@@ -1,0 +1,448 @@
+정답 391
+1주 1일
+[문장구조] 주어/동사
+01 주어자리
+01 Registration 02 cost 03 To receive  04 Drinking
+05 strategy 06 competition 07 (C) 08 (A) 09 (A) 10 (C)
+02 동사자리
+01 require 02 should organize 03 purchased
+04 can help 05 (A) 06 (C) 07 (D) 08 (B) 09 (C)
+전치사 어구
+01 in 02 in 03 at 04 from 05 (B) 06 (B) 07 (B) 08 (C) 09 (C)
+알맞은 문장 고르기 문제
+01 (A) 02 (B) 03 (C) 04 (B) 05 (D) 06 (B) 07 (C) 08 (B) 
+09 (D) 10 (C) 11 (D) 12 (B)
+1주 2일
+[문장구조] 목적어/보어/수식어
+01 목적어자리
+01 problem  02 agreement  03 to shop  04 resignation
+05 launching  06 delivery  07 (B)  08 (D)  09 (A)  10 (A)
+02 보어자리
+01 spacious  02 popular  03 transferable  04 applicant
+05 advisable  06 manager  07 (D)  08 (C)  09 (C)  10 (A)
+03 수식어자리
+01 Despite the bad weather  02 without the approval of
+the owner  03 Because of a technical problem
+04 who was in charge of the company’s campaign
+05 seeking refunds  06 to analyze the impact of higher
+interest rates  07 (B)  08 (A)  09 (D)
+형용사 어구
+01 to  02 aware  03 responsible  04 for  05 (B)  06 (B)
+07 (B)  08 (A)  09 (B)
+주제/목적 찾기 문제
+01 (B)  02 (A)  03 (B)  04 (A)  05 (B)  06 (A)  07 (A)  08 (A)  
+09 (B)  10 (C)  11 (B)
+1주 3일
+[품사] 명사
+01 명사자리
+01 security  02 growth  03 profit  04 technician
+05 identification  06 criticism  07 (B)  08 (A)  09 (D)  10 (A)
+02 가산명사와불가산명사
+01 access  02 equipment  03 advice  04 a month
+05 luggage  06 discounts  07 (D)  08 (A)  09 (B)  10 (D)
+03 명사앞의수량표현
+01 candidates  02 Several  03 Some  04 much  05 (A)
+06 (C)  07 (B)  08 (A)  09 (D)
+동사 어구
+01 out  02 of  03 contributed  04 provides  05 (A)  06 (C)
+07 (D)  08 (A)  09 (C)
+육하원칙 문제
+01 (A)  02 (B)  03 (B)  04 (A)  05 (B)  06 (A)  07 (A)  08 (A)
+09 (C)  10 (A)  11 (C)  12 (D)
+1주 4일
+[품사] 대명사
+01 인칭대명사
+01 They  02 his  03 ours  04 us  05 themselves  06 their
+07 (B)  08 (D)  09 (A)  10 (D)
+02 지시대명사
+01 Those  02 this  03 that  04 That  05 those  06 These
+07 (A)  08 (D)  09 (C)  10 (B)
+03 부정대명사
+01 The other  02 other  03 Some  04 another
+05 the others  06 The other  07 (B)  08 (C)  09 (D)  10 (C)
+04 대명사와명사의일치
+01 her  02 their  03 them  04 themselves  05 (B)  06 (D)
+07 (A)  08 (B)  09 (B)
+명사 어구
+01 productivity  02 allowance  03 compliance  04 survey
+05 (B)  06 (A)  07 (A)  08 (C)  09 (B)
+NOT/TRUE 문제
+01 (A)  02 (A)  03 (B)  04 (B)  05 (A)  06 (B)  07 (A)  08 (A)
+09 (C)  10 (A)  11 (B)  12 (B)
+1주 5일
+[품사] 형용사/부사
+01 형용사자리
+01 constructive  02 Successful  03 quick  04 specific
+05 ideal  06 sure  07 (D)  08 (D)  09 (C)  10 (A)
+02 부사자리
+01 usually  02 eventually  03 mistakenly  04 relatively
+05 correctly  06 regularly  07 (D)  08 (A)  09 (D)  10 (B)
+03 혼동하기쉬운형용사/부사
+01 closely  02 reliable  03 Nearly  04 responsible  05 (B)
+06 (A)  07 (B)  08 (C)  09 (B)
+짝을 이루는 표현
+01 demand  02 Prospective  03 highly  04 extended  05 (D)
+06 (B)  07 (A)  08 (C)  09 (C)
+추론 문제
+01 (B)  02 (A)  03 (A)  04 (B)  05 (A)  06 (B)  07 (A)  08 (A)
+09 (C)  10 (A)  11 (C)  12 (D)
+정답 1주
+해커스 토익 스타트 Reading (신토익 Edition)
+392 무료 토익자료·취업정보 제공 Hackers.co.kr
+2주 1일
+[품사] 전치사
+01 전치사자리
+01 pressure  02 regulations  03 suggestion
+04 carelessness  05 pleasure  06 order  07 (C)  08 (D)
+09 (A)  10 (B)
+02 시간전치사
+01 on  02 for  03 by  04 at  05 on  06 in  07 (C)  08 (B)
+09 (B)  10 (D)
+03 장소전치사
+01 on  02 at  03 in  04 in  05 at  06 between  07 (C)
+08 (B)  09 (A)  10 (D)
+04 방향전치사
+01 along  02 out of  03 across  04 through  05 (A)
+06 (C)  07 (D)  08 (C)  09 (C)
+동사 어휘(1)
+01 reviewed  02 developed  03 confirm  04 hire  05 (C)
+06 (B)  07 (C)  08 (D)  09 (D)
+의도 파악 문제
+01 (B)  02 (A)  03 (B)  04 (A)  05 (A)  06 (A)  07 (B)  08 (A)  
+09 (C)  10 (C)  11 (B)  12 (B)
+2주 2일
+[품사] 접속사
+01 등위접속사와상관접속사
+01 or  02 both  03 but  04 but  05 yet  06 or  07 (B)
+08 (B)  09 (A)  10 (C)
+02 종속접속사
+01 because  02 Although  03 which  04 Whether  05 (D)
+06 (B)  07 (C)  08 (B)  09 (B)
+동사 어휘(2)
+01 presented  02 accelerated  03 expect  
+04 accommodate  05 (B)  06 (B)  07 (D)  08 (A)  09 (A)
+문장 위치 문제
+01 (B)  02 (A)  03 (B)  04 (B)  05 (B)  06 (A)  07 (A)  08 (A) 
+09 (B)  10 (B)  11 (C)  12 (D)
+2주 3일
+[동사구] 동사의 형태와 종류
+01 동사의형태
+01 pay  02 provided  03 asking  04 announced
+05 predict  06 attend  07 (B)  08 (D)  09 (C)  10 (B)
+02 자동사와타동사
+01 care for  02 objected  03 approach  04 accompany
+05 (C)  06 (D)  07 (C)  08 (A)  09 (C)
+동사 어휘(3)
+01 represent  02 avoid  03 anticipates  04 obtain  05 (D)
+06 (C)  07 (C)  08 (B)  09 (D)
+동의어 문제
+01 (A)  02 (B)  03 (A)  04 (A)  05 (B)  06 (A)  07 (B)  08 (A)
+09 (B)  10 (C)  11 (B)  12 (D)
+2주 4일
+[동사구] 수일치
+01 단수주어와단수동사의수일치
+01 is  02 has  03 is  04 contains  05 was  06 wants
+07 (B)  08 (D)  09 (A)  10 (A)
+02 복수주어와복수동사의수일치
+01 have  02 instruct  03 were  04 plan  05 provide
+06 are  07 (C)  08 (D)  09 (B)  10 (A)
+03 주의해야할주어와동사의수일치
+01 are  02 refuse  03 has  04 know  05 (C)  06 (D)
+07 (A)  08 (B)  09 (C)
+동사 어휘(4)
+01 affect  02 described  03 changed  04 indicate  05 (A)
+06 (B)  07 (C)  08 (C)  09 (A)
+이메일/편지(E-mail/Letter)
+01 (B)  02 (A)  03 (B)  04 (A)  05 (A)  06 (B)  07 (B)  08 (A)
+09 (B)  10 (C)  11 (D)  12 (A)
+2주 5일
+[동사구] 시제
+01 현재/과거/미래
+01 finished 02 announce 03 will convene 04 went
+05 will leave 06 met 07 (A) 08 (C) 09 (C) 10 (B)
+02 현재진행/과거진행/미래진행
+01 is preparing 02 was attending 03 will be beginning
+04 was working 05 is returning 06 will be making
+07 (D) 08 (D) 09 (C) 10 (C)
+03 현재완료/과거완료/미래완료
+01 will have appointed 02 had already gone
+03 has increased 04 has fallen 05 (B) 06 (D) 07 (D)
+08 (C) 09 (C)
+동사 어휘(5)
+01 considered 02 attract 03 associated 04 contains 05 (D)
+06 (C) 07 (B) 08 (D) 09 (D)
+양식(Form)
+01 (B) 02 (A) 03 (B) 04 (A) 05 (A) 06 (B) 07 (B) 08 (A) 09 (A)
+10 (A) 11 (C) 12 (A) 
+정답 2주
+정답 393
+3주 1일
+[동사구] 능동태와 수동태
+01 능동태와수동태구별
+01 be repaired  02 express  03 paid  04 argue
+05 is interested  06 be revised  07 (C)  08 (C)  09 (B)  10 (B)
+02 수동태의짝표현
+01 to  02 in  03 with  04 pleased  05 (A)  06 (C)  07 (D)
+08 (A)  09 (A)
+명사 어휘(1)
+01 exception  02 feedback  03 complaints  04 feasibility  
+05 (A)  06 (B)  07 (C)  08 (B)  09 (A)
+기사(Article/Review)
+01 (B)  02 (A)  03 (B)  04 (A)  05 (A)  06 (B)  07 (B)  08 (A)
+09 (B)  10 (C)  11 (D)  12 (C)
+3주 2일
+[동사구] 가정법
+01 가정법과거
+01 could reduce  02 would be  03 Were
+04 would continue  05 Were  06 might complete  07 (B)
+08 (C)  09 (D)  10 (A)
+02 가정법과거완료
+01 would have gotten  02 Had  03 had paid
+04 would have gone  05 would have increased 
+06 would have become  07 (D)  08 (A)  09 (C)  10 (D)
+03 가정법미래
+01 will restructure  02 may buy  03 Should  04 can offer
+05 (D)  06 (C)  07 (D)  08 (D)  09 (B)
+명사 어휘(2)
+01 results  02 effort  03 method  04 incentives
+05 (B)  06 (A)  07 (D)  08 (C)  09 (B)
+메시지 대화문(Text Message Chain)
+01 (B)  02 (A)  03 (B)  04 (A)  05 (B)  06 (A)  07 (A)  08 (A)  
+09 (B) 10 (B)  11 (C)  12 (A)
+3주 3일
+[준동사구] to 부정사
+01 to 부정사자리
+01 to gain  02 to attract  03 to open  04 to inquire
+05 to prepare  06 to enhance  07 (B)  08 (C)  09 (A)  10 (D)
+02 to 부정사역할
+01 to invest  02 To update  03 to donate  04 to make
+05 To protect 06 to reschedule 07 (A) 08 (D) 09 (D) 10 (B)
+03 to 부정사를필요로하는동사들
+01 to set  02 to transfer  03 to relocate  04 to lower
+05 (D)  06 (B)  07 (C)  08 (A)  09 (C)
+명사 어휘(3)
+01 expertise  02 profit 03 defect  04 location  05 (B)
+06 (A)  07 (B)  08 (D)  09 (C)
+광고(Advertisement)
+01 (B)  02 (A)  03 (A)  04 (A)  05 (B)  06 (A)  07 (A)  08 (B)
+09 (B)  10 (C)  11 (C)  12 (B)
+3주 4일
+[준동사구] 동명사
+01 동명사자리와역할
+01 producing  02 sleeping  03 confirming  04 Reading
+05 developing  06 joining  07 (D)  08 (A)  09 (C)  10 (A)
+02 동명사를필요로하는동사들
+01 taking  02 using  03 to stop  04 reviewing
+05 exposing  06 talking  07 (D)  08 (C)  09 (B)  10 (C)
+03 동명사를포함하는표현들
+01 contacting  02 trying  03 improving  04 advertising
+05 (A)  06 (D)  07 (C)  08 (D)  09 (A)
+명사 어휘(4)
+01 receipt  02 recognition  03 popularity  04 position
+05 (B)  06 (D)  07 (B)  08 (A)  09 (C)
+공고/안내문(Notice&Announcement/Information)
+01 (B)  02 (A)  03 (A)  04 (B)  05 (B)  06 (A)  07 (A)  08 (B) 
+09 (A)  10 (B)  11 (C)  12 (D) 
+3주 5일
+[준동사구] 분사
+01 분사의자리와역할
+01 located  02 leading  03 decreased  04 trying
+05 motivated  06 inquiring  07 (A)  08 (C)  09 (B)  10 (C)
+02 분사구문
+01 filling  02 Getting  03 faced  04 Damaged  05 Taking
+06 directed  07 (A)  08 (C)  09 (C)  10 (B)
+03 현재분사와과거분사
+01 edited  02 bought  03 agreeing  04 leaving  05 (C)
+06 (B)  07 (C)  08 (B)  09 (B)
+형용사 어휘(1)
+01 differing  02 promising  03 enthusiastic  04 defective 
+05 (D)  06 (D)  07 (B)  08 (C)  09 (D)
+회람(Memo)
+01 (A)  02 (A)  03 (B)  04 (A)  05 (A)  06 (B)  07 (A)  08 (B)
+09 (B)  10 (C)  11 (D)  12 (C)
+정답 3주
+394 무료 토익자료·취업정보 제공 Hackers.co.kr
+4주 1일
+[절] 명사절
+01 명사절자리
+01 That  02 that  03 who  04 Why  05 what  06 that
+07 (D)  08 (B)  09 (B)  10 (D)
+02 명사절접속사
+01 That  02 whether  03 that  04 when  05 (A)  06 (B)
+07 (D)  08 (B)  09 (A)
+형용사 어휘(2)
+01 accurate  02 sincere  03 rapid  04 Specific  05 (C)
+06 (B)  07 (C)  08 (A)  09 (B)
+이메일(편지) 연계 지문
+01 (A)  02 (A)  03 (B)  04 (A)  05 (B)  06 (C)  07 (C)  08 (C) 
+09 (B)  10 (D)  11 (D)  12 (C)  13 (C)  14 (B)  15 (B)  16 (B)
+4주 2일
+[절] 부사절
+01 부사절자리
+01 If  02 before  03 Although  04 if  05 during
+06 because  07 (A)  08 (C)  09 (B)  10 (B)
+02 부사절접속사
+01 if  02 even if  03 because  04 Before  05 (C)  06 (D)
+07 (B)  08 (D)  09 (B)
+형용사 어휘(3)
+01 Previous  02 recent  03 moderate  04 pleasant
+05 (D)  06 (D)  07 (A)  08 (D)  09 (C)
+양식 연계 지문
+01 (A)  02 (B)  03 (B)  04 (A)  05 (A)  06 (C)  07 (C)  08 (C)
+09 (C)  10 (D)  11 (C)  12 (A)  13 (B)  14 (D)  15 (B)
+4주 3일
+[절] 형용사절
+01 형용사절자리
+01 which  02 that  03 who  04 that  05 who  06 that
+07 (A)  08 (D)  09 (B)  10 (C)
+02 관계대명사
+01 which  02 whose  03 which  04 whose  05 (D)  06 (A)
+07 (D)  08 (A)  09 (C)
+부사 어휘(1)
+01 markedly  02 cooperatively  03 considerably
+04 exclusively  05 (D)  06 (C)  07 (B)  08 (C)  09 (C)
+기사 연계 지문
+01 (B)  02 (A)  03 (A)  04 (B)  05 (B)  06 (B)  07 (B)  08 (D)
+09 (C)  10 (B)  11 (B)  12 (C)  13 (D)  14 (B)  15 (D)  16 (B) 
+4주 4일
+[특수구문] 비교 구문
+01 비교급
+01 less  02 much  03 faster  04 safer  05 more
+06 more skillfully  07 (A)  08 (A)  09 (B)  10 (C)
+02 최상급
+01 finest  02 second  03 most  04 widest  05 (B)  06 (C)
+07 (D)  08 (C)  09 (C)
+부사 어휘(2)
+01 temporarily  02 patiently  03 frequently  04 currently
+05 (B)  06 (C)  07 (C)  08 (D)  09 (C)
+광고 연계 지문
+01 (B)  02 (A)  03 (B)  04 (A)  05 (B)  06 (C)  07 (D)  08 (B)
+09 (B)  10 (C)  11 (C)  12 (B)  13 (C)  14 (C)  15 (B)
+4주 5일
+[특수구문] 병치/도치
+01 병치
+01 distribute  02 satisfaction  03 knowledge  04 hiring
+05 to simplify  06 accurate  07 (C)  08 (B)  09 (B)  10 (A)
+02 도치
+01 Rarely  02 have  03 predict  04 has  05 (B)  06 (D)
+07 (A)  08 (B)  09 (C)
+부사 어휘(3)
+01 regularly  02 carefully  03 dramatically  04 reasonably
+05 (B)  06 (D)  07 (C)  08 (B)  09 (B)
+공고 연계 지문
+01 (B)  02 (A)  03 (B)  04 (A)  05 (B)  06 (A)  07 (A)  08 (D)
+09 (B)  10 (A)  11 (B)  12 (B)  13 (C)  14 (A)  15 (A)  16 (D) 
+정답 4주
+� 해커스 토익 스타트 Reading 
+신(新)토익 실전모의고사   
+PART  5 �
+101 (C) 102 (A) 103 (D) 104 (D) 105 (A)
+106 (B) 107 (C) 108 (C) 109 (D) 110 (D)
+111 (A) 112 (D) 113 (B) 114 (B) 115 (C)
+116 (C) 117 (C) 118 (B) 119 (A) 120 (C)
+121 (A) 122 (D) 123 (B) 124 (B) 125 (B)
+126 (D) 127 (A) 128 (D) 129 (B) 130 (A)
+PART  6 �
+131 (A) 132 (D) 133 (B) 134 (B) 135 (C)
+136 (D) 137 (A) 138 (D) 139 (D) 140 (D)
+141 (B) 142 (C) 143 (C) 144 (B) 145 (A)
+146 (D)
+PART  7 �
+147 (D) 148 (C) 149 (B) 150 (A) 151 (B)
+152 (B) 153 (B) 154 (D) 155 (D) 156 (C)
+157 (B) 158 (C) 159 (B) 160 (A) 161 (C)
+162 (B) 163 (B) 164 (C) 165 (B) 166 (B)
+167 (B) 168 (C) 169 (C) 170 (A) 171 (C)
+172 (B) 173 (B) 174 (C) 175 (D) 176 (C)
+177 (B) 178 (D) 179 (B) 180 (D) 181 (A)
+182 (C) 183 (B) 184 (D) 185 (C) 186 (B)
+187 (C) 188 (C) 189 (A) 190 (A) 191 (B)
+192 (C) 193 (B) 194 (D) 195 (C) 196 (B)
+197 (A) 198 (B) 199 (A) 200 (D)
+공통 입문 중급 정규 실전
+14년 연속 베스트셀러 1위
+해커스토익 교재
+▲ 무료 혜택
+해커스 무료 학습자료 
+해커스 토익 총 27종 누적 출고량 기준(2007년~2018년 3월) 
+교보문고 종합 베스트셀러 토익/토플 분야 1위(2005~2018 연간 베스트셀러)
+해커스 토익 레벨별/점수대별 교재 추천 
+14년간 토익 교재 1,400만 부 돌파! 1등 해커스 교재로 ‘최단기 토익 졸업’ 현실이 됩니다.
+해커스 토익
+중급 리스닝
+해커스 토익
+700+ [LC+RC]
+해커스 토익
+기출 보카
+해커스 토익
+스타트 리딩
+해커스 토익
+스타트 리스닝
+해커스 토익
+중급 리딩
+문법&파트서
+그래머
+게이트웨이
+인터미디엇
+그래머
+게이트웨이
+베이직
+Light Version
+해커스
+그래머 스타트
+스타토익
+필수문법 공식
+Part 5&6
+해커스 토익
+Part 7
+집중공략 777
+해커스 토익
+실전 LC+RC
+해커스 토익
+리딩
+해커스 토익
+리스닝
+해커스 토익
+실전 1000제 1 리딩/리스닝
+(문제집+해설집)
+해커스 토익
+실전 1000제 2 리딩/리스닝
+(문제집+해설집)
+해커스 토익
+실전 1000제 3 리딩/리스닝
+(문제집+해설집)
+해커스인강
+가장 빠른 고득점이 가능한 토익스피킹 인강 1위 해커스인강
+네이버 카페 [토익캠프] 회원 대상 '가장 빠른 고득점이 가능한 토익스피킹 인강' 설문조사(2016.09.27/142명 참여)
+상담 및 문의전화
+해커스인강 02.537.5000
+HackersIngang.com
+첫토익 0원 프리패스 자세히 보기 ▶
+첫토익
+프리패스
+* 제세공과금 본인 부담,
+수강기간 내 성적표 제출 필수
+누구나 첫토익
+700점+ 달성!
+첫토익, 단 한 번으로
+끝낼 수 있습니다.
+스타트RC/LC or 700+(LC+RC)
+교재 무료제공!
+토익교재 0원
+출석하면
+100% 현금환급!
+토익수강료 0원
+목표점수 미달성 시,
+수강기간 100일 연장!
+수강기간 연장 0원
+* 환급 시 교재비 제외
+* 제세공과금 본인 부담, 수강기간 내 성적표 제출 필수
+* 수강기간 내 성적표 제출 필수
+토익 중급
+LC 원정의
+토익 기본
+LC 한나
+해커스 인강
+토익
+[인강] 첫토익 0원반
+[어학원] 입문반

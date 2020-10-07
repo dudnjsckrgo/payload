@@ -1,0 +1,322 @@
+과거형 Modal
+Modal Verbs
+대전제 : 과거형 Modal (could, might, would, should, had better) 은 형태는 과거형이지
+만 과거 시점을 가리키지 않는다. (형태와 시점은 일치하지 않는다.) 과거형이 현재 혹은 미래
+를 가리키는 것이 대부분이다.
+Description Negative
+Ability
+능력
+can
+could는 과거의 ‘일반적’
+능력
+can’t
+Permission
+허가
+can, could (more polite)
+may (very formal)
+<Prohibition>
+can’t, must not (formal)
+Request
+요청
+can, will, could, would
+(more polite)
+Offer
+Suggestion
+제안
+Shall I(We) /
+Will(=Would) you
+Description Negative
+Prediction
+미래 예측
+will won’t
+Certainty
+확실
+It is certain
+must
+과거는 must have p.p
+can’t = couldn’t > must 
+not
+과거는 can’t/couldn’t 
+have p.p
+Probability
+높은 가능성
+should = ought to
+과거는 should/ought to
+have p.p
+Possibility
+가능성
+It is possible
+may (not), might (not)
+can, could
+과거는 may/might/could
+have p.p 
+Certainty, Probability, Possibility 는 화자의 확신 정도 (degree of certainty)를 나타낸다.
+may, might 와 may not, might not 의 실질적 차이는 없으나 can’t 와 couldn’t 의 경우
+는 가능성이 거의 0% 까지 내려간다.
+사실 = He is at home. - 100%
+He must be at home. - 객관적 95% 
+can = could = may = might  - 45 ~ 50%
+may not = might not  
+must not          -   5%
+can not couldn’t   -  1%
+사실 = He is not at home. - 0%
+Description Negative
+Obligation
+의무
+Requirement
+요구
+must (formal writing)
+have to
+(informal writing, speech)
+have got to
+(informal speech)
+과거는 모두 had to
+<Lack of necessity>
+don’t have to
+Desirability
+Advice
+조언
+could, might < should
+= ought to < had better
+과거는 should/ought to 
+have p.p
+should not
+1. May, Might
+Might 는 may 의 과거형이지만 주절에서는 과거의 의미로 쓰이지 않는다.
+Might 가 과거의 의미로 쓰이는 예외는 말이나 생각을 전하는 종속절의 시제일치의 목적으로 
+쓰이는 경우 밖에 없다.
+가. 허가 – 일반적으로 may, can, could를 쓰며 might를 잘 사용하지 않는다.
+Might I come in? - Yes, you may.
+허가의 경우 have permission to , be allowed to 의미 이다. formal 한 표현으로 can, 
+could 보다 더 쓰인다. 평서문이건 의문문 이건 긍정문에 주로 쓴다.
+He may go today. - He was allowed to go yesterday.
+Everyone will be allowed to go there someday.
+2. May 의 부정
+can not, must not을 가장 많이 쓰며, may not 도 사용한다.
+A: May I open the window? - 
+B1: (Yes,) certainly.  = (Yes,) of course. = Sure.
+B2: No, you can not open the window.
+3. 실제 영어에서는 허가를 구할 때 Do you mind if I 현재형? 과 Would you mind if I 
+과거형? 을 사용한다. 
+A: Would you mind if I opened the window?   - Type 2
+Do you mind if I open the window? - Type 1
+B1: No. = (No,) not at all. = Of course not.
+= No, that would be fine. (허락할 때)
+B2: Actually I would. = I’m afraid I would.
+= As a matter of fact, I would. = I’d rather you didn’t.
+(허락하지 않을 때)
+나. 가능성 – May 의 유사어 might, can, could. 
+뜻은 be perhaps likely to, maybe, probably 현재 혹은 미래에 다 쓰인다.
+가능성 정도는 45 ~ 50% 정도
+부정문 may not과 might not 은 초점은 다르지만 결과적 정황은 같다.
+ex) Don’t go any closer – It may(=might) be dangerous.
+= it may(=might) not be safe.
+It may(=might) rain tomorrow.
+She may(=might) not know that you are here.
+May 의 과거는 May have p.p 이고, Might 의 과거는 Might have p.p 이다.
+ex) The rain might have stopped by now.
+(= Probably the rain stopped.)
+May have p.p 는 한 종류지만 might have p.p 는 두 종류가 있다.
+May have p.p 와 같이 쓰인 might have p.p 는 가능성이 50% 이지만, conditional type3
+에서 사용된 might have p.p 는 가능성이 0% 이다.
+ex) The explosion may(=might) have been caused by a faulty electrical connection. 
+- 과거 (50%)
+We should have taken the other road. It might have been quicker.
+(= If we had taken the other road, it might have been quicker.)  - 0% (Type3)
+That car nearly hit me; I might have been killed! - 0%
+다. 기원, 소원 = very formal
+ex) May God bless you (= I hope God will bless you.)
+May you have a long and fruitful marriage.
+라. 기타 may 가 쓰는 구문
+1. may well (=might well) 
+= be very likely to 
+ex) She may well not want to travel alone.
+= It is unlikely that she wants to travel alone.
+2. may (just) as well (=might (just) as well)
+= there is nothing better to do, have no strong reason not to 
+may as well R1 as R2 = R2 하느니 R1도 못할 것도 없다. (=R2가 하기 싫다.)
+ex) For the little extra it’ll cost, we may(=might) just as well stay for another night.
+You may(=might) as well be hanged for a sheep as for a lamb. (UK proverb)
+You may(=might) as well hunt for a fish in the sands as try to start in business 
+without a capital.
+ex) I’d rather have a beer than a soft drink.
+3. may ~, but.
+ex) You may think you’re clever, but you are just an asshole.
+= Although you think you’re clever, you are just an asshole.
+4. so that ~ may 
+ex) The king has ordered a festival so that his son may select a bride.
+Can, Could
+could 는 능력 can 일 경우에만 can 의 과거일 뿐 다른 모든 경우에서는 can 과 could 가 
+같다. 
+1. 능력 Ability 
+가. 뜻은 be able to의 뜻이다.
+나. could 가 주절에서 과거의 의미로 쓰이는 유일한 경우이다.
+다. 감각과 인식 동사 sense, notice, recognize와 같이 쓰이는 경우가 많다.
+라. can 의 미래는 will be able to 이다.
+2. can 의 과거는 could 이지만, could 는 과거의 일반적 능력을 말하는 것이다. 과거의 특
+정한 사건에서의 특정한 능력 발휘에서는 could를 쓰면 안 되며 was able to, manage to, 
+succeeded in –ing 등을 사용해서 modal verb를 사용하지 않는다.
+하지만 couldn’t 는 wasn’t able to 와 같은 것으로 일반적, 특정한 경우에 모두 사용할 수 
+있다.
+ex) She could swim when she was 4 years ago.
+She could finally pass the test. (x)
+She managed to pass the test. = She finally passed the test.
+She couldn’t(=wasn’t able to) find her Mr.Right.
+Kim was an excellent tennis player.
+He could beat anybody.
+Kim and Bill played tennis, Bill played very well, but in the end Kim was able to 
+beat hum.
+Bill played well, but he wasn’t able to (=couldn’t) beat Kim.
+3. 허가의 can
+가. can 대신에 could, may를 사용할 수 있다.
+나. 긍정문, 부정문, 의문문 모든 경우에 쓰인다.
+다. 허가를 구할 때 could, can을 다 쓸 수 있으나, could 가 더 정중 하고 허가를 해 줄 경
+우에는 can 만을 사용한다.
+ex) You can go now <=> You can’t leave till six.
+A: Could(=Can) I borrow your car?
+B: Yes, you can. / No, I’m afraid you can’t.
+4. 요청, 부탁
+can you, could you, would you
+ex) A: Could(=Can) you lend me some money?
+B1: Yes, I’d be glad to. = Yes, I’d be happy to. = Certainly.
+= Sure. - 상대방의 의도가 실현된다.
+B2: I’d like to but.....
+5. 가능성
+2번과 같으며, 다만 차이가 나는 것은 긍정문과 부정문의 뜻이 다르다.
+can, could = ~ 일 수도 있다. can’t, couldn’t = ~ 일리 없다.
+This new drug can(=could) be an important step in the fight against cancer.
+A: He says he is still reading The Old Man and the Sea.
+B: He can’t (=couldn’t) be still reading it. I gave it to him ages ago and it’s 
+quire a short book.
+6. 기타
+can’t 는 불가능성을 표현함으로, 놀라움을 표현한다.
+ex) You can’t be serious!
+They can’t have left without me!
+Who can it be now? Who can it be knocking at my door? (Men at work)
+7. Can’t have p.p 는 한 종류 이지만, could have p.p 와 couldn’t have p.p 는 두 종류
+가 있다. 확인되지 않은 과거 사실의 단순 추측과 이미 과거 사실을 확인하고 있는, 과거 사
+실의 반대를 표현하는 conditional type3 가 있다.
+ex) A: Where’s my bag?
+B: You could have left your bag in the store. - 단순 추측 (50%)
+The situation was bad, but it could have been worse.   - 0% = type3
+Thanks to everyone, I couldn’t have done it without you.
+다음 두 문장의 차이를 구별하라.
+He could have stopped the train. But he didn’t want to.     - type3
+He was able to stop the train.
+8. 제안의 could
+should 보다 약하다. ~하실 수도 있어요. can 은 못 쓰인다. might를 쓸 수 있다.
+다른 대안이 있는 경우에는 should 나 had better 에 비해 강도가 강하다. 긍정문에만 쓰인
+다.
+ex) We could go for a drink after work tomorrow, if you like.
+You could always ask me. Or you could call maintenance.
+9. 기타 
+can 이 쓰이는 구문. 능력, 가능의 뜻
+1. can afford to R / N  ~할 여유가 있다. (money, time) 
+2. can not but R = can not help but R = can not choose but R = can not help –
+ing 
+3. can not ~ too / can not ~ enough
+ex) We cannot praise him too much. - 아무리 칭찬해도 지나침이 없다.
+I cannot thank you enough. - 매우 감사하다. 
+= How can I ever thank you.
+= Thanks a million.
+= I appreciate it.
+4. can not ~ without
+ex) I cannot see you without being reminded of my mother.
+= I never see you but I am reminded of my mother.
+= Whenever I see you, I am reminded of my mother. 
+It never rains but(=without) it pours.
+Must 
+가. must 는 과거형이 없다. 
+나. 뜻은 의무, 필요, 명령 = ~ 해야 한다. 
+다. have to 와 have got to 는 비슷하다.
+라. 법, 규칙, 통지문, 게시판 등 매우 공식적인 글에 쓰인다. 일반적인 글과 일상적인 회화, 
+informal writing, speech에 have to를 주로 사용한다.
+마. must를 회화에 사용하는 경우 이때 미국인 들은 영국적인 표현 혹은 지나치게 격식을 차
+린 표현으로 생각하던가, 긴급성 또는 권력 지휘가 높은 사람임을 표시한다.
+바. 과거는 had to, 미래는 will have to, 부정은 don’t have to, don’t need to를 사용한
+다. must not 은 형식적인 금지이다.
+ex) don’t have to Vs. must not
+You don’t have to light a match : I can see well enough.
+You must not light a match : the room is full of gas.
+사. 의문문의 경우도 have to를 사용한다. Do I have to, Does she have to, Shall I have 
+to , Did I have to.
+ex) A: Does she have to do her homework right now?
+B1: Yes, she does. (=have to, must)
+B2: No, she doesn’t (have to.)
+1. 확신 (~임에 틀림없다. 확인되지는 않았지만 확신할 수 있다는 mood를 표현
+ex)
+You must be joking.
+He must be tired after a long journey. 
+They haven’t lived here very long. They must not know many people.
+ex)
+The prisoner must have fled this way, for here are his footprints.
+must have p.p 는 확신으로만 쓰인다. conditional type3 로 사용되지는 않는다.
+Need
+가. 미국영어에서는 주로 본동사로 쓰인다. 영국영어에서는 긍정문은 일반 동사처럼, 부정문과 
+의문문은 modal처럼 쓴다. 미국영어에서는 need to 보다는 have to를 좋아한다. don’t 
+need to << don’t have to 
+조동사로 쓰인다는 의미는? 본동사로 쓰인다는 의미는?
+일치(S-V) need ~ need(s) ~
+R인가 to R인가? need R need(s) to R 
+부정문은? need not R
+don’t need to R
+doesn’t need to R
+의문문은? need S R
+do S need to R
+does S need to R
+미국 영국
+긍정문 need (s) to R
+부정문
+don’t need to R
+doesn’t need to R
+need not R
+need not R
+의문문
+do S need to R
+does S need to R
+need S R
+나. 현재형의 부정문일 경우 don’t need to R / need not to R 
+다. 과거형의 부정문일 경우 
+didn’t need not R ~할 필요가 없었다. (했다 or 안했다)    
+need not have p.p ~할 필요가 없었는데 (했다.) <-> should have p.p – type3
+다음 두 문장의 차이를 구별하라.
+She needn’t have watered the flowers, for it is going to rain.
+She didn’t need(=have) to water the flowers, for it was going to rain.
+I needn’t have put on my raincoat. (=but I did.)
+I didn’t need to put on my rain coat.
+(= so I didn’t or but I did.)
+1. You need not have carried all the parcels yourself. The shop would have 
+delivered them if you had asked them.
+2. Everyone told me that he understood Latin. So I didn’t need to translate it for 
+him.
+3. You need not have written such a long essay. The teacher only asked for 300 
+words, but you have written 600.
+4. I didn’t need to cut the grass myself. For I knew the gardener had done it.
+used to 
+used to 는 과거형만 있고, 과거의 뜻만 있다. 뜻은 과거에는 그랬는데 지금은 더 이상 아니
+다.
+1. 부정문 의문문 형태보다는 주로 긍정문 평서문에 쓰인다.
+2. 부정문 의문문이 필요할 경우는 used to를 버리고 단순 과거형으로 쓰는 것이 좋다.
+ex) He used to be ~ 
+He didn’t use to be ~
+He didn’t used to be ~
+he used not to be ~
+보다는 He wasn’t ~ 를 사용한다.
+ex) He used to do ~
+Did he use to do ~ 
+Did he used to do ~
+Used he to do ~
+보다는 Did he do ~를 사용한다.
+ex) You did not play the piano when you were young.
+= You didn’t use to play the piano when you were young.
+Did you play the piano when you were young?
+= Did you used to play the piano when you were young?
+3. Used to 와 would 의 차이
+가. 과거의 습관적 동작에 쓰일 때 used to 와 would 는 뜻 차이는 없다. 하지만 would 는 
+문장의 맨 앞에 쓰일 수 없다.
+나. used to 는 상태동사 및 동작동사와 결합 할 수 있지만 would 는 동작동사와만 쓰인다. 
+다시 말해 would 는 과거의 습관적 동작을 말한다.
+ex) we used to work in the same office and we would have coffee together.
+ex) Mary used to have very short hair when she was teenager.
+There used to be a big tree near the pond. - would를 쓰면 안 된다.
+ex) She is / was used to studying alone in his room.    ~에 익숙하다.

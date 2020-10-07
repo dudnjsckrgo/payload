@@ -1,0 +1,1404 @@
+GRAMMAR 
+Hackers Practice
+무료 해설
+22
+저작권자의 동의 없이 본 해커스 한 권으로 끝내는 토익 700+ 을 복제•전송•배포하는 등의 행위를 금합니다.저작권자의 동의 없이 본 해커스 한 권으로 끝내는 토익 700+ 을 복제•전송•배포하는 등의 행위를 금합니다.
+Grammar 해설
+문장 성분 - 1DAY 02
+Course 1   주어·동사
+HACKERS PRACTICE 정답
+01 ⓐ [토익 포인트 1]  02 ⓑ [토익 포인트 2] 
+03 ⓑ [토익 포인트 3]  04 ⓑ [토익 포인트 1] 
+05 ⓐ [토익 포인트 3]  06 ⓑ [토익 포인트 2] 
+07 ⓐ [토익 포인트 1]  08 ⓐ [토익 포인트 4] 
+09 to verify → verify [토익 포인트 4] 
+10 contacting → contact [토익 포인트 3] 
+11 any → it [토익 포인트 2] 
+12 reserved → reserve [토익 포인트 3] 
+13 This → It [토익 포인트 2] 
+14 Find → Finding [토익 포인트 1] 
+15 accumulation → accumulate [토익 포인트 3] 
+16 permission → permit [토익 포인트 3] 
+HACKERS PRACTICE 해설
+01	 문장에	동사(will	review)만	있고	주어가	없으므로	주어	자리에	올	수	있는	명사	
+ⓐ	manager가	정답입니다.	동사	ⓑ	manage는	주어	자리에	올	수	없습니다.
+02	 ‘인사	부서가	새로운	직원	매뉴얼을	개발하는	것이	권장되었다’라는	문장의	
+의미를	통해	it이	가짜주어이고	뒤의	that절이	진짜주어임을	알	수	있습니다.	
+따라서	가짜주어	역할을	하는	ⓑ	 It이	정답입니다.	인칭대명사	ⓐ	 They는	
+가짜주어	역할을	할	수	없습니다.
+03	 문장에	주어(Mr.	 Thompson)만	있고	동사가	없으므로	동사	ⓑ	decide가	
+정답입니다.	to	부정사	ⓐ	to	decide는	동사	자리에	올	수	없습니다.
+04	 문장에	동사(will	make)만	있고	주어가	없으므로	주어	자리에	올	수	있는	동명사	
+ⓑ	 increasing이	정답입니다.	부사	ⓐ	 increasingly는	주어	자리에	올	수	
+없습니다.
+05	 문장에	주어(client)만	있고	동사가	없으므로	동사	accept의	3인칭	단수형	ⓐ	
+accepts가	정답입니다.	동명사	또는	분사	ⓑ	accepting은	동사	자리에	올	수	
+없습니다.
+06	 ‘모든	관리자들이	직원	수행평가를	하는	것은	필수다’라는	문장의	의미를	통해	it
+이	가짜주어이고	뒤의	that절이	진짜주어임을	알	수	있습니다.	따라서	가짜주어	
+역할을	하는	ⓑ	It이	정답입니다.	인칭대명사	ⓐ	He는	가짜주어	역할을	할	수	
+없습니다.
+07	 문장에	동사(is)만	 있고	주어가	없으므로	주어	자리에	올	수	있는	명사(to	
+부정사구)	ⓐ	To	install이	정답입니다.	동사	ⓑ	Install은	주어	자리에	올	수	
+없습니다.
+08	 이	 문장은	 주어	 없이	 동사원형으로	 시작되는	 명령문이므로	 동사원형	 ⓐ	
+Register가	정답입니다.	동명사	또는	분사	ⓑ	Registering은	명령문의	동사	
+자리에	올	수	없습니다.
+09	 이	문장은	주어	없이	동사원형으로	시작되는	명령문이므로	to	부정사	to	verify가	
+아니라	동사원형	verify가	와야	합니다.
+10	 문장에	주어(Guests)만	있고	동사가	없으며,	앞에	조동사	should가	있으므로	
+동명사	또는	분사	contacting이	아니라	동사원형	contact가	와야	합니다.
+11	 ‘올해	석유	가격이	상승할	수도	있다’라는	문장의	의미를	통해	it이	가짜주어이고	
+뒤의	that절이	진짜	주어임을	알	수	있습니다.	한정사	any가	아니라	가짜주어	it
+이	와야	합니다.
+12	 문장에	 주어(Ms.	 Hemwood)만	 있고	 동사가	 없으며,	 앞에	 조동사	 can
+이	있으므로	과거형	또는	분사	reserved가	아니라	동사원형	reserve가	와야	
+합니다.
+13	 ‘Grove로를	 이용하는	 것은	 너무	 위험했다’라는	 문장의	 의미를	 통해	 it이	
+가짜주어이고	뒤의	to	부정사(to	use	Grove	Road)가	진짜주어임을	알	수	
+있으므로	대명사	This가	아니라	가짜주어	it이	와야	합니다.
+14	 문장에	동사(is)만	있고	주어가	없으므로	동사	Find가	아니라	주어	자리에	올	수	
+있는	동명사	Finding이	와야	합니다.
+15	 문장에	주어(Customers)만	있고	동사가	없으며,	앞에	조동사	can이	있으므로	
+명사	accumulation이	아니라	동사원형	accumulate가	와야	합니다.
+16	 문장에	주어	(Employee	badges)만	있고	동사가	없으므로	명사	permission이	
+아니라	동사	permit가	와야	합니다.
+33
+저작권자의 동의 없이 본 해커스 한 권으로 끝내는 토익 700+ 을 복제•전송•배포하는 등의 행위를 금합니다.저작권자의 동의 없이 본 해커스 한 권으로 끝내는 토익 700+ 을 복제•전송•배포하는 등의 행위를 금합니다.
+Grammar 해설
+문장 성분 - 2DAY 02
+Course 2   목적어·보어·수식어
+HACKERS PRACTICE 정답
+01 ⓐ [토익 포인트 1]  02 ⓑ [토익 포인트 1] 
+03 ⓐ [토익 포인트 2]  04 ⓑ [토익 포인트 3] 
+05 ⓐ [토익 포인트 2]  06 ⓐ [토익 포인트 4] 
+07 ⓐ [토익 포인트 1]  08 ⓐ [토익 포인트 3] 
+09 expensively → expensive [토익 포인트 2] 
+10 receive → to receive [토익 포인트 1] 
+11 promise → promising [토익 포인트 3] 
+12 interest → interested [토익 포인트 4] 
+13 sessional → sessions [토익 포인트 1] 
+14 profitable → profit [토익 포인트 1] 
+15 beneficial → benefit [토익 포인트 3] 
+16 diligent → diligence [토익 포인트 3] 
+HACKERS PRACTICE 해설
+01	 동사(refer	to)의	목적어	자리에	올	수	있는	것은	명사이므로	명사	ⓐ	notes가	정
+답입니다.	과거형	또는	분사	ⓑ	noted는	목적어	자리에	올	수	없습니다.
+02	 동사(shipped)의	 목적어	 자리에	 올	 수	 있는	 것은	 명사이므로	 명사	 ⓑ	
+distributors가	정답입니다.	동사원형	ⓐ	distribute는	목적어	자리에	올	수	
+없습니다.
+03	 be동사(is)	다음의	보어	자리에	올	수	있는	것은	명사	또는	형용사이므로	명사	ⓐ	
+professional이	정답입니다.	동사	ⓑ	profess는	보어	자리에	올	수	없습니다.	
+04	 ‘Pearson	박물관	방문이	권할	만하다’라는	의미로	괄호	안의	보어가	주어(A	visit)
+를	설명해주고	있으므로	형용사	ⓑ	advisable이	정답입니다.	명사	ⓐ	advice는	
+주어와	동격	관계가	되어	‘Pearson	박물관	방문은	조언이다’라는	어색한	문맥을	
+만들기	때문에	답이	될	수	없습니다.
+05	 be동사(are)	다음의	보어	자리에	올	수	있는	것은	명사	또는	형용사이므로	
+형용사	ⓐ	thorough가	정답입니다.	부사	ⓑ	thoroughly는	보어	자리에	올	수	
+없습니다.
+06	 이	문장은	주어(Evening	staff)와	동사(may	leave)를	갖춘	완전한	절이므로		
+(				)	the	kitchen	has	been	cleaned는	수식어	거품으로	보아야	합니다.	이	
+수식어	거품은	동사(has	been	cleaned)가	있는	거품절이므로	거품절을	이끌	
+수	있는	부사절	접속사	ⓐ	once가	정답입니다.	전치사	ⓑ	in은	거품절이	아닌	
+거품구를	이끕니다.	
+07	 be동사(be)	다음의	보어	자리에	올	수	있는	것은	명사이므로	명사	ⓐ	speaker
+가	정답입니다.	동사	ⓑ	speak는	보어	자리에	올	수	없습니다.
+08	 ‘루이지애나로	이전해야	하는	것은	새로운	변화였다’는	의미로	괄호	안의	보어가	
+주어(Having	to	relocate	 to	Louisiana)와	동격	관계를	이루므로	명사	ⓐ	
+adjustment가	정답입니다.	
+09	 be동사(be)	다음의	보어	자리에	올	수	있는	것은	명사	또는	형용사이므로	부사	
+expensively가	아니라	형용사	expensive가	와야	합니다.
+10	 동사(expects)의	목적어	자리에	올	수	있는	것은	 to	부정사구이므로	동사	
+receive가	아니라	to	부정사	to	receive가	와야	합니다.
+11	 ‘이길	가능성은	전망이	좋다’라는	의미로	밑줄	친	보어가	주어(chances	 of	
+winning)를	설명해주고	있으므로	동사	promise가	아니라	형용사	promising
+이	와야	합니다.
+12	 이	문장은	주어(All	staff)와	동사(can	sign	up)를	갖춘	완전한	절이므로	(				)	
+in	 taking	professional	development	classes는	수식어	거품으로	보아야	
+합니다.	따라서	명사	또는	동사원형	interest가	아니라	수식어	거품을	이끌	수	
+있는	분사구문	interested가	와야	합니다.
+13	 동사(offers)의	목적어	자리에	올	수	있는	것은	명사구이므로	형용사	sessional
+이	아니라	session의	복수형인	sessions가	와야	합니다.
+14	 동사(is	 making)의	 목적어	 자리에	 올	 수	 있는	 것은	 명사이므로	 형용사	
+profitable이	아니라	명사	profit가	와야	합니다.
+15	 ‘야외에서	먹을	수	있는	것은	이점이다’라는	의미로	밑줄	친	보어가	주어(Being	
+able	to	eat	outdoors)와	동격	관계를	이루므로	형용사	beneficial이	아니라	
+명사	benefit이	와야	합니다.
+16	 ‘중요한	 자질은	 성실함이다’라는	 의미로	 밑줄	 친	 보어가	 주어(The	 most	
+important	quality)와	동격	관계를	이루므로	형용사	diligent가	아니라	명사	
+diligence가	와야	합니다.	
+44
+저작권자의 동의 없이 본 해커스 한 권으로 끝내는 토익 700+ 을 복제•전송•배포하는 등의 행위를 금합니다.저작권자의 동의 없이 본 해커스 한 권으로 끝내는 토익 700+ 을 복제•전송•배포하는 등의 행위를 금합니다.
+Grammar 해설
+동사 1 - 1DAY 03
+Course 1   동사의 형태와 종류
+HACKERS PRACTICE 정답
+01 ⓐ [토익 포인트 1]  02 ⓐ [토익 포인트 2] 
+03 ⓑ [토익 포인트 2]  04 ⓑ [토익 포인트 4] 
+05 ⓑ [토익 포인트 3]  06 ⓑ [토익 포인트 2] 
+07 ⓐ [토익 포인트 4]  08 ⓑ [Day02, Course 1, 토익 포인트 1] 
+09 To notify → Notify [Day02, Course 1, 토익 포인트 4] 
+10 study → studying [토익 포인트 2] 
+11 completion → completed [Day02, Course 1, 토익 포인트 3] 
+12 deliver → delivered [토익 포인트 2] 
+13 talked → talked about [토익 포인트 3] 
+14 Inspirational → Inspiration [Day02, Course 1, 토익 포인트 1] 
+15 lead → led [토익 포인트 2] 
+16 practicing → practice [토익 포인트 1] 
+HACKERS PRACTICE 해설
+01	 조동사(will)	다음에는	동사원형이	와야	하므로	동사원형	ⓐ	receive가	정답입니
+다.	과거형	또는	분사	ⓑ	received는	조동사	다음에	올	수	없습니다.
+02	 빈칸	 앞에	 have동사(has)가	 있으므로	 have동사와	 함께	 완료형(have	 +	
+p.p.)을	만드는	동사	promote의	p.p형	ⓐ	promoted가	정답입니다.	‘태블릿	
+컴퓨터를	홍보해왔다’라는	의미로	have동사	뒤에	동사가	나와야	하므로	동명사	
+또는	분사	ⓑ	promoting은	답이	될	수	없습니다.
+03	 빈칸	앞에	be동사(is)가	있으므로	be동사와	함께	진행형(be동사	+	-ing)을	
+만드는	동사	process의	-ing형	ⓑ	processing이	정답입니다.	동사원형	ⓐ	
+process는	be동사	다음에	올	수	없고,	명사	ⓐ	process는	be동사	다음의	보어	
+자리에	오면	주어와	동격	관계가	되어	어색한	문맥을	만들기	때문에	답이	될	수	
+없습니다.
+04	 괄호	뒤에	목적어(investment	 options)가	있으므로	타동사인	ⓑ	explain
+이	정답입니다.	자동사	ⓐ	speak는	전치사	to와	함께	쓰이므로	답이	될	수	
+없습니다.	
+05	 announce는	목적어를	갖는	타동사이므로	ⓑ	announced가	정답입니다.	
+타동사는	전치사	없이	목적어를	바로	갖기	때문에	ⓐ	announced	about은	
+답이	될	수	없습니다.
+06	 ‘성인들은	수면을	취하는	것이	권고된다’라는	수동의	의미이므로	빈칸	앞의	be
+동사(is)와	함께	수동형(be동사	+	p.p.)을	만드는	동사	recommend의	p.p.형	
+ⓑ	 recommended가	 정답입니다.	 동사원형	ⓐ	 recommend는	 be동사	
+다음에	올	수	없습니다.
+07	 괄호	뒤에	전치사(to)가	있으므로	자동사	ⓐ	consent가	정답입니다.	타동사	ⓑ	
+approve는	전치사	없이	목적어를	바로	갖기	때문에	답이	될	수	없습니다.
+08	 문장에	동사(can	be)만	있고	주어가	없으므로	주어	자리에	올	수	있는	동명사	
+ⓑ	Advertising이	정답입니다.	동사원형	ⓐ	Advertise는	주어	자리에	올	수	
+없습니다.	
+09	 이	문장은	주어	없이	동사원형으로	시작되는	명령문이므로	to부정사	To	notify
+가	아니라	동사원형	Notify가	와야	합니다.	
+10	 ‘어떻게	영업을	확장할지	연구하고	있다’라는	진행의	의미로	밑줄	앞의	be동사
+(is)와	함께	진행형(be동사	+	 -ing)을	만들어야	하므로	동사원형	 study가	
+아니라	-ing형	studying이	와야	합니다.	
+11	 문장에	주어(She)만	있고	동사가	없으므로	명사	completion이	아니라	동사	
+complete의	과거형	completed가	와야	합니다.
+12	 ‘그것은	다음	주에	배송될	것이다’라는	수동의	의미로	밑줄	앞의	be동사(be)
+와	함께	수동형(be동사	+	p.p.)을	만들어야	하므로	동사원형	deliver가	아니라	
+p.p.형	delivered가	와야	합니다.
+13	 talk는	전치사	about과	함께	쓰이는	자동사이므로	talked가	아니라	talked	
+about이	와야	합니다.	
+14	 문장에	동사(comes	from)만	있고	주어가	없으므로	형용사	Inspirational이	
+아니라	주어	자리에	올	수	있는	명사	Inspiration이	와야	합니다.
+15	 밑줄	앞에	have동사(has)가	있으므로	have동사와	함께	완료형(have	+	p.p.)
+을	만드는	p.p.형	led가	와야	합니다.
+16	 밑줄	앞에	조동사(should)가	있으므로	-ing형	practicing이	아니라	동사원형	
+practice가	와야	합니다.
+55
+저작권자의 동의 없이 본 해커스 한 권으로 끝내는 토익 700+ 을 복제•전송•배포하는 등의 행위를 금합니다.저작권자의 동의 없이 본 해커스 한 권으로 끝내는 토익 700+ 을 복제•전송•배포하는 등의 행위를 금합니다.
+Grammar 해설
+동사 1 - 2DAY 03
+Course 2   주어와의 수일치
+HACKERS PRACTICE 정답
+01 ⓐ [토익 포인트 2]  02 ⓑ [Day02, Course 1, 토익 포인트 3] 
+03 ⓐ [토익 포인트 3]  04 ⓐ [Day02, Course 2, 토익 포인트 2] 
+05 ⓐ [토익 포인트 2]  06 ⓐ [토익 포인트 3] 
+07 ⓑ [토익 포인트 2]  08 ⓐ [Day02, Course 2, 토익 포인트 1] 
+09 qualifies → qualify [토익 포인트 1] 
+10 allow → allows [토익 포인트 4] 
+11 were → was [토익 포인트 2] 
+12 take → takes [토익 포인트 4] 
+13 applies → apply [토익 포인트 4] 
+14 modify → modification [Day02, Course 2, 토익 포인트 1] 
+15 is → are [토익 포인트 3] 
+16 paints → paint [토익 포인트 2] 
+HACKERS PRACTICE 해설
+01	 주어	carry-on	luggage는	불가산명사로	단수	취급해야	하므로	단수	동사	ⓐ	
+has가	정답입니다.	복수	동사	ⓑ	have는	주어와	수일치되지	않습니다.
+02	 문장에	주어(The	committee	head)만	있고	동사가	없으므로	동사	express의	
+과거형	ⓑ	expressed가	정답입니다.	명사	ⓐ	expression은	동사	자리에	올	수	
+없습니다.
+03	 주어(Employee	surveys	and	feedback)가	접속사	and로	연결되어	있으므로	
+복수	취급하여	복수	동사	ⓐ	provide가	정답입니다.	단수	동사	ⓑ	provides는	
+주어와	수일치되지	않습니다.
+04	 be동사(was)	다음의	보어	자리에	올	수	있는	것은	명사	또는	형용사이므로	
+형용사	ⓐ	familiar가	정답입니다.	동사	ⓑ	familiarize는	보어	자리에	올	수	
+없습니다.
+05	 주어에	복수	취급되는	수량	표현	‘A	number	of’가	와	있으므로	복수	동사	ⓐ	
+need가	정답입니다.	단수	동사	ⓑ	needs는	주어와	수일치되지	않습니다.	
+06	 주어(Credit	cards	or	cash)가	접속사	or로	연결되어	있으므로	동사는	or	뒤에	
+오는	명사	cash에	수일치시켜야	합니다.	cash가	단수이므로	단수	동사	ⓐ	is가	
+정답입니다.	복수	동사	ⓑ	are는	주어와	수일치되지	않습니다.	
+07	 주어에	 부분을	 나타내는	 표현(percent)이	 있으므로	 of	 뒤의	 복수	 명사
+(consumers)에	알맞은	복수	동사	ⓑ	trust가	정답입니다.	단수	동사	ⓐ	trusts
+는	주어에	‘부분이나	전체를	나타내는	표현+of+단수	명사’가	왔을	때	쓰일	수	
+있습니다.
+08	 동사(remind)의	목적어	자리에	올	수	있는	것은	명사이므로	동명사	ⓐ	getting
+이	정답입니다.	동사원형	ⓑ	get은	목적어	자리에	올	수	없습니다.
+09	 주어(Staff	members)가	복수이므로	단수	동사	qualifies가	아니라	복수	동사	
+qualify가	와야	합니다.	
+10	 주격	관계사(which)의	선행사(Brennan	 Art	 Gallery)가	단수이므로	주격	
+관계절에는	단수	동사가	와야	합니다.	따라서	복수	동사	allow가	아니라	단수	
+동사	allows가	와야	합니다.
+11	 주어에	단수	취급되는	수량	표현	‘nobody’가	와	있으므로	복수	동사	were가	
+아니라	단수	동사	was가	와야	합니다.
+12	 주격	관계사(who)의	선행사(The	contestant)가	단수이므로	주격	관계절에는	
+단수	동사가	와야	합니다.	따라서	복수	동사	take가	아니라	단수	동사	takes가	
+와야	합니다.
+13	 주격	관계사(that)의	선행사(Discounts)가	복수이므로	주격	관계절에는	복수	
+동사가	와야	합니다.	따라서	단수	동사	applies가	아니라	복수	동사	apply가	
+와야	합니다.
+14	 동사(made)의	목적어	자리에	올	수	있는	것은	명사이므로	동사	modify가	
+아니라	명사	modification이	와야	합니다.
+15	 주어(Ms.	Garcia	and	Mr.	Torres)가	접속사	and로	연결되어	있으므로	복수	
+취급하여	단수	동사	is가	아니라	복수	동사	are가	와야	합니다.
+16	 접속사	while이	이끄는	절(while	~	walls)의	주어에	부분을	나타내는	표현(rest)
+이	있으므로	of	뒤의	복수	명사(workers)에	알맞은	복수	동사	paint가	와야	
+합니다.	paints는	주어에	‘부분이나	전체를	나타내는	표현+of+단수	명사’가	왔을	
+때	쓰일	수	있습니다.
+66
+저작권자의 동의 없이 본 해커스 한 권으로 끝내는 토익 700+ 을 복제•전송•배포하는 등의 행위를 금합니다.저작권자의 동의 없이 본 해커스 한 권으로 끝내는 토익 700+ 을 복제•전송•배포하는 등의 행위를 금합니다.
+Grammar 해설
+동사 2 - 1DAY 04
+Course 1   능동태·수동태
+HACKERS PRACTICE 정답
+01 ⓑ [토익 포인트 1]  02 ⓐ [토익 포인트 2] 
+03 ⓑ [토익 포인트 1]  04 ⓑ [토익 포인트 3] 
+05 ⓐ [토익 포인트 4]  06 ⓑ [Day03, Course 1, 토익 포인트 4] 
+07 ⓐ [토익 포인트 1]  08 ⓐ [토익 포인트 4] 
+09 bored → were bored [토익 포인트 2] 
+10 are → is [Day03, Course 2, 토익 포인트 1] 
+11 entitles → is entitled [토익 포인트 4] 
+12 was disappointed → disappointed [토익 포인트 2] 
+13 was hiring → was hired [토익 포인트 1] 
+14 permit → are permitted [토익 포인트 4] 
+15 accumulate → accumulates [Day03, Course 2, 토익 포인트 1] 
+16 paid → pay [Day03, Course 1, 토익 포인트 1] 
+HACKERS PRACTICE 해설
+01	 ‘회비는	매월	부과된다’라는	수동의	의미이므로	수동태를	만드는	p.p.형	ⓑ	
+charged가	정답입니다.	-ing형	ⓐ	charging은	능동태를	만들므로	답이	될	수	
+없습니다.
+02	 감정을	나타내는	타동사	amuse의	주어(The	speaker)가	감정의	원인이므로	
+능동태	ⓐ	amused가	정답입니다.	수동태	ⓑ	was	amused는	주어가	감정을	
+느낄	때	쓰이므로	답이	될	수	없습니다.	
+03	 동사	뒤에	목적어(to	nominate)가	있으므로	능동태	ⓑ	has가	정답입니다.	
+수동태	ⓐ	is	decided는	뒤에	목적어가	올	수	없습니다.
+04	 괄호	앞의	be	satisfied(are	satisfied)와	함께	‘~에	만족하다’라는	의미의	‘be	
+satisfied	with’를	만드는	전치사	ⓑ	with가	정답입니다.	전치사	ⓐ	at은	be	
+satisfied	with	표현을	완성할	수	없습니다.
+05	 괄호	뒤의	to와	함께	‘~하는	것을	요구받다’라는	의미의	‘be	required	+	to	
+부정사’를	만드는	수동태	ⓐ	are	required가	정답입니다.	동사원형	ⓑ	require
+는	be	required	to	표현을	완성할	수	없습니다.
+06	 괄호	 뒤에	 목적어(the	 construction)가	 있으므로	 타동사	 ⓑ	 oppose가	
+정답입니다.	자동사	ⓐ	object는	전치사	to와	함께	쓰이기	때문에	답이	될	수	
+없습니다.
+07	 괄호	뒤에	목적어(a	wide	range	of	greeting	cards)가	있으므로	능동태	ⓐ	
+produces가	정답입니다.	수동태	ⓑ	 is	 produced는	뒤에	목적어가	올	수	
+없습니다.
+08	 괄호	뒤의	to와	함께	‘~할	예정이다’라는	의미의	‘be	scheduled	+	to	부정사’를	
+만드는	수동태	ⓐ	is	scheduled가	정답입니다.	동사	혹은	명사	ⓑ	schedules는	
+be	scheduled	to	표현을	완성할	수	없습니다.	
+09	 감정을	나타내는	타동사	bore의	주어(Participants)가	감정을	느끼므로	능동태	
+bored가	아니라	수동태	were	bored가	와야	합니다.	능동태	bored는	주어가	
+감정의	원인일	때	씁니다.
+10	 주어(The	accounting	department)가	단수이므로	복수	동사	are가	아니라	
+단수	동사	is가	와야	합니다.
+11	 밑줄	친	entitles	뒤의	to와	함께	‘~할	자격이	있다’라는	의미의	‘be	entitled	+	to	
+부정사’를	만드는	수동태	is	entitled가	와야	합니다.	동사	혹은	명사	entitles는	is	
+entitled	to	표현을	완성할	수	없습니다.
+12	 감정을	나타내는	타동사	disappoint의	주어(Blake	Inc.)가	감정의	원인이므로	
+수동태		was	disappointed가	아니라	능동태	disappointed가	와야	합니다.	
+수동태	was	disappointed는	주어가	감정을	느낄	때	씁니다.
+13	 ‘Ms.	Cartwright는	관리자로	고용되었다’라는	수동의	의미이므로	능동태	was	
+hiring이	아니라	수동태	was	hired가	와야	합니다.	능동태	was	hiring은	뒤에	
+목적어가	와야	합니다.
+14	 밑줄	친	permit	뒤의	to와	함께	‘~하도록	허가	받다’라는	의미의	‘be	permitted	
++	to	부정사’를	만드는	수동태	are	permitted가	와야	합니다.	동사	혹은	명사	
+permit은	표현을	완성할	수	없습니다.
+15	 주어(The	credit	card)가	단수이므로	복수	동사	accumulate가	아니라	단수	
+동사	accumulates가	와야	합니다.
+16	 밑줄	친	paid	앞에	조동사처럼	쓰이는	표현(had	better)이	있으므로	p.p.형	
+paid가	아니라	동사원형	pay가	와야	합니다.
+77
+저작권자의 동의 없이 본 해커스 한 권으로 끝내는 토익 700+ 을 복제•전송•배포하는 등의 행위를 금합니다.저작권자의 동의 없이 본 해커스 한 권으로 끝내는 토익 700+ 을 복제•전송•배포하는 등의 행위를 금합니다.
+Grammar 해설
+동사 2 - 2DAY 04
+Course 2   시제·가정법
+HACKERS PRACTICE 정답
+01 ⓐ [토익 포인트 1]  02 ⓑ [토익 포인트 3] 
+03 ⓐ [토익 포인트 2]  04 ⓐ [Day03, Course 2, 토익 포인트 1] 
+05 ⓑ [토익 포인트 1]  06 ⓑ [토익 포인트 3] 
+07 ⓐ [토익 포인트 2]  08 ⓐ [토익 포인트 4] 
+09 has taught → will have taught [토익 포인트 3] 
+10 had made → made [토익 포인트 4] 
+11 will meet → was meeting [토익 포인트 2] 
+12 rates → rate [Day03, Course 2, 토익 포인트 2] 
+13 has received → have received [Day03, Course 2, 토익 포인트 1] 
+14 was → were [토익 포인트 4] 
+15 will leave → left [토익 포인트 1] 
+16 complete → completed [Day03, Course 1, 토익 포인트 2] 
+HACKERS PRACTICE 해설
+01	 ‘종종	10대들을	위한	방과	후	프로그램에	참여한다’라는	의미가	되어야	하므로,	
+일상적으로	반복되는	동작을	나타내는	현재	시제	ⓐ	participates가	정답입니다.	
+과거	진행	시제	ⓑ	was	participating은	과거	특정	시점에	진행되고	있던	일을	
+나타냅니다.
+02	 ‘2005년	이래로	빈곤층에게	무료	의료	서비스를	제공해왔다’라는	의미로,	2005
+년(since	2005)이라는	과거	시점부터	현재	시점까지	계속되는	기간에	일어난	
+일을	나타내고	있으므로,	현재	완료	시제	ⓑ	has	provided가	정답입니다.	현재	
+시제	ⓐ	provides는	일상적으로	반복되는	동작을	나타냅니다.
+03	 특정	시점(On	Monday)이	주어졌고,	미래	상황에	대한	예측을	나타내므로	
+미래	진행	시제	ⓐ	will	be	reporting이	정답입니다.	현재	완료	시제	ⓑ	has	
+reported는	과거에	시작된	일이	현재	시점까지	계속되고	있는	것을	나타냅니다.
+04	 주어	 뒤의	 동사가	 복수	 동사(are)이므로,	 복수	 주어	 ⓐ	 instructions가	
+정답입니다.	단수	주어	ⓑ	instruction은	단수	동사(is)	앞에	와야	합니다.
+05	 ‘주요	시멘트	공급업체는	곧	계약을	갱신할	것이다’라는	의미로,	곧(soon)이라는	
+미래	시간	표현이	왔으므로,	미래	상황에	대한	예상을	나타내는	미래	시제	ⓑ	will	
+renew가	정답입니다.	현재	완료	진행	시제	ⓐ	has	been	renewing은	과거부터	
+현재	시점까지의	기간	동안	진행	중이었던	동작을	나타냅니다.
+06	 ‘재무	보고서가	출력되기	전에’라는	의미로,	보고서가	출력되기	전(before	the	
+financial	report	was	printed)이라는	과거	시점보다	더	이전에	일어난	일을	
+나타내야	하므로,	과거	완료	시제	ⓑ	had	been	revised가	정답입니다.	현재	
+시제	ⓐ	is	revised는	일상적으로	반복되는	동작을	나타냅니다.
+07	 ‘현재,	스튜디오의	프로그래머들은	새로운	비디오	게임을	개발하고	있다’라는	
+의미로	현재(currently)라는	현재	시간	표현이	왔으므로,	현재	시점에	진행되고	
+있는	일을	나타내는	현재	진행	시제	ⓐ	are	developing이	정답입니다.	미래	
+시제	ⓑ	will	develop는	미래	상황에	대한	예상을	나타냅니다.
+08	 If절에	would	have	p.p.가	왔으므로	이와	짝을	이루는	가정법	과거	완료	시제	
+ⓐ	had	invested가	정답입니다.	현재	시제	ⓑ	invests는	would	have	p.p.와	
+함께	주절에	올	수	없습니다.
+09	 ‘10년	동안	가르치는	것이	된다’는	의미가	되어야	하고,	다음	달에는(by	next	
+month)이라는	미래의	특정	시점에	이미	완료되었을	일을	나타내고	있으므로	
+과거	완료	시제	has	taught이	아니라	미래	완료	시제	will	have	taught이	와야	
+합니다.
+10	 If절에	might+동사원형이	왔으므로	이와	짝을	이루는	가정법	과거	시제	made
+가	와야	합니다.	가정법	과거	완료	시제	had	made는	might	have	p.p.와	함께	
+와야	합니다.
+11	 ‘내가	사무실에	도착했을	때	고객과	만나고	있었다’라는	의미가	되어야	하고,	
+사무실에	도착했을	때(when	I	arrived	at	the	office)라는	과거	특정	시점에	
+진행되고	있던	일을	나타내야	하므로	미래	시제	will	meet이	아니라	과거	진행	
+시제	was	meeting이	와야	합니다.	미래	시제	will	meet은	미래	상황에	대한	
+예상을	나타냅니다.
+12	 밑줄	친	 rates	앞에	복수	주어(participants)가	왔으므로	단수	동사	 rates
+가	 아니라	 복수	 동사	 rate가	 와야	 합니다.	 단수	 동사	 rates는	 단수	 주어
+(participant)	뒤에	와야	합니다.
+13	 밑줄	친	has	received	앞에	복수	명사(dishes)가	왔으므로	단수	동사	has가	
+아니라	복수	동사	have가	와야	합니다.	단수	동사	has는	단수	명사(dish)	뒤에	
+와야	합니다.
+14	 if절에	would+동사원형이	왔으므로	과거동사	was가	아니라	were이	와야	
+합니다.	과거동사	was는	 if+주어+과거동사,	주어+might+동사원형	형태를	
+완성시킬	수	없습니다.
+15	 과거	시간	표현(two	years	ago)이	있으므로	미래	시제	will	 leave가	아니라	
+과거의	상태를	나타낼	때	사용되는	과거	시제	left가	와야	합니다.	미래	시제	will	
+leave는	미래	상황에	대한	예상을	나타냅니다.
+16	 ‘Ms.	Dobbs는	교육을	마쳤고’라는	의미가	되어야	하고,	밑줄	친	complete	
+앞에	have동사	has가	왔으므로	동사원형	complete가	아니라	과거	완료	시제	
+completed가	와야	합니다.	동사원형	complete는	have	p.p.	형태를	완성시킬	
+수	없습니다.
+88
+저작권자의 동의 없이 본 해커스 한 권으로 끝내는 토익 700+ 을 복제•전송•배포하는 등의 행위를 금합니다.저작권자의 동의 없이 본 해커스 한 권으로 끝내는 토익 700+ 을 복제•전송•배포하는 등의 행위를 금합니다.
+Grammar 해설
+준동사 - 1DAY 05
+Course 1   to 부정사와 동명사
+HACKERS PRACTICE 정답
+01 ⓑ [토익 포인트 1]  02 ⓐ [토익 포인트 3] 
+03 ⓑ [토익 포인트 3]  04 ⓐ [Day04, Course 2, 토익 포인트 2] 
+05 ⓐ [토익 포인트 1]  06 ⓑ [토익 포인트 4] 
+07 ⓐ [토익 포인트 2]  08 ⓐ [Day02, Course 1, 토익 포인트 3] 
+09 eat → eating [토익 포인트 4] 
+10 succeed → to succeed [토익 포인트 1] 
+11 continuing → to continue [토익 포인트 2] 
+12 worry → are worried [Day04, Course 1, 토익 포인트 1] 
+13 choose → to choose [토익 포인트 1] 
+14 buy → to buy [토익 포인트 1] 
+15 cancel → canceled [Day03, Course 1, 토익 포인트 2] 
+16 completing → to complete [토익 포인트 1] 
+HACKERS PRACTICE 해설
+01	 ‘고객	불평에	대해	알리기	위해	전화했다’라는	의미가	되어야	하므로	목적을	나타
+내는	to	부정사인	ⓑ	to	brief가	정답입니다.	동사	ⓐ	briefed는	동사	called	다
+음에	올	수	없습니다.
+02	 ‘세미나에	참석해서	다른	사람들과	대화하는	것을	즐거워했다’라는	 의미가	
+되어야	하고,	동사	enjoyed의	목적어가	없으므로	동명사	ⓐ	attending이	
+정답입니다.	동사원형	ⓑ	attend는	동사	enjoyed	다음에	올	수	없습니다.
+03	 괄호	앞의	표현	be	in	charge	of(is	 in	charge	of)에서	of는	전치사이므로	
+전치사의	목적어	자리에	올	수	있는	동명사	ⓑ	organizing이	정답입니다.	동사	
+또는	분사	ⓐ	organized는	동사일	경우	전치사의	목적어	자리에	올	수	없고,	
+분사일	경우	정관사	the	앞에	올	수	없습니다.
+04	 ‘발표를	준비하고	있기	때문에	현재	시간이	없다’라는	의미로,	현재(currently)
+라는	현재	시점에	진행되고	있는	일을	나타내고	있으므로	현재	진행	시제(am/
+are/is	+	-ing)를	만드는	ⓐ	is	preparing이	정답입니다.	과거	진행	시제	ⓑ	
+was	preparing은	과거에	일어나고	있었던	일을	나타냅니다.
+05	 ‘새로운	언어를	배우는	가장	좋은	방법은	다른	사람들과	연습하는	것’이라는	
+의미가	되어야	하고,	The	best	way의	뒤에서	수식하는	형용사	자리이므로	to	
+부정사	ⓐ	to	learn이	정답입니다.	동사원형	ⓑ	learns는	‘가장	좋은	방법이	
+새로운	언어를	배운다’라는	어색한	문맥을	만듭니다.
+06	 괄호	앞의	is	busy와	함께	be	busy	–ing(~하느라	바쁘다)	표현을	완성하는	
+동명사	ⓑ	responding이	정답입니다.	to	부정사	ⓐ	to	respond는	is	busy	
+–ing	표현을	완성할	수	없습니다.
+07	 괄호	앞의	decided와	함께	decide	to(~하기로	결정하다)	표현을	완성하는	to	
+부정사	ⓐ	to	order가	정답입니다.	과거동사	ⓑ	ordered는	decide	to	표현을	
+완성할	수	없습니다.
+08	 다음	달까지(by	next	month)라는	미래의	특정	시점이	주어졌고,	미래	상황에	
+대한	예측을	나타내므로	미래	시제	ⓐ	will	resolve가	정답입니다.	동명사	또는	
+현재분사	ⓑ	resolving은	동사	자리에	올	수	없습니다.
+09	 ‘점심	식사를	근처	식당에서	먹는	것에	익숙하다’라는	의미가	되어야	하고,	괄호	
+앞의	is	used	to와	함께	be	used	to	–ing(~에	익숙하다)	표현을	완성하는	
+동명사가	와야	하므로	동사원형	eat이	아니라	동명사	eating이	와야	합니다.
+10	 ‘성공하기	위해	매우	열심히	일했다’라는	의미가	되어야	하고,	목적의	의미를	
+나타내는	부사	역할을	해야	하므로	동사원형	succeed가	아니라	to	부정사	to	
+succeed가	와야	합니다.	동사원형	succeed는	동사	worked	다음에	올	수	
+없습니다.
+11	 밑줄	친	continuing	앞의	wants와	함께	want	to(~하는	것을	원하다)	표현을	
+완성하는	to	부정사가	와야	하므로,	동명사	continuing이	아니라	to	부정사	to	
+continue가	와야	합니다.	동명사	continuing은	want	to	표현을	완성할	수	
+없습니다.	
+12	 ‘Bay	Area의	많은	주민들이	근처	해변들의	상태에	대해	걱정스러워	한다’라는	
+의미가	되어야	하고,	주어가	감정을	느끼는	상태를	나타내야	하므로	능동태	
+worry가	아니라	수동태	are	worried가	와야	합니다.
+13	 ‘강의들을	선택해야	할	마감일’이라는	의미가	되어야	하고,	밑줄	친	choose	앞의	
+명사	deadline	뒤에서	명사를	꾸며주어야	하므로	동사원형	choose가	아니라	
+to	부정사	to	choose가	와야	합니다.	동사원형	choose는	be	동사	is	다음에	올	
+수	없습니다.
+14	 ‘새로운	사무용	가구를	구매하기	위해	 Dauphine	 가구점에	방문했다’라는	
+의미가	되어야	하고,	목적의	의미를	나타내는	부사	역할을	해야	하므로	동사원형	
+buy가	아니라	to	부정사	to	buy가	와야	합니다.	동사원형	buy는	동사	visited	
+다음에	올	수	없습니다.
+15	 ‘오늘	밤	공연을	취소했다’라는	의미가	되어야	하고,	괄호	앞에	have동사	has와	
+결합하여	완료형을	만드는	p.p.	형태가	와야	하므로,	동사원형	cancel이	아니라	
+과거분사	canceled가	와야	합니다.	동사원형	cancel은	have동사	has	다음에	
+올	수	없습니다.
+16	 괄호	앞의	expects와	함께	expect	to(~하는	것을	기대하다)	표현을	완성하는	
+to	 부정사가	 와야	 하므로,	 동명사	 completing이	 아니라	 to	 부정사	 to	
+complete가	와야	합니다.	동명사	completing은	expect	to	표현을	완성할	수	
+없습니다.	
+99
+저작권자의 동의 없이 본 해커스 한 권으로 끝내는 토익 700+ 을 복제•전송•배포하는 등의 행위를 금합니다.저작권자의 동의 없이 본 해커스 한 권으로 끝내는 토익 700+ 을 복제•전송•배포하는 등의 행위를 금합니다.
+Grammar 해설
+준동사 - 2DAY 05
+Course 2   분사
+HACKERS PRACTICE 정답
+01 ⓑ [토익 포인트 1]  02 ⓐ [토익 포인트 3] 
+03 ⓐ [토익 포인트 3]  04 ⓑ [토익 포인트 1] 
+05 ⓑ [Day04, Course 1, 토익 포인트 1]  06 ⓐ [토익 포인트 2] 
+07 ⓑ [Day02, Course 1, 토익 포인트 3]  08 ⓑ [토익 포인트 3] 
+09 discount → be discounted [Day04, Course 1, 토익 포인트 1] 
+10 Returning → Returned [토익 포인트 2] 
+11 performed → performing [토익 포인트 3] 
+12 has succeeded → had succeeded [Day04, Course 2, 토익 포인트 3] 
+13 promised → promising [토익 포인트 4] 
+14 This → It [Day02, Course 1, 토익 포인트 2] 
+15 experiencing → experienced [토익 포인트 4] 
+16 preferring → preferred [토익 포인트 4]
+HACKERS PRACTICE 해설
+01	 괄호	뒤의	명사(courses)를	꾸밀	수	있는	것은	형용사	역할을	하는	분사이므로,	
+분사	ⓑ	advanced가	정답입니다.	동사원형	ⓐ	advances는	명사를	꾸밀	수	없
+습니다.	
+02	 수식을	받는	명사(Candidates)와	분사가	‘지원하려는	후보자들’이라는	의미의	
+능동	관계이므로	현재분사	ⓐ	looking이	정답입니다.	과거분사	ⓑ	looked는	
+수동의	의미를	나타내므로	답이	될	수	없습니다.
+03	 수식을	받는	명사(story)와	분사가	‘과장된	이야기’라는	의미의	수동	관계이므로	
+과거분사	ⓐ	 exaggerated가	 정답입니다.	 현재분사	ⓑ	 exaggerating은	
+능동의	의미를	나타내므로	답이	될	수	없습니다.
+04	 괄호	뒤의	명사(words)를	앞에서	꾸며줄	수	있는	분사	ⓑ	encouraging이	
+정답입니다.	명사	ⓐ	encouragement는	명사를	꾸밀	수	없습니다.
+05	 동사	 postpone	 뒤에	 목적어가	있으므로,	 능동태	동사	ⓑ	 postponed가	
+정답입니다.	수동태	동사	ⓐ	was	postponed는	목적어	앞에	올	수	없습니다.
+06	 주절의	주어(Leeds’	online	store)와	분사구문이	‘하루에	수천	번	접속되는’
+이라는	의미의	수동	관계이므로	과거분사	ⓐ	Accessed가	정답입니다.	ⓑ	
+Accessing은	능동의	의미를	나타내므로	답이	될	수	없습니다.
+07	 문장에	동사가	없고	주어(Mr.	Castro)와	목적어(some	furniture)만	있으므로	
+동사	역할을	하는	동사	ⓑ	ordered가	정답입니다.	분사	ⓐ	ordering은	형용사	
+역할을	하기	때문에	답이	될	수	없습니다.
+08	 주어(The	Black	Moon)와	보어의	관계가	‘흥미로운	액션	영화이다’라는	의미의	
+능동	관계이므로	현재분사	ⓑ	exciting이	정답입니다.	과거분사	ⓐ	excited는	
+수동의	의미를	나타내므로	답이	될	수	없습니다.	
+09	 ‘제품들이	할인이	될	것이다’라는	의미가	되어야	하고,	동사	discount의	목적어가	
+없으므로	능동태	discount가	아니라	수동태	be	discounted가	와야	합니다.	
+10	 주절의	 주어(book)와	 분사구문이	 ‘늦게	 반납되었다’라는	 의미의	 수동	
+관계이므로	현재분사	Returning이	아니라	과거분사	Returned가	와야	합니다.	
+11	 수식을	 받는	 명사(band)와	 분사가	 ‘공연하는	 밴드는’이라는	 의미의	 능동	
+관계이므로	과거분사	 performed가	아니라	현재분사	 performing이	와야	
+합니다.
+12	 지난달	말까지(end	of	last	month)라는	과거	특정	시점보다	더	이전에	일어난	
+일을	나타내야	하므로,	현재	완료	시제	has	succeeded가	아니라	과거	완료	
+시제	had	 succeeded가	와야	합니다.	현재	완료	시제	has	 succeeded는	
+과거에	시작된	일이	현재	시점까지	계속되고	있는	것을	나타냅니다.
+13	 수식을	 받는	 명사(opportunity)와	 분사가	 ‘유망한	 기회’라는	 의미의	 능동	
+관계이므로	과거분사	promised가	아니라	현재분사	promising이	와야	합니다.	
+과거분사	promised는	수동의	의미를	나타내어	‘촉망	받는	기회’라는	어색한	
+문맥을	만듭니다.
+14	 ‘모든	거래를	전자	데이터베이스에	기록하는	것이	Mr.	Ogawa의	책무이다’라는	
+의미를	통해	it이	가짜주어이고	뒤의	to	부정사(to	record	all	transactions)가	
+진짜주어임을	알	수	있습니다.	따라서	주어	This가	아니라	가짜주어	역할을	하는	
+주어	it이	와야	합니다.	주어	This는	가짜주어	역할을	할	수	없습니다.
+15	 수식을	받는	명사(professional)와	분사가	‘숙련된	전문가’라는	의미의	수동	
+관계이므로	현재분사	experiencing이	아니라	과거분사	experienced가	와야	
+합니다.	현재분사	experiencing은	능동의	의미를	나타내어	‘경험하는	전문가’
+라는	어색한	문맥을	만듭니다.
+16	 수식을	받는	명사(meal	option)와	분사가	‘선호되는	식사	선택권’이라는	의미의	
+수동	관계이므로	현재분사	preferring이	아니라	과거분사	preferred가	와야	
+합니다.	현재분사	preferring은	능동의	의미를	나타내어	‘선호하고	있는	식사	
+선택권’이라는	어색한	문맥을	만듭니다.
+1010
+저작권자의 동의 없이 본 해커스 한 권으로 끝내는 토익 700+ 을 복제•전송•배포하는 등의 행위를 금합니다.저작권자의 동의 없이 본 해커스 한 권으로 끝내는 토익 700+ 을 복제•전송•배포하는 등의 행위를 금합니다.
+Grammar 해설
+명사와 대명사 - 1DAY 06
+Course 1   명사
+HACKERS PRACTICE 정답
+01 ⓑ [토익 포인트 1]  02 ⓐ [토익 포인트 1] 
+03 ⓐ [토익 포인트 3]  04 ⓐ [토익 포인트 2] 
+05 ⓐ [Day05, Course 1, 토익 포인트 3]  06 ⓑ [토익 포인트 2] 
+07 ⓐ [Day05, Course 1, 토익 포인트 2]  08 ⓐ [토익 포인트 2] 
+09 pleasurably → pleasure [토익 포인트 1] 
+10 reviewed → are reviewing [Day04, Course 2, 토익 포인트 2] 
+11 challenger → challenging [Day05, Course 2, 토익 포인트 1]
+12 Sale → Sales [토익 포인트 4] 
+13 instructions → instructors [토익 포인트 3] 
+14 regulate → regulation [토익 포인트 1] 
+15 architecture → architect [토익 포인트 3] 
+16 Construct → Construction [토익 포인트 1] 
+HACKERS PRACTICE 해설
+01	 전치사의	목적어	자리에	올	수	있는	것은	명사이므로,	명사	ⓑ	submission이	정
+답입니다.	형용사	또는	분사	ⓐ	submitted는	전치사의	목적어	자리에	올	수	없
+습니다.
+02	 문장에	주어가	없고	동사(cannot	be)만	있으므로	주어	자리에	올	수	있는	명사	
+ⓐ	 importance가	정답입니다.	부사	ⓑ	 importantly는	주어	자리에	올	수	
+없습니다.
+03	 ‘여권	신청	양식’이라는	의미가	되어야	하므로	사물명사	ⓐ	 application이	
+정답입니다.	사람명사	ⓑ	applicant(신청자)를	쓰면	‘여권	신청자	양식’이라는	
+어색한	문맥이	됩니다.
+04	 괄호	앞에	부정관사	a가	왔으므로,	단수	가산명사	ⓐ	display가	정답입니다.	
+복수	가산명사	ⓑ	displays는	부정관사	a	다음에	올	수	없습니다.
+05	 ‘공장	정비를	하는	것’이라는	의미가	되어야	하고,	주어	자리에	와야	하므로	
+동명사	ⓐ	Maintaining이	정답입니다.	동사원형	ⓑ	Maintain은	주어	자리에	
+올	수	없습니다.
+06	 명사	suggestion은	셀	수	있는	가산명사이고,	괄호	앞에	관사가	없으므로	복수	
+가산명사	ⓑ	suggestions가	정답입니다.	단수	가산명사	ⓐ	suggestion은	관사	
+없이	쓰일	수	없습니다.	
+07	 괄호	앞의	tries와	함께	try	to(~하는	것을	시도하다)	표현을	완성하는	to	부정사	
+ⓐ	to	respond가	정답입니다.	형용사	ⓑ	responsible은	동사	tries	다음에	올	
+수	없습니다.
+08	 명사	 advice는	 셀	 수	 없는	 불가산명사이므로	 불가산명사	 ⓐ	 advice가	
+정답입니다.	
+09	 ‘Ms.	Terrence는	Mr.	Harper와	함께	사업을	하게	되어	기뻤다’라는	의미가	
+되어야	하고,	문장의	보어	자리에	와야	하므로	부사	pleasurably가	아니라	명사	
+pleasure가	와야	합니다.	부사	pleasurably는	보어	자리에	올	수	없습니다.
+10	 ‘그들은	바로	지금	그것을	검토하고	있다’라는	의미로,	현재	시점에	진행되고	
+있는	일을	나타내야	하므로	과거	시제	reviewed가	아니라	현재	진행	시제	are	
+reviewing이	와야	합니다.	과거	시제	reviewed는	과거에	이미	끝난	동작이나	
+상태를	나타냅니다.
+11	 밑줄	친	challenger	뒤의	명사(schedule)를	꾸밀	수	있는	것은	형용사	역할을	
+하는	분사이므로,	명사	challenger가	아니라	분사	challenging이	와야	합니다.	
+명사	challenger는	명사를	꾸밀	수	없습니다.
+12	 밑줄	친	Sale	뒤의	quotas와	함께	‘판매	할당량’이라는	의미의	복합	명사를	
+완성하는	명사가	와야	하므로	단수명사	Sale이	아니라	복수명사	Sales가	와야	
+합니다.
+13	 ‘단	3명의	강사들만이	여름에	수업을	할	수	있을	것이다’라는	의미가	되어야	
+하므로	추상명사	instructions가	아니라	사람명사	instructors가	와야	합니다.	
+추상명사	instructions를	쓰면	‘단	3개의	지침들만이	여름에	수업을	할	수	있을	
+것이다’라는	어색한	문맥이	됩니다.
+14	 동사의	목적어	자리에	오며	형용사(new)	뒤에	와야	하므로	동사	regulate이	
+아니라	명사	regulation이	와야	합니다.	동사	regulate은	동사	announced와	
+형용사	new	다음에	올	수	없습니다.
+15	 ‘새로운	건축가가	팀에	합류할	것이므로’라는	의미가	되어야	하므로	추상명사	
+architecture가	 아니라	 사람명사	 architect가	 와야	 합니다.	 추상명사	
+architecture를	쓰면	 ‘새로운	건축물이	팀에	합류할	것이므로’라는	어색한	
+문맥이	됩니다.
+16	 문장에	 주어가	 없고	 동사(will	 commence)만	 있으므로	 동사	 Construct
+가	아니라	주어	자리에	올	수	있는	명사	Construction이	정답입니다.	동사	
+Construct는	주어	자리에	올	수	없습니다.
+1111
+저작권자의 동의 없이 본 해커스 한 권으로 끝내는 토익 700+ 을 복제•전송•배포하는 등의 행위를 금합니다.저작권자의 동의 없이 본 해커스 한 권으로 끝내는 토익 700+ 을 복제•전송•배포하는 등의 행위를 금합니다.
+Grammar 해설
+명사와 대명사 - 2DAY 06
+Course 2   대명사
+HACKERS PRACTICE 정답
+01 ⓐ [토익 포인트 1]  02 ⓐ [토익 포인트 1] 
+03 ⓑ [토익 포인트 3]  04 ⓑ [토익 포인트 1] 
+05 ⓐ [Day 03, Course 1, 토익 포인트 4] 06 ⓑ [토익 포인트 4] 
+07 ⓐ [Day 05, Course 1, 토익 포인트 3] 08 ⓑ [토익 포인트 3] 
+09 him → his [토익 포인트 1] 
+10 it → itself [토익 포인트 1] 
+11 mine → my [토익 포인트 1] 
+12 other → another [토익 포인트 4] 
+13 for → to [Day 05, Course 2, 토익 포인트 4] 
+14 any → some [토익 포인트 3] 
+15 these → those [토익 포인트 2] 
+16 on → in [토익 포인트 1] 
+HACKERS PRACTICE 해설
+01	 문장의	주어	자리에	와야	하므로	주격	인칭대명사	ⓐ	We가	정답입니다.	소유격	
+인칭대명사	ⓑ	Our는	주어	자리에	올	수	없으며	명사	앞에	와야	합니다.
+02	 ‘그녀의	휴대용	컴퓨터’라는	의미가	되어야	하고,	명사(laptop)	앞에	와야	하므로	
+소유격	인칭대명사	ⓐ	her가	정답입니다.	소유대명사	ⓑ	hers는	주어,	목적어,	
+보어	자리에	오며	‘그녀의	것’이라는	의미를	나타냅니다.
+03	 ‘업계에서	 가장	 뛰어난	 엔지니어들	 중	 일부’라는	 의미가	 되어야	 하므로	
+부정대명사	ⓑ	Some이	정답입니다.	부정대명사	ⓐ	Another는	‘(이미	언급된	
+것	이외의)	또	다른	하나’라는	의미를	나타냅니다.
+04	 타동사	pick	 up의	목적어로	쓰일	수	있는	목적격	인칭대명사	ⓑ	 them이	
+정답입니다.	주격	인칭대명사	ⓐ	they는	주어	자리에	와야	합니다.
+05	 괄호	뒤에	전치사	about이	있으므로	전치사+목적어의	앞에	함께	오는	자동사	
+ⓐ	 talked가	정답입니다.	타동사	ⓑ	 discussed는	전치사와	함께	쓰일	수	
+없습니다.
+06	 ‘Mr.	 Paulson은	다른	직원들이	선반에	물품을	채우는	동안	계산대에	남아	
+있었다’라는	의미가	되어야	하므로	부정대명사	ⓑ	the	other가	정답입니다.	
+부정대명사	ⓐ	one은	정해지지	않은	단수	가산명사를	나타냅니다.
+07	 ‘잠재적인	고객들에게	명함을	제시하는	것’이라는	의미가	되어야	하고,	주어	
+자리에	와야	하므로	동명사	ⓐ	Presenting이	정답입니다.	동사원형	또는	형용사	
+ⓑ	Present는	주어	자리에	올	수	없습니다.
+08	 ‘관객들	중	아무도	연설자를	위한	질문이	조금도	없었다’라는	의미가	되어야	하고,	
+부정문에	와야	하므로	부정형용사	ⓑ	any가	정답입니다.	인칭대명사	ⓐ	they는	
+명사	앞에	올	수	없습니다.
+09	 be동사(was)의	보어	자리에	올	수	있고,	‘Mr.	Lewis가	그의	것이라고	말했다’
+라는	의미가	되어야	하므로	소유대명사	his가	와야	합니다.	목적격	인칭대명사	
+him은	목적어	자리에	와야	합니다.
+10	 ‘Borton사는	고객	만족을	보장한다는	것에	대해	자사를	자랑스러워한다’라는	
+의미가	되어야	하고,	주어와	목적어가	같은	대상으로	목적어	자리에	와야	하므로	
+주격	인칭대명사	it이	아니라	재귀대명사	itself가	와야	합니다.	주격	인칭대명사	
+it은	주어	자리에	와야	합니다.
+11	 ‘저의	 사무실’이라는	 의미가	 되어야	 하고,	 명사(office)	 앞에	 와야	 하므로	
+소유대명사	mine이	아니라	소유격	인칭대명사	my가	와야	합니다.	소유대명사	
+mine은	주어,	목적어,	보어	자리에	와야	합니다.
+12	 ‘2년	전에	개업한	이후로	성공적이었던	HNT	Consulting사는	또	다른	대단한	
+분기를	보냈다’라는	의미가	되어야	하므로	부정형용사	other가	아니라	‘또	다른	
+하나’라는	의미를	나타내는	부정형용사	another가	와야	합니다.	부정형용사	
+other는	‘또	다른	몇몇’이라는	의미를	나타냅니다.
+13	 밑줄	친	for	앞의	eager와	함께	be	eager	to(몹시	~하고	싶다)라는	의미의	
+표현을	완성하는	 to	부정사가	와야	하므로	전치사	 for가	아니라	 to가	와야	
+합니다.	전치사	for는	be	eager	to	표현을	완성할	수	없습니다.
+14	 ‘지난달에	몇몇	직원들이	휴가	중이었을	때,	사무원은	그들의	우편물을	그들의	
+책상에	두었다’라는	의미의	긍정문에	와야	하므로	부정형용사	any가	아니라	
+부정형용사	 some이	와야	합니다.	부정형용사	any는	주로	부정문,	의문문,	
+조건문에	쓰입니다.
+15	 ‘경력을	추구하는	사람들에게’라는	의미가	되어야	하고,	분사(pursuing	careers	
+in	 business)의	 수식을	받으므로	지시대명사	 these가	 아니라	지시대명사	
+those가	와야	합니다.	지시대명사	these는	복수명사를	수식하여	‘이	~’,	‘저	~’를	
+의미합니다.
+16	 ‘미술관	본관	건물은	그	자체로	예술	작품이다’라는	의미가	되어야	하고,	밑줄	
+친	on	뒤의	itself와	함께	‘자체로’라는	의미의	표현을	완성해야	하므로	전치사	
+on이	아니라	전치사	in이	와야	합니다.	전치사	on은	in	itself	표현을	완성할	수	
+없습니다.
+1212
+저작권자의 동의 없이 본 해커스 한 권으로 끝내는 토익 700+ 을 복제•전송•배포하는 등의 행위를 금합니다.저작권자의 동의 없이 본 해커스 한 권으로 끝내는 토익 700+ 을 복제•전송•배포하는 등의 행위를 금합니다.
+Grammar 해설
+형용사와 부사 - 1DAY 07
+Course 1   형용사
+HACKERS PRACTICE 정답
+01 ⓐ [토익 포인트 1]  02 ⓑ [토익 포인트 1] 
+03 ⓐ [Day06, Course 1, 토익 포인트 1] 04 ⓑ [토익 포인트 2] 
+05 ⓑ [토익 포인트 3]  06 ⓐ [토익 포인트 3] 
+07 ⓐ [토익 포인트 2]  08 ⓑ [토익 포인트 4] 
+09 thoroughly → thorough [토익 포인트 1] 
+10 few → little [토익 포인트 2] 
+11 economic → economical [토익 포인트 3] 
+12 hesitantly → hesitant [토익 포인트 1] 
+13 manageable → managerial [토익 포인트 3] 
+14 ask → to ask [Day05, Course 1, 토익 포인트 1] 
+15 providing → provide [Day03, Course 1, 토익 포인트 1] 
+16 will → willing [토익 포인트 4] 
+HACKERS PRACTICE 해설
+01	 괄호	앞의	명사(Ms.	Kovac)를	꾸밀	수	있는	형용사가	필요하므로	ⓐ	diligent가	
+정답입니다.	명사	ⓑ	diligence는	명사를	꾸밀	수	없습니다.
+02	 괄호	뒤의	명사(collections)를	꾸밀	수	있는	형용사가	필요하므로	ⓑ	attractive
+가	정답입니다.	부사	ⓐ	attractively는	명사를	꾸밀	수	없습니다.
+03	 괄호	 앞의	 형용사(harsh)가	 꾸며줄	 명사가	 필요하므로	 ⓐ	 criticism이	
+정답입니다.	형용사	ⓑ	critical은	형용사	뒤에	올	수	없습니다.
+04	 괄호	뒤의	명사(customers)는	복수	가산명사이므로	복수	가산명사	앞에	올	수	
+있는	수량형용사인	ⓑ	Many가	정답입니다.	ⓐ	Much는	불가산명사를	꾸며주는	
+수량	형용사입니다.
+05	 ‘제	 지시사항을	 이해하는	 것’이라는	 의미가	 되어야	 하므로	 동명사	 ⓑ	
+understanding이	정답입니다.	ⓐ	understandable은	‘이해할	만한’이라는	
+뜻의	형용사입니다.
+06	 ‘이미지에	대한	모든	권리는	~한	소유주에게	있다’라는	의미가	되어야	하므로	‘
+각각의’라는	뜻의	형용사인	ⓐ	respective가	정답입니다.	ⓑ	respectable은	‘
+존경할	만한’이라는	뜻의	형용사입니다.
+07	 괄호	뒤의	명사(week)는	단수	가산명사이므로,	단수	가산명사	앞에	올	수	있는	
+수량	형용사인	ⓐ	every가	정답입니다.	ⓑ	a	few는	복수	가산명사	앞에	올	수	
+있는	수량	형용사입니다.
+08	 주격	 보어	 자리에	 들어갈	 수	 있는	 품사는	 형용사이므로,	 ⓑ	 eligible이	
+정답입니다.	또한,	‘be	eligible	for’는	‘~할	자격이	있다’라는	뜻의	‘be	+	형용사’	
+표현입니다.	부사	ⓐ		eligibly는	주격	보어	자리에	올	수	없습니다.
+09	 밑줄	친	thoroughly	뒤의	명사(explanation)을	꾸며줄	형용사가	필요하므로	
+부사	thoroughly가	아니라	형용사	thorough가	와야	합니다.
+10	 밑줄	친	곳	뒤의	명사(ink)는	불가산명사이므로	복수	가산	명사	앞에	올	수	있는	
+수량	형용사인	few가	아니라	불가산명사	앞에	올	수	있는	수량	형용사인	little이	
+와야	합니다.
+11	 밑줄	친	economic은	‘경제의’라는	뜻의	형용사이므로	‘경제적이지만	오래가는’
+의	의미를	나타내려면	‘경제적인’이라는	뜻의	형용사인	economical이	와야	
+합니다.
+12	 밑줄	친	곳은	주격	보어	자리이므로	부사인	hesitantly가	아니라	형용사인	
+hesitant가	와야	합니다.	부사	hesitantly는	주격	보어	자리에	올	수	없습니다.	
+13	 밑줄	친	manageable은	‘관리할	수	있는’이라는	뜻의	형용사이므로	‘새로운	
+관리직’의	의미를	나타내려면	‘경영의,	관리의’라는	뜻의	형용사인	managerial
+이	와야	합니다.
+14	 문장의	본동사로	쓰인	encourage는	to	부정사를	목적어로	취하는	동사이므로	
+동사원형	ask가	아니라	to	ask가	와야	합니다.
+15	 밑줄	친	providing	앞에	조동사	could가	있으므로	현재분사	providing이	아닌	
+동사원형	provide가	와야	합니다.
+16	 ‘그	이사는	회계팀의	예산	수정을	기꺼이	승인할	의향이	있다’라는	의미가	되어야	
+하므로	be	willing	to(기꺼이	~할	의향이	있다)	표현을	완성하는	형용사	willing
+이	와야	합니다.	명사	will은	be	willing	to	표현을	완성할	수	없습니다.
+1313
+저작권자의 동의 없이 본 해커스 한 권으로 끝내는 토익 700+ 을 복제•전송•배포하는 등의 행위를 금합니다.저작권자의 동의 없이 본 해커스 한 권으로 끝내는 토익 700+ 을 복제•전송•배포하는 등의 행위를 금합니다.
+Grammar 해설
+형용사와 부사 - 2DAY 07
+Course 2   부사
+HACKERS PRACTICE 정답
+01 ⓐ [토익 포인트 3]  02 ⓐ [토익 포인트 2] 
+03 ⓑ [토익 포인트 1]  04 ⓐ [토익 포인트 4] 
+05 ⓑ [Day06, Course 1, 토익 포인트 1] 06 ⓑ [토익 포인트 2] 
+07 ⓐ [Day06, Course 2, 토익 포인트 1] 08 ⓑ [토익 포인트 2] 
+09 mostly → most [토익 포인트 4] 
+10 submitting → to submit [Day05, Course 1, 토익 포인트 2] 
+11 increasing → increasingly [토익 포인트 1] 
+12 strong → strongly [토익 포인트 1] 
+13 high → highly [토익 포인트 4] 
+14 he → his [Day06, Course 2, 토익 포인트 1] 
+15 generous → generously [토익 포인트 1] 
+16 patience → patiently [토익 포인트 1] 
+HACKERS PRACTICE 해설
+01	 ‘저희의	이번	주	영업	시간은	오후	10시까지	연장되었습니다’라는	의미의	괄호	앞
+의	절과	‘저희는	휴일에도	문을	열	것입니다’라는	의미의	괄호	뒤의	절을	연결해줄	
+적절한	접속부사가	필요하므로	‘더욱이’라는	뜻의	ⓐ	furthermore가	정답입니
+다.	ⓑ	consequently는	‘결과적으로’라는	뜻의	접속부사입니다.
+02	 ‘증가하는	실업이	지난해부터	뉴스에서	종종	언급되어왔다’는	의미가	되도록	
+동사구	has	been	cited를	수식하는	부사가	필요하므로	‘얼마나	자주’	일이	
+발생하는지를	표현하는	빈도	부사인	ⓐ	often이	정답입니다.	ⓑ	almost는		
+‘거의’라는	뜻의	부사입니다.	
+03	 be	동사와	과거분사인	rebuilt	사이에	들어갈	수	있는	것은	동사를	수식할	수	
+있는	부사이므로	ⓑ	completely가	정답입니다.	명사	ⓐ	completion은	동사를	
+수식할	수	없습니다.
+04	 ‘오늘	밤	회사에	늦게까지	남다’라는	의미가	되도록	 to	부정사구	 to	 stay를	
+수식하는	부사가	필요하므로,	‘늦게’라는	의미의	ⓐ	late가	정답입니다.	ⓑ	lately
+는	‘최근에’라는	뜻의	부사입니다.
+05	 괄호는	괄호	앞	동사(help)의	목적어	자리이므로,	명사인	ⓑ	 residents가	
+정답입니다.	ⓐ	residentially는	‘거주	지역에	관해’라는	뜻의	부사입니다.
+06	 ‘Ms.	Cole은	늦고	싶지	않아서	오전	8시	이후에	출근하는	경우가	거의	없다’
+라는	의미가	되어야	하므로	‘거의	~않다’라는	의미의	빈도부사인	ⓑ	seldom이	
+정답입니다.	ⓐ	once는	‘한	번’이라는	뜻의	빈도	부사입니다.
+07	 괄호	뒤에	조동사(will)가	있으므로	주어	자리에	올	수	있는	소유대명사	ⓐ	yours
+가	정답입니다.	소유격	인칭대명사	ⓑ	your는	주어	자리에	단독으로	올	수	
+없습니다.
+08	 ‘관광객들은	역사적으로	의미	있는	장소들을	방문한다’는	의미가	되도록	동사	
+visit을	수식하는	부사가	필요하므로	‘보통’이라는	뜻의	빈도	부사인	ⓑ	usually
+가	정답입니다.	ⓐ	hard는	‘열심히’라는	뜻의	부사입니다.
+09	 형용사	problematic을	수식할	부사가	필요하고,	최상급을	나타내는	the가	밑줄	
+친	곳의	앞에	있으므로	‘주로/대체로’라는	뜻의	부사	mostly가	아니라	‘가장/
+매우’라는	의미의	부사인	most가	와야	합니다.
+10	 need는	to	부정사를	목적어로	취하는	동사이므로	동명사	submitting이	아니라	
+to	부정사	to	submit이	와야	합니다.
+11	 밑줄	친	increasing	앞	뒤의	현재	완료	동사구	has	become	~	popular를	
+수식할	부사가	필요하므로	동명사	increasing이	아니라	부사	increasingly가	
+와야	합니다.
+12	 밑줄	친	strong	뒤의	분사	written을	수식할	부사가	필요하므로	형용사	strong
+이	아니라	부사	strongly가	와야	합니다.
+13	 형용사	likely를	수식할	부사가	필요하므로	형용사	high가	아니라	부사	highly가	
+와야	합니다.
+14	 명사	order를	수식할	형용사가	필요하므로	주격	인칭대명사	he가	아니라	소유격	
+his가	와야	합니다.
+15	 밑줄	친	곳	앞	뒤의	현재	완료	동사구	 has	 provided	 ~를	수식할	부사가	
+필요하므로	형용사	generous가	아니라	부사	generously가	와야	합니다.
+16	 동사	 waited를	 수식할	부사가	필요하므로	명사	 patience가	 아니라	부사	
+patiently가	와야	합니다.
+1414
+저작권자의 동의 없이 본 해커스 한 권으로 끝내는 토익 700+ 을 복제•전송•배포하는 등의 행위를 금합니다.저작권자의 동의 없이 본 해커스 한 권으로 끝내는 토익 700+ 을 복제•전송•배포하는 등의 행위를 금합니다.
+Grammar 해설
+전치사 - 1DAY 08
+Course 1   시간·시점·위치·방향 전치사
+HACKERS PRACTICE 정답
+01 ⓑ [토익 포인트 3]  02 ⓑ [토익 포인트 2] 
+03 ⓐ [토익 포인트 2]  04 ⓑ [토익 포인트 4] 
+05 ⓐ [토익 포인트 1]  06 ⓑ [Day07, Course 1, 토익 포인트 2] 
+07 ⓑ [토익 포인트 3]  08 ⓑ [토익 포인트 4] 
+09 at → during [토익 포인트 2] 
+10 doubts → doubtful [Day07, Course 1, 토익 포인트 1] 
+11 in → to [토익 포인트 4] 
+12 mine → mines [Day06, Course 1, 토익 포인트 2] 
+13 before → after [토익 포인트 2] 
+14 since → from [토익 포인트 2] 
+15 on → at [토익 포인트 1] 
+16 proposing → proposed [Day05, Course 2, 토익 포인트 4] 
+HACKERS PRACTICE 해설
+01	 ‘저장	공간에	있는	상자들은	습기가	있는	바닥보다	위쪽에	보관되어야	한다’라는	
+의미가	되어야	하므로	위치를	나타내는	전치사인	ⓑ	above가	정답입니다.	ⓐ	
+out	of는	‘~밖으로’라는	의미의	방향을	나타내는	전치사입니다.
+02	 ‘Humbert	대학의	많은	온라인	강좌가	1년	내내	제공된다’라는	의미가	되어야	
+하므로	기간을	나타내는	전치사인	ⓑ	throughout이	정답입니다.	ⓐ	into는	‘~
+안으로’라는	의미의	방향을	나타내는	전치사입니다.
+03	 ‘연례	거리	축제는	6시간	동안	Bay가를	폐쇄할	것이다’라는	의미가	되어야	
+하므로	‘~동안’이라는	의미의	기간을	나타내는	전치사인	ⓐ	for가	정답입니다.	
+ⓑ	within은	‘~이내에’라는	의미의	기간을	나타내는	전치사입니다.	
+04	 ‘사무실	입구는	지하철역으로부터	길	건너편에	있다’라는	의미가	되어야	하므로	
+‘~의	건너편에’라는	의미의	방향을	나타내는	전치사	ⓑ	across가	정답입니다.	ⓐ	
+between은	‘~사이에’	라는	의미를	가진	위치를	나타내는	전치사입니다.
+05	 괄호	뒤의	전치사의	목적어	the	box	office는	특정한	장소를	나타내므로	장소를	
+나타내는	전치사	중	지점을	나타내는	ⓐ	at이	정답입니다.	ⓑ	on은	표면	위나	
+일직선	상의	지점을	나타내는	전치사입니다.
+06	 괄호	뒤의	복수명사(questions)를	수식할	수량	형용사가	필요하므로	ⓑ	all이	
+정답입니다.	ⓐ	every는	단수	가산명사	앞에	쓰일	수	있는	수량	형용사입니다.
+07	 ‘그의	가게의	정문	위에	지붕을	설치했다’라는	의미가	되어야	하므로	위치를	
+나타내는	전치사인	ⓑ	over가	정답입니다.	ⓐ	before는	‘~전에’라는	의미를	
+가진	전치사입니다.
+08	 ‘23번	고속도로를	따라	이어지는’이라는	의미가	되어야	하므로	방향을	나타내는	
+전치사인	ⓑ	along이	정답입니다.	ⓐ	during은	‘~동안’이라는	의미의	기간을	
+나타내는	전치사입니다.
+09	 ‘Regina사는	4일의	휴일	동안	문을	닫을	것이다’라는	의미가	되어야	하므로	
+시각•시점을	나타내는	전치사	at이	아니라	기간을	나타내는	전치사	during이	
+와야	합니다.
+10	 밑줄	친	곳은	주격	보어	자리로,	be동사	뒤에서	주어를	설명해주는	역할이므로	
+명사	 doubts가	 아니라	 ‘회의적인’이라는	의미의	형용사	 doubtful이	 와야	
+합니다.
+11	 밑줄	친	곳부터	시작되는	전치사구는	문장의	동사구	are	going을	수식하므로	
+장소를	나타내는	전치사	in이	아니라	방향을	나타내는	전치사	to가	와야	합니다.
+12	 밑줄	 친	 mine은	 가산명사로,	 앞의	 Several이	 복수의	 의미를	 나타내는	
+한정사이므로,	단수명사	mine이	아니라	복수명사	mines가	와야	합니다.
+13	 ‘지진	3년	후,	대부분의	건물이	다시	지어졌다’라는	의미가	되어야	하므로,	‘~전에’
+라는	의미의	before가	아니라	‘~후에’라는	의미의	전치사	after가	와야	합니다.
+14	 ‘5월	1일부터	5월	21일까지’라는	의미가	되어야	하므로	‘~이래로’라는	의미의	
+시점을	나타내는	전치사인	since가	아니라	‘~부터’라는	의미의	전치사	from이	
+와야	합니다.
+15	 밑줄	친	곳	뒤의	전치사의	목적어인	명사구	Kendall	Bookstore는	특정한	장소를	
+나타내므로	표면	위나	일직선	상의	지점을	나타내는	전치사	on이	아니라	지점을	
+나타내는	전치사	at이	와야	합니다.
+16	 ‘제안된	프로젝트’라는	의미가	되어야	하므로	현재분사	proposing이	아니라	
+과거분사	proposed가	와야	합니다.
+1515
+저작권자의 동의 없이 본 해커스 한 권으로 끝내는 토익 700+ 을 복제•전송•배포하는 등의 행위를 금합니다.저작권자의 동의 없이 본 해커스 한 권으로 끝내는 토익 700+ 을 복제•전송•배포하는 등의 행위를 금합니다.
+Grammar 해설
+전치사 - 2DAY 08
+Course 2   기타 전치사 및 전치사 표현
+HACKERS PRACTICE 정답
+01 ⓐ [토익 포인트 1]  02 ⓐ [토익 포인트 1] 
+03 ⓑ [토익 포인트 1]  04 ⓐ [Day07, Course 1, 토익 포인트 1] 
+05 ⓐ [토익 포인트 1]  06 ⓑ [Day07, Course 2, 토익 포인트 1] 
+07 ⓐ [토익 포인트 1]  08 ⓑ [토익 포인트 2] 
+09 in → to [토익 포인트 3] 
+10 throughout → except (for) [토익 포인트 1] 
+11 to → for [토익 포인트 4] 
+12 respond → response [Day06, Course 1, 토익 포인트 1] 
+13 to → for [토익 포인트 1] 
+14 from → of [토익 포인트 3] 
+15 promote → promoted [Day03, Course 1, 토익 포인트 2] 
+16 for → from [토익 포인트 4] 
+HACKERS PRACTICE 해설
+01	 ‘급한	업무	때문에	소프트웨어	지도	시간이	연기되었다’라는	의미가	되어야	하므
+로	이유를	나타내는	전치사인	ⓐ	because	of	가	정답입니다.	ⓑ	contrary	to는	
+‘~과	반대로’라는	의미의	전치사입니다.
+02	 ‘훌륭한	광고	캠페인	없이는,	새	운동화	라인은	판매가	부진할	것으로	예상된다’
+라는	의미가	되어야	하므로	ⓐ	Without이	정답입니다.	ⓑ	As는	‘~으로서’라는	
+의미의	전치사입니다.
+03	 ‘고급	보안	시스템에도	불구하고,	컴퓨터는	여전히	침입에	취약할	수	있다’라는	
+의미가	되어야	하므로	‘~에도	불구하고’라는	의미의	전치사인	ⓑ	In	spite	of	가	
+정답입니다.	ⓐ	Due	to는	‘~때문에’라는	의미의	전치사입니다.
+04	 괄호	뒤의	명사(instructions)를	꾸밀	수	있는	형용사가	필요하므로	ⓐ	specific
+이	정답입니다.	명사	ⓑ	specification은	명사를	꾸밀	수	없습니다.
+05	 ‘대부분의	여행	웹사이트는	사람들이	호텔	객실뿐만	아니라	항공권을	예약할	수	
+있게	한다’라는	의미가	되어야	하므로	‘~에	더하여’라는	의미를	가진	전치사	ⓐ	in	
+addition	to가	정답입니다.	ⓑ	between은	‘~사이에’라는	의미의	전치사입니다.
+06	 괄호	뒤의	동명사(encouraging)를	수식할	수	있는	부사가	필요하므로	ⓑ	
+Continuously가	정답입니다.	동사	ⓐ	Continue는	명사를	꾸밀	수	없습니다.
+07	 ‘전화를	받는	것	외에,	접수원들은	파일을	관리할	책임이	있다’라는	의미가	
+되어야	하므로	ⓐ	Besides가	정답입니다.	ⓑ	Through는	‘~을	통해’라는	의미의	
+전치사입니다.
+08	 ‘45번	도로를	탐으로써	기차역에	빨리	도착할	수	있다’라는	의미가	되어야	
+하므로	ⓑ	by가	정답입니다.	ⓐ	over는	‘~위에’라는	의미의	위치를	나타내는	
+전치사입니다.
+09	 형용사	Contrary가	전치사로	쓰이려면	Contrary	to의	형태가	되어야	하므로	
+전치사	in이	아니라	to가	와야	합니다.
+10	 ‘Lucy’s	Bar	 and	Grill은	월요일을	제외하고	매일	연다’라는	의미가	되어야	
+하므로	 ‘전반에	 걸친’이라는	 의미의	 전치사	 throughout이	 아니라	 ‘~을	
+제외하고’라는	의미의	전치사	except	(for)가	와야	합니다.
+11	 동사	register는	전치사	for를	취하는	동사이므로	전치사	to가	아니라	for가	와야	
+합니다.
+12	 형용사	enthusiastic이	수식할	명사가	필요하므로	동사	respond가	아니라	명사	
+response가	와야	합니다.
+13	 ‘직원들은	업무와	관련된	비용에	대해서만	법인	신용카드를	사용할	수	있다’라는	
+의미가	되어야	하므로	전치사	to가	아니라	‘~을	위해서’라는	의미의	전치사	for가	
+와야	합니다.
+14	 전치사	on	behalf	of는	‘~를	대표하여’라는	의미로	세	단어가	함께	묶여	쓰이는	
+전치사이므로	전치사	from이	아니라	of가	와야	합니다.
+15	 밑줄	친	promote	앞에	be동사가	있고,	 ‘각	브랜드는	개별적으로	홍보된다’
+라는	의미의	수동형이	되어야	하므로	동사원형	promote가	아니라	p.p.	형태의	
+promoted가	와야	합니다.
+16	 형용사	absent는	전치사	from와	함께	쓰이므로	전치사	for가	아니라	from이	
+와야	합니다.
+1616
+저작권자의 동의 없이 본 해커스 한 권으로 끝내는 토익 700+ 을 복제•전송•배포하는 등의 행위를 금합니다.저작권자의 동의 없이 본 해커스 한 권으로 끝내는 토익 700+ 을 복제•전송•배포하는 등의 행위를 금합니다.
+Grammar 해설
+접속사와 절 1 - 1DAY 09
+Course 1   등위접속사와 상관접속사
+HACKERS PRACTICE 정답
+01 ⓐ [토익 포인트 1]  02 ⓐ [토익 포인트 3] 
+03 ⓐ [토익 포인트 1]  04 ⓑ [토익 포인트 3] 
+05 ⓐ [Day08, Course 1, 토익 포인트 2] 06 ⓑ [토익 포인트 1] 
+07 ⓑ [Day07, Course 1, 토익 포인트 2] 08 ⓑ [토익 포인트 1] 
+09 silent → silently [Day07, Course 2, 토익 포인트 1] 
+10 or → nor [토익 포인트 3] 
+11 about → within [Day08, Course 1, 토익 포인트 2] 
+12 is → are [토익 포인트 2] 
+13 then → but [토익 포인트 3] 
+14 are → is [토익 포인트 4] 
+15 and → but [토익 포인트 3] 
+16 need → needs [토익 포인트 2] 
+HACKERS PRACTICE 해설
+01	 ‘택시를	타거나	차량을	대여할	수	있다’라는	의미가	되어야	하므로	등위접속사	ⓐ	
+or가	정답입니다.	ⓑ	nor는	부정의	의미를	가진	상관접속사	neither	A	nor	B를	
+사용할	때	함께	쓰입니다.
+02	 괄호	뒤의	 and와	함께	상관접속사	 both	 A	 and	 B를	만드는	ⓐ	 both가	
+정답입니다.	ⓑ	either는	or와	함께	상관접속사	either	A	or	B	형태로	쓰입니다.
+03	 ‘보고서는	오늘	마감이었지만,	먼저	완료할	다른	일들이	너무	많이	있었다’라는	
+의미가	되어야	하므로	‘그러나’라는	의미의	등위접속사인	ⓐ	yet이	정답입니다.	
+ⓑ	even은	‘~도,	~조차’라는	의미의	부사입니다.
+04	 ‘Ms.	Bouma는	뛰어난	프로그래머일	뿐만	아니라	커뮤니케이션	전문가이다’
+라는	의미가	되어야	하므로	‘~뿐만	아니라’라는	뜻의	접속사	ⓑ	as	well	as가	
+정답입니다.	ⓐ	but	also는	not	only	A	but	also	B의	형태로	쓰입니다.
+05	 ‘그	강연자는	그의	강연	끝까지	질문을	보류할	것을	모두에게	요청했다’라는	
+의미가	되어야	하므로	‘~까지’라는	의미의	시점을	나타내는	전치사인	ⓐ	until이	
+정답입니다.	ⓑ	since는	‘~이래로’라는	뜻의	전치사입니다.
+06	 괄호는	절과	절	사이를	연결해주는	접속사	자리로,	 ‘관광	산업이	번성하고	
+있지만,	호텔	이용률은	하락세에	있다’라는	의미가	되어야	하므로	‘그러나’라는	
+의미의	등위접속사인	ⓑ	yet이	정답입니다.	ⓐ	for는	전치사이므로	절과	절을	
+연결할	수	없습니다.
+07	 괄호	뒤의	단수	가산명사	month를	꾸며줄	수량	형용사가	필요하므로	ⓑ	each
+가	정답입니다.	ⓐ	much는	불가산명사	앞에	올	수	있는	수량	형용사입니다.
+08	 괄호는	구와	구를	연결해주는	접속사	자리로,	 ‘Mr.	 Hinkley는	Lapis사에서	
+계속해서	근무할	것이지만,	본사로	전근	갈	것이다’라는	의미가	되어야	하므로	‘
+그러나’라는	의미의	등위접속사인	ⓑ	but이	정답입니다.	ⓐ	still은	‘아직’이라는	
+뜻의	부사이므로	구와	구를	연결할	수	없습니다.
+09	 동사	speak를	수식할	부사가	필요하므로	형용사	silent가	아니라	부사	silently
+가	와야	합니다.
+10	 밑줄	친	곳은	상관접속사	neither가	이끄는	명사구에	포함되었으므로,	neither
+와	짝이	맞지	않는	or가	아니라	nor가	와야	합니다.
+11	 ‘고객들은	영업일	기준	10일	내에	배송을	받을	것으로	예상할	수	있다’라는	
+의미가	되어야	하므로	‘대략’이라는	의미의	부사	about이	아니라	‘~이내에’라는	
+의미의	전치사	within이	와야	합니다.
+12	 주어가	등위접속사	and로	연결되어	복수	취급하여야	하므로	3인칭	단수	be
+동사인	is가	아니라	3인칭	복수	be동사	are가	와야	합니다.
+13	 앞의	not	one과	함께	not	A	but	B의	상관접속사	형태가	되어야	하므로	짝이	
+맞지	않는	then이	아니라	but이	와야	합니다.
+14	 neither	A	nor	B는	B에	수일치를	시켜야	하는	상관접속사이므로	television에	
+수를	일치시켜야	합니다.	따라서	3인칭	복수	be동사	are가	아니라	3인칭	단수	
+be동사	is가	와야	합니다.
+15	 앞의	not	only	incentive	bonuses와	함께	not	only	A	but	B의	상관접속사	
+형태가	되어야	하므로	짝이	맞지	않는	and가	아니라	but이	와야	합니다.
+16	 주어가	등위접속사	or로	연결되어	the	general	manager에	해당하는	B에	수를	
+일치시켜야	하므로	3인칭	복수의	동사	형태	need가	아니라	3인칭	단수의	동사	
+형태	needs가	와야	합니다.
+1717
+저작권자의 동의 없이 본 해커스 한 권으로 끝내는 토익 700+ 을 복제•전송•배포하는 등의 행위를 금합니다.저작권자의 동의 없이 본 해커스 한 권으로 끝내는 토익 700+ 을 복제•전송•배포하는 등의 행위를 금합니다.
+Grammar 해설
+접속사와 절 1 - 2DAY 09
+Course 2   관계절
+HACKERS PRACTICE 정답
+01 ⓐ [토익 포인트 2]  02 ⓐ [토익 포인트 2] 
+03 ⓐ [Day08, Course 2, 토익 포인트 1] 04 ⓑ [토익 포인트 4] 
+05 ⓑ [토익 포인트 2]  06 ⓐ [토익 포인트 2] 
+07 ⓑ [Day05, Course 1, 토익 포인트 3] 08 ⓑ [토익 포인트 1] 
+09 what → where [토익 포인트 4] 
+10 below → on [Day08, Course 1, 토익 포인트 1] 
+11 why → when [토익 포인트 3] 
+12 this → that 또는 which [토익 포인트 1] 
+13 whom → why [토익 포인트 4] 
+14 is → was [Day04, Course 2, 토익 포인트 1] 
+15 who → whose [토익 포인트 2] 
+16 which → how [토익 포인트 4] 
+HACKERS PRACTICE 해설
+01	 선행사(The	candidate)가	사람이고,	관계대명사가	관계절	안에서	주어	역할을	
+하고	있으므로	관계대명사	ⓐ	who가	정답입니다.	ⓑ	whose는	관계절	안에서	
+소유격일	때	사용합니다.
+02	 선행사(The	company)가	사물이고,	관계대명사가	관계절	안에서	주어	역할을	
+하고	 있으므로	관계대명사	ⓐ	 that이	 정답입니다.	ⓑ	 whom은	 선행사가	
+사람이고	목적격일	때	사용합니다.
+03	 ‘부족한	봉사자들에도	불구하고’라는	의미가	되어야	하므로	양보를	나타내는	
+전치사	ⓐ	despite(~에도	불구하고)가	정답입니다.	ⓑ	within은	‘특정	기간	
+이내에’라는	뜻의	전치사입니다.
+04	 괄호	뒤에	주어가	없는	불완전한	절이	왔으므로	관계부사(where)가	 아닌	
+관계대명사	ⓑ	that이	정답입니다.	관계부사	ⓐ	where	뒤에는	완전한	절이	
+옵니다.
+05	 선행사(painting)가	사물이고,	관계대명사가	관계절	안에서	목적어	역할을	하고	
+있으므로	관계대명사	ⓑ	which가	정답입니다.	ⓐ	who는	선행사가	사람이고	
+주격	또는	목적격일	때	사용합니다.
+06	 선행사(Ms.	Meyers)가	사람이고,	관계대명사가	관계절	안에서	목적어	역할을	
+하고	있으므로	관계대명사	ⓐ	whom이	정답입니다.	ⓑ	 whose는	관계절	
+내에서	소유격일	때	사용합니다.
+07	 괄호부터	questions까지((				)~questions)가	전치사의	목적어	자리에서	명사	
+역할을	하고	있습니다.	전치사의	목적어	자리에서	명사	역할을	하는	동명사	
+ⓑ	responding이	정답입니다.	동사원형	ⓐ	respond는	명사	역할을	할	수	
+없습니다.
+08	 Animals를	꾸며주기	위한	관계절을	이끄는	자리이므로	관계대명사	ⓑ	that이	
+정답입니다.	대명사	ⓐ	they는	관계절을	이끌	수	없습니다.
+09	 밑줄	친	what	앞에	장소를	나타내는	선행사	building이	있으므로	관계부사	
+where가	와야	합니다.
+10	 밑줄	 친	 below	 뒤에	 New	 Year’s	 Day라는	 날짜가	 왔으므로,	 시간을	
+나타내는	전치사	중	on이	와야	합니다.	Below(~아래에)는	위치를	나타내는	
+전치사입니다.
+11	 시간을	나타내는	선행사(time)가	왔으므로	관계부사	‘when’이	와야	합니다.
+12	 The	survey를	수식하기	위한	관계절을	이끄는	자리이므로	지시대명사(this)가	
+아닌	관계부사	‘that’	또는	‘which’가	와야	합니다.
+13	 밑줄	친	whom	뒤에	주어(he)와	목적어(cancel	his	contract)가	모두	갖춰진	
+완전한	절이	왔으므로	관계대명사	 whom이	아닌	관계부사	 ‘why’가	 와야	
+합니다.
+14	 과거	시제	표현(last	year)이	있으므로	과거	시제	‘was’가	와야	합니다.	
+15	 선행사(Mr.	Orville)가	사람이고,	관계대명사가	관계절	안에서	‘~의’를	의미하며	
+명사(shop)를	꾸며	주는	소유격	역할을	하고	있으므로	관계대명사	‘whose’가	
+와야	합니다.
+16	 밑줄	친	which	뒤에	주어(the	equipment)와	동사구(can	be	operated)
+가	모두	갖춰진	완전한	절이	왔으므로	관계대명사가	아닌	관계부사	‘how’가	
+정답입니다.
+1818
+저작권자의 동의 없이 본 해커스 한 권으로 끝내는 토익 700+ 을 복제•전송•배포하는 등의 행위를 금합니다.저작권자의 동의 없이 본 해커스 한 권으로 끝내는 토익 700+ 을 복제•전송•배포하는 등의 행위를 금합니다.
+Grammar 해설
+접속사와 절 2 - 1DAY 10
+Course 1   부사절
+HACKERS PRACTICE 정답
+01 ⓑ [토익 포인트 1]  02 ⓑ [토익 포인트 3] 
+03 ⓐ [토익 포인트 2]  04 ⓑ [토익 포인트 3] 
+05 ⓑ [토익 포인트 2]  06 ⓑ [토익 포인트 4] 
+07 ⓐ [토익 포인트 3]  08 ⓑ [토익 포인트 4] 
+09 they → that [토익 포인트 4] 
+10 mistakenly → mistake [Day06, Course 1, 토익 포인트 1] 
+11 drops → dropped [Day03, Course 1, 토익 포인트 2] 
+12 In spite of → After [토익 포인트 2] 
+13 responsibility → responsible [Day07, Course 1, 토익 포인트 4] 
+14 whom → who [Day09, Course 2, 토익 포인트 2] 
+15 in → on [토익 포인트 3] 
+16 even → so [토익 포인트 4] 
+HACKERS PRACTICE 해설
+01	 부사절을	이끄는	부사절	접속사	ⓑ	before(~하기	전에)가	정답입니다.	전치사	
+ⓐ	within은	부사절을	이끄는	부사절	접속사	자리에	올	수	없습니다.
+02	 ‘자금을	받는	한	계속	운영될	것이다’라는	의미가	되어야	하므로,	부사절(it	
+continues	 to	 receive	 funding)이	 주절(The	 Helmsburg	 Center	 will	
+remain	open)의	조건임을	나타내는	부사절	접속사	ⓑ	as	long	as(오직	~
+하는	경우에만)가	정답입니다.	ⓐ	in	that은	‘~이라는	점에서’라는	뜻으로	어색한	
+문맥을	만듭니다.
+03	 ‘모두가	앉자마자’라는	의미가	되어야	하므로,	ⓐ	as	soon	as(~하자마자)가	
+정답입니다.	ⓑ	even	though는	‘~임에도	불구하고’라는	뜻으로	어색한	문맥을	
+만듭니다.
+04	 ‘두	번째	교육자는	아직	교육	중인	반면’이라는	의미가	되어야	하므로	양보를	
+나타내는	부사절	접속사	ⓑ	whereas(~한	반면에)가	정답입니다.	ⓐ	so	that은	
+‘~할	수	있도록’	이라는	뜻으로	어색한	문맥을	만듭니다.
+05	 ‘부서장이	자리를	비운	동안’이라는	의미가	되어야	하므로	ⓑ	while(~하는	동안)
+이	정답입니다.	ⓐ	although는	‘~임에도	불구하고’라는	뜻으로	어색한	문맥을	
+만듭니다.
+06	 ‘그녀의	직원들이	동기가	부여되게	하기	위해’라는	의미가	되어야	하므로	목적을	
+나타내는	부사절	접속사	ⓑ	in	order	that(~할	수	있도록)이	정답입니다.	부사	
+ⓐ	accordingly(그래서,	그런	이유로)는	부사절	접속사	자리에	올	수	없습니다.
+07	 ‘강연자	중	한	명이	나타나지	않더라도’라는	의미가	되어야	하므로	부사절(one	
+of	the	speakers	doesn’t	show	up)이	주절(The	convention	will	continue)
+의	조건임을	나타내는	부사절	접속사	ⓐ	even	if(비록	~이지만)가	정답입니다.	
+ⓑ	once는	‘일단	~하면’이라는	뜻으로	어색한	문맥을	만듭니다.
+08	 ‘호텔에	도착하자마자,	Ms.	Quincy는	매우	피곤해서	곧장	잠을	잤다’라는	의미가	
+되어야	하므로	부사절(she	went	to	bed	right	away)이	주절(Upon	arriving	
+at	the	hotel,)의	결과임을	나타내는	부사절	접속사	so/such	~	that	-	(매우	~
+해서	-하다)를	완성하는	ⓑ	so가	정답입니다.	ⓐ	much는	so/such	~	that	-	
+표현을	완성할	수	없습니다.
+09	 ‘많은	비용이	든다는	것을	제외하면	도움이	될	것이다’라는	의미가	되어야	하므로,	
+부사절(it	would	cost	a	lot	of	money)을	제외하고	주절(Hiring	more	staff	
+for	 the	busy	holiday	 season	would	be	helpful)임을	나타내는	부사절	
+접속사	except	that을	완성할	수	있는	‘that’이	와야	합니다.
+10	 밑줄	친	곳은	동사(discovered)의	목적어	자리이므로,	부사(mistakenly)가	
+아닌	명사	‘mistake’가	정답입니다.
+11	 밑줄	 친	 drops	 앞에	 have동사(has)가	 있으므로	 have동사(has)와	 함께	
+완료형을	만드는	동사	drop의	p.p.형	‘dropped’가	와야	합니다.
+12	 ‘그의	가게를	홍보한	이후,	매출이	상승했다’라는	의미가	되어야	하고,	밑줄	친	
+In	spite	of	뒤에	주어(Mr.	Willis)와	동사(promoted),	목적어(his	store)가	
+있는	완전한	절이	왔으므로	부사절을	이끌	수	있는	부사절	접속사	‘After’가	와야	
+합니다.	전치사	‘In	spite	of’는	부사절을	이끌	수	없습니다.	
+13	 ‘모든	나무를	치워야	할	책임이	있다’라는	의미가	되어야	하므로	‘be	responsible	
+for’(~에	책임이	있다)	표현을	완성하는	형용사	‘responsible’이	와야	합니다.
+14	 밑줄	친	whom	앞의	선행사(participants)가	사람이고	관계대명사가	관계절	
+안에서	주어	역할을	하고	있으므로	주격	관계대명사	 ‘who’가	와야	합니다.	
+‘whom’은	목적격일	때	사용합니다.	
+15	 ‘직원들은	오직	내일	늦게까지	남아	있는	경우에만	오늘	일찍	퇴근할	수	있다’라는	
+의미가	되어야	하므로,	부사절(they	stay	late	tomorrow)이	주절(Employees	
+may	leave	early	today)의	조건임을	나타내는	부사절	접속사	on	condition	
+that(오직	~하는	경우에만)을	완성하는	‘on’이	와야	합니다.
+16	 ‘회의실은	더	많은	직원들이	편안하게	들어갈	수	있도록	확장되고	있다’라는	
+의미가	되어야	하므로,	부사절(more	staff	can	fit	in	it	comfortably)이	주절
+(The	conference	room	is	being	expanded)의	목적임을	나타내는	부사절	
+접속사	so	that(~할	수	있도록)을	완성하는	‘so’가	와야	합니다.
+1919
+저작권자의 동의 없이 본 해커스 한 권으로 끝내는 토익 700+ 을 복제•전송•배포하는 등의 행위를 금합니다.저작권자의 동의 없이 본 해커스 한 권으로 끝내는 토익 700+ 을 복제•전송•배포하는 등의 행위를 금합니다.
+Grammar 해설
+접속사와 절 2 - 2DAY 10
+Course 2   명사절
+HACKERS PRACTICE 정답
+01 ⓐ [토익 포인트 1]  02 ⓑ [토익 포인트 3] 
+03 ⓑ [토익 포인트 1]  04 ⓐ [토익 포인트 1] 
+05 ⓐ [Day09, Course 2, 토익 포인트 1] 06 ⓑ [토익 포인트 1] 
+07 ⓑ [토익 포인트 3]  08 ⓑ [토익 포인트 3] 
+09 how → which [토익 포인트 4] 
+10 Who → What [토익 포인트 4]  
+11 what → when [Day10, Course 1, 토익 포인트 2] 
+12 why → who [토익 포인트 4] 
+13 his → whose [Day09, Course 2, 토익 포인트 1] 
+14 was → were [Day03, Course 2, 토익 포인트 1] 
+15 besides → but also [Day09, Course 1, 토익 포인트 3] 
+16 which → whether [토익 포인트 3] 
+HACKERS PRACTICE 해설
+01	 괄호부터	properly까지((				)~properly)가	동사(found	out)의	목적어	역할을	
+하고	있으므로	명사절을	이끄는	명사절	접속사	ⓐ	why가	정답입니다.	명사절을	
+이끄는	명사절	접속사	자리에	전치사	ⓑ	about은	올	수	없습니다.
+02	 ‘온라인으로	주문된	셔츠가	반품될	수	있는지’라는	의미가	되어야	하므로	ⓑ	if(~
+인지	아닌지)가	정답입니다.	관계대명사	ⓐ	who는	‘~인지	아닌지’의	의미를	
+갖고	있지	않습니다.
+03	 괄호부터	up까지((				)~up)가	전치사	about의	목적어	역할을	하고	있으므로	
+명사절을	이끄는	명사절	접속사	ⓑ	how가	정답입니다.	명사절을	이끄는	명사절	
+접속사	자리에	전치사	ⓐ	by는	올	수	없습니다.
+04	 ‘회사는	 새로운	 체중	 감량	 약이	 성공적일	 것이라고	 확신했다’라는	 의미가	
+되어야	하고,	괄호	뒤에	주어(its	new	weight	loss	drug)와	동사(would	be	
+successful)가	모두	갖춰진	완전한	절이	왔으므로	명사절을	이끄는	명사절	
+접속사	ⓐ	that이	정답입니다.	전치사	ⓑ	because	of는	절을	이끌	수	없습니다.	
+05	 선행사(The	statues)가	사물이고	괄호	뒤에	주어가	없이	동사(were	erected)
+만	있으므로	관계절	안에서	주어	역할을	하는	관계대명사	ⓐ	that이	정답입니다.	
+대명사	ⓑ	them은	관계절을	이끄는	관계대명사	자리에	올	수	없습니다.
+06	 괄호부터	car까지((				)~car)가	동사(forgot)의	목적어	역할을	하고	있으므로	
+명사절	접속사	ⓑ	where가	정답입니다.	명사절을	이끄는	명사절	접속사	자리에	
+전치사	ⓐ	at은	올	수	없습니다.
+07	 ‘시장이	 유망한지	 아닌지에	 상관없이’라는	 의미가	 되어야	 하고,	 괄호부터	
+favorable까지((				)~favorable)가	전치사(regardless	of)의	목적어	역할을	
+하고	있으므로	ⓑ	whether가	정답입니다.	ⓐ	either는	 ‘either	A	or	B’의	
+형태로,	‘A	또는	B’라는	뜻으로	쓰입니다.
+08	 ‘그의	예정된	면접이	월요일까지	연기될	수	있는지’라는	의미가	되어야	하고,	
+괄호부터	Monday까지((				)~Monday)가	동사(inquiring)의	목적어	역할을	
+하고	있으므로	ⓑ	if가	정답입니다.	ⓐ	what은	‘~인지	아닌지’의	의미를	갖고	
+있지	않습니다.
+09	 밑줄	친	how	뒤에	동사가	없는	불완전한	절(airport	terminal	the	flight	will	be	
+departing	from)이	왔고,	밑줄	친	곳이	airport	terminal을	수식하며	명사절을	
+이끌어야	하므로,	의문부사	how가	아니라	의문형용사	which가	와야	합니다.
+10	 문장에	주어가	없으므로	Who부터	 tonight까지(Who	 ~	 tonight)가	주어	
+역할을	해야	하고,	밑줄	친	곳이	명사절의	동사(said)의	목적어	역할을	해야	
+하므로	What이	와야	합니다.
+11	 밑줄	친	 what	 뒤에	주어,	 동사가	있는	완전한	절이	왔고,	 ‘최고	경영자가	
+로스앤젤레스	지사에	도착할	때’라는	의미가	되어야	하므로	의문부사	when이	
+와야	합니다.
+12	 밑줄	친	why	뒤에	주어가	없는	불완전한	절이	왔고,	‘누가	개회식에서	환영사를	
+할	것인지를	선택한다’라는	의미가	되어야	하므로	의문부사	why가	아니라	
+의문대명사	who가	와야	합니다.	
+13	 선행사(visiting	 client)가	사람이고,	관계절	내에서	소유격으로	쓰였으므로	
+whose가	와야	합니다.	소유격	인칭대명사	his는	관계절을	이끌	수	없습니다.	
+14	 복수	주어(caves)	뒤에는	복수	동사를	써야	하므로,	단수	동사(was)가	아닌	복수	
+동사	were가	와야	합니다.
+15	 밑줄	친	besides	앞의	not	only와	함께	상관접속사	not	only	A	but	(also)	B(A
+뿐	아니라	B도)	표현을	만드는	but	also가	와야	합니다.	besides(~외에)는	not	
+only	A	but	also	B	표현을	완성할	수	없습니다.
+16	 밑줄	친	which부터	policies까지(which	~	policies)가	전치사	about의	목적어	
+역할을	하고	있고,	밑줄	친	which	뒤에	완전한	절이	왔으므로	명사절을	이끄는	
+명사절	접속사	whether가	와야	합니다.	
+2020
+저작권자의 동의 없이 본 해커스 한 권으로 끝내는 토익 700+ 을 복제•전송•배포하는 등의 행위를 금합니다.저작권자의 동의 없이 본 해커스 한 권으로 끝내는 토익 700+ 을 복제•전송•배포하는 등의 행위를 금합니다.
+Grammar 해설
+특수구문 - 1DAY 11
+Course 1   비교 구문
+HACKERS PRACTICE 정답
+01 ⓑ [토익 포인트 3]  02 ⓑ [토익 포인트 1] 
+03 ⓐ [토익 포인트 2]  04 ⓑ [Day09, Course 1, 토익 포인트 1] 
+05 ⓐ [토익 포인트 1]  06 ⓐ [토익 포인트 4] 
+07 ⓐ [Day08, Course 1, 토익 포인트 1] 
+08 ⓐ [Day10, Course 1, 토익 포인트 2] 
+09 harder → hardest [토익 포인트 3] 
+10 imaginative → more imaginative [토익 포인트 2] 
+11 elegance → elegant [토익 포인트 1] 
+12 much → many [토익 포인트 1] 
+13 and → than [토익 포인트 2] 
+14 hotter → hottest [토익 포인트 3] 
+15 another → other [토익 포인트 4] 
+16 with → of [Day08, Course 2, 토익 포인트 4] 
+HACKERS PRACTICE 해설
+01	 괄호	앞의	the,	괄호	뒤의	tomatoes	in	the	city와	함께	최상급	표현	‘형용사/부
+사의	최상급	+	of	~/in	~/	that절’을	만드는	ⓑ	freshest가	정답입니다.	부사	ⓐ	
+freshly는	명사‘tomatoes’를	수식할	수	없습니다.
+02	 두	대상(the	board,	the	CEO)의	동등함을	나타내는	원급	구문	‘as	+	형용사/
+부사	+	as’(~만큼	-한)을	만드는	형용사	ⓑ	positive가	정답입니다.	명사	ⓐ	
+positivity는	원급	구문을	완성할	수	없습니다.
+03	 두	대상(property	prices	in	the	area,	they	were	several	years	ago)	중	한쪽
+(property	prices	 in	the	area)이	우월함을	나타내는	비교급	구문	‘형용사/
+부사의	비교급	+	than’을	만드는	ⓐ	than이	정답입니다.	ⓑ	that은	비교급	
+구문을	완성할	수	없습니다.
+04	 ‘의류를	반품하는	고객들은	영수증을	가지고	있어야	하고	가격표가	붙어있다는	
+것을	확실히	해야	한다’라는	의미가	되어야	하므로,	등위접속사	ⓑ	and(그리고)
+가	정답입니다.	전치사	ⓐ	before(~이전에)는	뒤에	명사가	와야	합니다.
+05	 두	대상(it	will	rain	this	week,	it	did	during	last	year’s	storm)의	동등함을	
+나타내는	원급	구문	‘as	+	형용사/부사	+	as’(~만큼	-한)을	만드는	ⓐ	as가	
+정답입니다.	ⓑ	much는	원급	구문을	완성할	수	없습니다.
+06	 ‘몇	주보다는	며칠	뒤에	운영될	것이다’라는	의미가	되어야	하므로,	‘~보다는’
+이라는	뜻의	표현	rather	than을	만드는	ⓐ	than이	정답입니다.	ⓑ	more는	
+rather	than	표현을	완성할	수	없습니다.
+07	 ‘Ms.	 Kim은	현재	업무차	런던에	있는데,	금요일까지는	돌아올	것이다’라는	
+의미가	되어야	하므로	장소를	나타내는	전치사	중	ⓐ	in이	정답입니다.	ⓑ	to는	
+이동	방향을	나타내는	전치사입니다.
+08	 ‘경영진이	신입	직원을	몇	명	채용할	때까지’라는	의미가	되어야	하므로	시간을	
+나타내는	부사절	접속사	ⓐ	until(~할	때까지)이	정답입니다.	ⓑ	as	soon	as는	
+‘~하자마자’라는	의미입니다.
+09	 밑줄	친	harder	앞의	the,	밑줄	친	harder	뒤의	worker	in	his	department
+와	함께	최상급	표현	‘형용사/부사의	최상급	+	of	~/in	~/	that절’을	만드는	
+hardest가	와야	합니다.
+10	 밑줄	 친	 imaginative	 뒤에	 비교급을	 나타내는	 than이	 왔으므로,	 more	
+imaginative가	와야	합니다.	
+11	 두	대상(the	hotel,	a	palace)의	동등함을	나타내는	원급	구문	‘as	+	형용사/
+부사	 +	 as’(~만큼	 -한)을	 만드는	 형용사	 elegant가	 와야	 합니다.	 명사	
+elegance는	원급	구문을	완성할	수	없습니다.	
+12	 밑줄	친	much	뒤에	가산	복수	명사인	tourists가	왔으므로,	가산	수량	형용사	
+many가	와야	합니다.	much는	불가산	수량	형용사입니다.	
+13	 두	대상(workers	with	flexible	schedules,	those	without	them)	중	한쪽
+(workers	with	flexible	schedules)이	우월함을	나타내는	비교급	구문	‘형용사/
+부사의	비교급	+	than’을	만드는	than이	와야	합니다.
+14	 밑줄	친	hotter	앞의	the,	밑줄	친	hotter	뒤의	day	the	city	has	had	in	over	
+a	decade와	함께	최상급	표현	‘형용사/부사의	최상급	+	of	~/in	~/	that절’을	
+만드는	‘hottest’가	와야	합니다.
+15	 ‘배송	영수증은	Ms.	Clowery	외에	다른	사람에	의해	서명될	수	없다’라는	의미가	
+되어야	하므로	 ‘~	이외에’라는	의미의	other	 than을	만드는	other가	와야	
+합니다.	
+16	 ‘한	해의	시기와	상관없이’라는	의미가	되어야	하므로	 ‘regardless	 of’(~에	
+상관없이)	표현을	만드는	of가	와야	합니다.	with는	regardless와	함께	쓰일	수	
+없습니다.
+2121
+저작권자의 동의 없이 본 해커스 한 권으로 끝내는 토익 700+ 을 복제•전송•배포하는 등의 행위를 금합니다.저작권자의 동의 없이 본 해커스 한 권으로 끝내는 토익 700+ 을 복제•전송•배포하는 등의 행위를 금합니다.
+Grammar 해설
+특수구문 - 2DAY 11
+Course 2   병치·도치 구문
+HACKERS PRACTICE 정답
+01 ⓐ [토익 포인트 1]  02 ⓑ [토익 포인트 2] 
+03 ⓐ [토익 포인트 1]  04 ⓑ [토익 포인트 3] 
+05 ⓐ [Day09, Course 1, 토익 포인트 3] 06 ⓐ [토익 포인트 1] 
+07 ⓑ [Day10, Course 1, 토익 포인트 4] 08 ⓐ [토익 포인트 2] 
+09 becomes → become [토익 포인트 3] 
+10 such → so [토익 포인트 4] 
+11 cancel → canceled [토익 포인트 2] 
+12 by → to [Day08, Course 2, 토익 포인트 3] 
+13 she did → did she [토익 포인트 3] 
+14 either → neither [토익 포인트 4] 
+15 apologizes → apologized [토익 포인트 1] 
+16 are → is [Day03, Course 2, 토익 포인트 1] 
+HACKERS PRACTICE 해설
+01	 등위접속사(and)	뒤에	현재	시제	동사(extends	operating	hours)가	있으므로	
+and	앞에도	현재	시제	동사가	와야	합니다.	따라서	현재	시제	동사	ⓐ	reduces
+가	정답입니다.	과거	시제	동사	ⓑ	reduced는	현재	시제	동사와	등위접속사로	
+연결될	수	없습니다.
+02	 주어(the	company)와	동사(has	experienced)가	도치된	절	앞에서	도치	
+구문을	이끌	수	있는	부정어	ⓑ	Never(결코	~	않다)가	정답입니다.	ⓐ	When은	
+도치가	일어나	맨	앞으로	나오는	부정어가	아닙니다.
+03	 등위접속사(but)	뒤에	형용사(worthwhile)가	있으므로	but	앞에도	형용사가	
+와야	합니다.	따라서	형용사	ⓐ	difficult가	정답입니다.	명사	ⓑ	difficulty는	
+형용사와	등위접속사로	연결될	수	없습니다.
+04	 이	문장은	‘Only	+	부사절(after	the	new	software	was	installed)’이	문장	
+앞에	와서	 주어(Ms.	 Howell)와	 동사(could	 begin	 her	 work)가	 도치된	
+문장입니다.	따라서	ⓑ	only가	정답입니다.	ⓐ	More는	‘더’라는	의미로	도치를	
+일으킬	수	없습니다.
+05	 괄호	뒤의	or와	함께	상관접속사	either	A	or	B(A	또는	B	중	하나)를	만드는	ⓐ	
+either가	정답입니다.	ⓑ	both는	both	A	and	B(A와	B	모두)를	만듭니다.
+06	 등위접속사(and)	 앞에	 동명사구(registering	 for	 the	 workshop)가	
+있으므로	and	뒤에도	동명사구가	와야	합니다.	따라서	동명사	ⓐ	requiring
+이	정답입니다.	to	부정사	ⓑ	to	require는	동명사와	등위접속사로	연결될	수	
+없습니다.
+07	 ‘관리자가	교통	체증에	갇혀	있었기	때문에	오전	회의가	연기되었다’라는	의미가	
+되어야	하므로	이유를	나타내는	부사절	접속사	ⓑ	because가	정답입니다.	부사	
+ⓐ	rarely(드물게,	좀처럼)는	부사절	접속사	자리에	올	수	없습니다.	
+08	 주어(Mr.	Kim)와	동사(had	begun)가	도치된	절	앞에서	도치	구문을	이끌	수	
+있는	부정어	ⓐ	Hardly(거의	~	아니다)가	정답입니다.	ⓑ	Very는	도치가	일어나	
+맨	앞으로	나오는	부정어가	아닙니다.
+09	 이	문장은	‘Only	+	부사(recently)’가	문장	맨	앞에	와서	주어(the	company)
+와	동사(did	~	(	 	 	 	))가	도치된	문장입니다.	밑줄	앞에	주어와	do동사(did)
+가	있으므로	주어	다음의	일반동사	자리에는	동사원형이	와야	합니다.	따라서	
+becomes가	아니라	become이	와야	합니다.	
+10	 주어(latest	fashion	designs	for	warmer	weather)와	동사(have)가	도치된	
+절에서	도치	구문을	이끌	수	있는	‘so’(~도	역시	그러하다)가	와야	합니다.	Such
+는	도치	구문을	이끌	수	없습니다.
+11	 이	문장은	부정어	Seldom(거의	~	않는)이	강조되어	문장	맨	앞에	와서	주어
+(board	meeting)와	동사(is	canceled)가	도치된	문장입니다.	 ‘이사회의가	
+취소되는	적은	거의	없다’라는	의미가	되어야	하므로	능동태	동사	cancel이	
+아니라	수동태	동사	canceled가	와야	합니다.
+12	 ‘가격에	있어	Bridge	Mobile과	비슷하다’라는	의미가	되어야	하므로,	‘형용사	+	
+전치사’	표현	‘similar	to’(~과	비슷한)를	만드는	to가	와야	합니다.
+13	 이	문장은	‘Only	+	부사절(after	Ms.	Sullivan	came	back	to	the	office)’이	
+문장	맨	앞에	왔으므로	주어(she)와	동사(did	~	want	us	to	call	the	caterer)
+가	도치되어야	합니다.	따라서	she	did가	아닌	did	she가	와야	합니다.
+14	 주어(Ms.	Powell)와	동사(has)가	도치된	절에서	도치	구문을	이끌	수	있는	
+‘neither’(~도	역시	그렇지	않다)가	정답입니다.	either는	도치	구문을	이끌	수	
+없습니다.
+15	 등위접속사(and)	뒤에	과거	시제	동사(promised)가	있으므로	and	앞에도	
+과거	시제	동사가	와야	합니다.	따라서	현재	시제	동사	apologizes가	아니라	
+과거	시제	동사	apologized가	와야	합니다.
+16	 단수	주어(the	most	common	complaint)	뒤에는	단수	동사를	써야	하므로	
+복수	동사(are)가	아닌	단수	동사	is가	와야	합니다.	주어와	동사	사이에	있는	
+수식어	거품(of	customers)은	동사의	수	결정에	아무런	영향을	주지	않습니다.
+공통 입문 중급 정규 실전
+14년 연속 베스트셀러 1위
+해커스토익 교재
+▲ 무료 혜택
+해커스 무료 학습자료 
+해커스 토익 총 27종 누적 출고량 기준(2007년~2018년 3월) 
+교보문고 종합 베스트셀러 토익/토플 분야 1위(2005~2018 연간 베스트셀러)
+해커스 토익 레벨별/점수대별 교재 추천 
+14년간 토익 교재 1,400만 부 돌파! 1등 해커스 교재로 ‘최단기 토익 졸업’ 현실이 됩니다.
+해커스 토익
+중급 리스닝
+해커스 토익
+700+ [LC+RC]
+해커스 토익
+기출 보카
+해커스 토익
+스타트 리딩
+해커스 토익
+스타트 리스닝
+해커스 토익
+중급 리딩
+문법&파트서
+그래머
+게이트웨이
+인터미디엇
+그래머
+게이트웨이
+베이직
+Light Version
+해커스
+그래머 스타트
+스타토익
+필수문법 공식
+Part 5&6
+해커스 토익
+Part 7
+집중공략 777
+해커스 토익
+실전 LC+RC
+해커스 토익
+리딩
+해커스 토익
+리스닝
+해커스 토익
+실전 1000제 1 리딩/리스닝
+(문제집+해설집)
+해커스 토익
+실전 1000제 2 리딩/리스닝
+(문제집+해설집)
+해커스 토익
+실전 1000제 3 리딩/리스닝
+(문제집+해설집)
+해커스인강
+가장 빠른 고득점이 가능한 토익스피킹 인강 1위 해커스인강
+네이버 카페 [토익캠프] 회원 대상 '가장 빠른 고득점이 가능한 토익스피킹 인강' 설문조사(2016.09.27/142명 참여)
+상담 및 문의전화
+해커스인강 02.537.5000
+HackersIngang.com
+첫토익 0원 프리패스 자세히 보기 ▶
+첫토익
+프리패스
+* 제세공과금 본인 부담,
+수강기간 내 성적표 제출 필수
+누구나 첫토익
+700점+ 달성!
+첫토익, 단 한 번으로
+끝낼 수 있습니다.
+스타트RC/LC or 700+(LC+RC)
+교재 무료제공!
+토익교재 0원
+출석하면
+100% 현금환급!
+토익수강료 0원
+목표점수 미달성 시,
+수강기간 100일 연장!
+수강기간 연장 0원
+* 환급 시 교재비 제외
+* 제세공과금 본인 부담, 수강기간 내 성적표 제출 필수
+* 수강기간 내 성적표 제출 필수
+토익 중급
+LC 원정의
+토익 기본
+LC 한나
+해커스 인강
+[인강] 첫토익 0원반
+[어학원] 입문반
